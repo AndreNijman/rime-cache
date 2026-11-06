@@ -1,0 +1,10 @@
+StorePath: /nix/store/37srkqqnx6lpkgp9ccgl6d11p3yy28yh-crate-tracing-futures-0.2.5.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1csa1lrq5mncszk5j9mc0b7y40l8lzncpx9znhylm7114qvq4vl1.nar.zst
+Compression: zstd
+FileHash: sha256:1csa1lrq5mncszk5j9mc0b7y40l8lzncpx9znhylm7114qvq4vl1
+FileSize: 1379
+NarHash: sha256:0m4fjbdvb56xxjmw6mlbfxsc1a19ivr4my1s0i271035wz2mrpnx
+NarSize: 3736
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:QShXADx2VAeO25Mnu4yNrv1f9Tj9gn5z3ysw+Ynn26tmCCHVGJX7nHVoqZdJ2tfhMf343tnIifYfid4vMbFJDw==
+CA: text:sha256:05a4rk8clky7j9na0yg3fpmd9fwv3hmbisl3zm62nlg53qhgi6p1

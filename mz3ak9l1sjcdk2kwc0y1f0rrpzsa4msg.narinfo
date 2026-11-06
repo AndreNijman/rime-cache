@@ -1,0 +1,10 @@
+StorePath: /nix/store/mz3ak9l1sjcdk2kwc0y1f0rrpzsa4msg-libmad-0.15.1b.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0d61a61zs3nvgp9vbrbcwxy3gny0dn4dpp4fkihwk60pn0qjirjw.nar.zst
+Compression: zstd
+FileHash: sha256:0d61a61zs3nvgp9vbrbcwxy3gny0dn4dpp4fkihwk60pn0qjirjw
+FileSize: 1398
+NarHash: sha256:02zzypnymm8qkplhz9303vk9fahkvi8c9izz0qa1hfgk3bp7dlaj
+NarSize: 3656
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:rFNBddtQaDSR+MwbMhoVlUQqgUW72LVxWYAHgJz3BFwLjOMVznVf7EjS50AEoV21B84YbeuiCWiDq0AkNdVeCA==
+CA: text:sha256:1a89yzz14h1y1zzizpggqsmbxhsfidyk65w65srrdd5ha76c1gw8

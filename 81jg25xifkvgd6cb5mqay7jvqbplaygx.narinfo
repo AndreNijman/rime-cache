@@ -1,0 +1,10 @@
+StorePath: /nix/store/81jg25xifkvgd6cb5mqay7jvqbplaygx-nerd-fonts-jetbrains-mono-3.5.1+2.304
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ksy2l6cs3qbz40ny3nkcjqpw64sz90fb5662imkivp5zk0xyzpr.nar.zst
+Compression: zstd
+FileHash: sha256:1ksy2l6cs3qbz40ny3nkcjqpw64sz90fb5662imkivp5zk0xyzpr
+FileSize: 27277655
+NarHash: sha256:1zl3w1qspkf69746x4s2vsk2ajz66v0xs8h7nxsl5fkwmc0cavqn
+NarSize: 243199128
+References: 
+Deriver: 4qnm5nxl083nipzjrayjvmm61hdgn92j-nerd-fonts-jetbrains-mono-3.5.1+2.304.drv
+Sig: rime-cache-1:ggMYcNz1qZEyPYfbijXJjmoWN7WIUq7EG+C+I71+c4M7zFke3TrqTkEctm8oB3RRubf/+05MCA5owfmxZB6pBw==

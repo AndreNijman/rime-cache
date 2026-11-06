@@ -1,0 +1,10 @@
+StorePath: /nix/store/03zfhkif857705q88kydy2ds9waz4ma3-sane-config
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/118rp23gs7qiy8hbqikg6yr1qmrh7mgpszmw2qasi33rhz84vapn.nar.zst
+Compression: zstd
+FileHash: sha256:118rp23gs7qiy8hbqikg6yr1qmrh7mgpszmw2qasi33rhz84vapn
+FileSize: 4752
+NarHash: sha256:1273a44iwzsln9fpdqd0pmm4s9z9mc1swd27vz1lsh80vkrazxhl
+NarSize: 135912
+References: 0n5z33aammwfvsf1j6k6wb2v2b4d5qrl-sane-airscan-0.99.38 lgirkqd1y5w0sbf9c0d4yslqawjx22sm-sane-backends-1.4.0
+Deriver: 6fy92gbwrb2xymdnp472yfz9w3s63zsm-sane-config.drv
+Sig: rime-cache-1:1uF64sBSZEp175RlS2UQF+S8wS3dadcYnyNANNgrs4kl/u0z8LasYif9ng+VB/x7cS5z1gMktraEYkdHyOiSAQ==

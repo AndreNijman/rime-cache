@@ -1,0 +1,10 @@
+StorePath: /nix/store/a5w4v6xv5wxj24p167c7viry91q6xm61-unit-script-suid-sgid-wrappers-start
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0027vvzpi7f7dqzr4qilhgnkpm9kh98iivncyf8pnaxmd744m3a7.nar.zst
+Compression: zstd
+FileHash: sha256:0027vvzpi7f7dqzr4qilhgnkpm9kh98iivncyf8pnaxmd744m3a7
+FileSize: 1610
+NarHash: sha256:0z8sryn2g9r99qyg00hir2kxp5n5j78x6zkybc1f5qhkmpny648j
+NarSize: 7360
+References: 3jlk3mdwl9k0l4si59gvl8jc2dahfqd4-security-wrapper-sudoedit-x86_64-unknown-linux-musl 52jfcpp45rk4vr24xblzdwys0f09vymv-security-wrapper-newuidmap-x86_64-unknown-linux-musl 61qsbs7wy5mrdmv0lk7jkdni213fjbn4-security-wrapper-su-x86_64-unknown-linux-musl 8fv22pd0qvdbfvhy1x8pxy4kdg82mq0z-security-wrapper-sg-x86_64-unknown-linux-musl 9kzwiqla56ajlzzmnf2lpqvq7q6643f5-security-wrapper-newgidmap-x86_64-unknown-linux-musl cn236319gdhxps81wy11fl4kgfqivlzs-security-wrapper-chsh-x86_64-unknown-linux-musl dsgnxdry36acyab4ry8w44563f5lkqy1-security-wrapper-qemu-bridge-helper-x86_64-unknown-linux-musl iykf7y3v2918cdxkrknb4cm98d372pyn-security-wrapper-unix_chkpwd-x86_64-unknown-linux-musl kvac72dkhs1w37fhd23swzzvqbynw57g-security-wrapper-sudo-x86_64-unknown-linux-musl lbn1rpbbj0l6c9z33ip4lmgsc14f6xy4-security-wrapper-gamemoded-x86_64-unknown-linux-musl my6xk8mlfd33yyamppw9v7v156xf6aqm-security-wrapper-fusermount3-x86_64-unknown-linux-musl nilzv85fs2wz8zs88pn4ysxxnb1pb7a7-security-wrapper-passwd-x86_64-unknown-linux-musl nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 rq92bqvpkh1gzcnvflfxp6yhc8wibzbh-security-wrapper-mount-x86_64-unknown-linux-musl rsknqnbj35hj30m4qj11n8vsfh6bh660-security-wrapper-newgrp-x86_64-unknown-linux-musl w0v5p37l7yhfgwb747s9kcfwfvmkf4pb-security-wrapper-pkexec-x86_64-unknown-linux-musl y1hqjmj23ld6phvarsj6jkn5gz6miy6k-libcap-2.78 ymhvq4i42a5ipvqqp96gpp7i9flirgdp-security-wrapper-gnome-keyring-daemon-x86_64-unknown-linux-musl zzqan3h7qr6pkf2b4jmm1whfr8fxhdk9-security-wrapper-umount-x86_64-unknown-linux-musl
+Deriver: dq964amliz38il8rg5jizkz52f18b0kd-unit-script-suid-sgid-wrappers-start.drv
+Sig: rime-cache-1:Codq9yzb4WRJtNiUIFUgZ8ky8k+d36PxhpriUbmCisCFTL+RKl5GyhbDMLPpachL+hf3IdcXmSRDWyk6RhvyCg==

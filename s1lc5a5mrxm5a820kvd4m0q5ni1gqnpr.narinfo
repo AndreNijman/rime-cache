@@ -1,0 +1,10 @@
+StorePath: /nix/store/s1lc5a5mrxm5a820kvd4m0q5ni1gqnpr-addressable-2.8.7.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/15cygrkl6g0gjd46dv0k9yabf225yy7j52l7rqnac2vd1kijggqw.nar.zst
+Compression: zstd
+FileHash: sha256:15cygrkl6g0gjd46dv0k9yabf225yy7j52l7rqnac2vd1kijggqw
+FileSize: 1405
+NarHash: sha256:0q28iydwln2wpgq722i1dy84jwlwrqk8qq2cg0fpz8rrwj9f3469
+NarSize: 3664
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:vu2ueW2vr1pwvJDIkB5nWQ4EcTyfuWuR7eTM4P8M6H8I2vYWJU/aLM7/aWpPVnh/HKQ6Dow5nfLblyUTVifJDw==
+CA: text:sha256:1924bph1vc07g477i2rf7bzwi1xxjqiwafx817773q3zaah9j2p9

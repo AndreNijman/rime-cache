@@ -1,0 +1,10 @@
+StorePath: /nix/store/54wvlwjwrn3z5zrjs0a6si532k5pcgnf-hdrhistogram_c-0.11.10.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/16cicy5bkc6w6m26yqzsfai1k9ny63a4hldanniffmc0agrjby0y.nar.zst
+Compression: zstd
+FileHash: sha256:16cicy5bkc6w6m26yqzsfai1k9ny63a4hldanniffmc0agrjby0y
+FileSize: 973
+NarHash: sha256:0fhsa6cv4fpdw197r93ja02ijzmq6xv48jvni68nc1f1zqq8w67w
+NarSize: 2280
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5ykdrdhb0akbdq2jxwnfrzs5gq6xdknx-no-avx2-i386.patch 651xajj3936gr55kmaywpni3f3qsnbpp-validate-pkg-config.drv c1awb1hv9hmnhri4jprnc533b3v3zhp1-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:wMe/LTvxUrLD6wGCPx2qOEtjJslRuB4f5Bb+NbK65D/JL14DvRz4cTEJm4m2PfyIXex6nmTQoHTIlW5YwzcqCg==
+CA: text:sha256:02vm971w97kjbc7fcdrcspxk1chz1agl069ydg7qqfsn64imj7zv

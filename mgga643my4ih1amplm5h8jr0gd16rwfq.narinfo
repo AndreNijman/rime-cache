@@ -1,0 +1,10 @@
+StorePath: /nix/store/mgga643my4ih1amplm5h8jr0gd16rwfq-rime-terminal-0.1.0
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1daxrlvqm0l8wqik1ndbw5b6cw8xd4pk3yv4w75gw9ri8srzqm4a.nar.zst
+Compression: zstd
+FileHash: sha256:1daxrlvqm0l8wqik1ndbw5b6cw8xd4pk3yv4w75gw9ri8srzqm4a
+FileSize: 11024
+NarHash: sha256:0blx49sllyw67qrp9gzsv7l7zkdai0lilxp4n364w12fyd8xx4c1
+NarSize: 40080
+References: 392yfp577i9kdm3dz6cq2h03a3n9gg8k-python3-3.14.8-env
+Deriver: d3di1wgp7fgdzzls11yf6xq4xm6x5wjc-rime-terminal-0.1.0.drv
+Sig: rime-cache-1:cFIpVPfoxfKtp6CQiSR0b2Uzc6Ujqz4SQ/qFIuVe12CSfc8qrhz1hCbK3uXX28swJV7xmh+K3Ra7eUKqMHb2BQ==

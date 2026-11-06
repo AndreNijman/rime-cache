@@ -1,0 +1,10 @@
+StorePath: /nix/store/vw9svxskm66mjzngq1m57ah55fydgh7q-fcitx5-with-addons-5.1.23
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/01wnb4ldsjpxvayn8a0v646v4x02lvm673503bvbymlfc7528dhz.nar.zst
+Compression: zstd
+FileHash: sha256:01wnb4ldsjpxvayn8a0v646v4x02lvm673503bvbymlfc7528dhz
+FileSize: 16174
+NarHash: sha256:1mhkwwkk3q0ic1s6gmmdfjm6apndqkrmhyyqraadhvbgznk1sq9a
+NarSize: 336976
+References: 025ngrbdz2j8c78p8k2330mc47b9iply-fcitx5-hangul-5.1.11 3kv3znfraij7d5q3krhla08c249ngfak-fcitx5-anthy-5.1.11 54miqkhcj9fk6b61fzwyk36ayxwl43m2-fcitx5-5.1.23 7a2cjhcgzyym5zaz6m4fksw47qvm150w-gcc-16.2.0-lib 86mg6gkjb2mbyyn19swbiv6ifhr3lxss-fcitx5-qt5-5.1.16 8jbggk8sh9fmss9lk9bk2zb59i4lh6zy-fcitx5-m17n-5.1.8 gqjmf36vpssi4vi94kq9bvw6yb585xw4-fcitx5-configtool-5.1.16 lahsd0zm6capqqxfx33l9s73yhlhdpn1-fcitx5-chinese-addons-5.1.14 n6zvn4ffgdq8xgr023sdhyd30zdcibhk-fcitx5-qt6-5.1.16 pqyiidz5mi73wv5f91d48s9plcqyj5bz-glibc-2.44-57 vk1sjjryqz8k7d6q4fw2hfbfn0lz6vpc-librsvg-2.62.3 vw9svxskm66mjzngq1m57ah55fydgh7q-fcitx5-with-addons-5.1.23 y2fza1fnfkj6zg6wfrxi80airxzv8y5l-fcitx5-gtk-5.1.7
+Deriver: 1d0mzm5zm1zmlywazpgdmnzbilp3vgml-fcitx5-with-addons-5.1.23.drv
+Sig: rime-cache-1:i3XgdtgWRRKWOSNeD2DrDS+Fs58J+BITM28JmDUW61kKI0KSHN+NyY57YfRmYgJgsvsJtSQDceKSNsUDMXK7DA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/c65dc9xiv5fs6nxg4jhh1k0fdnfz6vg9-yarn-install-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/000lpp3hw3lb6plq9n796hd16j832xz6zl9hx7p9l5f2flcr1sk8.nar.zst
+Compression: zstd
+FileHash: sha256:000lpp3hw3lb6plq9n796hd16j832xz6zl9hx7p9l5f2flcr1sk8
+FileSize: 1087
+NarHash: sha256:1l8ikmr80cb3bv3h91n11rdc4r107smk4cx2nb36klp1l0jkpcxn
+NarSize: 2688
+References: 2rkll8ncy5ldfv8zivk8ml6sga8zifgv-jq-1.8.2.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv gs65sp5mqb32kyfzbgizkk4fwvp841wh-nodejs-install-manuals.drv gsgzwqnczsad9gnvhdh3qbl8jghz1zdm-yarn-1.22.22.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh msgm527j6wwi2cg7r7cmv3fdlxiw4c2l-nodejs-install-executables.drv s0wipi4mcbv4zgay0063dy83wfvcnkwp-yarn-install-hook.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:7NYp6d+Xs6svmiiopEPNBa1VJASxnBNoa/VvoParfNbnS93IhGzVSOm8BNu/c/NmaBlht4hYw5HGJr0vimquDQ==
+CA: text:sha256:07rh2kpw33yns189plkz9p7i8g4inn75b0gv0ra6dg1lnc80miv6

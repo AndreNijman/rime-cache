@@ -1,0 +1,10 @@
+StorePath: /nix/store/yr5xlk3zh9d0wq85k2sq29wgcpk8ad0c-rime-ridge-files
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0f1z8pb7biqp7d3khylg9nk9xbxwypll4p0hq04h3ryiydpz2i6i.nar.zst
+Compression: zstd
+FileHash: sha256:0f1z8pb7biqp7d3khylg9nk9xbxwypll4p0hq04h3ryiydpz2i6i
+FileSize: 42820
+NarHash: sha256:1ilvgz7q105yhipfba78phr9n8fpgazzy7nc96q24mrbhwk8fdbv
+NarSize: 138960
+References: 
+Deriver: qr55c6r1lrw56h5bcavlgvw058m2h3z7-rime-ridge-files.drv
+Sig: rime-cache-1:zR53itSb2/4PuMQk+cy13RSEeuWIjxOZk3khW1/1YcnxOyUDBl+iuKVkihokEU/yb/VVJNE7w3BzIZCtnXF2Dw==

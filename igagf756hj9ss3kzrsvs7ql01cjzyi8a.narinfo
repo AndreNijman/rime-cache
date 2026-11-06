@@ -1,0 +1,10 @@
+StorePath: /nix/store/igagf756hj9ss3kzrsvs7ql01cjzyi8a-rime-hostlayer-0.1.0
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1q4y8vcqq9hcb20jii0q4348vb48i1j936q5pldb4p9i3ciy8i9c.nar.zst
+Compression: zstd
+FileHash: sha256:1q4y8vcqq9hcb20jii0q4348vb48i1j936q5pldb4p9i3ciy8i9c
+FileSize: 22575
+NarHash: sha256:1mvfi2vp6jv9hxymamji1yjmwyaf2vr3bzqk11fval5mjmam5a5a
+NarSize: 85632
+References: igagf756hj9ss3kzrsvs7ql01cjzyi8a-rime-hostlayer-0.1.0 xahxrjs30p3mw0a42bqg9ikgkikskw8m-python3-3.14.8
+Deriver: 1vhjvxk3gdjc3jh1mv0wxj8fc2wyfr8m-rime-hostlayer-0.1.0.drv
+Sig: rime-cache-1:rpy9WcRDU7cLojYqlYoDpQjEfSIt+mfqdxbkKZ1tOMK2bLBuPsyyN8nE+VtiekjvFapm/kc2ZqKC1lGE23xqAA==

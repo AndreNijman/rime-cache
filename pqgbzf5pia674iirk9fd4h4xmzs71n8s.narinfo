@@ -1,0 +1,10 @@
+StorePath: /nix/store/pqgbzf5pia674iirk9fd4h4xmzs71n8s-jbigkit-2.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/19dwv0ny8v4g5wzbsi66l9bxidk69prls1554bbzd5z7xsikidcb.nar.zst
+Compression: zstd
+FileHash: sha256:19dwv0ny8v4g5wzbsi66l9bxidk69prls1554bbzd5z7xsikidcb
+FileSize: 1649
+NarHash: sha256:1iyw4nnz5vg2gyhn0i8x9p1pj6dp46s35qdxd7gzg3lpjyrfi06b
+NarSize: 3872
+References: 1c6h2n06m0lfqs758jwd27vr316fallz-jbigkit-2.1-coverity.patch.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 33j49q51ng1ga5wn1p924k8wiwzihf0c-0015-jbg_newlen-check-for-end-of-file-within-MARKER_NEWLE.patch.drv 41hqg5b9r5pghjmig9x8hbd5v1pgvcfd-jbigkit-2.1.tar.gz.drv a5zdab21f6pw3ambz7jmyrvqqzdwhwrl-jbigkit-2.1-shared_lib.patch.drv g309jbkvg5p67i9327jrrpcml084749n-jbigkit-2.1-build_warnings.patch.drv hjzzl7y4qy90800c8zk92z9w07l37x2a-gcc-wrapper-16.2.0.drv krzz0znidbvk7mi32cigir69hxsmxi67-binutils-2.46.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wk5b9zdrh346xnv370x4lz6ci1zgkbwn-jbigkit-2.1-ldflags.patch.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xz2z0irpiqm64133x3y7nhzr8yznl0sg-0013-new-jbig.c-limit-s-maxmem-maximum-decoded-image-size.patch.drv
+Sig: rime-cache-1:sK7DQeImOpPBKBQdlfHvRjMu078LONxA92ZfdcmwupUuCco+uuHejW6I3OAfqgsdss2jXiW2r+iC0+REI4hWDg==
+CA: text:sha256:1409ina2f0jmnq4rfr02sizih5jb0ld4gqbz3r6b7jzgsd5m6vp5

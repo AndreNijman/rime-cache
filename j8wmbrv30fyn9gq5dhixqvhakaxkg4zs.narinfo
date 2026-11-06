@@ -1,0 +1,10 @@
+StorePath: /nix/store/j8wmbrv30fyn9gq5dhixqvhakaxkg4zs-libshout-2.4.6.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1nfr2l59a3w57m0487v4klx8dr3b98qvlsc7jxla6z3j5b5s2vgc.nar.zst
+Compression: zstd
+FileHash: sha256:1nfr2l59a3w57m0487v4klx8dr3b98qvlsc7jxla6z3j5b5s2vgc
+FileSize: 1405
+NarHash: sha256:1iacwjnmwslnah9hxbq2b5z37w0x1rgkm6vjcj5y2wh2zv4887az
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:eUuMTwGUSFEJR/EMZpk+vljvHS84hd1qxkF0nlBJn2bCuuQkcozw6JXlL4aS+fYKKxO6E8Wkv+mQ2FAggEAkAg==
+CA: text:sha256:1mvglh71vx55x95v0sjaqr5m033aykaf3q9f8jjvxznghxxyzi9n

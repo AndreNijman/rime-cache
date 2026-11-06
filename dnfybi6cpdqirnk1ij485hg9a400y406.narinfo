@@ -1,0 +1,10 @@
+StorePath: /nix/store/dnfybi6cpdqirnk1ij485hg9a400y406-unit-sshd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1qjinaqf7abg15p6nd9x76h47zq2qa48xhlx1nykm3qv7qmpya6f.nar.zst
+Compression: zstd
+FileHash: sha256:1qjinaqf7abg15p6nd9x76h47zq2qa48xhlx1nykm3qv7qmpya6f
+FileSize: 812
+NarHash: sha256:1vj149y5rlx77ndfc0yar637qswypya91v4m4r8myrillia1zfw7
+NarSize: 1840
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e fz8kdnv2bdyqcpxdqf79k85n14cagr1z-X-Restart-Triggers-sshd gksybc3b64irpkf84k30qphb44yjwqiw-openssh-10.6p1 v7bmkdih6dp2v092s1is66v88c7xqp78-nss-mdns-0.15.1
+Deriver: migijwm6ivfm86z02ls2gmapshj5bghl-unit-sshd.service.drv
+Sig: rime-cache-1:m/o39e3TPJ1TLOGJQaR/SfW9u4bXBxR67fyOUB73OR9GlfNJWUa8ErxfKYyqEiFb3csK+0vRB+5C0S/K7GipDw==

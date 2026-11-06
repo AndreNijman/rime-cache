@@ -1,0 +1,10 @@
+StorePath: /nix/store/m2xa7fgbrc7wpzqk74nhl4nzzaggnsd7-50-rime-keymap
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ysi7x0g38zmj4w1bw1lq4s7pw25xnph3mbkrr01cg8a0l4lhm5q.nar.zst
+Compression: zstd
+FileHash: sha256:1ysi7x0g38zmj4w1bw1lq4s7pw25xnph3mbkrr01cg8a0l4lhm5q
+FileSize: 334
+NarHash: sha256:15bbq173xvi2xidzxnp220pm1sc4hq9mq3w576jyi2yhhid9nib8
+NarSize: 496
+References: 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 b2rk31i6p01gfbnf7pmakz1b6cw1pbps-rime-keymap-env cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 kwyi4bq5s2qgwbhz6cs4gjy57c2zdxws-bash-interactive-5.3p20 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: 5s32pdfrfmdrxwmyp0xljrdal7hp9zf3-50-rime-keymap.drv
+Sig: rime-cache-1:eJ5okpH/VxNL0NapB9o7BrVIX2M3nFagXAip4/ViaWiU2UiUzVs0nG+haiH9gknp6J2K61FzDa2WhWyAb3a9DA==

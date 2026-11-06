@@ -1,0 +1,10 @@
+StorePath: /nix/store/r4sll8m931wap9d18drddi1dqakr2phm-python3.14-jaraco-collections-5.2.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0d67srf5y958jbpnasrli7qpzgqkkkq8w23wy1cqfj5g8w02444a.nar.zst
+Compression: zstd
+FileHash: sha256:0d67srf5y958jbpnasrli7qpzgqkkkq8w23wy1cqfj5g8w02444a
+FileSize: 2001
+NarHash: sha256:0daj1h9v2vb6jg8x5g4inpkl5xmrgmjbnxfjgxnpcx4yx8x77jmh
+NarSize: 5176
+References: 2i1795b07kafxvwch92kj0hfmjg37cr2-python-remove-tests-dir-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 44q2zajrz91agb167xifb5qchwi1q8z2-pypa-build-hook.sh.drv 5x76xgd4fqggv7ikx0985ayjh83azkqk-python-namespaces-hook.sh.drv 7zhs931h87ln2sknslmj1zv8jsc0mzm6-wrap-python-hook.drv 8h7xmhabwjbqbchnj8xgfjckh8r6mvjz-pypa-install-hook.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv k06sglvkhikc4w8kzx50l9lbwvr9604s-python-runtime-deps-check-hook.sh.drv kxws3pbi3sjl806nplw1j6apf9gjchk5-python-catch-conflicts-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh la3djpw0lrjmk9yjfwyyv22vxhmp79q1-jaraco_collections-5.2.1.tar.gz.drv mnhrps1293ppks5kpih2698302v1m8qg-python-imports-check-hook.sh.drv n5wbzab32ldrk3lkzqckzx5h81rqy1kb-python3.14-jaraco-text-4.3.0.drv pg0q0cza5icdxga3zm8idshhim4yaqi8-python3.14-setuptools-83.0.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv vsbr8pjjcsw3wgbvzkvng87xxhym1h45-python3.14-jaraco-classes-3.4.0.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv x4y3xbv4afklf043sjpl8jab9zlpq6kx-python3.14-setuptools-scm-10.2.1.drv xbjm8k1jcv08s7wn3saf9a9c9fdqmjja-python-metadata-check-hook.sh.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:JbDKTTw33PMM82BN/W35+3MFLTyN1HRGZT/sh42ncN0VpqKkZylvIj77oHnHywp8e+7uHS82Gw4ghjNdARzQAQ==
+CA: text:sha256:1rl3f6q51ikwnsln5kbg1vaysry0iiyhgzxzknfr08dxc0jgg75l

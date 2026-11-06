@@ -1,0 +1,10 @@
+StorePath: /nix/store/kr45yss6rbr6fr2408ppfzlzwnmv5nhr-nvidia-settings-615.78.08
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/17b530vl2kkli29jqnpwwl1l94ail90havj9dmwhxs1hr9v9b4jr.nar.zst
+Compression: zstd
+FileHash: sha256:17b530vl2kkli29jqnpwwl1l94ail90havj9dmwhxs1hr9v9b4jr
+FileSize: 820953
+NarHash: sha256:0c7b5bh1840rwqznrwp8lz93w6721k8kzqvnk03cj0fncyn4c4mg
+NarSize: 1781432
+References: 0c701ppqas1m3ldi0l7yzgbjqzc4i0xa-libxext-1.3.7 3jf4p2dcb16lvj1q6jc595qwn6gf8ppk-cairo-1.18.4 65khvcs7vbw9xgaydwlxizafgpvl7iga-gdk-pixbuf-2.44.8 8vz293r6dqfci9p6m955yziz2agxx990-wayland-1.26.0 cwaxgdj59phlv6hc6rfqfd7m3hdxvjly-gsettings-desktop-schemas-50.1 d6ygipmny4pw7h61b255yafbnvqjbmnx-libx11-1.8.14 ddqbzpn77xmi900rj1a7wy8b5lbwm4ay-glib-2.88.3 dz8k35v4n82v0fr0a9jqlmlp1prz5fwr-libxv-1.0.13 f071zdsvhigzjm4c4xk4chvpfmkl0cvd-at-spi2-core-2.60.6 hpj1833w18rih4aaaykq4s0r27jq7zlz-dconf-0.49.0-lib ki2kvwrf412v6dpvawn981qkljgkp6zz-pango-1.57.1 kr45yss6rbr6fr2408ppfzlzwnmv5nhr-nvidia-settings-615.78.08 pqyiidz5mi73wv5f91d48s9plcqyj5bz-glibc-2.44-57 qmdmm59hdnlzy41dpn5nwcd00654zaha-jansson-2.15.0 r6azrvmzvvmcx9k74crac9kpqirnr9qf-gtk+3-3.24.52 rn85i5gfri2zsalrvbcihqbb4g84sbsq-libxrandr-1.5.5 s54n8pfkbnw5g52y1ha9vpnnni4y7psr-libxxf86vm-1.1.7 vk1sjjryqz8k7d6q4fw2hfbfn0lz6vpc-librsvg-2.62.3 wny32h9l38jf8qw8rhhjfak9zbcgwkym-harfbuzz-14.5.1 wwfxbskbriy9w5cyabx4z2sdak6n6jvs-libglvnd-1.7.0 z07bq7br59qjr3ld6ckih94q5il57fbl-nvidia-x11-615.78.08-bin
+Deriver: 01azl8kla8j6yfrsxhflcfyqnsc3ca5a-nvidia-settings-615.78.08.drv
+Sig: rime-cache-1:IZzIRtOL1pMrI27thd72G8CyIG2DTwS6R9haVJJeyFuTk0Zb/9UeRo4dXd/T84LSgTEKwzQZbFfM7nMrkF+MCA==

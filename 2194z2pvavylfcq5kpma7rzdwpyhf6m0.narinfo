@@ -1,0 +1,10 @@
+StorePath: /nix/store/2194z2pvavylfcq5kpma7rzdwpyhf6m0-make-byte-order-checks-portable.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1rd3wkbjjk38kr7h4fw166lkpbdm2z57ljljsa4q71rvrhkxxc6q.nar.zst
+Compression: zstd
+FileHash: sha256:1rd3wkbjjk38kr7h4fw166lkpbdm2z57ljljsa4q71rvrhkxxc6q
+FileSize: 577
+NarHash: sha256:1dg3h3dzbcm491y58jx3idcz62vl561glmxz2qmaqq723pk1n9i3
+NarSize: 2176
+References: 
+Sig: rime-cache-1:/Sk8X6FAViUJmokCf82cojcmumyksmbjVPlX8h2TBVs7ikgCGGYgT3UR74dC6KlkcUmbwn8UHYv/m6PSudObCw==
+CA: fixed:r:sha256:1dg3h3dzbcm491y58jx3idcz62vl561glmxz2qmaqq723pk1n9i3

@@ -1,0 +1,10 @@
+StorePath: /nix/store/rrm70v4kdqriv3glgj1mh9v5sabsc3sd-unit-wayland-session-bindpid-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/101h58yiz9naf3wimpwcfbl49z4xgdjp6yp3zbyzz2pwsc7y3rn4.nar.zst
+Compression: zstd
+FileHash: sha256:101h58yiz9naf3wimpwcfbl49z4xgdjp6yp3zbyzz2pwsc7y3rn4
+FileSize: 332
+NarHash: sha256:0d0i9bpdkhxzd57l930rvd4b8sbdi9al334f9wlwvlmlfzzarvj0
+NarSize: 560
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: ilqwls78nbvg8bdy95h7n5vfdky1gfhi-unit-wayland-session-bindpid-.service.drv
+Sig: rime-cache-1:E0X3IXSv4tn1wTweLXg9j3MheCDfEncnOTUVDw7H7rZRyAF3+H9LlKpSQTD478RI5pko8YRyLbLaXv2iMS7nCg==

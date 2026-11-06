@@ -1,0 +1,10 @@
+StorePath: /nix/store/zgny4iqldfmpzlf3vx39gh2g22vrqnqr-source.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1hnasw6l44v4arn6al9ha7vqgj3k6x001d7jarmd9kfj6drk32sa.nar.zst
+Compression: zstd
+FileHash: sha256:1hnasw6l44v4arn6al9ha7vqgj3k6x001d7jarmd9kfj6drk32sa
+FileSize: 1788
+NarHash: sha256:00vkkyrb5wvg659s4jkrk4nsqxc34x7b16pwmfzsryrf80gdf27w
+NarSize: 4544
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:MI6WgQu35am0cgyxXd8epH9UX6oLe8onLelfi9QjOiekl08ofxrnsIpBROYDCnGOvECTCqs7wiZpDF/DpvlEAw==
+CA: text:sha256:0c1hzjz73p6x9cpkj9lrdzk74v451whlwbvhgj3r86c83spkzd1s

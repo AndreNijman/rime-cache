@@ -1,0 +1,10 @@
+StorePath: /nix/store/55r080l9j1z3pfbni5v7c7x8jw9zak3h-etc-sysctl.d-90-desktop-writeback.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/151irxnp137xvswplwr34q92qsrss3ira5smggmwbhp6dqpbhzr3.nar.zst
+Compression: zstd
+FileHash: sha256:151irxnp137xvswplwr34q92qsrss3ira5smggmwbhp6dqpbhzr3
+FileSize: 254
+NarHash: sha256:121ha8amhf9mqqw013p1c5333wjc8zbmdf8xisrp336kxyiqapnj
+NarSize: 352
+References: 
+Deriver: 0knc2c60d2a8gjw8n1siln49gg49pyip-etc-sysctl.d-90-desktop-writeback.conf.drv
+Sig: rime-cache-1:4qwkmf03jGHSajOP9OP1mAI7+2FfS3BQIVe0Z8hKvBsca5MqcBkTEhtb1E6UU7pcY1eM0JxZWzvQB38GRufSCw==

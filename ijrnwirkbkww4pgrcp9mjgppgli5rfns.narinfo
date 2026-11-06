@@ -1,0 +1,10 @@
+StorePath: /nix/store/ijrnwirkbkww4pgrcp9mjgppgli5rfns-X-Restart-Triggers-systemd-sysctl
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1akmjc7inayr6z72mx4l7ih51c2p7qdlwpm6d55kpjwzfzgn13lp.nar.zst
+Compression: zstd
+FileHash: sha256:1akmjc7inayr6z72mx4l7ih51c2p7qdlwpm6d55kpjwzfzgn13lp
+FileSize: 138
+NarHash: sha256:07nw1wdxbwcpim5vpcxl7mq2g8zkaxz1sw0sa147cwricf6jmn0w
+NarSize: 184
+References: scx0z9f808bkl2jmdc1g7qs456klawpc-etc-sysctl.d-60-nixos.conf
+Deriver: 35v6kyndcy0fh07mry8qlvxsra5iwgzi-X-Restart-Triggers-systemd-sysctl.drv
+Sig: rime-cache-1:nsHEI9B5n9CwVmMTXPNmPcpiljfo/NLehCvJVEDQZFXONVCuJyo+aimJp76tJeDBxEviaNYlVnyGooZzXK5HAQ==

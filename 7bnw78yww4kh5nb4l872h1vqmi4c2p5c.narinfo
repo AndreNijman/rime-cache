@@ -1,0 +1,10 @@
+StorePath: /nix/store/7bnw78yww4kh5nb4l872h1vqmi4c2p5c-rime-scx-1.1.4
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1xj7n6whv3gvs47gqbjfd9f0qhjzh0vsq5k9w781awipcy8n300x.nar.zst
+Compression: zstd
+FileHash: sha256:1xj7n6whv3gvs47gqbjfd9f0qhjzh0vsq5k9w781awipcy8n300x
+FileSize: 420
+NarHash: sha256:1002gl424j8c98vjxs5dvs2psfb2i2423w1zw8x5ny26irinkmf9
+NarSize: 5136
+References: dv9m3zrhxrvazq5adyqcckps17xmm6v4-scx_rustscheds-1.1.4
+Deriver: 04l7ddi9mhv78ppad6vaymhz35azg79q-rime-scx-1.1.4.drv
+Sig: rime-cache-1:QZViBpQOGZ0k+FLZhL1JjyYKOd/Gqe6Q/VDGzhqY5maPn/g74Z6EemQndQBa4VoTOkvWOw3MsnnmhVf88p7rAQ==

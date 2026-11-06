@@ -1,0 +1,10 @@
+StorePath: /nix/store/q5zjazhiaz0d11pjg3pmd9yc353yascy-libmysofa-1.3.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gislf8l5r01252xgw37w8d2fsn6b0lqgmg5150rdwiikry8bm4r.nar.zst
+Compression: zstd
+FileHash: sha256:1gislf8l5r01252xgw37w8d2fsn6b0lqgmg5150rdwiikry8bm4r
+FileSize: 1055
+NarHash: sha256:1maz2s7l549n4zym6xasn2w1ib84a45w14z4brrgagidhlzajfxz
+NarSize: 2424
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 7q7kyrc0acsxjz3mpfljwr6lfijwx2xs-CUnit-2.1-3.drv a7mzwdph5vkavini0lj77xph53qhgjlf-nodejs-24.21.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q23fpm1ifih6wnw2r98lr1dw8pphs0j3-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:VXb+dQ9dMw4mCDFBc8vWBW1PbIdCC89V5HUq9VvTaaxKuS7GKv9Z9zbneDUuLKzuCmaDbFPyD0BNaAR26FuxBQ==
+CA: text:sha256:0pda23dmpxvq48avjjgd1q5hysn6lmzy9q06mchmqb7xpmlpxjya

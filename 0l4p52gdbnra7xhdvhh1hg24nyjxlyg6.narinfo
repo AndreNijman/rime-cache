@@ -1,0 +1,10 @@
+StorePath: /nix/store/0l4p52gdbnra7xhdvhh1hg24nyjxlyg6-libelf-0.8.13.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1wy14d2cc6xfa7p6rg911xsv2xaiyxl1dfkqw98iszahxl0jzp7w.nar.zst
+Compression: zstd
+FileHash: sha256:1wy14d2cc6xfa7p6rg911xsv2xaiyxl1dfkqw98iszahxl0jzp7w
+FileSize: 961
+NarHash: sha256:1xigg3a1d4i13hlmsm3z8blcbzmw0nyxa68hva4kq15lfmpxrdfl
+NarSize: 2432
+References: 21qssx8jl5688qmn5qnyrihfw9fibqv5-preprocessor-warnings.patch 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv klwpqxm3cwh90ag0npljlifsdiqpxgjz-gettext-1.0.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh laq79hy1y0jm6bwsqpp0mwxfvwl909dq-fix-configure-main.patch lzmxj8jf7dsy73injx2q3x6j329fjlk2-dont-hardcode-ar.patch m56qy72ybs94x2bid65hhdgq02smaj65-libelf-0.8.13.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:HKK/SHdMwzBlG/5v2T01sZnvs14nqMCMB+3D3g3tDdMlKAzbEuLo+Aa7QhCOSKManI8eOHd1aOgkK2NTPkdaDg==
+CA: text:sha256:0zdjrn88dy047f888vahrp886djpjzxkgrscfxf4bbjpibkq9p34

@@ -1,0 +1,10 @@
+StorePath: /nix/store/3n5sw9rpmcmh26m80pcxbqkskq5f0mb8-zerofrom-derive-0.1.6.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1xpcigx1245cpfzgn9bsg3k7f1js0dc89x4lkcr7rjj6px787cvk.nar.zst
+Compression: zstd
+FileHash: sha256:1xpcigx1245cpfzgn9bsg3k7f1js0dc89x4lkcr7rjj6px787cvk
+FileSize: 907
+NarHash: sha256:196jrkdi5dnz11jb07vs7ds3radgs8hli0049cqr2ws07v64rqji
+NarSize: 2056
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rhj7ppf7z40bgy99rgahmx798r60g386-crate-zerofrom-derive-0.1.6.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:y5lxyf4EzkAsQvLOCUoaK8hdGEXBgHGs6gzsSUa+EaK26HYWsVFuFtAd3YJ31o5DT8CWGx4KZRncJe23DoXpDg==
+CA: text:sha256:01zpisxwyj25c2fmf8cn603f7jlxqz0gm4d5brrnalkdad1f03k5

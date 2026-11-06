@@ -1,0 +1,10 @@
+StorePath: /nix/store/l8ivg12z5s8j2vqcrjpac32ik5il2i16-networkx-3.6.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1i1zapbjvxsb6551f315mwcan9sdqbccjn5q9877sibkcr1gsc1x.nar.zst
+Compression: zstd
+FileHash: sha256:1i1zapbjvxsb6551f315mwcan9sdqbccjn5q9877sibkcr1gsc1x
+FileSize: 1392
+NarHash: sha256:12gqdsc5wfvdxvfni2kvs0qr7qq8mydc22n8hy4c94lkxixfhx1g
+NarSize: 3624
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:rFplcEZVTGNOPpHvNOF5u91IKAP8lUsmDeZZdAYdOu7ifn9vIT7NSd8zJel/87hjjQfIv0y8xU0msH+8WS3uAg==
+CA: text:sha256:0n4g86k5g7vbngzq7dksqxqw1ibl15knzlv2mii8krxsqw1q43ni

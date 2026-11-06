@@ -1,0 +1,10 @@
+StorePath: /nix/store/8rw3y0sxb0na1h1c98ygq54fpzv0qfzx-rime-session-safe-graphics
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0gqw0cakmp9rn4lb3lp2axg4x9bhwbm0xx2h9mqq2dn9gzjwvmif.nar.zst
+Compression: zstd
+FileHash: sha256:0gqw0cakmp9rn4lb3lp2axg4x9bhwbm0xx2h9mqq2dn9gzjwvmif
+FileSize: 265
+NarHash: sha256:14gv0byd3pxql4ch8sc5gah1ri1sig600mhr36rm9f2j1k8lsxd3
+NarSize: 344
+References: nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: 40wp8aqzjhkrrwci0ahx0qx5jlzm1dq3-rime-session-safe-graphics.drv
+Sig: rime-cache-1:JXuxfvJ82d0iPF5X5yNBACeeXrwNrJVxMDMkpNyVriBLs7Uu6Ji2LNnIT0P2jWbO+/RQC/fZjC8mtoTRlLlOCQ==

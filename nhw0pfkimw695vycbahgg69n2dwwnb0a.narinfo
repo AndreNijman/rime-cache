@@ -1,0 +1,10 @@
+StorePath: /nix/store/nhw0pfkimw695vycbahgg69n2dwwnb0a-unit-script-rime-features-start
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ji6y3zikjz53qrqqny5hdkqspgzs7c4djs42rff6amyqllgcdax.nar.zst
+Compression: zstd
+FileHash: sha256:0ji6y3zikjz53qrqqny5hdkqspgzs7c4djs42rff6amyqllgcdax
+FileSize: 364
+NarHash: sha256:0j948a636gprkwyab8krappvqywryz9klmy1lysq1snrwn3cpivm
+NarSize: 776
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: dr84hrli25rlbsscvkhqa8pdrwsni9ka-unit-script-rime-features-start.drv
+Sig: rime-cache-1:9kOvJGVtoeKWOC219xSOt4LufrYxMqPl+/Ru3lctoN8U0VVW1NCoM0oXYhdp2BK/95YdqDh3uIvoyx7VQbZkDg==

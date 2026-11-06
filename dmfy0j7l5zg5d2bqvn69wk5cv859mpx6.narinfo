@@ -1,0 +1,10 @@
+StorePath: /nix/store/dmfy0j7l5zg5d2bqvn69wk5cv859mpx6-wrap-qt6-apps-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/11y9knwxiyqaxg23i343ml491zmvlvddaqzs2mxipvwsa2kmjp3a.nar.zst
+Compression: zstd
+FileHash: sha256:11y9knwxiyqaxg23i343ml491zmvlvddaqzs2mxipvwsa2kmjp3a
+FileSize: 957
+NarHash: sha256:1wq6a0mjx6limr7rpciyiyanjsaa7nihzln3pbn4brclq8b54907
+NarSize: 2304
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rw4j30nd5f76366yr0vqrm1bfvp3s00c-qtbase-6.12.0-only-plugins-qml.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vg2yqik90dgl8dvyx73c07bi5pf9kz0r-make-binary-wrapper-hook.drv x3xchram49fh5gbcrn2p25khzds4r8ma-wrap-qt-apps-hook.sh
+Sig: rime-cache-1:fyVOrT8heAPrAT46XKlrHoNzlfwof90qyJKq9B8YTigHEuU1/G/up/OEw8M5RrfN+1nL4q07+XLu7Fv1U6HtCQ==
+CA: text:sha256:05s4r0i1kl832snksc74ngrh0n0s7plf8wwgxmfgawahixf2m3mx

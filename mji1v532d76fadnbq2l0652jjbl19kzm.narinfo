@@ -1,0 +1,10 @@
+StorePath: /nix/store/mji1v532d76fadnbq2l0652jjbl19kzm-procps-4.0.7-lore-override.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0c43k7cvqhcfipmcvvw8kg44fg63yr56nf13iyqv716k464knx69.nar.zst
+Compression: zstd
+FileHash: sha256:0c43k7cvqhcfipmcvvw8kg44fg63yr56nf13iyqv716k464knx69
+FileSize: 1046
+NarHash: sha256:0ilc0cbjv2i8qzqnrgbsqm5fzrfza4jqaldxp68dnf6b1i63f94w
+NarSize: 2632
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh pas0nxk4anj5g6iqwyqlgk4i2d9x6ccr-procps-4.0.7.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:x9lGkddHE05Ug2C0acrEZUUD0t1tQwtkEhUt76O74bWNIQUk/sGKZWb1oypB2Q1e59FfnV84m6yTdGTkanvHBQ==
+CA: text:sha256:11v0h9pnmjx82gpz6cv9bxzs6zbkshqk0d453zmzrkgn2bg7h0fa

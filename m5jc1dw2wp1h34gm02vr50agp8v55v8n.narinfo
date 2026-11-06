@@ -1,0 +1,10 @@
+StorePath: /nix/store/m5jc1dw2wp1h34gm02vr50agp8v55v8n-wayland-1.26.0.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0yyiccyk4ljbc6c5irzy51zris5f5vsii4g9b78jbp93jy3hlm37.nar.zst
+Compression: zstd
+FileHash: sha256:0yyiccyk4ljbc6c5irzy51zris5f5vsii4g9b78jbp93jy3hlm37
+FileSize: 1421
+NarHash: sha256:0xznp1ajbgj95vyz8c1drxws3zbcwvy9yh6fj9xjq5jl3b0b6rvd
+NarSize: 3672
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:sVLEiKpXfABVi0qVbwgiV5ikbMer7m0eYhwKS5j4rhARXqTYCGozDuMQB29lPROwNvwtH6IbRZ/qk1eItmLSCw==
+CA: text:sha256:1xsxq5yffh34lrnrn9fg0d8zpkgfg226ci5r2jmz61n6fxhspg7s

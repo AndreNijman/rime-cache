@@ -1,0 +1,10 @@
+StorePath: /nix/store/3xhk0r6dg9n3q2x2qwdxc2yx6kjl0268-xpad-noone-0-unstable-2024-01-10
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1b2hcyi8n4kjsis7j2fi4jzl4as6x3kxh0bpckra0gm36g28s504.nar.zst
+Compression: zstd
+FileHash: sha256:1b2hcyi8n4kjsis7j2fi4jzl4as6x3kxh0bpckra0gm36g28s504
+FileSize: 19664
+NarHash: sha256:0x50clxzibg29an99yqmh246q6z8w8baysm6q0rqkx38lkhvp6vz
+NarSize: 21056
+References: 
+Deriver: zg082w9ljz6nap6cf16m2jzaz0djq7l5-xpad-noone-0-unstable-2024-01-10.drv
+Sig: rime-cache-1:jT+3HawiwXUtXwPpQxmfoRQo5WK+8D/gnNDE96jJrBLxFBEs31gSox42jUECjY8WBcBTKY/NzgruQjmrFgwlBg==

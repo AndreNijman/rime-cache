@@ -1,0 +1,10 @@
+StorePath: /nix/store/2lk9b45ah7gf3hrffays7ac5zmqiqy46-crate-getrandom-0.3.4.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14pgw29rxflhra43jkqxflhfdn6049vmmdrxiygg1ml75jhh8kin.nar.zst
+Compression: zstd
+FileHash: sha256:14pgw29rxflhra43jkqxflhfdn6049vmmdrxiygg1ml75jhh8kin
+FileSize: 1372
+NarHash: sha256:0a0qbhirdd0llscd7zgwhvzirgcis2m72534il8109341sbwxhp5
+NarSize: 3712
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:iGBBm3AUWVjdTRyYHW3fLCBN9WKOqjux9T5HxAbPW9pduYwWVNeVvMGisvbojW4vCKtt13z0EkHQ8CerpGNQCA==
+CA: text:sha256:1j74q2ghkkc1ady1byvnccmjnc6r512igjrsc17qmv9iakjagwc2

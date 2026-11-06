@@ -1,0 +1,10 @@
+StorePath: /nix/store/cyjibx5ll2sqgrcnrz5krij9aly0w5sk-waker-fn-1.2.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/001n602s2hc9g7z156v4caz9ayycisk3hfrfss2114mjy1dwwzhj.nar.zst
+Compression: zstd
+FileHash: sha256:001n602s2hc9g7z156v4caz9ayycisk3hfrfss2114mjy1dwwzhj
+FileSize: 895
+NarHash: sha256:0qgi2lkasj0clabmsvbz08kn3b6hsvy1bbzcihlmnr4i4pqqn0m8
+NarSize: 2016
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 7minyjf2wff2fjc41hiwqkq69wnwimwf-crate-waker-fn-1.2.0.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:JW53uTU2LEh8KqEJSexFkICs4QhX5PPWX2H4JPpvYGNvmd2A5RI+VMGe/Kr9pLCZgBTVSB9Rr7Fya+3+ElvIDg==
+CA: text:sha256:14wjyd1d0v0jmmfb7ih21sc11dpyqar8bmgqy8zax78srv0mikkh

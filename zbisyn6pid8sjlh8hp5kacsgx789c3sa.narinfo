@@ -1,0 +1,10 @@
+StorePath: /nix/store/zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/04m1lsaw5jwhjagpv8byggs9qw76gv2hl5i5qz74q3vnmv8adcj0.nar.zst
+Compression: zstd
+FileHash: sha256:04m1lsaw5jwhjagpv8byggs9qw76gv2hl5i5qz74q3vnmv8adcj0
+FileSize: 2744
+NarHash: sha256:1g1rn94zpn8alk5rpxljcdzybiiyi91cm0hgaxmmbjxzklcliq6x
+NarSize: 7752
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4g15a356h85z80isfms1a0l8mvz8dzwp-profile-task.patch 6h9mymhjvyiky09myvcjr6i7bzmjsbak-expat-2.9.0.drv 8p5dpz5922mx9g6inlkrkan3i9hpgkfm-no-ldconfig.patch 9914bijg139hajpnv60z66b8sdv9ac3s-glibc-2.44-57.drv aly2szs205bdkap1r3n1l5kwqazlf75k-re_match_index.patch.drv b5z3vgrkhb9cs6jayfpigf81skwn503c-atomic_pyc.patch bg8qvdrd5jlmdwkl7mqr9lkfbnz67w00-20ea5b46aaf1e7bdf9d6905ba8bece2cc73b05b0.patch.drv cfk04ans56xql9l6waqhqzzd60g9rzxi-search-path.patch dfyfzha1vnab8kfnxi99v9ikfdfnpm7k-deterministic-build.patch dxscwf37hgq0xafs54h0c8xx47vg6d5g-nix-store-mtime.patch gx4pa1m75g8rrrggj7gi3bg38m4lg3q5-sitecustomize.py hxv5hf508yz5ivx0l70ah5451py3ai18-no-win64-workaround.patch jc9i6jdzyr1klvc3bz9hbvradwig8q3j-python-setup-hook.sh.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh l8f63avwphbidy8mmzx5f0n0lgfi3qh0-source.drv lvls9vr5djdh73ivxzlvvh0b0vhikmr3-db-5.3.28.drv ngvvbj292ayav0bjwalcnf5lfa1gc4kx-find_library-gcc10.patch shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv wf096bzvryjnhbb6vi68m4h3qj00954v-libffi-3.8.0.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:lGqyoaUE3Twoxq0qKyZcf0s73dJTEmIvL3AM5u0zZ79kOfUSdGncd5EoaZm2T/g1wmU47FbJgBqJxHVy0g5qDQ==
+CA: text:sha256:0dpk2n75vylk6sscljrwjmb5aqhmngxka7b8pv4x86660rc1wlmj

@@ -1,0 +1,10 @@
+StorePath: /nix/store/1ji8qy13mq1fchxkzzzk1a06j2a3cknx-litemap-0.8.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/02irspxd9dfi6zc3y1685kjbnqswdssszdgni4bkhis8s69nl45s.nar.zst
+Compression: zstd
+FileHash: sha256:02irspxd9dfi6zc3y1685kjbnqswdssszdgni4bkhis8s69nl45s
+FileSize: 892
+NarHash: sha256:0xvd25aqrqq3nxvhhq5dlm48xcqlj7y4diyv62pj4gb293vlgc9n
+NarSize: 2016
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l223rd6lxj8lpflrf3bkm8654w2ml0js-crate-litemap-0.8.1.tar.gz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:vW1wL+CgKEqm2Rd5hG5WMBRELt5lZFkS5q2Dll4Y8yvk3o7mktVms2ak8x6Y/7qw42H4GjzOX6LvqRrM1zCKBw==
+CA: text:sha256:1i82d8whww2abmzqaqw74458wp6aq3saigfdiyh7sy3r17x7l0ng

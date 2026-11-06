@@ -1,0 +1,10 @@
+StorePath: /nix/store/yjixk34nsh15z3ffxdvj84xkvsybfa0y-msi-ec-kmods-0-unstable-rime-d7fbbd88
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gv65hkakl6b4f5dgz1g1snb556v77mdx00sifypk7v3mlypp2in.nar.zst
+Compression: zstd
+FileHash: sha256:1gv65hkakl6b4f5dgz1g1snb556v77mdx00sifypk7v3mlypp2in
+FileSize: 18789
+NarHash: sha256:08gnv3g5816y63z7g0sbr8dsfa4cvlp5dakq6hccd1yh75ac3nkl
+NarSize: 19816
+References: 
+Deriver: dpbqjsy1a54x56yfflwj6a2qaslkac9k-msi-ec-kmods-0-unstable-rime-d7fbbd88.drv
+Sig: rime-cache-1:NjpKhggvSeATM3zJoeUu6aUajT+lx4dF33xKpDd3kVWX3LCxUN05HckD1fEJvSoNLR7tnl8SrDGGzJXKWGF2Aw==

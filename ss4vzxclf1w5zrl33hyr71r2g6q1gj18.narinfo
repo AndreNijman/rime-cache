@@ -1,0 +1,10 @@
+StorePath: /nix/store/ss4vzxclf1w5zrl33hyr71r2g6q1gj18-asciidoctor-pdf-2.3.24.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gjnn1qzcyrnj44qrr9d43qhwzwvs2v11q28q95bd87pc0pcgy56.nar.zst
+Compression: zstd
+FileHash: sha256:1gjnn1qzcyrnj44qrr9d43qhwzwvs2v11q28q95bd87pc0pcgy56
+FileSize: 1408
+NarHash: sha256:0dcazh8gh71w0x6lws1y3l6h5k82c2ksnlbwxc86l2p7gv0r8ixg
+NarSize: 3680
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:TgW7Q0a8+J5PhDXwUai5LCwcVqFXzmnpofeWKJmtqlKEfFf1Ie4CKSR+5BhD17MNh33pNdOSbNFyuf9otcYrDw==
+CA: text:sha256:0g22ay9bqxvad03qflh5kfdlxx4ql2jrqm6r3y8ff70dypyq7ly2

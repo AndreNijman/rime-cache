@@ -1,0 +1,10 @@
+StorePath: /nix/store/dz1bds49qi5x9w59a9s9skgyzkmji577-perl5.42.3-Pod-Coverage-0.23.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1cdswx1q4d61aij7m1p5qw62kggf7hxb50rl4biqyf20152hmy2c.nar.zst
+Compression: zstd
+FileHash: sha256:1cdswx1q4d61aij7m1p5qw62kggf7hxb50rl4biqyf20152hmy2c
+FileSize: 1076
+NarHash: sha256:0bdvings65cxhqga0ccgwn8izvyz5xw3w32xcxzm3wfbza49kynf
+NarSize: 2680
+References: 119w10l5ic8izi6igxqpq0wdmccs9mbc-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jc0zr2vcgc0kf15vn5sb51iggk47z0ix-Pod-Coverage-0.23.tar.gz.drv k51fpzfg5m5wlfil5nvz3695bz2gv7ip-perl5.42.3-Pod-Parser-1.66.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lybhpb79m0gs167lfq4a6h57gcsd7rzf-perl5.42.3-Devel-Symdump-2.18.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:8LEHTiQqU5wFMwqur9JCrie8/uIEy5C58WCxiXoFGmy4ef4G6mQCklGnLp87r4y1beVTZyGOhbWlztL+e+adDw==
+CA: text:sha256:19mpga7fjxpb777mb5mx7rsq5r1lciwjmrwqdl9v1ms8qz34xyy6

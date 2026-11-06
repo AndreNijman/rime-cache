@@ -1,0 +1,10 @@
+StorePath: /nix/store/ngi4c9v4hw2ix4jxkjhicvd2lgpqrf4n-40_suse_03-gcc9-fix-wrestrict.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1j31ar9yaadh8kc0zfiskx62dbl757gnzrcz02fzb7gkcjahxc65.nar.zst
+Compression: zstd
+FileHash: sha256:1j31ar9yaadh8kc0zfiskx62dbl757gnzrcz02fzb7gkcjahxc65
+FileSize: 1443
+NarHash: sha256:0yr2m040k8c51i6bjnjdaapwqsc978hjgwkp7hm59bn55fa26b77
+NarSize: 3784
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:vgtO7x2J8wdNxYoLrFATUUMSqWgO8NngbTO8KJlcMCQ5dpLEpdSKkQCzJTd0jG0I8ElfJX+Oo57LFGukXHwyAA==
+CA: text:sha256:08fkinbrqaa2nf98l6rgnf3bmdk3ih0m8falycyb7hgjnw2m4610

@@ -1,0 +1,10 @@
+StorePath: /nix/store/vkryrsbiz4j00fjzfh91fqpxc3fwp2wk-spidermonkey-140.16.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1qxwcgjxp8fm13a1wz2nb401vy89kvdv54jkmksqlrr71lpmcg3i.nar.zst
+Compression: zstd
+FileHash: sha256:1qxwcgjxp8fm13a1wz2nb401vy89kvdv54jkmksqlrr71lpmcg3i
+FileSize: 2483
+NarHash: sha256:1c84svl0mdn1l17kwdifhwvch6y03gq40sx7928xs8jnc85zg2hj
+NarSize: 5752
+References: 1wlq7f27hfii89rnf652xyxxagzc3mpz-rustc-wrapper-1.99.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3v238khingccmb5nsndd35sv17k2dxqk-allow-system-s-nspr-and-icu-on-bootstrapped-sysroot-128.patch 3y1j0l1isry8zr5jmiywini4jm183wzv-zip-3.0.drv 45ial5wyx19y9hbfz1asqbzyx1vq4gdz-cargo-1.99.0.drv 6qyy14svbp2vcw1hnswchghbl5iyj3m9-python3-3.13.16.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv a5brf1j052pj4lw4kbr123wi90q9jyyz-always-check-for-pkg-config-128.patch b23r0g4a39g5mzcfq3i9qhzk8f8i99i4-nspr-4.40.drv bcr3xmcmiq2fqs9z084b83cq7wnn9m5c-which-2.25.drv brri4pkk33546ciq3cdybin8jh2lw5f2-rust-bindgen-hook.drv dsfcvwzwxbgc2zdwcg8qmkmvlr9a9jyf-rust-cbindgen-0.29.4.drv hjzzl7y4qy90800c8zk92z9w07l37x2a-gcc-wrapper-16.2.0.drv ib05kzzpwqd9mgfvfy85psvs2k20f26z-gnum4-1.4.21.drv ilibjg9gxb1n6xh43q8mgx1a8irfbnnp-llvm-21.1.8.drv km3bvnsyiaivwivckjf13a5x59xqdy4v-readline-8.3p3.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vls9hcwb8xwmf3z02drb79n39xydzjgi-icu4c-77.1.drv vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv x7d102zzw7n7scxbvvb16mn2d4999g9x-9aa8b4b051dd539e0fbd5e08040870b3c712a846.patch.drv xb7r7ksfdra7lxs0g931xf8ywkm6ifn8-firefox-140.16.0esr.source.tar.xz.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:vRtpnKFs6Qk1vjfigfYwBIDdvZKVPG2xwlUL3m7ptI/TniJmg2BGO6Wbl5GWREJubG165uC3Q7iScm2Q+XEtCw==
+CA: text:sha256:1jc0qk3x9gxmlga5igrv8cdfwm1201c3cc6qbsv5aq1lidrkm3rg

@@ -1,0 +1,10 @@
+StorePath: /nix/store/azd76ik0az8wqiwgzahyb4hiycy7jly5-X-Restart-Triggers-NetworkManager
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1azl74w9flcji0imjd9bs7zss57w57z8s1jijxgyql9f0gjm8hy3.nar.zst
+Compression: zstd
+FileHash: sha256:1azl74w9flcji0imjd9bs7zss57w57z8s1jijxgyql9f0gjm8hy3
+FileSize: 133
+NarHash: sha256:085842l1k4959cha3j8qcasvxbcxfri246n710kld7a9wp01856s
+NarSize: 176
+References: mya06gckzzbnx0pbdhxrjbrpwv2j9qxg-NetworkManager.conf
+Deriver: kdffhvg710vkbzanywwy57k6gnka24pp-X-Restart-Triggers-NetworkManager.drv
+Sig: rime-cache-1:jpKsIKeSOolMJHefAbXY0V97YZLN2t/e8cdhFcB80sfhnv1iRTC6xK4/RzwqD/OT3ns/EKjByciz8wPNQRPBDw==

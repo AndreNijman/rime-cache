@@ -1,0 +1,10 @@
+StorePath: /nix/store/5wsvqqbwh07rf2349ap4mf9456aa63ad-mtdev-1.1.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0lxfybkql673y5mwjih01is9c2llcwlqbvvri03v8szdzvgf88bv.nar.zst
+Compression: zstd
+FileHash: sha256:0lxfybkql673y5mwjih01is9c2llcwlqbvvri03v8szdzvgf88bv
+FileSize: 700
+NarHash: sha256:0z647bfz3lfmwwgqs0fvbg8n5acdl9p95z8bhqd2xymcdh3v29zx
+NarSize: 1680
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv i6cxj4rq8xyiwhivcpp79hbgfj2p4w2b-mtdev-1.1.7.tar.bz2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:kfes7cIFdbAXC+JYQ6g9ci/vdbq+EycKVtcY78GVkd09a6V0rOQSrTdE9jtEE1aN+EqWzoIG7DMiKTcUH79sCw==
+CA: text:sha256:0x6213rmfimlz1wkr4bxvc8s2975m58asfrk8hm8vw6pfsplibrk

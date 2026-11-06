@@ -1,0 +1,10 @@
+StorePath: /nix/store/x1ysl3xrk6nbq61nz96p4yw8aix23nky-mustache-1.1.1.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0aq4ilcy48g90v9iqha5d52qxzl2lfqy0d7qk40a7rd08vd0l7y7.nar.zst
+Compression: zstd
+FileHash: sha256:0aq4ilcy48g90v9iqha5d52qxzl2lfqy0d7qk40a7rd08vd0l7y7
+FileSize: 1396
+NarHash: sha256:18ggcam22a0kka1851hl5v3n6shypk32rj3mppa4b8d6fzx7z3i3
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:7OdwnrUTc+iTEJSyA5aK6xGMogBxy4T9lFKiuZ3/IHApFRV48p/IqSICEfvgFFYRwaOi/a5X3yA+b4N1K+ikAQ==
+CA: text:sha256:1d8ailpgbpfjwd0m2axaqqyjblqj7yhj16qqizzv8caplpcvr4im

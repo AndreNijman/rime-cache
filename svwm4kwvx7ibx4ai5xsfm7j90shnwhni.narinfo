@@ -1,0 +1,10 @@
+StorePath: /nix/store/svwm4kwvx7ibx4ai5xsfm7j90shnwhni-unit-script-cups-pre-start
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0rc624ifvf6rskcncmqzyndrmq4v0irjb5mwxqv2rawhnk18j970.nar.zst
+Compression: zstd
+FileHash: sha256:0rc624ifvf6rskcncmqzyndrmq4v0irjb5mwxqv2rawhnk18j970
+FileSize: 741
+NarHash: sha256:0h38ks6fqili1cwdwfxc4s01s5g2dw1wrxahdgjcj0jh3krx6x5b
+NarSize: 1792
+References: 5q342zn8yz8qcjgd0j4b5mqdp1gjybb5-cups-progs bcf63x69a12ydv52y4cqxz3s4nha5am8-cups-progs js42jalfhmr3jhg4p4520daavac7kky8-gutenprint-5.3.5 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: bad94f80xb2zgiig6lr1x09nwxib9a7x-unit-script-cups-pre-start.drv
+Sig: rime-cache-1:dLVreWSI+4yEGK9umUc3PViIAMQwODGNB0wol3Nx+a3u8oS3uAGAf6LVkiXrLMixf73orxAqMPB8i1L7gVQSCg==

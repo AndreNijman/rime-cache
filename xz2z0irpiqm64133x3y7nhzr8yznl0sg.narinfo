@@ -1,0 +1,10 @@
+StorePath: /nix/store/xz2z0irpiqm64133x3y7nhzr8yznl0sg-0013-new-jbig.c-limit-s-maxmem-maximum-decoded-image-size.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/05xv8x5q7pgs604nilcdrsiz1znp9yf3qhdcb898f1ac9jvpcv4y.nar.zst
+Compression: zstd
+FileHash: sha256:05xv8x5q7pgs604nilcdrsiz1znp9yf3qhdcb898f1ac9jvpcv4y
+FileSize: 2019
+NarHash: sha256:1kr3wkwprhxh644bdq53wnb062d6f12ncfb6xrhg5a9h7hra162r
+NarSize: 5432
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh yqikd9hjkm5j1a2zzmhifj09b8yk6sd1-patchutils-0.3.3.drv
+Sig: rime-cache-1:2vGjO5IXoW7GC+BcBn+XJZW+11tLlDcg95xVpJt+PJ15LsnR3n6Gpj3qFAL8V+zNu1NWbDhq0S17ukeRdVE+Bw==
+CA: text:sha256:0m6qyv4gw4ny1s9lr19kg1j0idb156p3hbyk2mdgzvrrda85npi7

@@ -1,0 +1,10 @@
+StorePath: /nix/store/3gijd7x9lng4zdlgqq02bb3s5h33f9qm-crate-tinystr-0.8.2.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1qampnqk4gc20925nji4zbyyycig38fbp64bqch44h68rwa2dwba.nar.zst
+Compression: zstd
+FileHash: sha256:1qampnqk4gc20925nji4zbyyycig38fbp64bqch44h68rwa2dwba
+FileSize: 1370
+NarHash: sha256:1qrdk1i6pw7lkpmr0g5pn4knz4ad5rx2kxxf71vrfm3pmpfyi90m
+NarSize: 3704
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:WlcYOcKrreIAocsTyTVsyFGDpb45l/q5pBGgmUNWGE1BoXIi9F9P3uoXBVheBYIn+BuFgT6WqKgypt3ObBmIDA==
+CA: text:sha256:0xlxr87clsr0aavqrshdpihbbz489mmwi8pq0qp150c7kbf2f4wy

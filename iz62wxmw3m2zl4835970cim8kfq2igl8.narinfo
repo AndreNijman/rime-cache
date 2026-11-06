@@ -1,0 +1,10 @@
+StorePath: /nix/store/iz62wxmw3m2zl4835970cim8kfq2igl8-serd-0.32.10.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0yyca2imgs86vn7825z7xmlgxjv47anw2vy2081jzj5nsam8imai.nar.zst
+Compression: zstd
+FileHash: sha256:0yyca2imgs86vn7825z7xmlgxjv47anw2vy2081jzj5nsam8imai
+FileSize: 1324
+NarHash: sha256:1a1hq9wsf36paglrxrgwl9qmvsc2ifddq8c33ys958263in1ikia
+NarSize: 3272
+References: 0gj323w0rx04j3y97rk127kqrargl5i9-python3.14-sphinx-9.1.0.drv 1xxny6zg61fzqz506drpa6z8c2mc1fi6-serd-0.32.10.tar.xz.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv l0sdvmfkwwxbrz5b3j14i62si0zcx0pg-doxygen-1.17.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh n7fmcwa4fjc5bjnq6f6hd038r0dfmsh4-mandoc-1.14.6.drv s1v4idv16mmn5gqhh4vm1rcb9sqmy57d-sphinxygen-1.0.12.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:pObV0oxwLvrZKSVJfOKO0Eo7r60JX05OtfHdvlvtXrv9aaC3DEOvxEsxQ3+lUJhPByZmoijRJdWxv0niU6kVAA==
+CA: text:sha256:101p605yjk6wlcxml959ybmgmi5rzdxgcs4s30npfgay4alzy8y6

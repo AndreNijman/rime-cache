@@ -1,0 +1,10 @@
+StorePath: /nix/store/msgm527j6wwi2cg7r7cmv3fdlxiw4c2l-nodejs-install-executables.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1khna5qbar9v4cjid0hc2hqa1y5r60b6r6fgcsmj3zb13rs4h1sz.nar.zst
+Compression: zstd
+FileHash: sha256:1khna5qbar9v4cjid0hc2hqa1y5r60b6r6fgcsmj3zb13rs4h1sz
+FileSize: 1109
+NarHash: sha256:0gbyvfc1kiadzs0fnjarl4ql5s8jgdd2a5jwxjiq6cln8a5hn33i
+NarSize: 2720
+References: 2rkll8ncy5ldfv8zivk8ml6sga8zifgv-jq-1.8.2.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv a7mzwdph5vkavini0lj77xph53qhgjlf-nodejs-24.21.0.drv d7scrcj30jyvwckks49wm2xxjmiwyvg4-hook.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l0hs6fl6j4d4lxihapy1rdp7ih3bmzrh-install-shell-files.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv
+Sig: rime-cache-1:2gB1YSNbsptA/mdE4sQ/olENKutcHxJgp4foIP8igs2dJdLobe6Yr+Uro681TPvp6vMczBxbDh400N8TxFLvDg==
+CA: text:sha256:1s2r3ki7yrv5vhbl1h17z8ac10h5157m1hxywanvfhsp3bv390if

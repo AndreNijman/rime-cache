@@ -1,0 +1,10 @@
+StorePath: /nix/store/y8ywbaxahybkdls9g3xyqzdcdvysdr57-gtk3-immodule.cache
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/041y3nhicihahhliggxln6lf0ilarf0hjcjn1lkz67c0w455d4c2.nar.zst
+Compression: zstd
+FileHash: sha256:041y3nhicihahhliggxln6lf0ilarf0hjcjn1lkz67c0w455d4c2
+FileSize: 812
+NarHash: sha256:1a68592y33ba8i34bjvb07vyjwc433wgy7xjb2h4dih4b61q1s2m
+NarSize: 4776
+References: r6azrvmzvvmcx9k74crac9kpqirnr9qf-gtk+3-3.24.52 vw9svxskm66mjzngq1m57ah55fydgh7q-fcitx5-with-addons-5.1.23 y2fza1fnfkj6zg6wfrxi80airxzv8y5l-fcitx5-gtk-5.1.7
+Deriver: xhjh9qsicybbz4c3x22dxnl8l3lnfyzc-gtk3-immodule.cache.drv
+Sig: rime-cache-1:nzhxIJDG0jm9Q4mM+FCZMu6qgmBPRrhqy/OIO293XBZeqTFeevJDldpxfQMLwMIxElWyTfdSmg1aV3d3x3OKBQ==

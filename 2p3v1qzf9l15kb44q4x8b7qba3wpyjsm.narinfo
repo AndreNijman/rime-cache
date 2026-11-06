@@ -1,0 +1,10 @@
+StorePath: /nix/store/2p3v1qzf9l15kb44q4x8b7qba3wpyjsm-sqliteodbc-0.99991.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bm72skfn67zhfyb4qvj3cbbllk9k4mjgdqp51yvglymdqq7z0af.nar.zst
+Compression: zstd
+FileHash: sha256:0bm72skfn67zhfyb4qvj3cbbllk9k4mjgdqp51yvglymdqq7z0af
+FileSize: 1400
+NarHash: sha256:0s5wfs9mljv0d745pj8pkg85b56qwad28zdrm6r4w6kws3b0yk71
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:d3EbpC99sifaNjBB3nLz5cFPSPYllgN/KJOhy9jOjdAHVe1fWuWUAbMVSA9nvChOSPmazitGsk+Gkh2/caDOBQ==
+CA: text:sha256:1mxdhdic070nkhra6vivdw7hxwnywblpcpm0c1gykyd0kp2mrxdq

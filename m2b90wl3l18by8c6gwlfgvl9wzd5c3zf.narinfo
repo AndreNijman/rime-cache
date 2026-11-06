@@ -1,0 +1,10 @@
+StorePath: /nix/store/m2b90wl3l18by8c6gwlfgvl9wzd5c3zf-ruby3.4-prawn-2.4.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/1407663qszzwgh22cdca8vdzx3n9w77f5bizb5gi9cddmsvl2006.nar.zst
+Compression: zstd
+FileHash: sha256:1407663qszzwgh22cdca8vdzx3n9w77f5bizb5gi9cddmsvl2006
+FileSize: 2606
+NarHash: sha256:0z365skvs9g3dhpwbxvvfnwzli6z495ij7fq9man84d81napyhqs
+NarSize: 6400
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4bbikffd88wn97hf9adwhs9jmc3mim0v-ruby3.4-pdf-core-0.9.0.drv bkkfjzk5y01nk6hni0760ylds2djgxjk-ruby3.4-ttfunk-1.7.0.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xz0dphmg3xr2h77g1rb03va38h128qzg-prawn-2.4.0.gem.drv
+Sig: rime-cache-1:pA70VSiEABUTwT3RpoVFtdTLYJrqT4egz/yIGKlB8TtF/GkWdnOtSWpQas0+dGhbcXFP3spL4wdiP82F4f3wAQ==
+CA: text:sha256:071q8c8jcajfj3mrmn5zxaa41gz4r1ymrv7pz2fpq17mdhfpqchr

@@ -1,0 +1,10 @@
+StorePath: /nix/store/m45xqpmipia7fyvl6wh9h0wfqbpl8gwl-crate-wit-bindgen-0.46.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/11188il7mgq586fg53w0r80mlhcwdncjhm2nss9zwjngf7dhnp59.nar.zst
+Compression: zstd
+FileHash: sha256:11188il7mgq586fg53w0r80mlhcwdncjhm2nss9zwjngf7dhnp59
+FileSize: 1375
+NarHash: sha256:16ah21n04m5w8i93jcffxlrvpws5si68iyqzm93javpfmdxhaa7v
+NarSize: 3728
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:NKNKsvKaiNRtZSBHTvLQVBBtabcdd1hcv7alWnrnBCjMYZBsd0hyvC+H0uu7xSkGOYWQGbJL5942YFzJ3Ij0Cw==
+CA: text:sha256:1cl3xnfkkzq0bk7yjjqdccb24b0b55b4jc6adlgpryjkpzkm1lms

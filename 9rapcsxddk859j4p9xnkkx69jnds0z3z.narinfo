@@ -1,0 +1,10 @@
+StorePath: /nix/store/9rapcsxddk859j4p9xnkkx69jnds0z3z-xkeyboard-config-2.48.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1zv86736g1v4lbc0qwg01453mf39992rlx1ckpb4jd2cgvlmm2jx.nar.zst
+Compression: zstd
+FileHash: sha256:1zv86736g1v4lbc0qwg01453mf39992rlx1ckpb4jd2cgvlmm2jx
+FileSize: 1295
+NarHash: sha256:1nd7ab1sib92qfjv4dj8dn6528a9kgyk8qdvaqrgw50dm0s10ggv
+NarSize: 2912
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv klwpqxm3cwh90ag0npljlifsdiqpxgjz-gettext-1.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r7kprripy15xzxz5hpc61gl89zaflkn3-libxslt-1.1.45.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv zd91rgbg4zskgwbcsgmr82k2680sgs6m-xkeyboard-config-2.48.tar.xz.drv
+Sig: rime-cache-1:b4BRvli9eVTUzboChMBLTjLcYgomLaqQVqFft5iEchsoLfhF5au97Ktv7h12G0i8BJ5cKpmuG+J6NYC97wPnDg==
+CA: text:sha256:1gzbdxslb1m0m63wfyzkkxkp3d2wgibdwbpxz3nw1crc7an0xg3q

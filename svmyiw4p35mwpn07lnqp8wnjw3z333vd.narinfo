@@ -1,0 +1,10 @@
+StorePath: /nix/store/svmyiw4p35mwpn07lnqp8wnjw3z333vd-kramdown-2.4.0.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0nkw499cvg5z1f9akmd81zq5fy87fx8hdazbwz4yp95yc28bxgpc.nar.zst
+Compression: zstd
+FileHash: sha256:0nkw499cvg5z1f9akmd81zq5fy87fx8hdazbwz4yp95yc28bxgpc
+FileSize: 1395
+NarHash: sha256:0bwbzllz70yk754r835wnhifzx9hl0gx8qiwwckzl3dwxrx37w3f
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:DZFAPwCedkMXfGp7G5MyNPnNvIIShNqAH35iln41uPvXS43CDZuiA8ExGgcEmktaBfGA1FKUZqPISkciGowCAA==
+CA: text:sha256:19l6x0ij7yxim91vm46gr9k3k651n6dj11l4iby0p70gqz48r3ci

@@ -1,0 +1,10 @@
+StorePath: /nix/store/hrpfybb2cam2q6kra362zgr71iv366jc-nvidia-open-615.78.08-7.2.11
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/12kmvmbjnlq12i6qb44zyxv2p46lpx2ajr12l81pmbfdpbn399sg.nar.zst
+Compression: zstd
+FileHash: sha256:12kmvmbjnlq12i6qb44zyxv2p46lpx2ajr12l81pmbfdpbn399sg
+FileSize: 11204855
+NarHash: sha256:0wlh1sb1sjml16fsyfy6v90jw95b87nr46wqxrygqi3a3ghilyjc
+NarSize: 14322392
+References: 
+Deriver: lwzmxhxsy9jsc97lb9i1x7glk7wiygr7-nvidia-open-615.78.08-7.2.11.drv
+Sig: rime-cache-1:fySGz0pmBUQ/tccKsJgVMvoK+AtNdrsFLB1qET1x+RjYyjEnt7oZJB7eSXvneqa2HWgoUGQILG47dUWtRrjZAw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/pc61mnfwfq5j3x6x59lj5ipff24mq9qp-libxcvt-0.1.3.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1pxb90ppp48mm9g9aixrj0kywgvvprsqqjm6jjyf5rrlavhb139a.nar.zst
+Compression: zstd
+FileHash: sha256:1pxb90ppp48mm9g9aixrj0kywgvvprsqqjm6jjyf5rrlavhb139a
+FileSize: 903
+NarHash: sha256:03301hynm3m5g44i6nsrb2xfpk23dkpzz6rvs746imgvb9s12pip
+NarSize: 2096
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r5qxsigna9dxg1n3kqq14rq5j8gn5288-libxcvt-0.1.3.tar.xz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:jrg5nlecbjlUcVLp+othIMJH79v1AUNECv6+Y028j4OTInmYud9foQzyCL5MLGr3AB01UA42FBLcbJyxeUxpAA==
+CA: text:sha256:0p1ppb3jdz0n6wadmhh0hjw2l41ib6igpfiyyaallia1b0mrksmi

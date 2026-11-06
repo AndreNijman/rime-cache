@@ -1,0 +1,10 @@
+StorePath: /nix/store/zjr11v9gqnsy7nx5gyk6a85m3n0hn1rr-unit-sshd-keygen.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0lrxdpjsypjwamj3x5dvpnxj16kn49rs9s3v4n73lwhdzvs4nffr.nar.zst
+Compression: zstd
+FileHash: sha256:0lrxdpjsypjwamj3x5dvpnxj16kn49rs9s3v4n73lwhdzvs4nffr
+FileSize: 719
+NarHash: sha256:00hamxamjdbws97bcqs0p7fl6daj3dz83nq5bh6pk71cdi9qa47y
+NarSize: 1648
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 87v45ppr3i203cn4flk3a303sgbhxmij-unit-script-sshd-keygen-start 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e gksybc3b64irpkf84k30qphb44yjwqiw-openssh-10.6p1
+Deriver: happi4ia7v9kjvk9cjipp9shz493n815-unit-sshd-keygen.service.drv
+Sig: rime-cache-1:+NSEplEsHp0H1H66vpkEznW/qxgWH7R2rWwzikkrN2BnOLn0U84aiYyFDzamz9ihieQ5VQ7F8n3xhmPIxKl/DQ==

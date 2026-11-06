@@ -1,0 +1,10 @@
+StorePath: /nix/store/2phmbz62mvj3jkbainjpk9h34skq88pq-simdjson-4.6.11.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0a7ywjiw6xr625wvxr85qgdhv38cncf5rilacsyazdmqym1ndb0d.nar.zst
+Compression: zstd
+FileHash: sha256:0a7ywjiw6xr625wvxr85qgdhv38cncf5rilacsyazdmqym1ndb0d
+FileSize: 905
+NarHash: sha256:1k382qwa3yyldcjcpabr2djgf8jk625fmspg1pzvzf7d01r7s3df
+NarSize: 2072
+References: 0h6db6hipyz7qdkab7wqspl8mix9p0yq-source.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:daetWl4ufXfik6zN9ajSSaW0Lf1Uw47Pn93Nx4/UoBVBAE287q3lMcfAMYktMQGEu3wgXf0bQioT19Y/O8pnCQ==
+CA: text:sha256:0g8pw8l3jijnpfc8y0cc8vhx395rhwk697n3x0r7mfj9gdrbjvls

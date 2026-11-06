@@ -1,0 +1,10 @@
+StorePath: /nix/store/i32qjr6vsb5aj2qi6i3fx5k65q20mfyk-crate-windows-targets-0.53.5.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1zd2rab4d627n9wvymalpdbrh4xd1h2bg8l0swqygvz61garc22b.nar.zst
+Compression: zstd
+FileHash: sha256:1zd2rab4d627n9wvymalpdbrh4xd1h2bg8l0swqygvz61garc22b
+FileSize: 1379
+NarHash: sha256:0s9bzcg0z3iwly7gxf2r39lxq6sl1fhakhzzcq3i40hs6w0fkmyj
+NarSize: 3744
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:F5MlgLTKcv9xPkhAooPP8gTcyadJ3uB6MeshQpLJ9NLPyf5KdBiUG936T/VflwvzMrMX6TQvHrJyj+Sx/qyyCw==
+CA: text:sha256:1bdc1nl68b5vv1sqabgrpf2gch5zqjbajr1yfi48gw7fbwa9bpl3

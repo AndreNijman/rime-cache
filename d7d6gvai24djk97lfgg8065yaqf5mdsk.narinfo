@@ -1,0 +1,10 @@
+StorePath: /nix/store/d7d6gvai24djk97lfgg8065yaqf5mdsk-mini_portile2-2.8.5.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1yf32n8fpp1lzzycy3hxi3p1ciax5a7c6d16bsqgx8whmd82y05d.nar.zst
+Compression: zstd
+FileHash: sha256:1yf32n8fpp1lzzycy3hxi3p1ciax5a7c6d16bsqgx8whmd82y05d
+FileSize: 1403
+NarHash: sha256:1mqj4h0q0xi6sp8ls3ir3qsbwcyv4rg90698f3i0v7rrg2rianqf
+NarSize: 3672
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:8A1XABX/mY90FdRzLwAPbL4iGUJF2R8CUDSGpAdeBtBasx1VqOMA7fw44box0UITJuq2OCXQGfeMNZXUrlSzAQ==
+CA: text:sha256:0pj7q8d22a3ypwh220d07c5icmnh1sdblz4qn90m8glkv2npabis

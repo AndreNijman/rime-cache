@@ -1,0 +1,10 @@
+StorePath: /nix/store/arqfxlnbhf518kl2mgj8v22x74jknmgm-opencore-amr-0.1.6.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bnka3mhlzrxafskm4rkwf5hfakwyg1jxkby58gjhiwv5lhh41nm.nar.zst
+Compression: zstd
+FileHash: sha256:0bnka3mhlzrxafskm4rkwf5hfakwyg1jxkby58gjhiwv5lhh41nm
+FileSize: 1399
+NarHash: sha256:1wiy1f2zw9by3mx75lvflm5r4birp6v7pmk9pyprdnc6np5669my
+NarSize: 3656
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:mHRDsy6w/a4yc66bV0lUTZxUKG6RoNY5VEBpqYcc5YX/qW6Bs6P+UMscCbLiRGkWjpGaeFSyzZs/PBZqesRSDg==
+CA: text:sha256:1xwci1aybaahja2vdf0lx9n1gy6zj7bvyshdbls4j832fy0s2nv8

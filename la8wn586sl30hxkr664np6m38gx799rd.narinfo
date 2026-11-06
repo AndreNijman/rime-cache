@@ -1,0 +1,10 @@
+StorePath: /nix/store/la8wn586sl30hxkr664np6m38gx799rd-prawn-templates-0.1.2.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0612bb5ab9qkji4cbk0m6ib0qviyldfy8c39f7sxs5pjfh39yl0f.nar.zst
+Compression: zstd
+FileHash: sha256:0612bb5ab9qkji4cbk0m6ib0qviyldfy8c39f7sxs5pjfh39yl0f
+FileSize: 1410
+NarHash: sha256:04mbil73f3gapdkhicnjqv23zf9pmcjkfimq3sbsb0znk3l6a97q
+NarSize: 3680
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:LyXeh39D2GbobVKvOCkvVrsM8PjQ9pz9uC2+RWNuGqXp3aci7E713fRjzs84e5aPeRRL5hH5mvNtJ0FIhmrsAA==
+CA: text:sha256:1lp8g1xvgw7qiq9h8zcsc9r2zvf9djnclr8lindi4h2jhvdh4g4p

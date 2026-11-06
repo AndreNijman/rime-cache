@@ -1,0 +1,10 @@
+StorePath: /nix/store/p8yg6dlxxm6d087kaq59kbldkb56g8cc-souploader.diff.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1g0pkhxq72j81r617gnv9dvx5h0g21smdxdfsdb6cf5b4al9chmi.nar.zst
+Compression: zstd
+FileHash: sha256:1g0pkhxq72j81r617gnv9dvx5h0g21smdxdfsdb6cf5b4al9chmi
+FileSize: 1111
+NarHash: sha256:0b1bakk0xgd0r46mkyz0i73fjnv2fg934np7bxbkfs2h3l8rm99s
+NarSize: 2576
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j4wl3ckszrymzpsvr3y3han3jdmiig6f-libsoup-3.8.0.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rr2gcam5680gfd04x2v2lfbqpvc9rw5i-souploader.diff shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:ZZFk/tRFc66bcnyW84vNig6vHlYMAIGESQ3ooOxxIgHmOst6zIaKMpRi3MnzPTzPuGFNnzdOuiJf2gr6nJfLAg==
+CA: text:sha256:0mh51llf6hxi461rrnpa136qr7gi4wrq4ghqj3pnqxp3kkb22dsq

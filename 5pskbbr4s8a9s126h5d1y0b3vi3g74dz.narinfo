@@ -1,0 +1,10 @@
+StorePath: /nix/store/5pskbbr4s8a9s126h5d1y0b3vi3g74dz-add-driver-runpath-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ndk0yb7lbn2j3nnj31ngfvcn1nsx58q9sg7jfxmi2h44xln0xfk.nar.zst
+Compression: zstd
+FileHash: sha256:0ndk0yb7lbn2j3nnj31ngfvcn1nsx58q9sg7jfxmi2h44xln0xfk
+FileSize: 853
+NarHash: sha256:0cn6d9missglrgjrgj70qbcx3xf8j4rhgw3pkr4kqq34bwiianb4
+NarSize: 2144
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv g5qnf366jik9gpf7zm3k9r1icjmc5sps-setup-hook.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:jjGF4r1tPPjx2PSFQBjN4OOEhrlS9Tp6aLRIJjS7o05VNc6C7hmDkcD88H8Rs5HYFB/ISDTwwk+OEOkYrvCsCg==
+CA: text:sha256:1k2f1s79v6j0q2a86grfrk97pdca2gl8i1iz7nk9s4jpa04srkyy

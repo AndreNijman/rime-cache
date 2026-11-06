@@ -1,0 +1,10 @@
+StorePath: /nix/store/3m44kpnz8pryvlmqqsss3l909qj0syq0-crate-wasip2-1.0.1+wasi-0.2.4.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1hyf2b4n0hxh5csdz8n35hzm9jrlc5nqj2z00mrdyvr8316331xv.nar.zst
+Compression: zstd
+FileHash: sha256:1hyf2b4n0hxh5csdz8n35hzm9jrlc5nqj2z00mrdyvr8316331xv
+FileSize: 1377
+NarHash: sha256:1mh09j2gyx1lw4xs0fwbpnlx8k094570k04qq5frs5kf7bffar4f
+NarSize: 3744
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:wstMnTqid1deaa0jALjbTt81mx7OmZpx6rleXMKLZBmMVHA5up5v+qPQ6koRTL6srpoYV4w+0a06Qm/69AdNAw==
+CA: text:sha256:0qvcffr7xf50fp65v7yvq4fjpm0wm7h2hfc4bsnhybkjqcyd116h

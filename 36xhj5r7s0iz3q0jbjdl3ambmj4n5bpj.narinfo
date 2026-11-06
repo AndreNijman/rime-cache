@@ -1,0 +1,10 @@
+StorePath: /nix/store/36xhj5r7s0iz3q0jbjdl3ambmj4n5bpj-python3.14-jaraco-envs-2.6.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0465vpjbsvxh0dln44il61kydvm4nd3avzj4llryjw5iycp1cw6p.nar.zst
+Compression: zstd
+FileHash: sha256:0465vpjbsvxh0dln44il61kydvm4nd3avzj4llryjw5iycp1cw6p
+FileSize: 2009
+NarHash: sha256:1z1khfr5vrpqc0c41qs2b186wavran1xpim00g5qkjzdrvhlih48
+NarSize: 5120
+References: 0flkxqsrypydaj2cd1a7gy69xbvwvnby-source.drv 2i1795b07kafxvwch92kj0hfmjg37cr2-python-remove-tests-dir-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 44q2zajrz91agb167xifb5qchwi1q8z2-pypa-build-hook.sh.drv 5x76xgd4fqggv7ikx0985ayjh83azkqk-python-namespaces-hook.sh.drv 7zhs931h87ln2sknslmj1zv8jsc0mzm6-wrap-python-hook.drv 8h7xmhabwjbqbchnj8xgfjckh8r6mvjz-pypa-install-hook.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv jxjb6jfyhdgcrx4hdhqqjhai22h61qdp-pytest-check-hook.drv k06sglvkhikc4w8kzx50l9lbwvr9604s-python-runtime-deps-check-hook.sh.drv kxws3pbi3sjl806nplw1j6apf9gjchk5-python-catch-conflicts-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mnhrps1293ppks5kpih2698302v1m8qg-python-imports-check-hook.sh.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv w8qm19bigbia40fkx83ykwwkf2hp5p5s-python3.14-virtualenv-21.6.1.drv x4y3xbv4afklf043sjpl8jab9zlpq6kx-python3.14-setuptools-scm-10.2.1.drv xbjm8k1jcv08s7wn3saf9a9c9fdqmjja-python-metadata-check-hook.sh.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xx5j7igv7vjmmkf1aaxrnrzgzbk77g5s-python3.14-path-17.1.1.drv z97159xwqlqiir8i1288317ikb4lcpvy-python3.14-tox-4.34.1.drv
+Sig: rime-cache-1:9EHu4p7FQ2MEnncSQ2KPrfBJKQs+0wKT+oJabpThcrmwnEDu3dXpbH45oxbnkF9QWKHtbFynGS/pKTVSWoYHCg==
+CA: text:sha256:1p0qlx9fnlz018c5dl0fyk8fpbpw8pjd9z9yvwcrnf9wzzv4y6fl

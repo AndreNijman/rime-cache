@@ -1,0 +1,10 @@
+StorePath: /nix/store/vdb8xj0l3b228szk9wx7z15867c8absf-tilt-2.6.1.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0k1dnb4kffsqan8y68ybg9fcsx9ig3w3n346cha9x0fyq0dwfvck.nar.zst
+Compression: zstd
+FileHash: sha256:0k1dnb4kffsqan8y68ybg9fcsx9ig3w3n346cha9x0fyq0dwfvck
+FileSize: 1395
+NarHash: sha256:11l362df7a41mzka1zfiqag33gdvm0nhhdhbf0wbyd3kn4p6id4c
+NarSize: 3632
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:+B0DnqBV/wID/Io1CV32hVC//tTFVZM3+ap7q95UZHyaf/o1V+tJNHWbbBcBGN/ak3JAOju00k2royd1P8j9DQ==
+CA: text:sha256:0x7lvsixkhqpfk4ly645gni2kq83y8kn7m7rcpxxcq49vlpbl2fp

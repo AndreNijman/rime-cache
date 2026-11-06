@@ -1,0 +1,10 @@
+StorePath: /nix/store/72n56ch4mwc25jxmha45cah04fvispcl-unit-rime-flathub-setup.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/034hddqfihpivg2kv5i1i2knr5yz24kdfwc62bmghhnd4ngpxs2k.nar.zst
+Compression: zstd
+FileHash: sha256:034hddqfihpivg2kv5i1i2knr5yz24kdfwc62bmghhnd4ngpxs2k
+FileSize: 850
+NarHash: sha256:1gm6cf544nvkd1g75f5i5f5csjxz1c6qwl5lxybxxgndl01bh0gc
+NarSize: 1904
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e x2sqs6a5mmy8pgrpf204n7xpm706d4n1-flatpak-1.18.4
+Deriver: cjx9zza4d9yvi5g9xnhs28axcq5f4w7p-unit-rime-flathub-setup.service.drv
+Sig: rime-cache-1:9bvs5HXKLyshfd8dVD9WL5IzK0Bwn+PZJnjj2rNSMcb/f+U4d86dUpx43ozdU/hs2NrJ+/QF1aPJrkg467FCCQ==

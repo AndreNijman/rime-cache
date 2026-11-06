@@ -1,0 +1,10 @@
+StorePath: /nix/store/4nsiq29l2b3imk0hq502wljn34w71d7g-sqlite-connector-odbc-0.99991.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0id3dp16j1pfmx7f0gbcishvzjkdgl8fhabps7s9ghhv12yk2590.nar.zst
+Compression: zstd
+FileHash: sha256:0id3dp16j1pfmx7f0gbcishvzjkdgl8fhabps7s9ghhv12yk2590
+FileSize: 1109
+NarHash: sha256:02icsj5gf1m2ggj2h36zqxnkyzi41d6sqdgclzan4139jjg1i4np
+NarSize: 2768
+References: 2p3v1qzf9l15kb44q4x8b7qba3wpyjsm-sqliteodbc-0.99991.tar.gz.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 47advcfy66bkiyp0hhiq575vs2whm7js-sqlite-3.53.3.drv 9abzw4a4vi8akcmqrcdzz0hckm6r0852-libxml2-2.15.4.drv c3pbn472mrr69hs1vnfk1vv7ffsfncfn-unixodbc-2.3.14.drv g206pmaqvlgsmqcqb8f8xsnjbnw3sx6r-sqlite-connector-odbc-fix-incompatible-pointer-compilation-error.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:kt3DU6gv8xI9gOmYVQrjnLuPwkEaPc+WgCH7UYUePyE8HD/NeRcl21RGyx9gHYvqycAmNcPdf09Vyl9GHiU8BA==
+CA: text:sha256:0dcfjwnpv5m8xv5v9wfxfr6i6yqi0iv2982q38ayia2a34gls08p

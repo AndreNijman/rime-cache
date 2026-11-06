@@ -1,0 +1,10 @@
+StorePath: /nix/store/6apwg5jxgnhh6jzqxipndy9p7rdnsmki-hostname-hostname-debian-3.25-binlore.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xm7kw70iip8brdi9mz73qdpgj79ibzy2pgpnznwsivf3q8n8r36.nar.zst
+Compression: zstd
+FileHash: sha256:0xm7kw70iip8brdi9mz73qdpgj79ibzy2pgpnznwsivf3q8n8r36
+FileSize: 1211
+NarHash: sha256:1jvgs8d7s2qwsrmdhchz85f7r2b8ip82ihxzf98n9c33symwz8wg
+NarSize: 4088
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6j4yl5gr8xw2ih1dh754lb66rj5i9cj3-yallback-0.2.0.drv 88h1wvdcndqcn1jyiimdp4zwvh4cwgyr-hostname-hostname-debian-3.25.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rfbqv0h7sbzxdb2mglk1qgvm0bq3j42z-yara-4.5.7.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xihna7s0ajxs8lhymnhjjrvhkak8mkm2-source.drv
+Sig: rime-cache-1:3dlEVPoTe9D+o4WXaidvywJrLbtdX8aCTOPAR6GXLxBrtXgjoL/XaCKp/REtglcMTCieLlHPRkGxjJ6reWy1Cw==
+CA: text:sha256:0c5grxcmmahsh9697k252z2s8blmswaar08qd180zphh2d0qvppx

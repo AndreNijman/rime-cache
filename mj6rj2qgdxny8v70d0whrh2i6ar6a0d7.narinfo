@@ -1,0 +1,10 @@
+StorePath: /nix/store/mj6rj2qgdxny8v70d0whrh2i6ar6a0d7-perl5.42.3-Net-DBus-1.2.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1di58rqxcv9qjf6gg23msbxvk5n0nkrx6j9hg2iaf28c1wa03ips.nar.zst
+Compression: zstd
+FileHash: sha256:1di58rqxcv9qjf6gg23msbxvk5n0nkrx6j9hg2iaf28c1wa03ips
+FileSize: 1369
+NarHash: sha256:1md5c0f7pdlccsnjmyj5aw15jssijx4wv1ip0af986m9j0dm86zv
+NarSize: 3312
+References: 119w10l5ic8izi6igxqpq0wdmccs9mbc-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 385n2rq9vx3mis8spy8yk0g03h623z5g-6bac8f188fb06e5e5edd27aee672d66b7c28caa4.patch.drv 4bcn40qhgshkyzrni2nql71880w0yx3f-Net-DBus-1.2.0.tar.gz.drv 59wpgkg2cbxw4cjzzk44hk8npgfggwk1-perl5.42.3-Test-Pod-Coverage-1.10.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv hvz3bvl6a3sspigq2ccdhwcjan90w6gx-perl5.42.3-Test-Pod-1.52.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh vcn3y7z2avndp53g42f982disi696xhy-perl5.42.3-XML-Twig-3.54.drv wca1z7d4whqbd3ymslw4ckmvvllmgg91-dbus-1.16.2.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:8PBetJCVT6SjjRHKWb7lUEuvy1WHNfaIuWBNUtX8ogUZFlsTihtwwhaV0dNgYHaQlNtbwodFMykK2nJ5tVWGDQ==
+CA: text:sha256:1gmq8m1l4s5ww72ylkb0854x2517qzdgnl4ns3z9r60gcw6jfhb0

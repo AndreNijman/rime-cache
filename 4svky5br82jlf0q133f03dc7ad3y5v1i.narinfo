@@ -1,0 +1,10 @@
+StorePath: /nix/store/4svky5br82jlf0q133f03dc7ad3y5v1i-graphene-1.10.8.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/17l7d5gfa3ia58h4fwh32igm8b2id6n1g85hb0xq1kscya7siinc.nar.zst
+Compression: zstd
+FileHash: sha256:17l7d5gfa3ia58h4fwh32igm8b2id6n1g85hb0xq1kscya7siinc
+FileSize: 2050
+NarHash: sha256:06y1v3q7a92284fvdakqwcpap830w9vql7dbzrl1j9p2ndaykgk5
+NarSize: 5184
+References: 2w8lfg5a9g1r8ma960dh1j0h7c1ich78-source.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 5vp79alambrbg5q1jxfwf7c0iysp2zrq-docbook-xml-4.3.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9g3yir5sx20wpdpdw37zddy6ijg4i36d-gobject-introspection-wrapped-1.86.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bak59igmbly0kvhl0h6zivgn9xhc031w-docbook-xsl-nons-1.79.2.drv c3xkmvw895lg046smm76zc1gxx771dsj-0001-meson-add-options-for-tests-installation-dirs.patch fvpkp0mykql6qbsnhrn2wy7i9zipjxx5-glib-2.88.3.drv j7b87z1mnk55syjlkfzx6k7zpw8c8ih8-4fbdd07ea3bcd0964cca3966010bf71cb6fa8209.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mlx4a0qzqd3vb0hzfw51br3llaffpw70-python3-3.14.8-env.drv ps53s0g3m73dpfv69xnbs0dmwfm4wih3-gtk-doc-1.36.1.drv qvnzriy7zifd0xsm45bjh812ryfy8q6k-mutest-0-unstable-2023-02-24.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:QpPhBLbYKN8LmhgC99PSihQWB6S59dMYeaBGPd4uShj8z7rfaP1MU0wltPKd4nN4GcSweJxjzRSP1eBtDDwSDQ==
+CA: text:sha256:04xkrvckv1rr0s6a2vzpdj00gszd85g16gk9m9izc4y2rk6a4grz

@@ -1,0 +1,10 @@
+StorePath: /nix/store/mrpx591l4hkg14qbl3r776d8rr08bgz9-udev-rules
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1bm52s0vm6prn2s1wzvi5vgw8c4l085w9556mwz47fzp0p3zdjzx.nar.zst
+Compression: zstd
+FileHash: sha256:1bm52s0vm6prn2s1wzvi5vgw8c4l085w9556mwz47fzp0p3zdjzx
+FileSize: 42322
+NarHash: sha256:1myndsgyyzcfq91w67nr1y7i2gnfd9cqpak005fk2apws2q3ypbk
+NarSize: 282336
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 42ynzg6crhs39lrvhpav5hjl328xnym5-switcheroo-control-3.0 4cd9sy9ck7r0pcbdnny7w9scif472c35-ethtool-7.1 5myqifwdz88184dki3vxbjwmws2lg0im-mdadm-4.6 659l9q22ydygcv7qg5jwi3hk1c51wp5p-hplip-3.26.6 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cgzr5afjdbx30j7g44z2h92i8h3828k2-systemd-minimal-libs-262 fvhx5imp33zzhhs4krhwjzs5rrsbywy7-nvidia-modprobe-595.71.05 gn9kr18ns42r5lkia3gbiyiy0zpsvh5m-libmtp-1.1.23 jnkhxljrvdq914dcxjdyq6x982zy8qcr-lvm2-2.03.41-bin kwyi4bq5s2qgwbhz6cs4gjy57c2zdxws-bash-interactive-5.3p20 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 r83ih2l9hg38z4qbwy0lg3g7hgrcc4sj-libinput-1.31.3 rszbxwc5p9kgiyb4n2rz5b5dn58qlg4m-acl-2.4.0-bin vgf96s78sq4nk7383gcicl3w519h0jdi-udev-path w4wcrdzp7rz777wn1wsz9ic25pr6w4w2-bluez-5.87
+Deriver: f3mzvp4j77qpvqnm83bwdxzjnyz74xag-udev-rules.drv
+Sig: rime-cache-1:qcQScRg6BW0yacd3MkivlrwkowaSjmm5op3uTJonA8PR8Wco80XrKqFtnq0AVJtf+r/pMxV0I5I8YLoiOUDPAw==

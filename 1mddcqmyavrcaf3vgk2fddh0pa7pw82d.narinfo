@@ -1,0 +1,10 @@
+StorePath: /nix/store/1mddcqmyavrcaf3vgk2fddh0pa7pw82d-python-imports-check-hook.sh.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/118isznh9sak16czzgdn0qar53iip1jdwc805y6nq0qqq686lg4h.nar.zst
+Compression: zstd
+FileHash: sha256:118isznh9sak16czzgdn0qar53iip1jdwc805y6nq0qqq686lg4h
+FileSize: 940
+NarHash: sha256:0pdcv39vkqdffydm56q52vm3ihivpx80f7c3azqmp7qbd67i080b
+NarSize: 2448
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh ncp4s7n5ghjmrfm58jpwhix42q0rkq01-python-imports-check-hook.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:rNhhvWbnAXZx5VIZRYrdjk3Emrb0QyQ4Ke4ArCBr6gfBpBsLzlkktvnkjIYWQ6as2V3mOAp/Fxs6b0aMgXnkCA==
+CA: text:sha256:12nsr05crxh9yzl82gy9rwb19v2qpzwn21ynhw3xqgda295rv26r

@@ -1,0 +1,10 @@
+StorePath: /nix/store/yi6dbn16hqy6kq9hf1jrgcgcjykazrfr-crate-ryu-1.0.20.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/05bpkhmxdklwlp4hrp8xgi2gl8xkpc5by2khyfvajxm9h2dzv97a.nar.zst
+Compression: zstd
+FileHash: sha256:05bpkhmxdklwlp4hrp8xgi2gl8xkpc5by2khyfvajxm9h2dzv97a
+FileSize: 1383
+NarHash: sha256:1q0ilvj3slngbx8i60nk3jzmqwqsw611fng9pf2h9fzvjv39dwpk
+NarSize: 3696
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:qL6PfjJFNJVaQywIs4y6fLia5WTFH5MLp+gT2ut+WfmiUYx9e1mpqyxU5xyUCms45kTabi8aQONrrZmssxUmCw==
+CA: text:sha256:1ammxxcljfq0g8g50g1gda4rdhzsx2jpqym4y08zipkvd4cczwk8

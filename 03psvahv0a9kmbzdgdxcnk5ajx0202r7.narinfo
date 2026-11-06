@@ -1,0 +1,10 @@
+StorePath: /nix/store/03psvahv0a9kmbzdgdxcnk5ajx0202r7-unit-niri.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bycw7cnby3sdnza9zhb15ynhkx4p5fjqq2qhy59y8cy7vp90x7f.nar.zst
+Compression: zstd
+FileHash: sha256:0bycw7cnby3sdnza9zhb15ynhkx4p5fjqq2qhy59y8cy7vp90x7f
+FileSize: 318
+NarHash: sha256:09y1zdymg9krpgpydzjiwpvyn1db0shp87w97rjgx6p4ddicd63g
+NarSize: 544
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: kisj5b4rvcriaxwl70khdvkk1qmr4lbj-unit-niri.service.drv
+Sig: rime-cache-1:qk9oT36mz+2QDg0wfIqq05o/KVtWbY3+FW9KawteVMUvyigFewdFFefCNIPX8GhBc6VuMAnh6O5nEvYm4kwWCw==

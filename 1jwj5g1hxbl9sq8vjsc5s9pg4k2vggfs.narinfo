@@ -1,0 +1,10 @@
+StorePath: /nix/store/1jwj5g1hxbl9sq8vjsc5s9pg4k2vggfs-guile-2.2.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/17wq6jk7di8l490a50yxmpnkl1kim62ncaq8jj0fl5r9qgkpm3n5.nar.zst
+Compression: zstd
+FileHash: sha256:17wq6jk7di8l490a50yxmpnkl1kim62ncaq8jj0fl5r9qgkpm3n5
+FileSize: 1832
+NarHash: sha256:1488jkx0xhf9gpw8a6gm3gaizq2bgd3cf4jbbjl0fc7730zrs23l
+NarSize: 4576
+References: 048jrfy773c83qfxwpv9m2kjnhx13789-gmp-with-cxx-6.3.0.drv 1lryj9475a498vi7yylchd75hpala3ks-guileImportsCheckHook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv hfr9x8ifhh5pyfw5gbzwiahgglc3pk40-eai_system.patch hjzzl7y4qy90800c8zk92z9w07l37x2a-gcc-wrapper-16.2.0.drv jax9vzf830cknvxilx95r22r6hd1anv1-guile-2.2.7.tar.xz.drv km3bvnsyiaivwivckjf13a5x59xqdy4v-readline-8.3p3.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mgbk0rn5zy3szd81jh5a9gdiv1bnckqw-setup-hook-2.2.sh nl84vjdfp4hkik278sldsbxq5v6a5z3p-libtool-2.6.2.drv pi3qf459k2f0f8m4jzk17wi5fdm9n4yy-boehm-gc-8.2.12.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv wf096bzvryjnhbb6vi68m4h3qj00954v-libffi-3.8.0.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xmkywhcm19x46mxrc1ii56bfmg27nbkx-gawk-5.4.1.drv zg59zylhdh57zyv104n9a61zgbxiibvb-libunistring-1.4.2.drv
+Sig: rime-cache-1:0OGvmLcEF0zY0KCqZ+ZuZ+0EzpUaNEVrTWFs+/Ko9xls5GK0SFZpUNcoVMnSrSGWoAjUx1P/wcn6Xj15mxKvBA==
+CA: text:sha256:03g6jpx98ckfw8l8jmpiynmv3aaia4s87h18l3hm5nlij1cc17bv

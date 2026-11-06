@@ -1,0 +1,10 @@
+StorePath: /nix/store/4c9gahcaclzigrrvxc1ymb2vp18jkh2c-npm-build-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0f8mci1q3k0a3dx6g5rfrywq8r9mvzamqh3k7y8d4q4c7p8vgzx6.nar.zst
+Compression: zstd
+FileHash: sha256:0f8mci1q3k0a3dx6g5rfrywq8r9mvzamqh3k7y8d4q4c7p8vgzx6
+FileSize: 791
+NarHash: sha256:0mc973jnxmqd9c8h7lcp96ny0zhvrxx566sq5s9ssf0ynd0ypk37
+NarSize: 1952
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3lw4qkpcbr4hgayb4yn6anp4gjigbqi2-npm-build-hook.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:Xme2qZcgbOfKYYCkMf05ZaAJc+Eose7ZVJmtlC1pjY9daW6A+RMpq0TxOdm8HBREaOq20TI1QuKrPnPBHap4AA==
+CA: text:sha256:0m88mwl5wid09yx0w4lj1jv1i907hph0dfyjkw70chkyssrg3sas

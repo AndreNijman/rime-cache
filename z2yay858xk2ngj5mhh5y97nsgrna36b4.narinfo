@@ -1,0 +1,10 @@
+StorePath: /nix/store/z2yay858xk2ngj5mhh5y97nsgrna36b4-nv-codec-headers-12.1.14.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/16mhy5qmg7zr0gypc7wdbnmzlndv2ffz3ykr2spcblbvmvbya3ac.nar.zst
+Compression: zstd
+FileHash: sha256:16mhy5qmg7zr0gypc7wdbnmzlndv2ffz3ykr2spcblbvmvbya3ac
+FileSize: 759
+NarHash: sha256:1jirp970s437yvbmih00j0brw8ffyf0hc157gnmji5mmg7dksyjc
+NarSize: 1800
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q5b9n091rm8wsp7zhkz9csgm26ykbfz9-nv-codec-headers.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:Dei9wkq1neZNM3BSOcC56K6sod5gi2ARp7J2spaAz/A0qYxtrOMaRR67r9J7b8tOHZntqoECwlyrwQHmfDB6Cw==
+CA: text:sha256:16pc10ic7pwdv2jd4crlcz9aidzbgsvpciv0ybss3alkakpdisn0

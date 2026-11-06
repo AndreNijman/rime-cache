@@ -1,0 +1,10 @@
+StorePath: /nix/store/bshhrm4nwccr1sv7930ynx1q3zwp2s1x-ghostscript-fonts.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0zw4xcjws2z44naxn8a4m6hl8scx6yvfy8cc6va15vzazm0f3njn.nar.zst
+Compression: zstd
+FileHash: sha256:0zw4xcjws2z44naxn8a4m6hl8scx6yvfy8cc6va15vzazm0f3njn
+FileSize: 781
+NarHash: sha256:0y752vvg9bkfql86fdm7s5g5nvy53gr688rx55ar5xxh2xmvhm7v
+NarSize: 1872
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv ikmb8i2xxqrlpp6f7m6xxrwq48vklwa6-ghostscript-fonts-std-8.11.tar.gz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wlr51g3d9p0rk6zg0cddcfw1hqny1cq7-gnu-gs-fonts-other-6.0.tar.gz.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:y233azbj+W0HbC4WQuBwAg88YuMmGnlrb+IfY7TgBpJBX1GyafFUcqQNcngap6aBHPDrVCVm0ypEEE8iNYrTAg==
+CA: text:sha256:0mwpi68c4p239wy4c0pwy7mi4vi2psbbk538xk59bxbmhnijh3gf

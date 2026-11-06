@@ -1,0 +1,10 @@
+StorePath: /nix/store/c10l2a07gmgc7hwsiqaharq8p2391383-tap_py-3.2.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/04yqmac0rygk0f12wf04jb0hcqghx9rxb8dglgg6nq7ls6gxgchf.nar.zst
+Compression: zstd
+FileHash: sha256:04yqmac0rygk0f12wf04jb0hcqghx9rxb8dglgg6nq7ls6gxgchf
+FileSize: 1385
+NarHash: sha256:0wm5y0ba8axzkpb7wvafdxylpsvd08qpkd3acarjjnfzzgjpd6g6
+NarSize: 3608
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:vb9jLuFPcCt9tP/72fcCpnPAXQt8ZB0aiXoxp2ahxBcITDeUO2d8tYLyxb5HtqRa4GHLivVBYv/arZxd3EwpAg==
+CA: text:sha256:0v9aihfjfbvccx2p47wvc16fmak7hcv582pmfcw2l2d5362ka3hx

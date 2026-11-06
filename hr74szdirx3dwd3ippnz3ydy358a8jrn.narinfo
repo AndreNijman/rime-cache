@@ -1,0 +1,10 @@
+StorePath: /nix/store/hr74szdirx3dwd3ippnz3ydy358a8jrn-etc-systemd-coredump.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0r48nzxjn355r64gsd32i35p2sjhpvr3g54plgyj8bfpwyj33yr1.nar.zst
+Compression: zstd
+FileHash: sha256:0r48nzxjn355r64gsd32i35p2sjhpvr3g54plgyj8bfpwyj33yr1
+FileSize: 113
+NarHash: sha256:066lq4wyb5fs9yvqwckmghd9j76q6k02dsik9pc8b8aic9impbly
+NarSize: 152
+References: 
+Deriver: irgcn8v88k6w5lwli498k21g4inlhc8y-etc-systemd-coredump.conf.drv
+Sig: rime-cache-1:/Klp2GxnEjhgSgZnA3P24NNdLWDEVvlJY/Hh7/DLFAUfWWgLe5CSTkg20Ljg/dOrNRGI2SAk/aEGbgYzW+00DQ==

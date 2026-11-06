@@ -1,0 +1,10 @@
+StorePath: /nix/store/7rk77n8ncg15imcsa7b56w0kd1i4q9k3-libbluray-1.4.1.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/19c4xpq487vfhl6dnsffxwns4ard7fylncx2q83lnydwvx99md8x.nar.zst
+Compression: zstd
+FileHash: sha256:19c4xpq487vfhl6dnsffxwns4ard7fylncx2q83lnydwvx99md8x
+FileSize: 1400
+NarHash: sha256:0c50pkx6xnzg3cxdbyc7v215fq655z6ybsiiqaykrwaacjpf5q1m
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:dToroh3SyU9j41p/lBEcQwsQe/lR/bVzc/Byx9eaQq0lxU7ckcbMH9nDIgaDWLVorO+MZlX+sY2i35vRsJPjBA==
+CA: text:sha256:068a8952qhykz01i65vm5gjl7bqmzf5fjbkildksb2p326ip6ilm

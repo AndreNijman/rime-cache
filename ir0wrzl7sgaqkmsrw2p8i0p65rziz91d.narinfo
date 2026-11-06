@@ -1,0 +1,10 @@
+StorePath: /nix/store/ir0wrzl7sgaqkmsrw2p8i0p65rziz91d-fc-00-nixos-cache.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/1060m24lk8vqwp93mjj10r7ybn5gcih0jp3a552kq4f0nbcqh796.nar.zst
+Compression: zstd
+FileHash: sha256:1060m24lk8vqwp93mjj10r7ybn5gcih0jp3a552kq4f0nbcqh796
+FileSize: 724
+NarHash: sha256:1z847yx94x097qi57cnwdzp2rksrxdzwmdc5q1c0zjvjvw5h977p
+NarSize: 1864
+References: 1ai5h17z7mr1ls781ijikg32bsmhm8qp-noto-fonts-color-emoji-2.051 3jwckd1mgjc4lcjnypqw1rp4c42hi5iv-hack-font-3.003 5im72fci3slls4s3hmls5j4mi2pnj7q9-noto-fonts-2026.10.01 81jg25xifkvgd6cb5mqay7jvqbplaygx-nerd-fonts-jetbrains-mono-3.5.1+2.304 9swv95wd3z6358f5rcf6fpmal1nx06q5-noto-fonts-cjk-sans-2.004 a9jqy44ib42ag5acx0q09d32q6n49fqp-gyre-fonts-2.501 klk422awnya6mvglsdjjfbkf04m49ak5-freefont-ttf-20120503 knswyk60rvkg2flxaanylyxmj6f1lp3c-fc-cache mz1hvwkd5i24d93ihpdczqhn65mik69d-dejavu-fonts-2.37 pmsdmdl2zai2cb79akpm06migicq8dwc-noto-fonts-cjk-serif-2.003 szyh5qg39v1cm1a13lwzqxgdwp0vaprv-liberation-fonts-2.1.5 xf606ffk5wnmqd4s32g1j9pibs4h3q2f-jetbrains-mono-2.304 y9za3scp03mijym15368x5xvg6dww0d3-unifont-18.0.01
+Deriver: b6r623pq3vlvcxihnfbil0yxfhp0plaz-fc-00-nixos-cache.conf.drv
+Sig: rime-cache-1:0o1cSWcJ7fBRyKXwGi4NmU296TIfgpOIrC0R2AwSsNhU0KzR+njTqB1Bhl/LPKCR/DV9QGmNGmqIX9OGranTDw==

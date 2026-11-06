@@ -1,0 +1,10 @@
+StorePath: /nix/store/w8n3z0q02vkryq43p6jb9gb1028wf3jr-pygments.rb-4.0.0.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/031csmhlsfn5hbg9frrmrykpdzh7m4vvjbx4wxa3k5my9vps5jkw.nar.zst
+Compression: zstd
+FileHash: sha256:031csmhlsfn5hbg9frrmrykpdzh7m4vvjbx4wxa3k5my9vps5jkw
+FileSize: 1400
+NarHash: sha256:0b5f0538gph33gl7jprcm1sq7wazqa733r4i8q24bzxnyjhilq9g
+NarSize: 3664
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:6XZF7vMfCFWxEOYgalzuvFTPqYxvx96dw+lircG3SYnVQhL5FB9aByaLAL0NSPkwLG8E4zJItvkgdyYJlEh2Ag==
+CA: text:sha256:1bfmamgs2wl2fz607z0127ab1sb7c5s5ch9mbylg1vdm3dnckpll

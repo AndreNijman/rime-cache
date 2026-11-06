@@ -1,0 +1,10 @@
+StorePath: /nix/store/sgflpajr5gfzwkp0im1pn16jl0ln2cri-ijs-10.08.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ljyykg3l1a6wzp4vn8f846qipbxmsyxhnxvl4dvdy9mj36116m5.nar.zst
+Compression: zstd
+FileHash: sha256:0ljyykg3l1a6wzp4vn8f846qipbxmsyxhnxvl4dvdy9mj36116m5
+FileSize: 798
+NarHash: sha256:1zfc588ssd038yk0y8nvdzzi3ba2z9zhfpnbjrsxs66ag7a49073
+NarSize: 1928
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zp2nw7q3gsk8lng4w8h8dl24mjx3m997-ghostscript-10.08.0.tar.xz.drv
+Sig: rime-cache-1:5+HkfcudwoNaPVAfH0Ri28uxmo2xdovtN1KndlCvxutdZFikR73Bjv90jYqmyoQkZPehe7FP5KonYHrFHskYCw==
+CA: text:sha256:1gxqjim2bgb0ainab5syfmvmc6gchqmy5dx343axbwfz3qpa3820

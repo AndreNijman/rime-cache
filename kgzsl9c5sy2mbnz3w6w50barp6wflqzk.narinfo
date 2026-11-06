@@ -1,0 +1,10 @@
+StorePath: /nix/store/kgzsl9c5sy2mbnz3w6w50barp6wflqzk-unit-sing-box.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0kiwzi8nf6v70krzfk2mhxzpd3lm55mdzwgagb9ha0hpqbip0c0l.nar.zst
+Compression: zstd
+FileHash: sha256:0kiwzi8nf6v70krzfk2mhxzpd3lm55mdzwgagb9ha0hpqbip0c0l
+FileSize: 802
+NarHash: sha256:0dd1zgavgjadjyl8hy5l6ag8prffl7qki2dl8l254jcmafax70xs
+NarSize: 1768
+References: 12zy8pz97hnnz712gwks36f3jnikjd1b-sing-box-1.14.4 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: c9vaxxfwr3caxmizi9imhwxrgcpw2vfz-unit-sing-box.service.drv
+Sig: rime-cache-1:ZS8QenlqpdeRIWC7rRfndV+Odsb7VMwkp/Qm1SC3LxksVlVESM0ea3a/PmtO8uf5prNMjIZ1vUgSU/oNoEYoAQ==

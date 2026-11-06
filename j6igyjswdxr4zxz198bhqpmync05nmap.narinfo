@@ -1,0 +1,10 @@
+StorePath: /nix/store/j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/06schfk89ziw6jp3zxaidmys7d973fmclk4kcx9cdanqhpz187fr.nar.zst
+Compression: zstd
+FileHash: sha256:06schfk89ziw6jp3zxaidmys7d973fmclk4kcx9cdanqhpz187fr
+FileSize: 3300
+NarHash: sha256:1fnaxiai0f9nnadq8qv6dnpw0iixp670gnbv8mli1r5cwhs8fmiq
+NarSize: 7720
+References: 17x4zac030zfpdgkagi7w74f1s7gjpxy-ncurses-6.6.drv 1sq3jhkwh17kpil91cvc2sg3m1xdjc50-groff-1.24.2.drv 1vdasz95gwhzfafnj7g0r2i54qndq5qq-ruby-3.4.11.tar.gz.drv 1wlq7f27hfii89rnf652xyxxagzc3mpz-rustc-wrapper-1.99.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 82czysdbwzzvcrdfq1y9q9y4fv5kgy73-autoconf-2.73.drv bq80kzg8z8ci87l5dfx4p47zi5p1aica-cargo-setup-hook.sh.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv c6d5gm3zc63zg49kanxf8w6cxfv69ibk-dont-refer-to-build-dir.patch gcy1yafkihfd5s1p4shmw5r8gkxv6mzy-rubygems-3.7.2.drv i07zyil62iaa7hs2ilnhndafi3p5a71j-cargo-deps-vendor.drv iacsilvsa2kwqvj9k5dvz6h3gmsryp0g-remove-references-to.drv km3bvnsyiaivwivckjf13a5x59xqdy4v-readline-8.3p3.drv kpqyk3wrgxqihp36af09nrhklf34w93m-bison-3.8.2.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh n8vpy6x6cprdz4y95ym7vxk12pzkphqc-libyaml-0.2.5.drv r4nmhap41x15xdpjpa2sc4aqxamrw1cz-gdbm-1.26.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv wf096bzvryjnhbb6vi68m4h3qj00954v-libffi-3.8.0.drv wq7zxvl223s5s97y3dhc3gkyk5d6dw0w-rbconfig.rb xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:xoydUKWnN8gawkvC8c/kqTxZ5nCD5dQQNxHvNy7vlFXy7g/2VIZtf6PQ0SdxkEwjpSioCDoHIih84BSfM7TfAA==
+CA: text:sha256:18hp3ks5fdzp845w5yhc4f1df24p06nz67rsq8y6r0nmzrd9f90k

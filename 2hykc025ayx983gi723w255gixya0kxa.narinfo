@@ -1,0 +1,10 @@
+StorePath: /nix/store/2hykc025ayx983gi723w255gixya0kxa-xvfb-run-1+g87f6705.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1y717wywqvgl83ny64g7mqcxyxc67smww2gbdpcyj0ba2jc63lh7.nar.zst
+Compression: zstd
+FileHash: sha256:1y717wywqvgl83ny64g7mqcxyxc67smww2gbdpcyj0ba2jc63lh7
+FileSize: 1640
+NarHash: sha256:1512bx7i4nmmxl54ldwc990m1y4y6k8z77l29xiilr2p33lc3rwd
+NarSize: 3712
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4ybjww50mqmg6my21463ywx1jcijazjx-fonts.conf.drv aj2cbak1l354gf7l3pjb07y3ivwx76gb-getopt-1.1.6.drv bcr3xmcmiq2fqs9z084b83cq7wnn9m5c-which-2.25.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l0hs6fl6j4d4lxihapy1rdp7ih3bmzrh-install-shell-files.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv pj9494a2w1i45z1dj6k1hj05aacg7ahg-source.drv qpynbmrcf0dc9bhfbdc99wj1a4ak1zc3-xauth-1.1.5.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv w32d9vrkbzjsd17068ywhxmhj82fzjq1-util-linux-2.42.4.drv xmkywhcm19x46mxrc1ii56bfmg27nbkx-gawk-5.4.1.drv y3q3jxzk4i081wxyf3imc7spx4xmzrm3-xterm-411.drv yn1vv3p0m2qzp1kms0llr4wq0n5pn3i1-xvfb-21.1.24.drv
+Sig: rime-cache-1:OoLZ8j3JyFoLF/4EfcsVQ4tGx0XwSb3UgNoPbKX09blCLFflCsBUb2YCawWdvpE+tXuk0SOQ/W5cbPXnsuwAAg==
+CA: text:sha256:0h03d6y352phpny3hpr65a3xccw3ijgm0vvbvvrgbhpnkfdpprfz

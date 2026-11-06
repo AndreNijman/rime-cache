@@ -1,0 +1,10 @@
+StorePath: /nix/store/vsbsh2bcqkb5ra9yz1yalp58k0p55vl2-python2.7-six-1.16.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1pb0ic7psr89jdp8sq0ndnh5czmm59301cz2j4p52r00zc40pvn0.nar.zst
+Compression: zstd
+FileHash: sha256:1pb0ic7psr89jdp8sq0ndnh5czmm59301cz2j4p52r00zc40pvn0
+FileSize: 1406
+NarHash: sha256:1gvj0d9198wd0r6cv1qcjpjvg0scq10bxbr4ryqcjnxq33nlc25r
+NarSize: 3504
+References: 1mddcqmyavrcaf3vgk2fddh0pa7pw82d-python-imports-check-hook.sh.drv 2zvcn5i5g883jpmv7myplz5x0w807gvx-wrap-python-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv k0g380c1kanppwxhzgigvv11d34zanbm-python-remove-tests-dir-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rkxb6gxnxigd4kc1lc03z7xvydflh5ar-setuptools-build-hook.drv rp9zgm3sr3rjh7glw755vd90smmy809v-pip-install-hook.drv rxk83dyck5m7701ndka2jvs93ys1xvac-six-1.16.0.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv v5sdwz76j8xl1xq6hfwi1dgpirmkdwyj-python-catch-conflicts-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:UXwY2d5erTUvLCgpS7EKW5RIbE4+3dke3YjyUAchHLzD7KY4MRqcfxrlNIy9DLGNW9zjCjgknzj5d1xho0J3AA==
+CA: text:sha256:051bhg8fvaqzcwc0y6dgv575rrglfkg9ldfjykik2mm8cd85g7dk

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5sijlw1sgy2h2a2i7p9dj3zirk4crzld-freebsd.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/19fddlsjm7b5yvms22q6ss8vgwm9p110c2ln21z4dkqk6jz37acd.nar.zst
+Compression: zstd
+FileHash: sha256:19fddlsjm7b5yvms22q6ss8vgwm9p110c2ln21z4dkqk6jz37acd
+FileSize: 646
+NarHash: sha256:1n44wcx4ydmqg8m8zr6cyaspllr0f5wlh5l56zw31gr700c69r0i
+NarSize: 1504
+References: 
+Sig: rime-cache-1:29Ckz53Em+gKvABoAri57/92HwMYgyT5HUbA+fOlBIv8lAzZkOv/g2eSaQX3+hWRMurPtmiGkh2S2rxfgWb7Bg==
+CA: fixed:r:sha256:1n44wcx4ydmqg8m8zr6cyaspllr0f5wlh5l56zw31gr700c69r0i

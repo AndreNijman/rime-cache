@@ -1,0 +1,10 @@
+StorePath: /nix/store/r29mam1iykplq6ds238yq2aralh9abyg-pip-install-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0mzayhk26ki7shdd5m3xiy3a1iqv0ydrcf0kv8lvb82acl26vsyf.nar.zst
+Compression: zstd
+FileHash: sha256:0mzayhk26ki7shdd5m3xiy3a1iqv0ydrcf0kv8lvb82acl26vsyf
+FileSize: 942
+NarHash: sha256:02kz9jn1ca996249490g15s3p7y3glg3d8sljx5b9h831czyr6bq
+NarSize: 2368
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rdh5nx1adfv368imv29j2kf2s0prr039-pip-install-hook.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:zDj4gdEMHgtlu7MAaPTQHnUC/7rznPBan22SM3pwOSu14ZFFsnMCNcQvgwPb9Y+qpJ/4ci6Pad+krTh87rdGCQ==
+CA: text:sha256:1l16pilnhb2ad60lrjflakyzcsz4ixv5v36czjkgna17q96jmw8v

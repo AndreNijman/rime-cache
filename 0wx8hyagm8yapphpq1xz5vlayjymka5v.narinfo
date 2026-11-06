@@ -1,0 +1,10 @@
+StorePath: /nix/store/0wx8hyagm8yapphpq1xz5vlayjymka5v-icu_normalizer-2.1.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ksisvl7svzc4klyjgf2rpzs9icbpw45n6p2hhpk7fmq850ijy56.nar.zst
+Compression: zstd
+FileHash: sha256:1ksisvl7svzc4klyjgf2rpzs9icbpw45n6p2hhpk7fmq850ijy56
+FileSize: 905
+NarHash: sha256:05amwavi6w3pz8f1173jzawr02hwvdw299mr32q4mm2di8jd6vw2
+NarSize: 2048
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv ia4n93gs9qbc3s7kn24ics9pa2ydpi6j-crate-icu_normalizer-2.1.1.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:8I0z0qXB8bW6cPiCuNPqXHZDJW5Zwm0WQvxpe3XlCePjtBhwgA7XEbWUY3h/M6jHuZafDmFGMpRP9YYZBk7mCg==
+CA: text:sha256:036yi3p3y52a6jnksq2vpbxdb22y0swwpk1s9jwhnld6vb4qzmca

@@ -1,0 +1,10 @@
+StorePath: /nix/store/01q1glyj4yhrj6l0hpk92w0pb0ydiwj9-autogen-5.18.16.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0vsg249xpx6nm7sbjchmd9hqh97mlg42gjdkah0xqnb9z50kjidm.nar.zst
+Compression: zstd
+FileHash: sha256:0vsg249xpx6nm7sbjchmd9hqh97mlg42gjdkah0xqnb9z50kjidm
+FileSize: 2347
+NarHash: sha256:11pda2ifw2kakybnmyj84iap9h7h0n8jzv2qa04zhm13h062qxmh
+NarSize: 5704
+References: 1jwj5g1hxbl9sq8vjsc5s9pg4k2vggfs-guile-2.2.7.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 358mfp79vgb3791d59188sb0v8kzdxq1-lfs64.patch.drv 9abzw4a4vi8akcmqrcdzz0hckm6r0852-libxml2-2.15.4.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv amxd1dsfy7xwca0xyb98rld7swgk0340-30_ag_macros.m4_syntax_error.diff.drv arqfl5yz0jz6piw7bcz9g0i6xa0100p4-guile-3.patch.drv bcr3xmcmiq2fqs9z084b83cq7wnn9m5c-which-2.25.drv cl6m50fmbd0f082m91l86w0yzblcp30a-40_suse_06-autogen-avoid-GCC-code-analysis-bug.patch.drv g6wc50c379n5x1s0kni95a7836bbjjl5-31_allow_overriding_AGexe_for_crossbuild.diff.drv jfxn11ahwxl1ll3syyy3jxw08spf8bmz-40_suse_01-autogen-catch-race-error.patch.drv kbwnisrd0xkh892q6pi56wxkbvkcmiq7-autogen-5.18.16.tar.xz.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mk0kb9zsgrdhkjbpb8qai7lw05dlz55v-20_no_Werror.diff.drv ngi4c9v4hw2ix4jxkjhicvd2lgpqrf4n-40_suse_03-gcc9-fix-wrestrict.patch.drv sc6fg9306ivdf722cgdjv1cch3ar26lz-40_suse_05-sprintf-overflow.patch.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:iNpiRGDS4tL6h9NaUAo+C0oeBr1Hnc4eIZt73exukIMGQ1yTqXXglSqXEQTJZoV2ZQDf8vG8hCG6HHauCoPrAQ==
+CA: text:sha256:1qsg9ryy07kf5h5ff3bzll09x33idaxkwfz8wzv4gcddb9clcqms

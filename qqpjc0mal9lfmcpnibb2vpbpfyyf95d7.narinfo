@@ -1,0 +1,10 @@
+StorePath: /nix/store/qqpjc0mal9lfmcpnibb2vpbpfyyf95d7-crate-potential_utf-0.1.4.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0p695kf15cp3ywvvsmk2nv53xcjdx4b4v480jj7vhxckmbvc4s6k.nar.zst
+Compression: zstd
+FileHash: sha256:0p695kf15cp3ywvvsmk2nv53xcjdx4b4v480jj7vhxckmbvc4s6k
+FileSize: 1377
+NarHash: sha256:1lkvv9djjyww5n0yhsnbxk2l8783zkccx8yb8vi5m6xmga3d04c1
+NarSize: 3728
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:dCmNYsan0ziW2kZJ90nePLZudTZ38gkhV+pDqSwlT/bcGwDHAZ+dPQFjgSne5AwdrY3jVlg5fwXu8oXsfoA3Dw==
+CA: text:sha256:1zdxbzhxqyf0k3vpqc72p7drv589lqcmqb4fmhq6plw2bvdm4a7f

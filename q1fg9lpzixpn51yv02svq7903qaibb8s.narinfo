@@ -1,0 +1,10 @@
+StorePath: /nix/store/q1fg9lpzixpn51yv02svq7903qaibb8s-crate-icu_locale_core-2.1.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/142875m1dki9rn3i8qgagyz6si8lr233pnq90rv3mx72ffy2qln0.nar.zst
+Compression: zstd
+FileHash: sha256:142875m1dki9rn3i8qgagyz6si8lr233pnq90rv3mx72ffy2qln0
+FileSize: 1376
+NarHash: sha256:0pnfc018vw7z7zgssw458p9380alaky7k6yywpdv7nh2l1x2fbzp
+NarSize: 3736
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:FmUetN+CldhzFR1yRyyZmRntBf+hh5zJc/5ByxdXuc4SUaS9eRd6Lwmk8vyLv0zbUyf3nzsMzUU270Pp8+vWAw==
+CA: text:sha256:1rds5a2lkarp8dab0sas2w4d9b9g91rpwflzxgd7lb61d162x55a

@@ -1,0 +1,10 @@
+StorePath: /nix/store/2zvcn5i5g883jpmv7myplz5x0w807gvx-wrap-python-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1i82v50g13gf8q9qfsh9hdziik7kxvannycaj9hdyh5ggsy5kgq4.nar.zst
+Compression: zstd
+FileHash: sha256:1i82v50g13gf8q9qfsh9hdziik7kxvannycaj9hdyh5ggsy5kgq4
+FileSize: 1410
+NarHash: sha256:17zip12xc7lrqdb96139df7p71djn0iaqwkmg2yilx42qnxk6276
+NarSize: 3720
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv d4ybp0ma7zk8nxxsbdqwzj0qf1y0700j-wrap.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:PkLYII7QC5wMemWz804BwVcsX/LKoYx1EJ8EAuDtUV9djJ42FZNRC1BbjKyPGPASuFZB4u9F34czF0zl44i1DQ==
+CA: text:sha256:1ffaachhaqq5zrwgngv28j6jnk214r6rndmx7m8rh7xhi5421z0l

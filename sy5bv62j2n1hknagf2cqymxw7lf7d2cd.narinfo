@@ -1,0 +1,10 @@
+StorePath: /nix/store/sy5bv62j2n1hknagf2cqymxw7lf7d2cd-unit-script-libvirtd-config-start
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0igixbn8ry8fm2a8a70lmnczsgy67qw7314c28h98dvlsxq77ygq.nar.zst
+Compression: zstd
+FileHash: sha256:0igixbn8ry8fm2a8a70lmnczsgy67qw7314c28h98dvlsxq77ygq
+FileSize: 1060
+NarHash: sha256:0a1a7r1fk3l4865k0g7y09hx9msh5qfz29ca6aycb7c5zyp69xgh
+NarSize: 2816
+References: 0lbyk81wzymdi9fjm57bx7v9ybmj4x8h-network.conf 1pprmrb6irimcw2q25ajqilb4j48h1qj-libvirt-12.8.0 9l0j15jg8634hkb6d4c9y95mpxl0nhrd-jq-1.8.2-bin ka5n2xfg9rijrc5xndvggjccycwax31j-qemu-host-cpu-only-11.1.2 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 vbnglj4gls0i4lwv6hgcn55h8cnf7aib-qemu.conf
+Deriver: yzds7mk26hs7l1zr9fmsr9g3cxlkgfwr-unit-script-libvirtd-config-start.drv
+Sig: rime-cache-1:wvcg4Ipzy4MuUeF88FeNxz+SIrjQFUBaztya5I65WUCTWTMQ2VjXXXC0Kc2eXMzNGCJ9wXruihgMG5gkj6CfDg==

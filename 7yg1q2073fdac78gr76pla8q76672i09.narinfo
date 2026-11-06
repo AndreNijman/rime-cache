@@ -1,0 +1,10 @@
+StorePath: /nix/store/7yg1q2073fdac78gr76pla8q76672i09-pkgconf-wrapper-2.5.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1vxk1ws2h0f73yzgknz47djgxapv520j9anp03kvg209hl9bdlwa.nar.zst
+Compression: zstd
+FileHash: sha256:1vxk1ws2h0f73yzgknz47djgxapv520j9anp03kvg209hl9bdlwa
+FileSize: 1686
+NarHash: sha256:1k5sq8sxmxglii6sch5vwadw704b92azcndrsrj6zzcblx62g6xs
+NarSize: 4464
+References: 11y0cvyql3dvh9p9vfx9rmxlgwh8f1sv-add-flags.sh.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5ifjvl339v99fmg9bs75c20m4sha965c-utils.bash.drv gldj83ky8ls53y5zkzi4dnsg7vss4mdw-pkgs-config-setup-hook.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lypyhrdqir7lhwhsvrr1cp85ywh3dhas-pkg-config-wrapper.sh pcdajis51qhlsbzqpcg1fb4da27prsqc-pkgconf-2.5.1.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vcs2fww8llbbdgjq0m8sbzzkv18zzbq3-pkg-config-role-hook.drv
+Sig: rime-cache-1:fLtPH+mqtFbHD0BQ5nPBTOPMkBRd93Phubs0kL68VNIFFnmHpcDBGgOJLcY7dhkkwddEjVaDkcqVlCWnbZ2+DA==
+CA: text:sha256:1xscqwzwa9m51cdn125x3g4ynr28q5vawqasfrnhw93q0y0w88zq

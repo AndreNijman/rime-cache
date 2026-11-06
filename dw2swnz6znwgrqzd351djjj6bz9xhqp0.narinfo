@@ -1,0 +1,10 @@
+StorePath: /nix/store/dw2swnz6znwgrqzd351djjj6bz9xhqp0-crate-fastrand-1.9.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0gcs19pfi1ai3w08cfznpikyslw6ss5p5gxfh8c76pb4ggrh41p9.nar.zst
+Compression: zstd
+FileHash: sha256:0gcs19pfi1ai3w08cfznpikyslw6ss5p5gxfh8c76pb4ggrh41p9
+FileSize: 1373
+NarHash: sha256:00q6lgsxrhlw4c6kzbk2n15k2vfnj7xxf064frxkww3s4hgiis5k
+NarSize: 3712
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:2MQR4sH4e4GWPd0QMAY/64mjmazxqoD9o3X7CGGHKIyQCuidiVLgklLWCvwLDz1M0NGoff9mL3Wm11HYqm4pAg==
+CA: text:sha256:12ga09i917256z91v141zxiprw1nv181s2k9pqx74866r2hxwdk5

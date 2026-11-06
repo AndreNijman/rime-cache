@@ -1,0 +1,10 @@
+StorePath: /nix/store/bvy1r46zj5ygagfhpy7sxhc8mk6d5ivh-pdf-reader-2.15.0.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/01ida18qcdpr2y6ms9lmvxahzbr5s8fbgr2r83f6c5dljfng24sx.nar.zst
+Compression: zstd
+FileHash: sha256:01ida18qcdpr2y6ms9lmvxahzbr5s8fbgr2r83f6c5dljfng24sx
+FileSize: 1401
+NarHash: sha256:00gxgcfx5b3n5bmwwakcl0ryzlbqy5fapfp4q9rl86zbi58wn50z
+NarSize: 3664
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:koeIcpNZdAN6seVYT2VhK1Dmbf05KSiMZYPRZaWqCLbaK/u4GC7lYI91iZICOe1tDWglMd8bEOPgOXrSj1Y7AA==
+CA: text:sha256:1bz6svrvd0b5ddpjw5ljbqkxv71rp3x3cxfpyb6d6zalsmab5r1i

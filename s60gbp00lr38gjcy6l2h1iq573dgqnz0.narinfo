@@ -1,0 +1,10 @@
+StorePath: /nix/store/s60gbp00lr38gjcy6l2h1iq573dgqnz0-X-Restart-Triggers-systemd-udevd
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ypg3qdzbmwgfk48ins0ykjfwa7yxm4m6a7746xm2jqk9ws0yavl.nar.zst
+Compression: zstd
+FileHash: sha256:0ypg3qdzbmwgfk48ins0ykjfwa7yxm4m6a7746xm2jqk9ws0yavl
+FileSize: 126
+NarHash: sha256:0b6m2nq3b20yms1hg9rbg9hg6lkzyvqdgycxb3w2wxcc9mld7fj9
+NarSize: 168
+References: mrpx591l4hkg14qbl3r776d8rr08bgz9-udev-rules
+Deriver: h2scma8ikpjxpyi90lb52qrm87k7kri9-X-Restart-Triggers-systemd-udevd.drv
+Sig: rime-cache-1:2VAr2Ynq9FjQqv29S7ULJMd1DmCSrmS3TXIm65AKIMhe7RAye8336GDu3LauHLUlafIegZuY0QwqzxwPUS1WAA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/b154xlx18v3r1i9m7xxfw0z16d46fnjn-nix-voice-runtime.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ajgllx12q1qflaj9d9mkfj8sd6bdi6vz8m6rphg3wk2a4wbhwrh.nar.zst
+Compression: zstd
+FileHash: sha256:0ajgllx12q1qflaj9d9mkfj8sd6bdi6vz8m6rphg3wk2a4wbhwrh
+FileSize: 491
+NarHash: sha256:1fyi3757wm8il35k1azvcmw02m7rrhpq19n11cxj7rv5gd4sfv3y
+NarSize: 896
+References: 
+Sig: rime-cache-1:cBe8GEZ6lOOrMr+8LbCezJJgqPJA0P0tiVpj5jFgu7khS0RVxbfYvSZZmYEdfifKlZRMyY/eQ4dgc+l45lbrAA==
+CA: fixed:r:sha256:1fyi3757wm8il35k1azvcmw02m7rrhpq19n11cxj7rv5gd4sfv3y

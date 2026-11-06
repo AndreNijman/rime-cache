@@ -1,0 +1,10 @@
+StorePath: /nix/store/gcy1yafkihfd5s1p4shmw5r8gkxv6mzy-rubygems-3.7.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1apfn48lmdfd36mx0dzk00nqlqjywi35gd0ry2jcr66343fahy8q.nar.zst
+Compression: zstd
+FileHash: sha256:1apfn48lmdfd36mx0dzk00nqlqjywi35gd0ry2jcr66343fahy8q
+FileSize: 893
+NarHash: sha256:0m9xamgndp15qfqqbihixc88qwjr71zafpzdjyxykfvidva11avg
+NarSize: 2248
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5kl91x2rij52lwgcmxx0v9nazism4isk-0003-gem-install-default-to-user.patch l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh nlivy11dm5lm8xp7wqvbjwriibm3y9zc-0001-add-post-extract-hook.patch shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh v6rnv6ddl3hi7r3a74r1i41hhs8w4bsx-rubygems-3.7.2.tgz.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zgmb29v8alxw6b2hjy9sl5xn5mpz4min-0002-binaries-with-env-shebang.patch
+Sig: rime-cache-1:hwB5wzjJhXBuoj4+Koal7cAVgztmKQ/T/QuZWZjaKp+hLqEYiIatDLDCEBWhyQvISBgwVgVl9BOziYQKsN/HDg==
+CA: text:sha256:1q68yv85lygybi3rsm9cqkjh3scl8p1jja20xmj4l8j1xpkf1yfq

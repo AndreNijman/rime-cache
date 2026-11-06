@@ -1,0 +1,10 @@
+StorePath: /nix/store/0rf2db5kc3dg69wb37sjmaip7ibd11sf-chatgpt-launcher.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1riwcrrfminyyfai459y0iz4xznis3x5adwwljsqj4s13znyxq1c.nar.zst
+Compression: zstd
+FileHash: sha256:1riwcrrfminyyfai459y0iz4xznis3x5adwwljsqj4s13znyxq1c
+FileSize: 1931
+NarHash: sha256:1hqld16ahs19l8lg7i84afliszz962wwm3s95683bafchzg6zy3w
+NarSize: 4864
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv bfn1pyc0q2z7vfgz82nwh675fnda0q8a-flock-0.4.0.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vxlj9risz65rk8dq6f02z1mnvcydpjjj-ShellCheck-0.11.0.drv
+Sig: rime-cache-1:TL/lrzU+52PDULMvzTcsLFwiFeOIFim//ifGy/3LSwmWWyR1DG1fPltjPakqlwR/JH+3RgFzakyxWuoCegLYDw==
+CA: text:sha256:074y0qxabk27m1cm2a1mrw7pgm2gp4vpb3nlbzba1146wjcr62jg

@@ -1,0 +1,10 @@
+StorePath: /nix/store/lvnfh6qvy7nb1j2i2j5q120380d2z1ki-repomd.xml
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0m12bi1psxqmfzw7vgfglkxlvi98h3kpj5pjswpjzll2blnfa2sb.nar.zst
+Compression: zstd
+FileHash: sha256:0m12bi1psxqmfzw7vgfglkxlvi98h3kpj5pjswpjzll2blnfa2sb
+FileSize: 980
+NarHash: sha256:0wa598hcwlkd2vcz3jnljc5342j8l0izabr5dynfwv12z2p0c825
+NarSize: 3192
+References: 
+Sig: rime-cache-1:c278Ml6DHaiOfzztCSu9nELfWma8qJszdz4Occtbf5g2lmCdyNcOuyRvaPcfn6haMFks9oY44sZbT31LIGk6Bw==
+CA: fixed:r:sha256:0wa598hcwlkd2vcz3jnljc5342j8l0izabr5dynfwv12z2p0c825

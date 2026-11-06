@@ -1,0 +1,10 @@
+StorePath: /nix/store/vm63fcawdkijwz38xgg3rgsh9g51n969-fc-52-nixos-default-fonts.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1mqc03knzdhfmr7a7y5d1xzcfc6lms28s6cyzqaz0ni72q9m6pxv.nar.zst
+Compression: zstd
+FileHash: sha256:1mqc03knzdhfmr7a7y5d1xzcfc6lms28s6cyzqaz0ni72q9m6pxv
+FileSize: 277
+NarHash: sha256:05gs6bvdh5mxvq37nxcv8m32iw60xahqdj0cqlhcd8ws0hf4srw0
+NarSize: 728
+References: 
+Deriver: qp73k36j47ibnh2h0pwagymqannfp4qw-fc-52-nixos-default-fonts.conf.drv
+Sig: rime-cache-1:OtaEYsauxQRa/wih/LyTr6yMvpyFcdT2jHX/QCB9cN3YMt3b99QGj0n2k5jYvgpo9HChDGJIlZRuvoP3YjfUBA==

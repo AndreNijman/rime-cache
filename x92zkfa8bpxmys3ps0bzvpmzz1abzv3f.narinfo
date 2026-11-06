@@ -1,0 +1,10 @@
+StorePath: /nix/store/x92zkfa8bpxmys3ps0bzvpmzz1abzv3f-ronn-0.10.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0v2l1sv7nm9bbc00qrp9azakgmpl0xf4b8iccwfa5kr1lgai7c0r.nar.zst
+Compression: zstd
+FileHash: sha256:0v2l1sv7nm9bbc00qrp9azakgmpl0xf4b8iccwfa5kr1lgai7c0r
+FileSize: 923
+NarHash: sha256:0pszjwc55sq1awma7yhwcnlgqnhnc8jsli2rng7076j0qf160zy6
+NarSize: 2088
+References: 1sq3jhkwh17kpil91cvc2sg3m1xdjc50-groff-1.24.2.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jb9msvn0wl3pwr1w16k4a510lwgkxn78-ronn-gems.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:Wcjtzb2Tj7ADXxarqxk4fFR1213VLKOEIGvAesTkPPq1VhLxySWj/ucXn1f3x8ZKw49lkcP07Jk4KLPeO8hDAQ==
+CA: text:sha256:1z2pnz83l0im61gx4c4h610fh51mvpgnpvxkha843mfkln3w258p

@@ -1,0 +1,10 @@
+StorePath: /nix/store/8zqaifqf20lpf7dnj0gdlcw3aa0kclp2-dbus-cplusplus-0.9.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0fgy0i7i0xa3hikhrd2kipvxgb7blw44zfddy012zr7h57nc1vq7.nar.zst
+Compression: zstd
+FileHash: sha256:0fgy0i7i0xa3hikhrd2kipvxgb7blw44zfddy012zr7h57nc1vq7
+FileSize: 1409
+NarHash: sha256:0yz8hfcwchaarvyqk594jw6cpzjgskaivsf9pgn0msr7f6d3p3b6
+NarSize: 3712
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:aC2uaoOFIqhyt85oPkL19/GWxq4r9nLSa7tTfTwOmFcSC6XtRnLgjpYyWX6IxXD7jmv32M6elaDRgwEOJXaUAg==
+CA: text:sha256:01gcy0iswpbly83qgrp17dcd74gxr5rqk16y1wy1k6bn8pr0dxjf

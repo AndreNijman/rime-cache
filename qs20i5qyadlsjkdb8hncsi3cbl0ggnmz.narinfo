@@ -1,0 +1,10 @@
+StorePath: /nix/store/qs20i5qyadlsjkdb8hncsi3cbl0ggnmz-ruby3.4-css_parser-1.21.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1y4950by5db3j6skav8gch2qb1sg4fbd5nv51pj19nza090lz359.nar.zst
+Compression: zstd
+FileHash: sha256:1y4950by5db3j6skav8gch2qb1sg4fbd5nv51pj19nza090lz359
+FileSize: 2545
+NarHash: sha256:12cr3rhxxgamg0zx0nm13k1ls8j1b5gncwznd2mdcc6b8dbz7l50
+NarSize: 6176
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv vb4piz3lfx3g1557zg8wklzjxsmlf5jg-css_parser-1.21.1.gem.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xz5gs881mdzm3si5pjdyxsbn391zl0wg-ruby3.4-addressable-2.8.7.drv
+Sig: rime-cache-1:jDeuZ1kp332v8q929cKUYyC7l5rz3aH8LLWsm7ZjeRZcY/Fm6txg4husOb5KEVdA3AYhcoeLY2/25JAxTiyUCg==
+CA: text:sha256:1h0lva46syq90k6gbkriqycdphjqzwgs57fsvrwcl9k5jqqhfxl1

@@ -1,0 +1,10 @@
+StorePath: /nix/store/f0i9xn9dyr02k5nqf8zjckrha4nlq77x-adns-1.6.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1p6jnvgw64safzi8yp9v74lmjwbj8g1j248q7hprxk250kldk8la.nar.zst
+Compression: zstd
+FileHash: sha256:1p6jnvgw64safzi8yp9v74lmjwbj8g1j248q7hprxk250kldk8la
+FileSize: 936
+NarHash: sha256:154igmc5jgv8ynqvy66xw78as6lg2nxv27650f06pj8xmgn6flgi
+NarSize: 2176
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv ib05kzzpwqd9mgfvfy85psvs2k20f26z-gnum4-1.4.21.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q8ixwdqr6ncldb2jjv9nnbw8bhys3ab2-adns-1.6.1.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:kT3uo2l/TtEhhXdxGvixoy4qBZ94sH0Q3RtAVwfdZV+c/6J61HRFXbRAThrMZnXUrla0Wie6bYrpujKpQxmTDQ==
+CA: text:sha256:0w8cnkcq92f7yh3dh47ja0v7fg0gspvb89s30wpd0186g9lbs8li

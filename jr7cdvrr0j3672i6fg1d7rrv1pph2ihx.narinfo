@@ -1,0 +1,10 @@
+StorePath: /nix/store/jr7cdvrr0j3672i6fg1d7rrv1pph2ihx-mimeapps.list
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1py119pwjpaf8bm7vgvl43hhzsqfyr7agryra41rcs745k1bfwzl.nar.zst
+Compression: zstd
+FileHash: sha256:1py119pwjpaf8bm7vgvl43hhzsqfyr7agryra41rcs745k1bfwzl
+FileSize: 177
+NarHash: sha256:0qvgq9dgwnanyvicm67s1ps7zvc0gfgi8v6r42pr7b0hm33fsd73
+NarSize: 360
+References: 
+Deriver: jdmfzq0yl7x297l3sylp92n3sxs0dpar-mimeapps.list.drv
+Sig: rime-cache-1:QbtIGQWj+8mUU6gVMp/Pp5UCcTVZkdyow4FaFf32ovpe44U8D7NXNuMBHjPvgNitqyCg0HfW/BeexI2dntdsBw==

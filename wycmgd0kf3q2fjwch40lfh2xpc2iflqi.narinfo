@@ -1,0 +1,10 @@
+StorePath: /nix/store/wycmgd0kf3q2fjwch40lfh2xpc2iflqi-crate-yoke-derive-0.8.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0cwvvrg410zd5bc2cw40pdqvws4qrxhmd2mia1q9g338nxjxvi4z.nar.zst
+Compression: zstd
+FileHash: sha256:0cwvvrg410zd5bc2cw40pdqvws4qrxhmd2mia1q9g338nxjxvi4z
+FileSize: 1370
+NarHash: sha256:1hg121h1nh33dfh9g2wxnki89ymys14q2m8z8jlh2751smbjiqwg
+NarSize: 3720
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:5EcplvkXd+xXe7z4PDvGL5JCqKm/AfkfZksNXAydQttUN6PneTnYaOggW7z2EFv5alnf4niN44VxXPwSRzTVAw==
+CA: text:sha256:1pal7f0ni3ifbza1jrf5g596nrny0vxb3nsf60ilfkravsadqj21

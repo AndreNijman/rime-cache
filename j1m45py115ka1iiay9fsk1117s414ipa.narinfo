@@ -1,0 +1,10 @@
+StorePath: /nix/store/j1m45py115ka1iiay9fsk1117s414ipa-libsecret-0.21.7.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/02h9ndgz29g8cms6rz143ixcz2vpnb77fdvp76rr02r7djcp7zaa.nar.zst
+Compression: zstd
+FileHash: sha256:02h9ndgz29g8cms6rz143ixcz2vpnb77fdvp76rr02r7djcp7zaa
+FileSize: 1398
+NarHash: sha256:11nfc95nzw2sza4m2sgqnypr05w3bw3m800q0c6xpjwca4irq8kw
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:4QLp4g9FwAs/ez7xfF2zUi1xFg1WSVAfg1WFHZIoaIBDobNuDUvxl9c9qGOJiL899fU7WA7RS4FhTd0SvwxLBg==
+CA: text:sha256:0vqagllcmsxx2zhr5mjfxvslhrgmq7liihbqd7in3bwjbiab6n43

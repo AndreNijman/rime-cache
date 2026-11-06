@@ -1,0 +1,10 @@
+StorePath: /nix/store/mqiqy20arssmyrxszwi8yjf5c9bfkz8c-wayland-1.26.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1cgc6qnaij8x7mnhjp66qy5lby3z8ikkigm7fw20qcs09g8vf0ys.nar.zst
+Compression: zstd
+FileHash: sha256:1cgc6qnaij8x7mnhjp66qy5lby3z8ikkigm7fw20qcs09g8vf0ys
+FileSize: 1810
+NarHash: sha256:0i5c43mlrr99nzd89yzfq7plj64ic02p7yvqa8byb298dxmdx8vh
+NarSize: 4688
+References: 2wjki1zfm6jdnmmbgzjq27g9byf3298s-docbook-xml-4.5.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3m4zgbdgb8vl1cmf4bjn1sli5383ih9n-graphviz-15.1.1.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 7i14yd8ck55zqrn0s95rsvbbg39dln1b-xmlto-0.0.29.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bak59igmbly0kvhl0h6zivgn9xhc031w-docbook-xsl-nons-1.79.2.drv imazkgikrk5hmgybnps01k48as29y4vh-mdbook-0.5.4.drv l0sdvmfkwwxbrz5b3j14i62si0zcx0pg-doxygen-1.17.0.drv l2bwdpmg5696a91w479mv3x5dd0bgkf6-wayland-scanner-1.26.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m5jc1dw2wp1h34gm02vr50agp8v55v8n-wayland-1.26.0.tar.xz.drv r7kprripy15xzxz5hpc61gl89zaflkn3-libxslt-1.1.45.drv r989dk196nl9frhnfsa1lb7knhbyjxw6-separate-debug-info.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv wf096bzvryjnhbb6vi68m4h3qj00954v-libffi-3.8.0.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xvbx2y2si64kw1xb9kxfllb2pwkvc8x0-docbook-xml-4.2.drv
+Sig: rime-cache-1:90c095aeyDpK+gH7p6G/yfv5MYtEMyUvl7DD+Jll1WTCQUxdEBcvZE1+B2QSx23RQ0GPcpMaOWetDDEr5xm2DA==
+CA: text:sha256:00p471dz5s6xzw4b2hrgc302aii4q5lfy5mickh96vszzxjifa09

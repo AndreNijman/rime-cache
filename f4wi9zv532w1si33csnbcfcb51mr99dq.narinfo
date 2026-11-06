@@ -1,0 +1,10 @@
+StorePath: /nix/store/f4wi9zv532w1si33csnbcfcb51mr99dq-export-hip-pinfo-symbols.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/04n5d5j4z7xa3skgwbqj5d5f3nyzxnjzpxp62zcg2v3927dk6s5i.nar.zst
+Compression: zstd
+FileHash: sha256:04n5d5j4z7xa3skgwbqj5d5f3nyzxnjzpxp62zcg2v3927dk6s5i
+FileSize: 378
+NarHash: sha256:0yah538ysyn0jfh3mmvsjnygjadlrk5fx8zv9q49xhxfm6kk96z5
+NarSize: 616
+References: 
+Sig: rime-cache-1:sVrspdr/ix44YQnCrG03Givu7t4xq3fMw4lALZ/keAZ6q93c5QbmiTd6dfaE9POzxOYUswZ9KlygfDbaEH4XAw==
+CA: fixed:r:sha256:0yah538ysyn0jfh3mmvsjnygjadlrk5fx8zv9q49xhxfm6kk96z5

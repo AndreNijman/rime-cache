@@ -1,0 +1,10 @@
+StorePath: /nix/store/vg3db588ssn9in6ywkp5gllhp0zwg97w-libpaper-2.2.8.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0hgiiavd6jj2nmhs0cq4q2425v48q5ddrp03kgm08qiq0m7gwy8x.nar.zst
+Compression: zstd
+FileHash: sha256:0hgiiavd6jj2nmhs0cq4q2425v48q5ddrp03kgm08qiq0m7gwy8x
+FileSize: 884
+NarHash: sha256:030xrbry4fb9dzc78rk651asxqig6c2rbjkma30j6nlj5rfd6hbp
+NarSize: 2008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv bvhsa58112iypwj75y4k0p5n6h4f7crr-libpaper-2.2.8.tar.gz.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:hbBM/xwZmjx7xwsYuEVtZ4lMxSuWG7LXMm0Pbky3Yjt86iPtvzfZ26lgKYxIMAmCnGVOK7OtumYcmHRAUTkxBw==
+CA: text:sha256:111q1kf9wk2s57bjzlz4kkqj58fkkv3a380zwpxqw5mj6zhx70h6

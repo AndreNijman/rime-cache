@@ -1,0 +1,10 @@
+StorePath: /nix/store/kkl9f89bljhw18wxd3wn6fh96ddndw69-libxcomposite-0.4.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gnzabi0sl0y459m77866hzv11vvmwh1n93piqifaclvgrrb94zs.nar.zst
+Compression: zstd
+FileHash: sha256:1gnzabi0sl0y459m77866hzv11vvmwh1n93piqifaclvgrrb94zs
+FileSize: 996
+NarHash: sha256:1allq377q3mg5p2qjlxgv8iv18gp06bkp1ckvdibd7xisn1sb32h
+NarSize: 2552
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5079zx28lciny73n7cjfgxzyqkrprgja-xorgproto-2025.1.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv l0z76jq8gpvlbmkv7h6ypz0jircszg2r-libx11-1.8.14.drv l2cap5j552a7pq2kfgnpqjr19kylg0w4-libxfixes-6.0.2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zrgc3sc302x6qm76r8nzfkmr5jrraxbw-libXcomposite-0.4.7.tar.xz.drv
+Sig: rime-cache-1:o6zGNl+ZV77DpGB5g4zWSHBLZFiVoCEo3O85vW+wOPzJtSOpu8n4DoJmaCJ5DzQxHd51tuPF7Ob0tAg96ffFBA==
+CA: text:sha256:01qdb44pdimf2m7czddl9v04w8nyng5r6d0pglbffhjvbdx37qia

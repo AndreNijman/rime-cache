@@ -1,0 +1,10 @@
+StorePath: /nix/store/gv5aprw14bb4bbgprw22dmxl3f15q3dv-crate-pin-project-lite-0.2.16.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/05ii34003pa7ldr79xxfggn74plar1m9675j0g126rn8ibva6jzw.nar.zst
+Compression: zstd
+FileHash: sha256:05ii34003pa7ldr79xxfggn74plar1m9675j0g126rn8ibva6jzw
+FileSize: 1376
+NarHash: sha256:1ilzyx5yi5ivnnqpnw6rvx7x4bym03yazhww65322i4sxk62qsqa
+NarSize: 3744
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:cYquLqOk68cISxhXSfqiviPr+2+fO3WgdSH2o7+LA0jsJG9gFCM/TDabgzeGcbn5lQPKUJDRqTvxCjorzMCVAQ==
+CA: text:sha256:1ia9w6i3djx0ff10c4yl6zmzm756s4k1w2v2jmfkvygrzvp40n1n

@@ -1,0 +1,10 @@
+StorePath: /nix/store/izhiyc75517h4d2p2sybqnjrq9hdyajz-python2.7-setuptools-44.0.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/00fw69ry4gra3gaac6lxri9cjn2qyjh6lcagnabrfzb0d3xm1p3p.nar.zst
+Compression: zstd
+FileHash: sha256:00fw69ry4gra3gaac6lxri9cjn2qyjh6lcagnabrfzb0d3xm1p3p
+FileSize: 1410
+NarHash: sha256:0aidwp4kf8l54wf2avyxbcra60v9l01anl7fr5zhly60npvi5q98
+NarSize: 3360
+References: 1mddcqmyavrcaf3vgk2fddh0pa7pw82d-python-imports-check-hook.sh.drv 2c4blyq2wfsb4k32hhvgldj06d7jxsh7-setuptools-build-hook.drv 2zvcn5i5g883jpmv7myplz5x0w807gvx-wrap-python-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv c700620p2lz9nl21x0zj4i1gqydagaaf-python2.7-bootstrapped-pip-20.3.4.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv j0b96r9c7y8w1jshp4v0jqdr9z8ycv3m-setuptools-44.0.0-sdist.tar.gz.drv k0g380c1kanppwxhzgigvv11d34zanbm-python-remove-tests-dir-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r29mam1iykplq6ds238yq2aralh9abyg-pip-install-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:AE0gmYUnyiy80pTZxKO+b8aL7Rd16rErMil1PQsi4J+CapWce5ZzloklmG+ygBbguTRo444NFmJ7N0Rf28KvAA==
+CA: text:sha256:1cksj672pd2kykb7al18kmpzlclyrcrmi3f5a08cfzkwc82x33c9

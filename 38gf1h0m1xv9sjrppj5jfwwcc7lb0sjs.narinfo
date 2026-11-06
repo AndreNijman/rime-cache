@@ -1,0 +1,10 @@
+StorePath: /nix/store/38gf1h0m1xv9sjrppj5jfwwcc7lb0sjs-libfreeaptx-0.2.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0jp98pfd3mb35b90scscmbc85vbr0x3aqf0nc3i2lcxljlzl073i.nar.zst
+Compression: zstd
+FileHash: sha256:0jp98pfd3mb35b90scscmbc85vbr0x3aqf0nc3i2lcxljlzl073i
+FileSize: 842
+NarHash: sha256:1kv8dfn8k08pd4i1368li3d12br17gsbpzzppl8sccdijshsfww8
+NarSize: 2048
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh nq7dm3l1j9ypn7nv35d28r7ya3xvn5c6-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:PH/OxxHPKrtVBhInSNtT+XAwBWSAZ3TsKVYq8Diz9KEdaQVsOU7G9afEg8mZNFQwp/LbNFszMle2ITI8aAx6Cw==
+CA: text:sha256:1rgny6yqj7z6fwdr9g98ydjc7swp30rralg37ck7gk8f3c4l1ff6

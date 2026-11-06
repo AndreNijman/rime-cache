@@ -1,0 +1,10 @@
+StorePath: /nix/store/yckjxmr4a5kj3xn6bsydaxfs2cx84a3l-meson.build
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1zgmcpig81j85xxdq9gdgzlirqfpb29gf2ipa90x6fzqihwdvn4w.nar.zst
+Compression: zstd
+FileHash: sha256:1zgmcpig81j85xxdq9gdgzlirqfpb29gf2ipa90x6fzqihwdvn4w
+FileSize: 419
+NarHash: sha256:0n1qzlx9yjvjnv63nwdwvsj0ayfmfnv7xjf6qn9vradx4xb48v3s
+NarSize: 920
+References: 
+Sig: rime-cache-1:tgz2F/JyQyB7hXemtEP/9STlairnFlW9LR7vialsUcCglKeKVvj8KGTpvOxoBEKWztRuuci1LDRT7+NLGvWvBg==
+CA: fixed:r:sha256:0n1qzlx9yjvjnv63nwdwvsj0ayfmfnv7xjf6qn9vradx4xb48v3s

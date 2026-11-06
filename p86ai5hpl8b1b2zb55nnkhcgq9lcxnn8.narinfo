@@ -1,0 +1,10 @@
+StorePath: /nix/store/p86ai5hpl8b1b2zb55nnkhcgq9lcxnn8-crate-data-encoding-2.9.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1hyw4spyfgi731impfpyfwfqwbvsnc9ypqcdcq267844q0p67fqk.nar.zst
+Compression: zstd
+FileHash: sha256:1hyw4spyfgi731impfpyfwfqwbvsnc9ypqcdcq267844q0p67fqk
+FileSize: 1374
+NarHash: sha256:0s999g52qcrac58f40yp5dsjrc5szdaiw2gvfwj0wk6gg8336sh7
+NarSize: 3728
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:uiTCWH59mskV/mZmUxsNYpxHK+BCGZkNqClW7hzAruWv/LYCqMgZ5iWOxvGdkdA3RzV9ch02oHIedUzFbSNYDQ==
+CA: text:sha256:10fc3x4y933mg0xv7bls8pgs5yflbz3p88g153dws1yr4cq9jf6y

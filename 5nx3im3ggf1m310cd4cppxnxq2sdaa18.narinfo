@@ -1,0 +1,10 @@
+StorePath: /nix/store/5nx3im3ggf1m310cd4cppxnxq2sdaa18-v4l-utils-1.32.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1i09nb9cngnbbbc974y24fvfigw82r6kkiw56gbshzxw4r9wgby7.nar.zst
+Compression: zstd
+FileHash: sha256:1i09nb9cngnbbbc974y24fvfigw82r6kkiw56gbshzxw4r9wgby7
+FileSize: 1959
+NarHash: sha256:0mpmdyzkg0nvd77dw35pk632djkrpacy9rnk4j3137cidfs48yd9
+NarSize: 4552
+References: 08vj60jy07mashga5zacjwrl9hy1n7a0-libbpf-1.8.0.drv 0l4p52gdbnra7xhdvhh1hg24nyjxlyg6-libelf-0.8.13.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3hyvxf3m34fdr15rxf6jvyg9xw4p2psd-v4l-utils-1.32.0.tar.xz.drv 4ci4005kmcb9p05rmj94mz8j46ymw8j8-libjpeg-turbo-3.2.0.drv 5aw9lz71h61lmmn3jmgl0lf4hma8565z-json-c-0.18.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 75x5363zkdhkjb9c56wypik83078j3q4-systemd-minimal-libs-262.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 819s6w5hl7qj8xwqq7zb38cr877nm8m9-udev-check-hook.drv 9914bijg139hajpnv60z66b8sdv9ac3s-glibc-2.44-57.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv l0sdvmfkwwxbrz5b3j14i62si0zcx0pg-doxygen-1.17.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q62lj0mndv85czyw65ybcp0q9hji1sb3-clang-wrapper-21.1.8.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv zqz990imkgb72q56b64b9wwqw9hlc56m-musl.patch
+Sig: rime-cache-1:fdgNMuXyO3YJQUItxYUvL2eXv4J8jpAfTYFRIUM4JLZwpY5q4xoO9+Oo5X/rW+4vI1R0g2S/9xE+jzO3IBPnAQ==
+CA: text:sha256:12h88lijxyvav21m0184hi2117a7220bfm5zp71dmawh6hai3gg3

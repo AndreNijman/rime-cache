@@ -1,0 +1,10 @@
+StorePath: /nix/store/jp1ggdjv4y5wbmvwwx55dim9gam3w26r-gtk-3.0-settings.ini
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/098nl1l4asv9vx9nyjbggh0nsi5ca3vswrngw2p63z6bi7ski7yd.nar.zst
+Compression: zstd
+FileHash: sha256:098nl1l4asv9vx9nyjbggh0nsi5ca3vswrngw2p63z6bi7ski7yd
+FileSize: 227
+NarHash: sha256:0qwmdb2vsbf6nk77fd1sh80yykrkxm3qq04gc4wrfqbm1nr03lpl
+NarSize: 328
+References: 
+Sig: rime-cache-1:ZwiR+rW47NC+1avcNgi9A8E59QfJRZpGEHtKc3nOVYH4+WaJsjvh/RBFnnLgNULZ68io0fTjmEiQZhmacDLnBw==
+CA: fixed:r:sha256:0qwmdb2vsbf6nk77fd1sh80yykrkxm3qq04gc4wrfqbm1nr03lpl

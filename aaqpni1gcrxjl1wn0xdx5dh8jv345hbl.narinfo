@@ -1,0 +1,10 @@
+StorePath: /nix/store/aaqpni1gcrxjl1wn0xdx5dh8jv345hbl-libsoup-3.8.0.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/00kwfahfc8h9i895gaqi0yvvjapz7m7b3d4awjhf7fpsa3sn552m.nar.zst
+Compression: zstd
+FileHash: sha256:00kwfahfc8h9i895gaqi0yvvjapz7m7b3d4awjhf7fpsa3sn552m
+FileSize: 1396
+NarHash: sha256:1m4i9fibm1l6dqygmyhchj9643rhc3p8f23kvchxvagips9z8vzw
+NarSize: 3624
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:npoB7yQHwRFLyQtg+fYthtMPj8xQM0MZynPgwI7F8l6IQ/kZyYREQaf9teU1B9OB6HWL1U+hwukJtq8RAbT0Dw==
+CA: text:sha256:0mvfxwz874qkppgcxpk06l5k1c1zqm2hpnm5mk6j5vjvnak86c5r

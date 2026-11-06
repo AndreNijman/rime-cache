@@ -1,0 +1,10 @@
+StorePath: /nix/store/c3pwf9acpdv1cqz47ylr6h58lcpin6f4-unit-nix-daemon.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0crrqaspdd1rv75x1c0zvp0wzdh8p77lw0320nmb69qz9l20sg9v.nar.zst
+Compression: zstd
+FileHash: sha256:0crrqaspdd1rv75x1c0zvp0wzdh8p77lw0320nmb69qz9l20sg9v
+FileSize: 779
+NarHash: sha256:0sfaf61737xqqw3x68f1a2c82qjkamw572sl5ydzdkksxvckg4r4
+NarSize: 1760
+References: 3x16p9yylwijl4k8ba7bnidhkgbqasdx-nix-2.34.9 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 c8l8myl9bg1rgj192c3wiq93x2ayr1jy-X-Restart-Triggers-nix-daemon cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cbvhl78s1pikjc14vckk7rmwdpafzh86-nss-cacert-3.131.1 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e gksybc3b64irpkf84k30qphb44yjwqiw-openssh-10.6p1
+Deriver: 38iaw815nbnpyc8jdc80k9xz7ml6di64-unit-nix-daemon.service.drv
+Sig: rime-cache-1:5y56JEl0JZ/iUjqs8dsqUTyxPHVWwQSE2d1GmXM7x9W85xUlRtVR9iXy1YCyOyJ7iZyQNiDrj1YxfFHtUj0LDg==

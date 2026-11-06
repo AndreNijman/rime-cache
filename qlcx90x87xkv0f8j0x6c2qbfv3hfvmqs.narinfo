@@ -1,0 +1,10 @@
+StorePath: /nix/store/qlcx90x87xkv0f8j0x6c2qbfv3hfvmqs-isahc-1.7.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/10mai2k1mzzv84zv9ay1vx82rp76d0xzxqhfwayv3dkp4vj3q2dh.nar.zst
+Compression: zstd
+FileHash: sha256:10mai2k1mzzv84zv9ay1vx82rp76d0xzxqhfwayv3dkp4vj3q2dh
+FileSize: 899
+NarHash: sha256:1cm1h41zaq5683lkhwpy28d8pfz01qpgdxlb0vbk6pp2sijci7zx
+NarSize: 2008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv krkhwmyynk6946vj31qifwmkp8glwnj2-crate-isahc-1.7.2.tar.gz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:xMeeJECHF8qZkZf/rdnzyQlXNahBFLtvMSR1wcYjf4tuAs+ZGOnSrrjNNMxhmY3HatP0KEdWBDT4+bh6IT49AQ==
+CA: text:sha256:1mz2n1x0k1y90s9dfbk72wfkha3alf6l4g63zdnnqy9azm7mzq1j

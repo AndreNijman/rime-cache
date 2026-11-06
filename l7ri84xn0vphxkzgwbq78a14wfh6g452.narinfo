@@ -1,0 +1,10 @@
+StorePath: /nix/store/l7ri84xn0vphxkzgwbq78a14wfh6g452-crate-parking-2.2.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0nc12d2q8llvg6afjq7v44ynvg52i6qw8vbd08p8a04qpv6sihpn.nar.zst
+Compression: zstd
+FileHash: sha256:0nc12d2q8llvg6afjq7v44ynvg52i6qw8vbd08p8a04qpv6sihpn
+FileSize: 1371
+NarHash: sha256:112j8g5jdbrza3s2cjn4qd48sy518166hg3kcpnppkdqlwq89r7s
+NarSize: 3704
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:/crBWTMZZSWNJs8Zg8Kedo0fCPS3crcuZ6nuFLYNVfR1LmcNlmD9KUeidjCzyldnNO67NsqQefdqtiLzW7xRAQ==
+CA: text:sha256:1ynw6fra1k8q2wfyi409g0azvbciikv4fz2fnzigpnjsxslc3ga5

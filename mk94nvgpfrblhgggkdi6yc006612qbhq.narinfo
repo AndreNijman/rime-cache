@@ -1,0 +1,10 @@
+StorePath: /nix/store/mk94nvgpfrblhgggkdi6yc006612qbhq-xcb-util-renderutil-0.3.10.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0dvp5s4wxwq8mw4i3n44mbnlnaha56gii12a1aa40krfk9667py0.nar.zst
+Compression: zstd
+FileHash: sha256:0dvp5s4wxwq8mw4i3n44mbnlnaha56gii12a1aa40krfk9667py0
+FileSize: 1410
+NarHash: sha256:18qjgx48q67pj2p97raxyhix16d26rnvzvrh7kijima0xy2r944x
+NarSize: 3672
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:MWIrhfbkwPRP5Csei+BahdDle1Cyfzu93uhzAD+5VFyCz6fC6L377jN7FlCSa3iOVVIB5JflHY+eDlLDVD5sDA==
+CA: text:sha256:1ssc2016v06n7jkh0wymkifvhi49n29iamsfggr5165fh4g4sfrx

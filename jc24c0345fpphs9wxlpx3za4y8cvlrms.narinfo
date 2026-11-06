@@ -1,0 +1,10 @@
+StorePath: /nix/store/jc24c0345fpphs9wxlpx3za4y8cvlrms-XML-Twig-3.54.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1p59vl3dni3zn6w0db9pkjsllx974n81vk08v9acqr3zq60yxzj6.nar.zst
+Compression: zstd
+FileHash: sha256:1p59vl3dni3zn6w0db9pkjsllx974n81vk08v9acqr3zq60yxzj6
+FileSize: 1401
+NarHash: sha256:0k9pnfr3jyzzfzcdazpq1l20pb7ixydkajs9w6d1rw3h7b2qx3as
+NarSize: 3624
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:Zi+ZvVUsaV8rkqVo2Y0jMQLuqtL5GVPdD2161LnQ2H16X4o3DgU4/HQYSCwV/RyME1Ll4k07wcSAH8N5Pq4NAQ==
+CA: text:sha256:16wgq938wyrjvdn8njg7qsblbr4sw3hwbzw3wn8b0783v2cvyvr3

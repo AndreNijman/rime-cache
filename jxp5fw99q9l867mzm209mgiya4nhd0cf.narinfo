@@ -1,0 +1,10 @@
+StorePath: /nix/store/jxp5fw99q9l867mzm209mgiya4nhd0cf-shlex-1.3.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0n393mqvr0xhqzc25aihx142s6v3i9ylahdk5399rsmmqwrzhbij.nar.zst
+Compression: zstd
+FileHash: sha256:0n393mqvr0xhqzc25aihx142s6v3i9ylahdk5399rsmmqwrzhbij
+FileSize: 895
+NarHash: sha256:0hnck4abvx6hxwk4r7mz3rjvqcd3ljy2i1xs6smp3kx6iynx1sjr
+NarSize: 2008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xbsjijb9ld44qxzrcxcg2sz02avarb3x-crate-shlex-1.3.0.tar.gz.drv
+Sig: rime-cache-1:50iSt23lGj0P/wEQu30o5DuP8QMTs7Ptx6sYCjHbKp5gKy3i/+JH4YXUSVSAQUfi3YG+jMW4fzD9PpjyIV4tCg==
+CA: text:sha256:1r2l19f2vvaikvq9whmazylddgbxni559mwwg852n76vhx78kh7x

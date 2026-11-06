@@ -1,0 +1,10 @@
+StorePath: /nix/store/ympxwgqkbkjrm4p96b87f4dw61f8rsc7-ruby3.4-prawn-svg-0.34.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1n7svayng3jrd4krp87qiwpbjy3wjfwlb5ndbamwzv5hmnmpg6n0.nar.zst
+Compression: zstd
+FileHash: sha256:1n7svayng3jrd4krp87qiwpbjy3wjfwlb5ndbamwzv5hmnmpg6n0
+FileSize: 2762
+NarHash: sha256:03ggvh1sc8mhl4bk8zm7255qyxv8ixa7bmy4grg5v6gpc37hfkds
+NarSize: 7008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 826qw7bsqh96f11c33w2jqm68gl69vhy-ruby3.4-rexml-3.4.4.drv djrz0grgnsm7xzj3iy2fklga6j1732s9-prawn-svg-0.34.2.gem.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m2b90wl3l18by8c6gwlfgvl9wzd5c3zf-ruby3.4-prawn-2.4.0.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb qs20i5qyadlsjkdb8hncsi3cbl0ggnmz-ruby3.4-css_parser-1.21.1.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zak5g9fq4hmply8l7ffwblgz4p1m9920-ruby3.4-matrix-0.4.3.drv
+Sig: rime-cache-1:VgO/4ijkD8QFKb5Faz4TMMoLbzskGVoMvIi+AzHhFbvY0fGK5sTNw/Qwfb2T4AXzgt5eWBqKtniZOosLowqdAQ==
+CA: text:sha256:05xdn92qgc6dqfl8b69vrm24ga3pfnmxapwbfvbjxphh7qhan75h

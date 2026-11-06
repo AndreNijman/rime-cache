@@ -1,0 +1,10 @@
+StorePath: /nix/store/3n4fdfy2ps8zs92970q42aw3739wk6id-libsndfile-1.2.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xbldzpqxr7qrpdz243j8brz77c3q7gjmjmkfq2d9cmj9r2mgrnm.nar.zst
+Compression: zstd
+FileHash: sha256:0xbldzpqxr7qrpdz243j8brz77c3q7gjmjmkfq2d9cmj9r2mgrnm
+FileSize: 1762
+NarHash: sha256:0kx7dxfx6rh2y8wbcyjycpb7nx9pcrdhkf33j9a5y1v05prdyxfk
+NarSize: 4320
+References: 01q1glyj4yhrj6l0hpk92w0pb0ydiwj9-autogen-5.18.16.drv 0xfr4qr7xpd0fpx2l7gxkrzkq8c1czkg-2251737b3b175925684ec0d37029ff4cb521d302.patch.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3cb4qi9s2yf51mhvmq090hrrdm0s5ry1-libopus-1.6.1.drv 77yxb63k3xv1fdsrvg6a52n97zv7a87y-flac-1.5.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv apgmp2vc8bl4va9ldfn5gh41vzkp2h2y-source.drv bgsb97mmmwnrxiwkn5hhfb1yynrnvr2z-libmpg123-1.33.7.drv gklf8j2y8096js79p549khkp8ka0psdq-lame-4.0.drv gpzhiayh06hic4yia57j75afbl1yz8s1-libvorbis-1.3.7.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lkblvqx3lns7gk6gnnldx4gn9hnqwk3a-alsa-lib-1.2.16.1.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh v15f7qrpq296njla2w8b9ih3k3l2cf79-libogg-1.3.6.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:Usp3xMF2dNNjvjd/kp4a6rZIS5BW+ObodTSfmzQMifu1uSOxwop5EtOfPwDkCqdyMCxN9h5gXhQOzHZyqKOwBA==
+CA: text:sha256:0sjh4bqg8licb05d2dzsv0gd9i8pal4cbq74mc2077nx936w92gs

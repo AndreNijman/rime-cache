@@ -1,0 +1,10 @@
+StorePath: /nix/store/q0994m2gb0axkbzs8i8qncn36igmlz0p-ripgrep-15.2.0-vendor.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1fv6x4b9ihzv540f52r2zmi4s3p4c14ni570imv7kl3shl9yx911.nar.zst
+Compression: zstd
+FileHash: sha256:1fv6x4b9ihzv540f52r2zmi4s3p4c14ni570imv7kl3shl9yx911
+FileSize: 1012
+NarHash: sha256:0wgfi75qlaixsglypfdc6wj2hg5xjbp0ci4z4b2bgig54aih97j7
+NarSize: 2408
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 45ial5wyx19y9hbfz1asqbzyx1vq4gdz-cargo-1.99.0.drv 66678n25ykgk1aylfrk4q6647pavd0qp-fetch-cargo-vendor-util.drv fc1byqrrzpcslw0m7ncfrl5acqw1pc6f-replace-workspace-values.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh z5fxha21gla5s43nd8sarg8l69kvq6qj-ripgrep-15.2.0-vendor-staging.drv
+Sig: rime-cache-1:rf1IO7KT+lEyeTKC1KJzTd6d1acd9gQj+RR3YkdHl+Vt/yXbw794Jd1zKPmgR/Iw7CMw6J+nHhScfKfV/YTXDg==
+CA: text:sha256:065vz9yqms9vrsldni02w1rlvwird73r6vmq1mjvy4m6j91kdq4q

@@ -1,0 +1,10 @@
+StorePath: /nix/store/hgfpir45gbsx42xg1xfzlpsw7k2nrrgz-rime-nvidia-modprobe-gate
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ab575w7mh32nsrg3m9592h9jzbm1bajwia9synzfavqvnsgmi5w.nar.zst
+Compression: zstd
+FileHash: sha256:0ab575w7mh32nsrg3m9592h9jzbm1bajwia9synzfavqvnsgmi5w
+FileSize: 389
+NarHash: sha256:1rxc84p0m0yay9qczafdlygwijw38bcgswlnm33dr5vqxhnlxvbl
+NarSize: 544
+References: d03jsfz5lq08cc8s9f4bdnnxs91bb40r-kmod-31 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: bzb0h1fw35swnyaam25bxkgwjkvj7rry-rime-nvidia-modprobe-gate.drv
+Sig: rime-cache-1:hF9vlPBLEJ3iqoy9CY+QyzadY7wFi0O9mLhFwVO/i1SN70ggHWnlcMgrkFC7PqAv5UzP6gEEnZGHVmd2LKFdBg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/hf48blb4c6a13nbxj88032sybwashgs0-prawn-icon-3.0.0.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1rfpqqnya07zjcxhy82zw1d9fdjy9h3q5lk2rkrv63fy181l9r3n.nar.zst
+Compression: zstd
+FileHash: sha256:1rfpqqnya07zjcxhy82zw1d9fdjy9h3q5lk2rkrv63fy181l9r3n
+FileSize: 1397
+NarHash: sha256:1zbq68kk4vw6zm0r8s8vk0mxldjb3s3vyj1jj1gnqxqqqhdsf1g4
+NarSize: 3656
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:WAQoEGZ3sczVb9Tqbh73LzvWjeIP8O+p5EDEWHvXZMN8UrrEUcRs8StCvDGE8wam/MNum8/i7du3u4icplaHDQ==
+CA: text:sha256:1mz9688c0z8i0winx6gjg2md9lxhq2ymw7m8yxjj4ayv2fi5zysh

@@ -1,0 +1,10 @@
+StorePath: /nix/store/323b6s2mzifmz2106nyw01ap11q69fdm-xkbcomp-1.5.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14cvk13lfis38qni2wk0higfy4hmz3jb6c8z9630zh4cxa44yxs1.nar.zst
+Compression: zstd
+FileHash: sha256:14cvk13lfis38qni2wk0higfy4hmz3jb6c8z9630zh4cxa44yxs1
+FileSize: 1260
+NarHash: sha256:0wl2whmxspssvc3f4ibz470si8bzqr1sskydpa0rvfc65sq8irqx
+NarSize: 2880
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5079zx28lciny73n7cjfgxzyqkrprgja-xorgproto-2025.1.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv 9rapcsxddk859j4p9xnkkx69jnds0z3z-xkeyboard-config-2.48.drv gjwgbqyjydiy64a5gj04fgsamwr86ffx-libxkbfile-1.2.0.drv kpqyk3wrgxqihp36af09nrhklf34w93m-bison-3.8.2.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l0z76jq8gpvlbmkv7h6ypz0jircszg2r-libx11-1.8.14.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh l664c6hrddqiyvprkshcvfc0p45zvi6b-util-macros-1.20.2.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w635k1k5h4a458mly3fhiv2w6pp4fv23-source.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:2WVH9PSPR4NN5uLFUp8hK0gSZKHSmnqgbnWM72fl9wQrACJ3+zN0dqqi7bnlonqwHuGx5TvFLVPNDSocGf3KCA==
+CA: text:sha256:1dn63n3a1pjz8c9mpmldhp17223x48nnw8jd3ygjiwi9z87k0xhf

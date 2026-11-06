@@ -1,0 +1,10 @@
+StorePath: /nix/store/v5sdwz76j8xl1xq6hfwi1dgpirmkdwyj-python-catch-conflicts-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0r0c0q368z8m4ial48c6iwqf3s1vjp1hrh6v5ycj09wwlwwba3sr.nar.zst
+Compression: zstd
+FileHash: sha256:0r0c0q368z8m4ial48c6iwqf3s1vjp1hrh6v5ycj09wwlwwba3sr
+FileSize: 1069
+NarHash: sha256:07l35ik2k4858k1bc1bxnlinkwsc45gy4ijvmwpgqszpv7awi07a
+NarSize: 2832
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv b3yk61kl50wway9x2gmhqzrfg2393fwv-catch_conflicts_py2.py izhiyc75517h4d2p2sybqnjrq9hdyajz-python2.7-setuptools-44.0.0.drv j60mwj2bd6rplcllp8gb5asmzm2n3kfy-python-catch-conflicts-hook.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:FWJt93/qs1v091fTQLy4e+8hvXamdMiC6eMftvL9GcYUh4SAZqu29OY8+N54tUbgBSusNJjkOiEOCdS0PR1gAg==
+CA: text:sha256:0y7kiakjcvqk6xz3h199miqja5nwc4l5gribg6k4rnragx0fizx1

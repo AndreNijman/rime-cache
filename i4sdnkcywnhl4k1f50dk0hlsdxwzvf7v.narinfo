@@ -1,0 +1,10 @@
+StorePath: /nix/store/i4sdnkcywnhl4k1f50dk0hlsdxwzvf7v-opusfile-0.12.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1icfmg3gisah0fxrs9h2j6rzvzb7nbpkwp7zfywd37a85kp2nwmb.nar.zst
+Compression: zstd
+FileHash: sha256:1icfmg3gisah0fxrs9h2j6rzvzb7nbpkwp7zfywd37a85kp2nwmb
+FileSize: 1122
+NarHash: sha256:1gq5cp8wgw2gwi0kii88r50hnbcz5k2f3frxz2zf67s0s9yqmdrc
+NarSize: 2672
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3cb4qi9s2yf51mhvmq090hrrdm0s5ry1-libopus-1.6.1.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv jpsmxn7iad56lyxg1yaswcnqbqjb37gj-CVE-2022-47021.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qpgmh4xjdcyic5iv8vxak44id8src676-include-multistream.patch qwak0x080psh59l0cq68qh8mav7ycpcw-opusfile-0.12.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh v15f7qrpq296njla2w8b9ih3k3l2cf79-libogg-1.3.6.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:gCvAcsfGNf9DUtvPZwXcJBmwwjeBZX86QyOZaW0Cdy5eOaaX18Qnvj2LMjmUlhnh/suVriJJB95NYO87DGziAQ==
+CA: text:sha256:117zjpv7i19vbnj73ciq0qsbicrwdn3gaxhvcm508s5wv3vvwjdn

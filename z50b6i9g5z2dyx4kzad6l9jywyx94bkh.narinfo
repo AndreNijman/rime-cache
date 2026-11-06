@@ -1,0 +1,10 @@
+StorePath: /nix/store/z50b6i9g5z2dyx4kzad6l9jywyx94bkh-unit-script-suid-sgid-wrappers-start
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0idayfj4y8n8vrjw1x95dcdcjbvd7f64d23n7pr6f6q36l1isdl3.nar.zst
+Compression: zstd
+FileHash: sha256:0idayfj4y8n8vrjw1x95dcdcjbvd7f64d23n7pr6f6q36l1isdl3
+FileSize: 1451
+NarHash: sha256:1p9bccdxbg91jpdd0dgc4sn8bnjpv60kl8rhn7c7c2ajzyr8xlzr
+NarSize: 6168
+References: 3jlk3mdwl9k0l4si59gvl8jc2dahfqd4-security-wrapper-sudoedit-x86_64-unknown-linux-musl 52jfcpp45rk4vr24xblzdwys0f09vymv-security-wrapper-newuidmap-x86_64-unknown-linux-musl 61qsbs7wy5mrdmv0lk7jkdni213fjbn4-security-wrapper-su-x86_64-unknown-linux-musl 8fv22pd0qvdbfvhy1x8pxy4kdg82mq0z-security-wrapper-sg-x86_64-unknown-linux-musl 9kzwiqla56ajlzzmnf2lpqvq7q6643f5-security-wrapper-newgidmap-x86_64-unknown-linux-musl cn236319gdhxps81wy11fl4kgfqivlzs-security-wrapper-chsh-x86_64-unknown-linux-musl iykf7y3v2918cdxkrknb4cm98d372pyn-security-wrapper-unix_chkpwd-x86_64-unknown-linux-musl kvac72dkhs1w37fhd23swzzvqbynw57g-security-wrapper-sudo-x86_64-unknown-linux-musl my6xk8mlfd33yyamppw9v7v156xf6aqm-security-wrapper-fusermount3-x86_64-unknown-linux-musl nilzv85fs2wz8zs88pn4ysxxnb1pb7a7-security-wrapper-passwd-x86_64-unknown-linux-musl nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 rq92bqvpkh1gzcnvflfxp6yhc8wibzbh-security-wrapper-mount-x86_64-unknown-linux-musl rsknqnbj35hj30m4qj11n8vsfh6bh660-security-wrapper-newgrp-x86_64-unknown-linux-musl y1hqjmj23ld6phvarsj6jkn5gz6miy6k-libcap-2.78 ymhvq4i42a5ipvqqp96gpp7i9flirgdp-security-wrapper-gnome-keyring-daemon-x86_64-unknown-linux-musl zzqan3h7qr6pkf2b4jmm1whfr8fxhdk9-security-wrapper-umount-x86_64-unknown-linux-musl
+Deriver: 221066ds6asg4qx7h8pj59chypvqfacr-unit-script-suid-sgid-wrappers-start.drv
+Sig: rime-cache-1:a9r0hBcc1ju2A/L5ZPVGD3wsT3rrm+0ivxTDUf0eZuZcBXQ7YKLETw4i2osN75B9u64byRqoucNo7izAPto0AQ==

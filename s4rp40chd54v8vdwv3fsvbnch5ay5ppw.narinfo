@@ -1,0 +1,10 @@
+StorePath: /nix/store/s4rp40chd54v8vdwv3fsvbnch5ay5ppw-ruby3.4-concurrent-ruby-1.3.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/19br0g2jsl5d067qp3abq42kxi7l1dfdx0saglr00fbscxr09wkz.nar.zst
+Compression: zstd
+FileHash: sha256:19br0g2jsl5d067qp3abq42kxi7l1dfdx0saglr00fbscxr09wkz
+FileSize: 2449
+NarHash: sha256:1jzsgimnisk9rg8k5h4hs51g7x0cdkac9q1g5nqisdqhncppw73j
+NarSize: 5888
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m9cslz5nqxp4v8l5gfvm2m3hkwg9absg-concurrent-ruby-1.3.5.gem.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:GNRvc/U4eHAAcvvrTcv2xC+oImY8tLjveMbtmJ1+Uj2fYW0w7d0CPKv1h1jT56rG7sk7dM52wfqTknMOWaZIBw==
+CA: text:sha256:0jmapbp1v9l5bhwj96mbrx200hw0ga1bvm71m0p3ndb53gf50l6n

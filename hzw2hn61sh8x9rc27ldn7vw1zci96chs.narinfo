@@ -1,0 +1,10 @@
+StorePath: /nix/store/hzw2hn61sh8x9rc27ldn7vw1zci96chs-unit-NetworkManager.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0c2xmmfn8y3mc5i80vp3lj9fxv5ri5fiqjn4r4x9r7nfgim9fdfb.nar.zst
+Compression: zstd
+FileHash: sha256:0c2xmmfn8y3mc5i80vp3lj9fxv5ri5fiqjn4r4x9r7nfgim9fdfb
+FileSize: 698
+NarHash: sha256:189b9jyb1vpl06m2qlpdx20rjz93vy640b768kddf4rxfhls5g5b
+NarSize: 1560
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 azd76ik0az8wqiwgzahyb4hiycy7jly5-X-Restart-Triggers-NetworkManager c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e v2yyw92lxzr2fj3rdz2fql5nzvm9cp31-openconnect-9.12-unstable-2025-11-03
+Deriver: 9isj9kx9i6dlsghxhq43hhx6icaaz8s8-unit-NetworkManager.service.drv
+Sig: rime-cache-1:r2a1swM5uoM8Q65ADGn479P8GTARpBOUtgNFSLJ6Qx3Low4EphWWa/c11HPpFgPjfk2nEfXZxJhcXlrqAdPwCw==

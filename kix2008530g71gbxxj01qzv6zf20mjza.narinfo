@@ -1,0 +1,10 @@
+StorePath: /nix/store/kix2008530g71gbxxj01qzv6zf20mjza-polyglot-0.3.5.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14l0g859v4ck1irp9h3g4wg0jbvry99k97fqpjww4vx7pgfvr6wg.nar.zst
+Compression: zstd
+FileHash: sha256:14l0g859v4ck1irp9h3g4wg0jbvry99k97fqpjww4vx7pgfvr6wg
+FileSize: 1397
+NarHash: sha256:1p5yhvfxmdj59vwfgpps83j87y8frm3ihmkvksy0x379nkirm0p3
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:3uUjMpzr9UfVI4Ge2RUM/+W4i2OMRijR7g8OEbxdxYOWoqbeQnng0lssvj7VfwBC3Kl/wQnTU72J3D4wIEf1AQ==
+CA: text:sha256:09ngy4bfdr5m6xyf48s36cx8f6k714lzhqpd7y7y0v64fzm7nqli

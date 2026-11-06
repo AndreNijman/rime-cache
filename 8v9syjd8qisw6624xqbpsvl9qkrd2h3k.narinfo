@@ -1,0 +1,10 @@
+StorePath: /nix/store/8v9syjd8qisw6624xqbpsvl9qkrd2h3k-macdeployqt-fixes.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/11lpqnzc1fvzwxl7b0y0x5hi05m2g4k86sb6nd07p53ybdpjbc9i.nar.zst
+Compression: zstd
+FileHash: sha256:11lpqnzc1fvzwxl7b0y0x5hi05m2g4k86sb6nd07p53ybdpjbc9i
+FileSize: 768
+NarHash: sha256:0lpv0g1qfn4lnq06l95is68nrg3v15zfv3rfbkx75maj6r2wamrq
+NarSize: 1904
+References: 
+Sig: rime-cache-1:szfJaJ1CSGiaKwZpVd8c3T5GAyQVb0UuZVFK0chZww99ROVMgkR9Sa1LYrAcEJfwWIDOH2IuAFyzLH6AwbFAAA==
+CA: fixed:r:sha256:0lpv0g1qfn4lnq06l95is68nrg3v15zfv3rfbkx75maj6r2wamrq

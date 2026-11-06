@@ -1,0 +1,10 @@
+StorePath: /nix/store/adss4n616g24r1zapkk77r10zj5ll57j-tmpfiles.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/07wzyvlgs6w3h1p6dj9kr126r8gjlzya41x4ggpd9jl99fl2y845.nar.zst
+Compression: zstd
+FileHash: sha256:07wzyvlgs6w3h1p6dj9kr126r8gjlzya41x4ggpd9jl99fl2y845
+FileSize: 115
+NarHash: sha256:1kclrzin0i6in3ih7qnkbzv7m97vyf3xkg30yq8q9wb14y1pgs18
+NarSize: 152
+References: 
+Sig: rime-cache-1:qGFqWxd2nPH/uNrj02gLCW+ppOjA30RdLOUkQtdQW9d7M+NGRrlI160zsI4E1pxUjFdhmP86aAx+2kLYDDmEBA==
+CA: fixed:r:sha256:1kclrzin0i6in3ih7qnkbzv7m97vyf3xkg30yq8q9wb14y1pgs18

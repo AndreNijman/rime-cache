@@ -1,0 +1,10 @@
+StorePath: /nix/store/is8cpx6k1yqg6v5dalfrvqfhq1kizlcn-furo-web-2025.12.19.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/092ffcy2chzni83yacvp02j7mcz6pa6jczxm3ndcw1264wr8dz1z.nar.zst
+Compression: zstd
+FileHash: sha256:092ffcy2chzni83yacvp02j7mcz6pa6jczxm3ndcw1264wr8dz1z
+FileSize: 1223
+NarHash: sha256:0c1iq6f7rqqg16nsdqfvvjjl38q64l1zgkx0nxp4826pr59db067
+NarSize: 2808
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4c9gahcaclzigrrvxc1ymb2vp18jkh2c-npm-build-hook.drv a7mzwdph5vkavini0lj77xph53qhgjlf-nodejs-24.21.0.drv czvv2ra72sf396msvavds8chmdyg4lxi-source.drv gfky2cdqdhzddmq800zmp9qpwbwy524l-furo-web-2025.12.19-npm-deps.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rlcy5pvq46srpak3vm50sj1npappn52c-npm-install-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zglfy5syffp58rwz1sbfbc7zaq9kq65v-npm-config-hook.drv
+Sig: rime-cache-1:woOFCnZxerC7tee9HJC+bQ2NBvqYxtMcwnniQr+GKTpc0MuQuFlrEICrzAaeq6HLVMMJeenY/18x6TzQs1mgAw==
+CA: text:sha256:074yq2fw0xj00hvqipas2y5jvvjda4b0jcvjr43s5336gqdxnb5w

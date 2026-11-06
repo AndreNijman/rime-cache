@@ -1,0 +1,10 @@
+StorePath: /nix/store/7nskwxihqbdrky57bjz3ifis05s70y9l-imlib2-1.12.7.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/16ndxim7jg51f5acphah8v2gd7p3d56iwrd4q3fwav21d6fg5f2l.nar.zst
+Compression: zstd
+FileHash: sha256:16ndxim7jg51f5acphah8v2gd7p3d56iwrd4q3fwav21d6fg5f2l
+FileSize: 1398
+NarHash: sha256:0vjg0m8mzrv0s527z75kwdxymmx93irl32nf282il1fbfpb93l3i
+NarSize: 3624
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:YifZBPSNqURdP8ofzZuwaDEl5KDlg+dh/BDRi+CgC8FnShXq6gioav5qb4DTUHEKrCZBrzu/hrFDQU7jSWioBw==
+CA: text:sha256:000hxp6n4hp17gzgrls6qv1whz2vx4drhrnzvrwwqyvgqway8i6p

@@ -1,0 +1,10 @@
+StorePath: /nix/store/k79qallp0yfk4ajd5vqlv1jyc77352kd-python-setup-hook.sh.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0qfkp56i4lfv6fx5r67lm4xlkjq6k95pdkbbbr2wn1dvfr4zqdf3.nar.zst
+Compression: zstd
+FileHash: sha256:0qfkp56i4lfv6fx5r67lm4xlkjq6k95pdkbbbr2wn1dvfr4zqdf3
+FileSize: 771
+NarHash: sha256:0sdgkvcic10ynrw5xyx0nr4al78hlm01wy0kdhpdkdyycsrb2ci6
+NarSize: 1840
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv ksmkv36vzgcj6i9fjx87j7aml9qjg3zd-setup-hook.sh.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:sAGFzgCArDW0/DgJ14fI4nEfowpqMFr0GrBweY+DpjhqTTZAmJok5bGlPCqHiX+Gi34ZPeLw4nlRbHdWCbusAA==
+CA: text:sha256:13kl2p1pad3qrpwimvysakds828jmf6wjmqvysafdrk7y1b6r2dk

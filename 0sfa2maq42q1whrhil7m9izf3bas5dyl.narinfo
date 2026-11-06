@@ -1,0 +1,10 @@
+StorePath: /nix/store/0sfa2maq42q1whrhil7m9izf3bas5dyl-libxkbcommon-1.13.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/04nyc2pjr8cpfbqdh3d3j1sbhi36bl118yjb651cmb3p2i7vw5r7.nar.zst
+Compression: zstd
+FileHash: sha256:04nyc2pjr8cpfbqdh3d3j1sbhi36bl118yjb651cmb3p2i7vw5r7
+FileSize: 1852
+NarHash: sha256:09ji31133k29h865b5am2q0rdzmqhwpr7qhbzq24rmphxjndidmv
+NarSize: 4528
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 323b6s2mzifmz2106nyw01ap11q69fdm-xkbcomp-1.5.0.drv 4sxhyv9sqlc0yf65jwk9rxfbn4b9w2sh-source.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9abzw4a4vi8akcmqrcdzz0hckm6r0852-libxml2-2.15.4.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv 9rapcsxddk859j4p9xnkkx69jnds0z3z-xkeyboard-config-2.48.drv ic7yqq4xlvmcy1kn3vp76hav0rn9c7iz-libxcb-1.17.0.drv kpqyk3wrgxqihp36af09nrhklf34w93m-bison-3.8.2.drv l0sdvmfkwwxbrz5b3j14i62si0zcx0pg-doxygen-1.17.0.drv l0z76jq8gpvlbmkv7h6ypz0jircszg2r-libx11-1.8.14.drv l2bwdpmg5696a91w479mv3x5dd0bgkf6-wayland-scanner-1.26.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mqiqy20arssmyrxszwi8yjf5c9bfkz8c-wayland-1.26.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh spr2yjjj55q0d0pizi61zaz3r65c54xa-wayland-protocols-1.49.drv syggqmqi8jl1hhs3m4yyjxjm4cncxd9z-setxkbmap-1.3.4.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yn1vv3p0m2qzp1kms0llr4wq0n5pn3i1-xvfb-21.1.24.drv
+Sig: rime-cache-1:NDUVVujeakOnc9dkmSCuQ5qDC9jbnU7fWWmLCjpY9a25QEXikh6KeSsc18X7sqoCBgiylbFoiyHLZ3gmITncCQ==
+CA: text:sha256:1aa9c0gmysv6hk46sbmbkxq4324ijia9c3p0kh44bnbzm9bi1csi

@@ -1,0 +1,10 @@
+StorePath: /nix/store/91d65bp6851pjpf3y6zp2vmxkfi0i7mk-curl-sys-0.4.84+curl-8.17.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/17vc01k25ysl25l2gm4rbk1dcy1s3gbh8hwy2fgzx0wd7i04lwmm.nar.zst
+Compression: zstd
+FileHash: sha256:17vc01k25ysl25l2gm4rbk1dcy1s3gbh8hwy2fgzx0wd7i04lwmm
+FileSize: 915
+NarHash: sha256:0jgbca9k844igr1ak1icyk8w5nca0arlwfxsysivcvaz114jva8s
+NarSize: 2088
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv gbyx2bgdqaj8r7ff23nfgddbzrl0fc05-crate-curl-sys-0.4.84+curl-8.17.0.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:IuVVtCpYMuzXpp9DqWMX3dw2Jy0UsOMOzUSidc/BrTg8I04I2KkMN9KIQtPMkcV+3z1PDB0RPuxDimrqKDDVBg==
+CA: text:sha256:1rnh4gnqzvnp30hi2mpz3hfry05rmljwq7m9cilybd820g4iz37i

@@ -1,0 +1,10 @@
+StorePath: /nix/store/ixcyhrbdpxgn7f9h1n6mgm54q6krkydj-libXinerama-1.1.6.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0nkap2h4v7szg4rb7mq02xn6fss63fbf8zahc688pwzicdp8hayz.nar.zst
+Compression: zstd
+FileHash: sha256:0nkap2h4v7szg4rb7mq02xn6fss63fbf8zahc688pwzicdp8hayz
+FileSize: 1407
+NarHash: sha256:0007i34m58ys1ffvksmdv7fgm23i20wplb98j01w40csr2pc0qda
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:1HyJWOOB9QMpixFV75PVCS9eUSsyN9RaGMgGhhD2WCFOJSlG2VIHkEeZB1gnBcqHNXLIIMRDdnaGSI35F7XqDQ==
+CA: text:sha256:1f9i4fkfildx7h3b9634rhd0k5s7b8zvb2pkb1wip5q5iyliz5x2

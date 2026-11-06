@@ -1,0 +1,10 @@
+StorePath: /nix/store/3r5dhdrnj91wnzadgzp5kq9inngabpbi-anyhow-1.0.100.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/19magvmcv0vd2sczs5qd1qn95jdg6bkib4481758x2a8z5hcyzbq.nar.zst
+Compression: zstd
+FileHash: sha256:19magvmcv0vd2sczs5qd1qn95jdg6bkib4481758x2a8z5hcyzbq
+FileSize: 896
+NarHash: sha256:0ycv7zirky8vnrzsz8hkcfi4f3wrbgwnnirisxp8hgf2g6clb6m7
+NarSize: 2016
+References: 0i1n92qs03zjlivwqiy8zpsfc6d0hizj-crate-anyhow-1.0.100.tar.gz.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:HvRpnWOvOmWaFBOhcJyQJkk0YwG0AwIrIwo3Gs+lFST6xXT1Z9373GM3l3gBAAsEpKAvp4V2Sd4tiQ2PoqXoBQ==
+CA: text:sha256:1r7v5xbj09dcjbnscq3rx9prmviffqk6vxizx7rpdghdv2a16cam

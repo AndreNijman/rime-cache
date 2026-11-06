@@ -1,0 +1,10 @@
+StorePath: /nix/store/dgxlw08v18ymvdm0h3k3janvzwgz5236-schannel-0.1.28.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1nbkr4mxlwmqxfjpjbdixw305cg03x28prz9wlns88kjsyxyhk8a.nar.zst
+Compression: zstd
+FileHash: sha256:1nbkr4mxlwmqxfjpjbdixw305cg03x28prz9wlns88kjsyxyhk8a
+FileSize: 895
+NarHash: sha256:17yhs8bvcfhpk5qx24np08yapzrjrbvpyialvgiy1x98xw309rqc
+NarSize: 2024
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w14vkpq1j7aipz0xxlia6bqx30087af1-crate-schannel-0.1.28.tar.gz.drv
+Sig: rime-cache-1:iJScfiik8j90SRdWahU79HpceeFgxeoxjFO3tO8LbePtSiMJ8AYAlEcU6hyHqgl71o/S7tiBmhulZt9DdDgZCg==
+CA: text:sha256:0gkhh7rwabc26qf03zpy98s5b5hban48frs1bnnjnw59h8bv37p7

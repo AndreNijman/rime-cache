@@ -1,0 +1,10 @@
+StorePath: /nix/store/gldj83ky8ls53y5zkzi4dnsg7vss4mdw-pkgs-config-setup-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bk44hr95blj96m6k46w70ds0xfbi56igc301iivjqhxkwvkwvsq.nar.zst
+Compression: zstd
+FileHash: sha256:0bk44hr95blj96m6k46w70ds0xfbi56igc301iivjqhxkwvkwvsq
+FileSize: 849
+NarHash: sha256:1lr1z9v3gdp1ldx4dk713vx4lnd72h93h5j05qs7jdi0lsyq5ibn
+NarSize: 2176
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv c4akajrb4jg50k72jw7zfbyv8z139ri0-setup-hook.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:h7wAFkMvMJOsLz2AY1U3gTwfnQFZOx00EUetC1uenlcKgM8VHgk+Xb424PsNxwjY6WKRVE0h6UE/+WQZuSpoAw==
+CA: text:sha256:0yhyf8k7r0wf0j3vd8jnsqdv8w1wvk7y3rzdz5wz0j8kr2j628jz

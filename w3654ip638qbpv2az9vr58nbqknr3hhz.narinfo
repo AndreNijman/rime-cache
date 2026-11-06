@@ -1,0 +1,10 @@
+StorePath: /nix/store/w3654ip638qbpv2az9vr58nbqknr3hhz-treetop-1.6.18.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/06d3dvhb23in8gvrab0y6ph1cjjwkmhsb0zhc6fdvyvrpqyb819k.nar.zst
+Compression: zstd
+FileHash: sha256:06d3dvhb23in8gvrab0y6ph1cjjwkmhsb0zhc6fdvyvrpqyb819k
+FileSize: 1397
+NarHash: sha256:1j36ag1qjjkx1m0g2lxlfx33s4q2zqzzwb5gvzg6bkagxmkqhqhs
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:TXZofBvbz8Ui5Z12OBk9Dq7++gXMGzpWHaETnDdosnb+AjRuKPYxaGBlb5e05b094SgLOBMqD6+SH1WWyZRPCQ==
+CA: text:sha256:0ih7bm42nh748ry1kkq5cl5j3axz1mx4gichgr3alnh6iibgr5vb

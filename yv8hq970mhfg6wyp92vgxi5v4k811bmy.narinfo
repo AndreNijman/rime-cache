@@ -1,0 +1,10 @@
+StorePath: /nix/store/yv8hq970mhfg6wyp92vgxi5v4k811bmy-pkexec
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1p1vdsndhs68ji1x9qkh3qyp4w5cq05halrbqqal8056x76h0sq2.nar.zst
+Compression: zstd
+FileHash: sha256:1p1vdsndhs68ji1x9qkh3qyp4w5cq05halrbqqal8056x76h0sq2
+FileSize: 138
+NarHash: sha256:03hi5lyfqrash2518vj5hi7yfcfp1iw5p08ny6fmi5h056yd7ysk
+NarSize: 304
+References: 
+Deriver: f7n6dq2yign90x7faq65jxgwhm3lmfdg-pkexec.drv
+Sig: rime-cache-1:ZxtSoO4XaRWeyRpte4iASMKItWnHfiEDdzieL1i+u1xEVk9FDNzYlgqHU7XSILPEdWg9c9jWIPQh5brEYfo7CQ==

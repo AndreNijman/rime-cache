@@ -1,0 +1,10 @@
+StorePath: /nix/store/cpzf3mqy7s8ysmwi1i69bgjggb6f12kz-ryu-1.0.20.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/01lgngpddahxqnw8f8psbzzzqf9a78hvzd1dv6ic3kk2blax6y5x.nar.zst
+Compression: zstd
+FileHash: sha256:01lgngpddahxqnw8f8psbzzzqf9a78hvzd1dv6ic3kk2blax6y5x
+FileSize: 893
+NarHash: sha256:1n7n4k7p31w5izlvv8m07wjmi557lmh826jb38z1pv2kjypgl7fq
+NarSize: 2000
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh yi6dbn16hqy6kq9hf1jrgcgcjykazrfr-crate-ryu-1.0.20.tar.gz.drv
+Sig: rime-cache-1:Yjj66Of97RAWhMHik1R/RTLp0nd4vyBpPPYwJoQFqYUPukVl3HsL8Wc0QVxy89XNSyWwO7o8KfqXit6/HrQhCw==
+CA: text:sha256:0s0bnmy4jciqwl1zyl8nlbr7qzm1nl6h9a7nsfgm90zd2lwd5mic

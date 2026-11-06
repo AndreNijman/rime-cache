@@ -1,0 +1,10 @@
+StorePath: /nix/store/z9j2prfs31p68s74hvqy8vim5mj01g52-libcamera-0.7.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/07shl0c8fhnzdckgk09syzqyvgjf9zrqwv5wyq2x8dsm7wd0mamz.nar.zst
+Compression: zstd
+FileHash: sha256:07shl0c8fhnzdckgk09syzqyvgjf9zrqwv5wyq2x8dsm7wd0mamz
+FileSize: 2289
+NarHash: sha256:02xk3x0f6qi82adfn7jjl8brgf0bd4nz69jnc24b1vzqm8rama0h
+NarSize: 5416
+References: 284s10y3hx6g4xfv8d0nd812l9mb9hcd-python3.14-pybind11-3.1.0.drv 2ryvqnw8g2lcrvij4hqlm1ihflw2x3hd-ipa-priv-key.pem 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3pfvk0al4qy8cpnq0q6z9vpxpdindf3h-gtest-1.18.0.drv 3spwwy936d3jn153z7h5w09wzg6sjkjj-fonts.conf.drv 55031xbsdd2lvs9p2gm2ing153xnd4zd-gst-plugins-base-1.28.7.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 75x5363zkdhkjb9c56wypik83078j3q4-systemd-minimal-libs-262.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv b9id6ga07h0w2fk9yaz5pbb3144afcn5-libevent-2.1.13.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv c6lskzfkdgj21h5hhry38b5jsm2a599w-python3.14-ply-3.11.drv c92d9gcas926r2ffcxlw9l7k3xq9fqgh-lttng-ust-2.15.1.drv d74bhr4ia2pzmxnvjsv4lgrrzcylcayk-python3.14-pyyaml-6.0.3.drv dmmxl8dnhyxsl1yxmj30raa9wli4vz43-python3.14-jinja2-3.1.6.drv g1ydz8c6g3ncix83j6vfm7pny3n2bpgs-gstreamer-1.28.7.drv i7gv0a1hj1x9vpq0i0fa4yfrp2dd3pxm-libyuv-1908.drv jkznihpqhvir51b7239imj36wm2hdizw-libglvnd-1.7.0.drv jnrv42wrxcrvyq06907da8jf7h0dm2bq-source.drv l35xipc9iypgkkd2df9sfcwgj1ghxhrg-libdrm-2.4.134.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh n8vpy6x6cprdz4y95ym7vxk12pzkphqc-libyaml-0.2.5.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:akj8S6MMVyr3654stE+b2EwGCs5bYb4DV3ZCJnJNdB3ujkHpC+owslo1FLGXWYbFJ/ya8hVsT6mMhXg8CJAaCg==
+CA: text:sha256:1n9zhjnnk0vxdm127h3blmdc453zr71py2lk4fcwgyibwj27zj5p

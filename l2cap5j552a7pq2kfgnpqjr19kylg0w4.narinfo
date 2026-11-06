@@ -1,0 +1,10 @@
+StorePath: /nix/store/l2cap5j552a7pq2kfgnpqjr19kylg0w4-libxfixes-6.0.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0kmnpa66bk4n4xdg4rg5k5bxpv85fgffsim4vhi7kvxmfx2p5rjx.nar.zst
+Compression: zstd
+FileHash: sha256:0kmnpa66bk4n4xdg4rg5k5bxpv85fgffsim4vhi7kvxmfx2p5rjx
+FileSize: 919
+NarHash: sha256:07l5ibw2dvihzwyzlgyclkbmbgvsxnqchf8cnbqkv8141ir9h7jf
+NarSize: 2256
+References: 1awkfvlpl4n159l3c1zn44v02lwm7yi2-libXfixes-6.0.2.tar.xz.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5079zx28lciny73n7cjfgxzyqkrprgja-xorgproto-2025.1.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv l0z76jq8gpvlbmkv7h6ypz0jircszg2r-libx11-1.8.14.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:gEKOH5Yn1hdeybCkyG5p4if/D/nxPxbP807ozF8rTttu0E9xvEyVWTdxbjLCi/75TSDyZl/feXlSK0OFa1t3Aw==
+CA: text:sha256:0x6h3kfjgl72x2ad0k9ama045f7b3w5aq415smya0x6ixh7r6wpy

@@ -1,0 +1,10 @@
+StorePath: /nix/store/xn5pw5fyli77ga27yf237b7id8ww720k-windows_x86_64_gnullvm-0.53.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1mppjqh0pbkbawr5vhdd19lg0pwdkyrylf18ffcnl0wwsv9s143w.nar.zst
+Compression: zstd
+FileHash: sha256:1mppjqh0pbkbawr5vhdd19lg0pwdkyrylf18ffcnl0wwsv9s143w
+FileSize: 916
+NarHash: sha256:133mi0zvq2724f2lc4hyq485857dk6p2y7qzb1mdkv70b2kjzyzq
+NarSize: 2096
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 75ifpk9pc74z7yfvrxh76xhg5x4bf2qq-crate-windows_x86_64_gnullvm-0.53.1.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:aISsYvx/m/BY+JPAPMB8cJFNZM2ZtVGPFWXYxEliuiTndEi9UMGTmwhitJcDiijznv3sFnIu85ulrDo6EFueDQ==
+CA: text:sha256:0k5aivdzjxl85f7pmm3nnykz2y8d12f45c2wjkb193vcihqnhxpc

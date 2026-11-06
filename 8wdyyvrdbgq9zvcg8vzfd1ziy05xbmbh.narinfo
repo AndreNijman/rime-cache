@@ -1,0 +1,10 @@
+StorePath: /nix/store/8wdyyvrdbgq9zvcg8vzfd1ziy05xbmbh-toposort-1.10.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1h2370rhrlmh77ziqg1gv3b1nsl8y2qyk6wfjifw9iqrgg01cqkk.nar.zst
+Compression: zstd
+FileHash: sha256:1h2370rhrlmh77ziqg1gv3b1nsl8y2qyk6wfjifw9iqrgg01cqkk
+FileSize: 1384
+NarHash: sha256:105rmxw6z6js573i33fhy9fn1flwr1max024qhq43al3p1pa3wfi
+NarSize: 3616
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:ozO70huG9YSGy218c1+D/kjfjm7P8GB4DTskqZ+1wLzmawzjizmvh30P2XwHn7NOLnIkszON9ONF8TjmRp95Cw==
+CA: text:sha256:0438va3rgbcqdv292maf8c5v92pzm5ls7v0bb73drdggiymlnaa4

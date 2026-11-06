@@ -1,0 +1,10 @@
+StorePath: /nix/store/kwxsds2ryq2kgk8n4aw8rfsqn5gl4mq6-rime-plymouth-unstick
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/07by2wxqx03jmf23jkmcxv2xd1g0ay1mx21b9vx83spr6phyd2ma.nar.zst
+Compression: zstd
+FileHash: sha256:07by2wxqx03jmf23jkmcxv2xd1g0ay1mx21b9vx83spr6phyd2ma
+FileSize: 391
+NarHash: sha256:0v9wazh0ai355krxjhpyqs6skbn08iskyizp11mhhkw2b9bdakhx
+NarSize: 584
+References: nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: aci7yyh505pp6d23sb6j084d5k74x3ba-rime-plymouth-unstick.drv
+Sig: rime-cache-1:Ht6IBHefCG0mXzPKFQ8BTdV1gFdpLkkTVv7MaRuonof7tIO99nQDPdTvvYly8FRgNnJMIS2CcKMmKcu1t8f5Bw==

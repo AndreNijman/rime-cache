@@ -1,0 +1,10 @@
+StorePath: /nix/store/in7j6c16b6w5207m6v0vf5222qgq2rf6-crate-openssl-probe-0.1.6.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/06psrh81w1w10mw8sdshffs7ramni0v989znnh8090i9mhiim62d.nar.zst
+Compression: zstd
+FileHash: sha256:06psrh81w1w10mw8sdshffs7ramni0v989znnh8090i9mhiim62d
+FileSize: 1376
+NarHash: sha256:190xqm55jrnxkpqvwicfkicz7z7xgvcmx7bpza8z1aai4nanj4if
+NarSize: 3728
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:15on8SoX4G1603KMOA+TKqBtiCB7+RYQm9S1wt3Xvg+Ic8APCi82/njRODk+T3EUMRiwVaFcnlXgNFcMOK2FAg==
+CA: text:sha256:1vvj3afqviqiqb07x2fy5m24qsal5dfh447b9xjlh8gwv6k94j29

@@ -1,0 +1,10 @@
+StorePath: /nix/store/d1s87qqa5iaxbhhg31ic0rfgbhwwjnds-double-conversion-3.4.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/11163dxqcg2cjg4420rfasxmr06flp1xbfa2sr9ns6i7ns3k05zg.nar.zst
+Compression: zstd
+FileHash: sha256:11163dxqcg2cjg4420rfasxmr06flp1xbfa2sr9ns6i7ns3k05zg
+FileSize: 967
+NarHash: sha256:0f27ljrhvl1x3bpzwj54y0faipa2nghysz62x4gn7anwzszpmqf7
+NarSize: 2312
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv aix59xg0a7wc0yzcmi1ihy5pd26jd1ba-ctestCheckHook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh p22ppipddpr398drq31d1zr25zzn8qnw-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:GCxcgklCnw7Z3kJ+HxTN9PXRnVMDGP+F9g7TE3olQbn+2f1Pt0K2h+gZ2bf9wN1JCgvQMUZsignICnoqmPIlBA==
+CA: text:sha256:13006q27vqv7930iyqzwa4h551xmjkc9121lmly9xcd0jplcpzz8

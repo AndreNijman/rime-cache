@@ -1,0 +1,10 @@
+StorePath: /nix/store/dnncifknvfvgv47hzl9m2v9bbwj38hcm-graphics-driver.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ng5rpyh4g775ninjbjndpqlxr9lhvicy927ixgag3v2zmwq2y3k.nar.zst
+Compression: zstd
+FileHash: sha256:0ng5rpyh4g775ninjbjndpqlxr9lhvicy927ixgag3v2zmwq2y3k
+FileSize: 269
+NarHash: sha256:17zs49ry0ad58f8vwk3j9qdjdlf6yrrrzdpsjdaf599r8grgypzh
+NarSize: 856
+References: 0s1xg5x18kp0q83ykpcrqj1lvydh2gv8-graphics-drivers b8is373zn0xh990c7y13fih49j3zq9pf-graphics-drivers-32bit
+Deriver: l2r1vg6rmzxr9mxflnyjb9nyk7nv90ny-graphics-driver.conf.drv
+Sig: rime-cache-1:v+Qsy6WWouz7aPK1U2SBOuZhhaa8MAdVgQpgw7+unaxfoYI5VVwOCp+hsUXww9x1B2iKge4ZMl5Yecf/Zj1ECg==

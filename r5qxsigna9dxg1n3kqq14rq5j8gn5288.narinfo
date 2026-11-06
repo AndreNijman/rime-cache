@@ -1,0 +1,10 @@
+StorePath: /nix/store/r5qxsigna9dxg1n3kqq14rq5j8gn5288-libxcvt-0.1.3.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/06i0i1l5n1psxz5x2gpzvnqqlqnwprmlmivrfdgpgndgb028af37.nar.zst
+Compression: zstd
+FileHash: sha256:06i0i1l5n1psxz5x2gpzvnqqlqnwprmlmivrfdgpgndgb028af37
+FileSize: 1397
+NarHash: sha256:1blgbxy56pa5w8aq5llvhdclyamlhc0305yrd62drhb1zkxfc1ya
+NarSize: 3624
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:fJ0c+hL/a9evv5aiFRH5FuuzjeZ5fgCvnCdDgl6zN5ij3A+RmRRPDQc1qvll/fWh162psVsxP5LNcGc/y8mVAw==
+CA: text:sha256:1jws66whx6wpa3nxm2nq57l853apy8r7md9k6hdxgh94kcmd4kf7

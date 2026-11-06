@@ -1,0 +1,10 @@
+StorePath: /nix/store/274q4r1q0s4p8hnq4x0xk7khcwiycpn0-steam-1.0.0.87-init
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/13kmiw1fnjl9hgcdd6n0lranqpyn1f4x1q9jx82qdvq7bf5ci7n0.nar.zst
+Compression: zstd
+FileHash: sha256:13kmiw1fnjl9hgcdd6n0lranqpyn1f4x1q9jx82qdvq7bf5ci7n0
+FileSize: 218
+NarHash: sha256:0x4r3i94fcf47m2bm5mi5d4f47ngyxma7p0j8z07in92d2nrbnzy
+NarSize: 304
+References: nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 rg0fgv9dbvnisf4vpp0yk9k0wsvnxi8f-steam-wrapped
+Deriver: 6nrlbj48jpckrqf5x522a6b1rcnfrmix-steam-1.0.0.87-init.drv
+Sig: rime-cache-1:8dAQGxGsc1m4DdgW+vyaOKD6xrcdnVksuPRqM5CCJh4ei+Ce6gaLT6Cfz6ZAHC3b3tPGa4IKeIzHxO5j7tPgAw==

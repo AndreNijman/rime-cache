@@ -1,0 +1,10 @@
+StorePath: /nix/store/m68j70w9k3sq9kl503391qqxfpypypwg-walkdir-2.5.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0c1k9ii6i9443hg6z59wn18f6ckqazj8cq3sn3fjxwfy4y14ng5l.nar.zst
+Compression: zstd
+FileHash: sha256:0c1k9ii6i9443hg6z59wn18f6ckqazj8cq3sn3fjxwfy4y14ng5l
+FileSize: 895
+NarHash: sha256:1sxay5xdq81dki3dy5xwndfmah1xzg89zh5pswh7qpx4hw0dp8s3
+NarSize: 2016
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh n20qhmz2yxk0d2cnxck152ycsfrwyjmx-crate-walkdir-2.5.0.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:Gr79cjAyDsd9rl3xKvI7WbIUCoKB3BsqRbaiOxe30TTD7qfwz/WimytWyG4nl7vOtsYCLx0WetoSIaSPn5p5CQ==
+CA: text:sha256:0h7h68zzvgn6d9ghrwblppmz6skf6548p6dcihjdc8yjhpmbbghw

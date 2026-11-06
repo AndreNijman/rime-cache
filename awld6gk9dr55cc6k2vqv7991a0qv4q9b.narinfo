@@ -1,0 +1,10 @@
+StorePath: /nix/store/awld6gk9dr55cc6k2vqv7991a0qv4q9b-etc-xdg-xdg-desktop-portal-labwc-portals.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/13h2dkgg29y9n7pd3gfkgbp2apsbggmd62700nwyrwaaiwmyyh07.nar.zst
+Compression: zstd
+FileHash: sha256:13h2dkgg29y9n7pd3gfkgbp2apsbggmd62700nwyrwaaiwmyyh07
+FileSize: 169
+NarHash: sha256:1l6mxivx747rqkiq5gf49bargbn15fqg1ndkjndm7d443gy07lb0
+NarSize: 312
+References: 
+Deriver: 41yi2gvnbz7819p7vcz7x4hd2jd3cfxh-etc-xdg-xdg-desktop-portal-labwc-portals.conf.drv
+Sig: rime-cache-1:Q/YxoROH6x8jJNtvTLmJqDT7wXtqSfhH3ejUn24wJfJDzZZQ1WUltK5R1PqmdHggp7oXnzsarOsM6gsPMT23Aw==

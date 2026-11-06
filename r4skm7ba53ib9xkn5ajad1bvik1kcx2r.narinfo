@@ -1,0 +1,10 @@
+StorePath: /nix/store/r4skm7ba53ib9xkn5ajad1bvik1kcx2r-gstreamer-1.28.7.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1sx6qc605vzq72xpjvpw67zls1bf69nmzhcn3jf2g655q30hrz5c.nar.zst
+Compression: zstd
+FileHash: sha256:1sx6qc605vzq72xpjvpw67zls1bf69nmzhcn3jf2g655q30hrz5c
+FileSize: 1398
+NarHash: sha256:0n0zp8hnvd517hb6wp8235wkpm94z1sz96wdka23d7v4gdjbr7bf
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:s0m03YCp216/SH2/msqp1dtA32qPLD01xgr7EeWa6aSNVv3yL7Kv9+Bxa0OozjbQeiOdA0Evta0DQ48mxPBMAQ==
+CA: text:sha256:0k538xfrxkdpmg9fng46bsryxvkhw4dzpdss4cp85gzjhyi2c72r

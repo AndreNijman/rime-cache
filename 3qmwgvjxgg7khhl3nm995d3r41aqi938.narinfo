@@ -1,0 +1,10 @@
+StorePath: /nix/store/3qmwgvjxgg7khhl3nm995d3r41aqi938-tzdata-2026.4.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/03rpljdyqqfy34hj312hqz0jvz7if5fvarjcd6brchg7f9amqgk2.nar.zst
+Compression: zstd
+FileHash: sha256:03rpljdyqqfy34hj312hqz0jvz7if5fvarjcd6brchg7f9amqgk2
+FileSize: 1391
+NarHash: sha256:1ipnhkiyq2miqzkskqhaf720my6jl3q3syka789w81xzggzf59ql
+NarSize: 3616
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:DTSMzCB9MUV1zSZg7Ei5Lk8kFkY5Oxadz9FOk7j9ABweLZgzJ6hAwmmRiumamrzPONLjWuHNW4Sf3nCBbqTfAg==
+CA: text:sha256:0s5mybyyg1mxz7hmnmh9fzbm3mkm0jm1prs8h4p8cgqyavx6b96m

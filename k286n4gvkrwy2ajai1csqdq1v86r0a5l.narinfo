@@ -1,0 +1,10 @@
+StorePath: /nix/store/k286n4gvkrwy2ajai1csqdq1v86r0a5l-libfontenc-1.1.9.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/09rvniqx8fqyq16i3yrwswg5p30jwlcyl0vk8gwsnrk7mj5hvddh.nar.zst
+Compression: zstd
+FileHash: sha256:09rvniqx8fqyq16i3yrwswg5p30jwlcyl0vk8gwsnrk7mj5hvddh
+FileSize: 1400
+NarHash: sha256:1m12aacybhm7lkx4v02xglv046hlnjw6l5gh9wzr783sl6szccsm
+NarSize: 3632
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:IQssIgXrCNu2nfo+MMofPTDwg395SFpU38s4jyKzX2ZnQefBRc9q9F2XoIqy0nngxZVD5yKa/xkN5h+kMi2BDg==
+CA: text:sha256:1x5al36i68skbm30rlw8hmhd6plj5q14021gzar2khqzzyz12x1k

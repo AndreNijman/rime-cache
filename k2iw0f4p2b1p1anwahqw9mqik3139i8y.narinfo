@@ -1,0 +1,10 @@
+StorePath: /nix/store/k2iw0f4p2b1p1anwahqw9mqik3139i8y-nix-prefetch-git-26.11.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1wfwczflgyzpqr205kchszjzdbm5k5fx3ks1jn67dvwhigbwr5zs.nar.zst
+Compression: zstd
+FileHash: sha256:1wfwczflgyzpqr205kchszjzdbm5k5fx3ks1jn67dvwhigbwr5zs
+FileSize: 1317
+NarHash: sha256:1qf65jnwmwgd2dfxs1ifbn1w68vz6d09hbww8f3rvdmr14cwjsix
+NarSize: 3024
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4fw9ksqs3knbrsfjr3g47i16vzr5v30a-gnused-4.10.drv cdx1vkr2vsmjy173558b33bdxildi7pw-findutils-4.11.0.drv k70i6r5gsl5hg1fg2cwjjy4ihkqqx7h7-nix-prefetch-git l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lsklxr7k7vs2qja22qr2gp4z2h97hblx-git-2.56.0.drv m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv p91lvsaza0bb2cvhag8b2y70wvwjb3f6-git-lfs-3.8.1.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xmkywhcm19x46mxrc1ii56bfmg27nbkx-gawk-5.4.1.drv
+Sig: rime-cache-1:umPmr1HFqdGKavZM3bMXSXF0RR3mVVqQej7z/4y6qWDvOiPyCM4a1T90z/ohD9qN/tRg+Hx5dXnyeswpTEzvBg==
+CA: text:sha256:0qzhi1lir7lziiz9f5viqgx2svmrhcgb0pbi8zx4q95ild1x4zlj

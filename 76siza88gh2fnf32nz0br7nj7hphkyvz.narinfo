@@ -1,0 +1,10 @@
+StorePath: /nix/store/76siza88gh2fnf32nz0br7nj7hphkyvz-ruby3.4-pdf-reader-2.15.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1fz3kgwlki6d9gg3djk0g0nf494mfjgdwg60ns26lbcq0a07n6kf.nar.zst
+Compression: zstd
+FileHash: sha256:1fz3kgwlki6d9gg3djk0g0nf494mfjgdwg60ns26lbcq0a07n6kf
+FileSize: 2815
+NarHash: sha256:196fa25q4pry95yp5xlvsfjxb0i33sqki3ysmj882d67ifbakmhw
+NarSize: 7288
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv bkkfjzk5y01nk6hni0760ylds2djgxjk-ruby3.4-ttfunk-1.7.0.drv bvy1r46zj5ygagfhpy7sxhc8mk6d5ivh-pdf-reader-2.15.0.gem.drv hbbs4scpjfyfs5akr0al63445gjncv2k-ruby3.4-afm-1.0.0.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb s9cdmp3v38fy5jd18hvh48m45ipg2m5w-ruby3.4-hashery-2.1.2.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv vhmby1rhm1sj6kzh07xxqlr2i4rzjzgm-ruby3.4-Ascii85-2.0.1.drv w10xa7vlv5lv0rhfp1xh6rzbljd897fb-ruby3.4-ruby-rc4-0.1.5.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:1PNq8IbexOZzOStCVdTdMFyOP+E3+XEKR5p2I1HV1Qy/HB5MtgMb6qN4O5UGYLjsLjCbToDlnjZ1cHO/EoIVBg==
+CA: text:sha256:1gs0pnzf7fm3xkbbggd8m8x5gc0mf6lnplf7rhm9msaf8n97l4ph

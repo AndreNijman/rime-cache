@@ -1,0 +1,10 @@
+StorePath: /nix/store/pnpj4y8ffrwg2y0wp8l7ybpl2y38b41i-tracing-0.1.44.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1vq47mzi6lg55a4pdw0kp2k0n8zy0wfhcrdh7nqfqhv0g1adci51.nar.zst
+Compression: zstd
+FileHash: sha256:1vq47mzi6lg55a4pdw0kp2k0n8zy0wfhcrdh7nqfqhv0g1adci51
+FileSize: 891
+NarHash: sha256:1jrj7ns81xv4ayh0mc9mx1vnv7r3wxsqvvcrbsm3a4mfxbi77qj4
+NarSize: 2016
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3jhyqmar0gxvgpadm9kj214ci4rrnh59-crate-tracing-0.1.44.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:eQ3SDEl9g1x979VRDHxFyhq9OU3ecOz8p5Llz8oRUkkUIJejNWG/GD8DxkCO6TsLfGTKHU/mbjEV6HGw9d/CAQ==
+CA: text:sha256:07cjlix4j5h7vxrzk3s8waafnwmqp5m3czini4m5v5fq96w32agf

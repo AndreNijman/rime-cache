@@ -1,0 +1,10 @@
+StorePath: /nix/store/k52j8yi99nl2m6nbc6bw5na4kxm8r495-amf-headers-1.5.3.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/195yhahlqg23wx91bfx3wvkhsi6bpgm450q07cz0mydgmiddzgcn.nar.zst
+Compression: zstd
+FileHash: sha256:195yhahlqg23wx91bfx3wvkhsi6bpgm450q07cz0mydgmiddzgcn
+FileSize: 723
+NarHash: sha256:1x1769398656kqkg6s1b8f1c3c544w6rz6npj4645p20iwy5k4xj
+NarSize: 1736
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh sak4if1lyky0rj82mbm1bj732bql5gqw-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:GmEqqkeXJAtbU/O8chKu/AAnFcSWEcKCccwPpvpXOXLGX3i8Dd8p/2BMdRTtZJ1VAH0gVetk0DX8MDuC0lMYAQ==
+CA: text:sha256:1xs3q1a36gzafd8y15bjg3snixa8fs4zd7n4fd1dwngd7dj81mr7

@@ -1,0 +1,10 @@
+StorePath: /nix/store/l7xawja868psmfgwf1q98cv7fj03z3mx-crate-crossbeam-epoch-0.9.18.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1nsn08izv8jg8312jmxikw3d7idxgqkvnr8nsr9iq2l2m2wywg1r.nar.zst
+Compression: zstd
+FileHash: sha256:1nsn08izv8jg8312jmxikw3d7idxgqkvnr8nsr9iq2l2m2wywg1r
+FileSize: 1379
+NarHash: sha256:1gzy6jaqd4gf4yg195zxc38ddqsfqpdwq4br7y61xdsvhnqd861i
+NarSize: 3744
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:Ldx1DQrP5i4R/VQH2vdgoWOs4NvZ53XR4vrWr6aTP3XXvxa+0S88esBHBU/3QEp1NxyqCbNy0lQObeWCLqXZBw==
+CA: text:sha256:11wal482azsbspjdyyva9vhhy9l3vk53apc3f6ip3wy83glkxvrw

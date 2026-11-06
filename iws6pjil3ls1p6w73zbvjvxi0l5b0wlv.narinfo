@@ -1,0 +1,10 @@
+StorePath: /nix/store/iws6pjil3ls1p6w73zbvjvxi0l5b0wlv-windows-targets-0.53.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1lb4d5hfizzqrwis5aa9z4gsgj649pq9p158dirj1pkc2hmprvxf.nar.zst
+Compression: zstd
+FileHash: sha256:1lb4d5hfizzqrwis5aa9z4gsgj649pq9p158dirj1pkc2hmprvxf
+FileSize: 902
+NarHash: sha256:18r0rfclf2czlzm2r0zfcsq7pfzbnfknhz7nyn346pyrvvpifx4n
+NarSize: 2056
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv i32qjr6vsb5aj2qi6i3fx5k65q20mfyk-crate-windows-targets-0.53.5.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:CUfY8du0nuKNdTZjiY8hjyLScU0JQ/y4mmA0uh+NvN+T+AaW3bSn3qKJkIKuzdHm2IpbH7Moqger8SO96Q2PAw==
+CA: text:sha256:15471j5aznq8i0qlr26gr6bfn9vby6711sl52ns8njis1r0v8ggh

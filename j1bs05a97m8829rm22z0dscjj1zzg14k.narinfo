@@ -1,0 +1,10 @@
+StorePath: /nix/store/j1bs05a97m8829rm22z0dscjj1zzg14k-X-Restart-Triggers-reload-systemd-vconsole-setup
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/047ai1681h16q4rm64z938w69g2wrjxgvmd7kv4sw60h6fdbgqka.nar.zst
+Compression: zstd
+FileHash: sha256:047ai1681h16q4rm64z938w69g2wrjxgvmd7kv4sw60h6fdbgqka
+FileSize: 118
+NarHash: sha256:0z05007xa8k92yfn0h7fa1v5f82ygh97dnhimvkyyh130bs8124w
+NarSize: 168
+References: ln6gpmvw67yvx86winmgdgqkn1f2viw8-console-env
+Deriver: 709d1f9cxgf99h83fzcxdd4s91zypl0i-X-Restart-Triggers-reload-systemd-vconsole-setup.drv
+Sig: rime-cache-1:g627IlgMmFT5XnB6hrsTAPYccjYhefqq6oR9bAq4mF9oJTd/pAJGiUFXW3dw0bv5hMGvatzp7nFpElf1jmepBQ==

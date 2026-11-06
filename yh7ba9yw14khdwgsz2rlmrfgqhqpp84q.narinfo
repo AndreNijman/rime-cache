@@ -1,0 +1,10 @@
+StorePath: /nix/store/yh7ba9yw14khdwgsz2rlmrfgqhqpp84q-qttranslations-6.12.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0472aqmy2d8zkh1404c15dsmw6l500bfb6l83dj1xn056iy76xdn.nar.zst
+Compression: zstd
+FileHash: sha256:0472aqmy2d8zkh1404c15dsmw6l500bfb6l83dj1xn056iy76xdn
+FileSize: 1065
+NarHash: sha256:1qhh6fyr91jw50m7aps2pppi98w0nrdiy9cqjjf1bzb4vpc85xqd
+NarSize: 2392
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4wn323mv5djffm1dqi6kbwbndns3fs6j-qttools-6.12.0.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sm4iysff4vjckrdcrl794d440knr2lwm-qttranslations-everywhere-src-6.12.0.tar.xz.drv wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:ySFNfkSGRRbAg/9I497gT/mB1JDUhfiIJKjjSqpPIKgUfV8ecl1pDv8H2Kj/6Sykw1cUmN95emM89C5/FChRCQ==
+CA: text:sha256:09iy2p21q6bl4bwkv6yxn5mpw9sr3576x2cm5fx0d8brx6v4db5g

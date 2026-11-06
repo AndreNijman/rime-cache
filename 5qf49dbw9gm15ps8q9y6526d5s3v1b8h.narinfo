@@ -1,0 +1,10 @@
+StorePath: /nix/store/5qf49dbw9gm15ps8q9y6526d5s3v1b8h-0001-src-eventloop.cpp-use-portable-method-for-initializi.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1i9iabf27b8nwyfvkxccvr8ifyf8cghg712h72as1mdzz52c6r88.nar.zst
+Compression: zstd
+FileHash: sha256:1i9iabf27b8nwyfvkxccvr8ifyf8cghg712h72as1mdzz52c6r88
+FileSize: 2060
+NarHash: sha256:1gxj9g7r8db212i36y4xcrbplzpdqaa6cwhymq3pgzk90hsi090d
+NarSize: 5496
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh yqikd9hjkm5j1a2zzmhifj09b8yk6sd1-patchutils-0.3.3.drv
+Sig: rime-cache-1:9+MMzALaO2j1uNLpSZWe62hZEXjQIEdDsQzxItheZpl1F17Mfu+Ptu5pr8iYMo5xBtXu1rh8QV5cbQJMCf0wCQ==
+CA: text:sha256:04mgjkkaqldk2c5wcvkwwxah4jyhvlh7s4sgp1qdmcyvdg3yp3nd

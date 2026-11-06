@@ -1,0 +1,10 @@
+StorePath: /nix/store/bcc7q11ilnr9cw9x0pnsacikx89drs83-etc-alsa-conf.d-49-pipewire-modules.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1krph8pc5wk4v2srn5r09vfap5icf2b34s7dqdscrqh8n7xs505p.nar.zst
+Compression: zstd
+FileHash: sha256:1krph8pc5wk4v2srn5r09vfap5icf2b34s7dqdscrqh8n7xs505p
+FileSize: 241
+NarHash: sha256:0lwvw5rwgq278ijj20iz51c0hpadkncjqad22hpb1cvih7c7jmsc
+NarSize: 648
+References: sn4imz99b79179bc0pydgw9q433if9zr-pipewire-1.6.9 wfi1i34azyilqvh1q74fbr0p5rc78fmq-pipewire-1.6.9
+Deriver: kj0brvfd419qgs2xaylq40h4b9riqd44-etc-alsa-conf.d-49-pipewire-modules.conf.drv
+Sig: rime-cache-1:0BlroA3V8wU3fkFaVxtNRmuyzp8NO/rhoKcQmDTccf2V22PGMqA5ltbEZul4mpVicSkhytr3tlQWmJEjkdQNAw==

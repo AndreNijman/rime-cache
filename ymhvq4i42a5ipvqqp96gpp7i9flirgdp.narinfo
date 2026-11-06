@@ -1,0 +1,10 @@
+StorePath: /nix/store/ymhvq4i42a5ipvqqp96gpp7i9flirgdp-security-wrapper-gnome-keyring-daemon-x86_64-unknown-linux-musl
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0fg4nk8vs8lmwzvhrwzddbjxlbn1ncwlm056x3m5j31vbgk3sb91.nar.zst
+Compression: zstd
+FileHash: sha256:0fg4nk8vs8lmwzvhrwzddbjxlbn1ncwlm056x3m5j31vbgk3sb91
+FileSize: 32820
+NarHash: sha256:07fl6vpcfajd1hj5yk0i80rk0kjk07x9bayh7p4c5ccrz9wda5cc
+NarSize: 71592
+References: 9vs5zgw14lij8dr7ysvj3xd6abqhj8m6-gnome-keyring-50.0 jgjc8i2apilfajwd2xah9b8w5p34p62y-linux-headers-static-7.2
+Deriver: sk3p9vccnn46f2rdxi1sny1yc4624i5k-security-wrapper-gnome-keyring-daemon-x86_64-unknown-linux-musl.drv
+Sig: rime-cache-1:BDNCI/czwH2BJFCxOGwipYACCHIQE/UKEpDA026vF1UfrqVziXFo07xwJDVvGqw/YEVGOaIsVoJeu8RQjpyaBA==

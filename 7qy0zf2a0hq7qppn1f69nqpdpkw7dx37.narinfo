@@ -1,0 +1,10 @@
+StorePath: /nix/store/7qy0zf2a0hq7qppn1f69nqpdpkw7dx37-python2.7-pip-20.3.4.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xj1by8akli2pf4r2lk2zpdddsbmny7z2704pgxc4jin0jyhb4gg.nar.zst
+Compression: zstd
+FileHash: sha256:0xj1by8akli2pf4r2lk2zpdddsbmny7z2704pgxc4jin0jyhb4gg
+FileSize: 1282
+NarHash: sha256:1z50s5r1zph634kgn7c2x292fy6a9cxc0628hbz2ak2vvsdag3cy
+NarSize: 3112
+References: 1mddcqmyavrcaf3vgk2fddh0pa7pw82d-python-imports-check-hook.sh.drv 2zvcn5i5g883jpmv7myplz5x0w807gvx-wrap-python-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 732fm1hlxi53i907s04cy1ll4kic0h0z-pip-20.3.4-source.drv c700620p2lz9nl21x0zj4i1gqydagaaf-python2.7-bootstrapped-pip-20.3.4.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv k0g380c1kanppwxhzgigvv11d34zanbm-python-remove-tests-dir-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv v5sdwz76j8xl1xq6hfwi1dgpirmkdwyj-python-catch-conflicts-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:yf+79Ie0YRzOR1iy+g6WvlInZCXTB8ILm3fL6DOhvrEWyEaQ5Zl4P8c1KBmfMoJonUr/3G+/d83FQRTp1+IdDA==
+CA: text:sha256:0rk00cbjwqgjxdkkacmr5vx58d5qga6gfsdni88qqh4px3y8pxwk

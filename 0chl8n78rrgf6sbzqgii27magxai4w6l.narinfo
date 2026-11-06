@@ -1,0 +1,10 @@
+StorePath: /nix/store/0chl8n78rrgf6sbzqgii27magxai4w6l-avahi-daemon-ready
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/00bh7kbm948rgl9pszfqpjmy59d499iqsgmb9y36cbvr86h7bkz4.nar.zst
+Compression: zstd
+FileHash: sha256:00bh7kbm948rgl9pszfqpjmy59d499iqsgmb9y36cbvr86h7bkz4
+FileSize: 256
+NarHash: sha256:1yjnz06cfi7ij9279w04d11gkqfyhn4nrk7xs7spp4gznnjjha70
+NarSize: 392
+References: cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: xbpkxcjlkvg15qw1g1xfxfdd98yxx8ng-avahi-daemon-ready.drv
+Sig: rime-cache-1:ZEgymM/7xhaWZCkIsgQZZYxFqn4+LVkzcCTAYzm8gvOcClRdb0Tj/GL5/B+dEi+8VPaG8kNQR803pLtAfE5PDA==

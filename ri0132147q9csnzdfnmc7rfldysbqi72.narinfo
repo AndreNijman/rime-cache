@@ -1,0 +1,10 @@
+StorePath: /nix/store/ri0132147q9csnzdfnmc7rfldysbqi72-libopenmpt-0.8.9+release.autotools.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1xb2kn0ni811n321qg7m62gp2gii0fwjvk37sia6yi6x2mhgr22v.nar.zst
+Compression: zstd
+FileHash: sha256:1xb2kn0ni811n321qg7m62gp2gii0fwjvk37sia6yi6x2mhgr22v
+FileSize: 1406
+NarHash: sha256:080hpbaznjysk8lbm52m33dyy78m0l57qdg8az33h7vy11hlddx1
+NarSize: 3720
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:tuJq09MstEMSFiOg/uwgL9xk4g+szaRzNor2Pl5OpTStCJUMtTzxB3ATxup4ZMczwEptNfEuDaXSZqbxROUjDw==
+CA: text:sha256:0sx7pbm7d3drhq36b4cbql8a95c0287sccdzv1q0rldrqaymsvrq

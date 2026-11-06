@@ -1,0 +1,10 @@
+StorePath: /nix/store/likml6fmabddjzxw8yykal5q36cf69ib-ragel-6.10.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/074p59rx8ynnfdzvrrb82bni0kkz2flrg3435ghysk9j56madnq6.nar.zst
+Compression: zstd
+FileHash: sha256:074p59rx8ynnfdzvrrb82bni0kkz2flrg3435ghysk9j56madnq6
+FileSize: 1399
+NarHash: sha256:074wxlyxk0kg905lzcvxys93v2cjys65i1av4nrmi2m4gpgh22ax
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:EjTk/LySiD+sLiNFJaKu3dkEgCun2ucS9IzJJyPdiSS1E21ATpjHKn+bFvEHNA/P8b2vJJ9FdTXOzt/iwNcqDw==
+CA: text:sha256:1jvwf451csynf5nnagsf9lp3n68jk9nb25rhwihfr3pmvblbqszl

@@ -1,0 +1,10 @@
+StorePath: /nix/store/m67fh68959355cpkqv6k71qdb4ilciga-crate-itoa-1.0.15.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0405mfgmky1xlhbwxqsllx8flw3sisz83jiam9z0fl25qm77jdrk.nar.zst
+Compression: zstd
+FileHash: sha256:0405mfgmky1xlhbwxqsllx8flw3sisz83jiam9z0fl25qm77jdrk
+FileSize: 1379
+NarHash: sha256:0f02xrg34drhzs6wwp7js6nq3jadk0rpjprls2y2kwdr6p74wal4
+NarSize: 3696
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:uGmrPuLb/S3pfEdvg3BSPD1ALoxwAZnDp/OaUT3Zxd7O7ZAOYdPnML2iY8QiIuqUdfGNocMR5w91JgonQCXdAg==
+CA: text:sha256:0dpv2raaijcbq57q63wx6ask4dml63j5656pwka0cahk424j8ni9

@@ -1,0 +1,10 @@
+StorePath: /nix/store/3kc67i0973ix07jr5anaqnc4zhwkgrk9-crate-ppv-lite86-0.2.21.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1kvff8qw9pl1yjzfvjiw6a6hhw0ijw8qclcbav271y0h6wncv8bj.nar.zst
+Compression: zstd
+FileHash: sha256:1kvff8qw9pl1yjzfvjiw6a6hhw0ijw8qclcbav271y0h6wncv8bj
+FileSize: 1374
+NarHash: sha256:1mx955x53in818qs5hsa7fxq01dgfgbs7b9rkn3i28absaa1cv65
+NarSize: 3720
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:EXrp+JicwPb0WQsY3GyJEYrC2IPfeC2OTC/ko7LTvr4rpyzrnkYbRP9ChUjAeUGkLiJdHkmegpnnqPH4mi4gDQ==
+CA: text:sha256:14534d26lgn9g363n2f75dvkcsyr680lp9kwn5sr1m8jjcf4qllr

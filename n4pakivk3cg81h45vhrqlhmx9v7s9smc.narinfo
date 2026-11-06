@@ -1,0 +1,10 @@
+StorePath: /nix/store/n4pakivk3cg81h45vhrqlhmx9v7s9smc-gawk-5.4.1-binlore.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0z52vb6s2kqiwmcm1b6i2xrgy6ws04g0m5zpdcjiv0mxy1kycwiw.nar.zst
+Compression: zstd
+FileHash: sha256:0z52vb6s2kqiwmcm1b6i2xrgy6ws04g0m5zpdcjiv0mxy1kycwiw
+FileSize: 1199
+NarHash: sha256:02niwydnvybk6snllb6000rh7dxjl2x29pvl1bkss1g32sd7r5dd
+NarSize: 3784
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6j4yl5gr8xw2ih1dh754lb66rj5i9cj3-yallback-0.2.0.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rfbqv0h7sbzxdb2mglk1qgvm0bq3j42z-yara-4.5.7.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xihna7s0ajxs8lhymnhjjrvhkak8mkm2-source.drv xmkywhcm19x46mxrc1ii56bfmg27nbkx-gawk-5.4.1.drv
+Sig: rime-cache-1:F+/hhbxWicq8oSP5OFf3dtM3FYkNmxDv9EKYYnZN0iZbK3CppLEPkVXFjVFNuXkysUBfe2wA3+nH8y6/Z2qACg==
+CA: text:sha256:1khlyiaaq2i3qb0ps5fxk0yp5yb6ijqrmk5wpq7hkmj47qmz0slf

@@ -1,0 +1,10 @@
+StorePath: /nix/store/ryg5ll9d4yza8kd9i1zwwjm2m9an3js1-dbus-deviation-0.6.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/13wg6mqhhczb63nz2kvq2bam7c3m4p63fsj5ffh1b46cnhgpy9z4.nar.zst
+Compression: zstd
+FileHash: sha256:13wg6mqhhczb63nz2kvq2bam7c3m4p63fsj5ffh1b46cnhgpy9z4
+FileSize: 1398
+NarHash: sha256:0bvacrviwvl9digc5819gjjprf6dmdi5mi9ipw992gmrh6cj4hgq
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:tcE0KOIAcSVS2QFu9EpxTMNewhgWSQ8HMjjCrkSY4QkkQejGKtROZ8pN5zlNbA+3W7nr7kkKDE9acs7C09ckDw==
+CA: text:sha256:09i3kcj7s30z091m4n562cmb7w26qx1wfj9zf7y64b9920a96khs

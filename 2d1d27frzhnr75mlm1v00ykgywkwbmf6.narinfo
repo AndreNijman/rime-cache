@@ -1,0 +1,10 @@
+StorePath: /nix/store/2d1d27frzhnr75mlm1v00ykgywkwbmf6-cdparanoia-III-10.2.src.tgz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0c2gjfsis1p1abzp2nzyzf5vs4c50ddzza1m1zp7qg5jv5r0s645.nar.zst
+Compression: zstd
+FileHash: sha256:0c2gjfsis1p1abzp2nzyzf5vs4c50ddzza1m1zp7qg5jv5r0s645
+FileSize: 1408
+NarHash: sha256:13fn6c14wfbc1xv844rqd1jbs6xyvq4j3m1wq1cqxwg11xai1s3d
+NarSize: 3704
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:RcrR24AgkLm/9wu2fqlrKwI8zSyNbbK51Zu5y3R+gFGFLkj+kEYhIykfRtNx9u1qu8PgR2hYFDuO+deUBsaKBQ==
+CA: text:sha256:1ijzksv0h2jxscn834mmb6b3nlibwfmsykq0cx4q0bqvsrf4sp3i

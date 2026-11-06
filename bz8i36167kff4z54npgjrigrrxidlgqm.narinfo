@@ -1,0 +1,10 @@
+StorePath: /nix/store/bz8i36167kff4z54npgjrigrrxidlgqm-rime-chatgpt-index-26.1027.51404.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/05z640n4pky8kplyh86qmy73yp9d8wmc21981x3v3x63vmjnrfpn.nar.zst
+Compression: zstd
+FileHash: sha256:05z640n4pky8kplyh86qmy73yp9d8wmc21981x3v3x63vmjnrfpn
+FileSize: 1402
+NarHash: sha256:16aha5xmir2rf1cn2q1h5jkkapdx6j4drabdlkacn7wzza2i709r
+NarSize: 3984
+References: 1142izpla409fzbfwncwmmbs8y9ndc0k-gnugrep-3.12.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv i2kqy3dvhmcaxmrcx4651gpw2njld2g5-gzip-1.15.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lvnfh6qvy7nb1j2i2j5q120380d2z1ki-repomd.xml shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh syc5120yip7z3zmc4haf4y0hc74bpdnr-505da0d609c5c57da508b34955cec72730699ff2aa7d0f13e8cfa2620ed5df72-primary.xml.gz
+Sig: rime-cache-1:8+d0Ekr+qTtz5KBPy4CEBo3GTmGQxaH6n6WCJWm3V+1qRffNwRYspkuCz1EER9/GaYBFSxTP3ajIXYVB7UD7BA==
+CA: text:sha256:0chsynbggvyxiv775bkvcl8321jpk6k570bal2gl8bin4fayk68j

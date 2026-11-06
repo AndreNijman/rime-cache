@@ -1,0 +1,10 @@
+StorePath: /nix/store/lmbyd1fv87p9c157sjrfxkjl4913kg33-no-daemon_auto_start.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0p47nldgyabx302a7l8w84vx0ap8vsidbvwbd8bnn8kfpr9gik1w.nar.zst
+Compression: zstd
+FileHash: sha256:0p47nldgyabx302a7l8w84vx0ap8vsidbvwbd8bnn8kfpr9gik1w
+FileSize: 249
+NarHash: sha256:06sqpxy2m6pq8lsj078dfwbmf87qjlg4vzhgcgkbmplmbsh0qa05
+NarSize: 440
+References: 
+Sig: rime-cache-1:FiRY6m5JWrqRwOxprPEKy9ObajYOVSpUuiSxVoEsidlJSY3N8+9ePmT/n6eyy1ZkZ6qmhc6GONJZixR6I78eAg==
+CA: fixed:r:sha256:06sqpxy2m6pq8lsj078dfwbmf87qjlg4vzhgcgkbmplmbsh0qa05

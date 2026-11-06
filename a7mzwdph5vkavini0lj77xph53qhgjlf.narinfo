@@ -1,0 +1,10 @@
+StorePath: /nix/store/a7mzwdph5vkavini0lj77xph53qhgjlf-nodejs-24.21.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1bi8g7g7jn0dm8bsndimfv5dhgfrsi8ldvqq14bbhpqchn1i0s5m.nar.zst
+Compression: zstd
+FileHash: sha256:1bi8g7g7jn0dm8bsndimfv5dhgfrsi8ldvqq14bbhpqchn1i0s5m
+FileSize: 1047
+NarHash: sha256:0jd018bf18w4gad896h0xc15ca3xq49vmmdlcl7dymsv276gl86b
+NarSize: 2376
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh p192jgmsn572wfx41nxnqx1sab7dpn2r-nodejs-slim-24.21.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xv4p4fplqzfppacl331jl2sv41q8945j-lndir-1.0.6.drv
+Sig: rime-cache-1:IQSsOfyDk1co2VQuFqipCJalAZsW08xeYk0Pl9YGNoPaJhRYlvOvl+EtvdzSUk/H2lmm6r40aQO0fO8vpGHCAQ==
+CA: text:sha256:11hypx2rm58mj8a21gdlqjcfsb9vg07rq7ysykmms6mbfaxpm8mi

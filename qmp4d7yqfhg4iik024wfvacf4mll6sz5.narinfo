@@ -1,0 +1,10 @@
+StorePath: /nix/store/qmp4d7yqfhg4iik024wfvacf4mll6sz5-libiec61883-1.2.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0z15i7zv6gbgm1gv3vd4jnjyb4ik1848li76mv7zjxbqqh31dlnf.nar.zst
+Compression: zstd
+FileHash: sha256:0z15i7zv6gbgm1gv3vd4jnjyb4ik1848li76mv7zjxbqqh31dlnf
+FileSize: 808
+NarHash: sha256:0hzngg7j4z634mhdfs6pxqxz6ckrx2ma1zdxrbqngsm3d00yl972
+NarSize: 1968
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv fijfy1aini33p49a4md89jwi1063zs3b-libiec61883-1.2.0.tar.gz.drv g4lvr9rr19lgbdcn370q629ipgris85i-libraw1394-2.1.2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:wocEeS6vmpQ1xic2R1CsPRzDP7THk1xgcbd3hj+0u74Fmyykau6CVhauUlAjE3j89LmHiwfAmEQL2rVAGegBAg==
+CA: text:sha256:0890sjz4rrc29ww8dj77an8qnakb078kzvc09y7y7xjxzv730mk4

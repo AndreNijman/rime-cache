@@ -1,0 +1,10 @@
+StorePath: /nix/store/8gw6b1v4zzd8wskkzx7ck4sdml0nd8y4-crate-icu_properties_data-2.1.2.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0nkww7hjwhnfbdk1p6a9hylr8gmsy242wzp4xqxpyjal62g6ivw4.nar.zst
+Compression: zstd
+FileHash: sha256:0nkww7hjwhnfbdk1p6a9hylr8gmsy242wzp4xqxpyjal62g6ivw4
+FileSize: 1376
+NarHash: sha256:1h7ym2xf5a0bkxjhi5322nmdphnw4yd5wm7fajwk3paa1p7mgiz5
+NarSize: 3752
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:ey7jj6eyzk6lsgCM1kmNQT5wt6HYpvXWCsK/CbnbnUjmvkzBdSZhlPWHIA/qTY72X9FuLfSFm09sbE9Oi/glCQ==
+CA: text:sha256:01yz9j9mqs07ls8jisdrbk5kj1n25r4f751m0g43xc2byp72ci5f

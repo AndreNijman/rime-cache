@@ -1,0 +1,10 @@
+StorePath: /nix/store/k2xdrmiq5g3nrnfc347snh0h3ikxr5c8-alsa-ucm-Replace-port-device-UCM-context-assertion-with-an-error.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/008vmvdfr78cjnvf35w3h6sbkj05ads1dihbyimjnmyzy3cicsfl.nar.zst
+Compression: zstd
+FileHash: sha256:008vmvdfr78cjnvf35w3h6sbkj05ads1dihbyimjnmyzy3cicsfl
+FileSize: 2048
+NarHash: sha256:0n2h5pl27j8jn38x2d5nkd04f1q2f68rklr8x74f48z4i8xcanp0
+NarSize: 5424
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list hcp7wc7imkbrvb4j7bhjqibx4i3a800x-patchutils-0.4.2.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:0ViJIaL0G9YSQnFilgCyHgt/0vGmrwnzVG1z9UtgUcoz4Kbfv0l9Ag3J9hBrcE+xSMEYu2wgdv3+NVIhU1hZAw==
+CA: text:sha256:1bq8cgzaqwnywrfc1h6a4d29254vyhq16p0mkzm9462di3rs962c

@@ -1,0 +1,10 @@
+StorePath: /nix/store/0x1phngy7my4q42b1wqvbsqpwyjha9gd-unit-rime-update-check.timer
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1kbn1cg64krsr4b2wdifndd2yc39ihqn0nzy98w1cq6nn9qv4wgk.nar.zst
+Compression: zstd
+FileHash: sha256:1kbn1cg64krsr4b2wdifndd2yc39ihqn0nzy98w1cq6nn9qv4wgk
+FileSize: 224
+NarHash: sha256:1f3awazp9pdsn80yvr3sfi592x14ngw1fj45l5xpbp26mfd2wiy1
+NarSize: 424
+References: 
+Deriver: 6rz0aix8pgbj6ajrvn2lnc9jmxvj47rc-unit-rime-update-check.timer.drv
+Sig: rime-cache-1:F9lFJdVXVRL23sYXOu6eIOLULb731sHW3RQ2f/O0jZ3PyayxSWi4WOsFRvn0kIV0FjMkDuURUUSRxl+GdFNmDg==

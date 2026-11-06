@@ -1,0 +1,10 @@
+StorePath: /nix/store/r67blll10plqvjfy00nvafxabvv56a0j-python3.14-typer-0.27.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/01fhcjhnl0d0avcv26ajphm9hp9yhx38iww6lyj9f3mmjmqz25jv.nar.zst
+Compression: zstd
+FileHash: sha256:01fhcjhnl0d0avcv26ajphm9hp9yhx38iww6lyj9f3mmjmqz25jv
+FileSize: 2618
+NarHash: sha256:0gxpq2cjbfrzpjkh64zll4h5byjm171f8g33y6dvpzg4pxz5a88i
+NarSize: 6480
+References: 2i1795b07kafxvwch92kj0hfmjg37cr2-python-remove-tests-dir-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3v5kp4hf2arp6mib6gx6n6xpx2ybs91x-writable-tmpdir-as-home-hook.drv 44q2zajrz91agb167xifb5qchwi1q8z2-pypa-build-hook.sh.drv 5x76xgd4fqggv7ikx0985ayjh83azkqk-python-namespaces-hook.sh.drv 7zhs931h87ln2sknslmj1zv8jsc0mzm6-wrap-python-hook.drv 869ypfgq23dpjymlgqp7a4nn4b1x06iw-source.drv 8h7xmhabwjbqbchnj8xgfjckh8r6mvjz-pypa-install-hook.drv 9qx27fycxd42i05599rn3xsf1vgj96ln-python3.14-rich-15.0.0.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv k06sglvkhikc4w8kzx50l9lbwvr9604s-python-runtime-deps-check-hook.sh.drv kxws3pbi3sjl806nplw1j6apf9gjchk5-python-catch-conflicts-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lwan0vf7f1jcbr8fj9i0pbgkcg4crsqs-python3.14-shellingham-1.5.4.drv mnhrps1293ppks5kpih2698302v1m8qg-python-imports-check-hook.sh.drv p54hb48r4pclrfskhpn68f8l45aap84p-python3.14-pdm-backend-2.4.9.drv qmgzxx970r28sjysck3jgfalryxsfqsa-python3.14-pytest-xdist-3.8.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv vxfyfa1s06bgg4a1lkqpganbw0vkh2wc-pytest-check-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xbjm8k1jcv08s7wn3saf9a9c9fdqmjja-python-metadata-check-hook.sh.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xkqfcd6d44zbn7bpdgl75zypq6y3dg3h-python3.14-annotated-doc-0.0.4.drv
+Sig: rime-cache-1:FCcQ7T4xz79P1UOHw9adNP0EhhLQtOfyUnLjvj17Dz2yjo2skNH4Q+64DL58gc/pS7avSzWcD3rxKXTFgf7bBw==
+CA: text:sha256:1jyfy2vghl0xcscvcda5bcrgm44vc47wd0smn9z4vv99jqzfb672

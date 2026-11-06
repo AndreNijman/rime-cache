@@ -1,0 +1,10 @@
+StorePath: /nix/store/xbgfrsp3xgj0xscpvy916zc4ri2i1nqi-portable-atomic-util-0.2.4.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0vh34c7z22p5csvhypl91mwmzl9rgql02a01f42slmf8hkpmc88k.nar.zst
+Compression: zstd
+FileHash: sha256:0vh34c7z22p5csvhypl91mwmzl9rgql02a01f42slmf8hkpmc88k
+FileSize: 910
+NarHash: sha256:0zhgpwra2a12n6np1n54f7djaq1ajjkvd9lknmarzz4952zn4a5g
+NarSize: 2080
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 8hrjdpbk5v1i0anb8x5b283pngwf1rik-crate-portable-atomic-util-0.2.4.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:1Puo7cjetVBq7Uh8CbkhI/M+XymkmxOt5+2vsaXYSn0ghhhB+XTLWiXj+wMIE22L80uq6w49vSFLDz8+REyQCg==
+CA: text:sha256:0iqhnpvs27faa77sivs6m0d4kvk5my0p4dfxcqd9p6miffdawrr8

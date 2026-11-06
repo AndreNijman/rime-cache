@@ -1,0 +1,10 @@
+StorePath: /nix/store/gsgzwqnczsad9gnvhdh3qbl8jghz1zdm-yarn-1.22.22.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0nn9h56fmhwqz48fzknvp502ccmq5a5hw22vik8vm6ha2fzc4vmp.nar.zst
+Compression: zstd
+FileHash: sha256:0nn9h56fmhwqz48fzknvp502ccmq5a5hw22vik8vm6ha2fzc4vmp
+FileSize: 925
+NarHash: sha256:0nxsyhs84cvdyhjnp9k848fm8j0khcmbcd2qm3w0pd42rlnvbikm
+NarSize: 2216
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv a7mzwdph5vkavini0lj77xph53qhgjlf-nodejs-24.21.0.drv clr326h5pwjfwnhgpad4cmglzbpaxbbg-source.drv czv5vx80wfksqqdbnsl2n31lmcbsm6sy-source.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:WIB23KEm/d9K2qEJ+9JsN2p+tPAG9wbuUtHLkAfKNAUwk71+Kf80tDhhc4oxk/Lyk4qv8Y9G9X0ZcRTFsmXeBA==
+CA: text:sha256:1c61a4ba79k18dmnkkxmd81prw87hm5w28fjya26j6pg6radx7n7

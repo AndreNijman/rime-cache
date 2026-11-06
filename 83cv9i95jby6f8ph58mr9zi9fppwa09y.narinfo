@@ -1,0 +1,10 @@
+StorePath: /nix/store/83cv9i95jby6f8ph58mr9zi9fppwa09y-openssl-sys-0.9.111.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bxhrri0sjykf9sdgrljdp5ysb9z5r6v3c7431k2zjw2jw22mypf.nar.zst
+Compression: zstd
+FileHash: sha256:0bxhrri0sjykf9sdgrljdp5ysb9z5r6v3c7431k2zjw2jw22mypf
+FileSize: 900
+NarHash: sha256:0m1aj99fb2jhhgvbx4k4pz811vhihsvwyz0ids7n34ljzmac0j9x
+NarSize: 2048
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv ai42k69snzjzr3iy2ibapd0c8ng8czs8-crate-openssl-sys-0.9.111.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:18K4BVW/6W5YzaTkw7LNzm6aSi3suTEAbGxJ6K/2vCmk8yOA41kEC8uBNrz6aGmaktSmoOrjJO/Cfb4jB9XxAA==
+CA: text:sha256:1m0zfvjsly034qhy2k15d0czr8ngvvjfsgr788yp13by9g7lk1h6

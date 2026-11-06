@@ -1,0 +1,10 @@
+StorePath: /nix/store/mj5273wbr50n00hnf8556wwn5sj0mdx7-speech-dispatcher-0.12.1
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1p8rjva6rn58mc56rp7y3hisg0dyyb71rw632f13v8wrkk86lmwq.nar.zst
+Compression: zstd
+FileHash: sha256:1p8rjva6rn58mc56rp7y3hisg0dyyb71rw632f13v8wrkk86lmwq
+FileSize: 4435204
+NarHash: sha256:1z985lz6jkmwmy766bjqc2b1gr2byvqf9j0iq3v787zajkz3rw3b
+NarSize: 30336408
+References: 28wgzm0b6w4sy4vq9n9a79kr5jmpqn6y-flite-2.2-lib 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 4i9l19d7i6mkqmfkab06ii9r7wcf370c-espeak-ng-1.52.0.1-unstable-2025-09-09 567f5kxj1d50c18qhnxz8v5qpcjgc0zj-picotts-0-unstable-2021-05-06 7a2cjhcgzyym5zaz6m4fksw47qvm150w-gcc-16.2.0-lib 9rrbavk1yrmi9ww0321pplw9q9brh1km-libao-1.2.2 a0igfras3f519i9rddwaqfh3bx0xl0wb-libsndfile-1.2.2 cgzr5afjdbx30j7g44z2h92i8h3828k2-systemd-minimal-libs-262 ddqbzpn77xmi900rj1a7wy8b5lbwm4ay-glib-2.88.3 gv7f8zmsgv3x98nnnsg5dbxfprs7009z-python3.14-pyxdg-0.28 mj5273wbr50n00hnf8556wwn5sj0mdx7-speech-dispatcher-0.12.1 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 pqyiidz5mi73wv5f91d48s9plcqyj5bz-glibc-2.44-57 v4sdksczcgsy9dv5973mag43g1if2c6q-dotconf-1.4.1 wfi1i34azyilqvh1q74fbr0p5rc78fmq-pipewire-1.6.9 xahxrjs30p3mw0a42bqg9ikgkikskw8m-python3-3.14.8
+Deriver: 4c6m5czzm7wch2mrg4g97j6dj20p90bh-speech-dispatcher-0.12.1.drv
+Sig: rime-cache-1:umSr5TS7ytHhEt1S7JKZvtgxVIILa3wwRTUgATjbpRfHiCCA935xMx1k3UDJc+zWjTcHOPbnM4PSj8B8pkhOAQ==

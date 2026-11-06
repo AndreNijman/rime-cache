@@ -1,0 +1,10 @@
+StorePath: /nix/store/2y5k4cphl668ilpgmx9c2kapjja92jzn-egl-wayland-1.1.24
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1m9jdw2hq3y5yxlp7zb3hmbdhqdz84j87zlm7jx2vgc1b907y0gb.nar.zst
+Compression: zstd
+FileHash: sha256:1m9jdw2hq3y5yxlp7zb3hmbdhqdz84j87zlm7jx2vgc1b907y0gb
+FileSize: 46688
+NarHash: sha256:0h5lngy1yxzan1l1vllp2zfwl7s8xq5fkjgs0p9zz2j0qg4vjgzd
+NarSize: 131264
+References: 2y5k4cphl668ilpgmx9c2kapjja92jzn-egl-wayland-1.1.24 dh7gbcwpk9v08kr6a58b971vv1z0zlbb-wayland-1.26.0 i7iyqjv5kx2s1lx6fwa5ksfydv7xmvcs-glibc-2.44-57 pcjmqy42wk2xy0ilsficz5b9j9xnib3x-libdrm-2.4.134
+Deriver: dhq39hc3k25nh5wh1flxnwz9wim285br-egl-wayland-1.1.24.drv
+Sig: rime-cache-1:Qotyc+KL5iIrc6ZMh9uv2rcy6ImNlxHf6ZkbmkoVL2GfadCgwQTRT9+TZ7fASIheSIFJdsgs031szQ2nnjMTBA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/8q5xhrbdacja653r559ca3mrcpdis735-crate-zerotrie-0.2.3.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14zw3pp59s1zp5a5ddvk4flf58i60hqjfiib43kyqhf7hc5csgjv.nar.zst
+Compression: zstd
+FileHash: sha256:14zw3pp59s1zp5a5ddvk4flf58i60hqjfiib43kyqhf7hc5csgjv
+FileSize: 1371
+NarHash: sha256:0rw9avbf9ablfa74xjpva244r9wvbzdrvy6f4d2avsx4yg90j2qc
+NarSize: 3712
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:bM3YZMnWOFOhu8//GEuDluzOyMb7PeVqs1YGECpUzwG9S90O/5xmKLE89XACOoVomMgtzkfaBOrhSJHL7TbSAQ==
+CA: text:sha256:09f017hxl78j4j86jd4sqs4nf186g7y3afw003kpq47s5xpz9mc7

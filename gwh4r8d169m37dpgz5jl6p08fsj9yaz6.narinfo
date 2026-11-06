@@ -1,0 +1,10 @@
+StorePath: /nix/store/gwh4r8d169m37dpgz5jl6p08fsj9yaz6-crossbeam-utils-0.8.21.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0i42p8akhqszarqzpvsnpbmjj6i25a91hcc3bs2nvjkcn8gw6zwf.nar.zst
+Compression: zstd
+FileHash: sha256:0i42p8akhqszarqzpvsnpbmjj6i25a91hcc3bs2nvjkcn8gw6zwf
+FileSize: 904
+NarHash: sha256:191djykpbk89xdkx4wz29l9rbjqiizsv4m3rp0mi8zj2zlnvs8ki
+NarSize: 2056
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q9yxhg9xsj863h5afi2zs20mp2py54i7-crate-crossbeam-utils-0.8.21.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:H9KsB52I1uzajP3mfVTMZiA6Hz4ryKcs3bTIz5lueMw/aEnlVu9PaXWHmkkRJzwG7574KtyayuUwN3m+0LgbAA==
+CA: text:sha256:1rdyfkrhk3v74imi8qqacaigv0bb47wzwa00asgs6w6nsw7h3gn7

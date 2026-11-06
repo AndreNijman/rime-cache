@@ -1,0 +1,10 @@
+StorePath: /nix/store/zpsbxmzvv9678rscfhdwmn7sahwz04zl-libnotify-0.8.8.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0z4hi6p2nxprp2sa8pw1nqmmd8n4yvzvsn7q4jhdpz42l7wdrxg5.nar.zst
+Compression: zstd
+FileHash: sha256:0z4hi6p2nxprp2sa8pw1nqmmd8n4yvzvsn7q4jhdpz42l7wdrxg5
+FileSize: 1354
+NarHash: sha256:0x3z88w06w6rd9clwakmx1a9l6w6h40x9pz6hjf9as7ivzn04lld
+NarSize: 3312
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 494whg6sv9fmin8wdd1a59c8sd7rl9g8-libnotify-0.8.8.tar.xz.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9g3yir5sx20wpdpdw37zddy6ijg4i36d-gobject-introspection-wrapped-1.86.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv fvpkp0mykql6qbsnhrn2wy7i9zipjxx5-glib-2.88.3.drv hslsawg1hjjcp9858f03bp36f3lpwxl2-docbook-xsl-ns-1.79.2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q0pbrk6i1bpfnwys1jx59n67rdbsaxxb-gdk-pixbuf-2.44.8.drv r7kprripy15xzxz5hpc61gl89zaflkn3-libxslt-1.1.45.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:xxN586hOkg0h3LsPLRcCHOWnH5bh1yaoHfXpbtMAoNljpfQsrqals555cXywpUA+75RYyUZZ88rEgxy8qQkbAA==
+CA: text:sha256:14lz3ah3ld2rfk3xpg9j8pljg732gsk9fsgl3bqnfjbwlmajlhag

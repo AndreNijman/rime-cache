@@ -1,0 +1,10 @@
+StorePath: /nix/store/g6wc50c379n5x1s0kni95a7836bbjjl5-31_allow_overriding_AGexe_for_crossbuild.diff.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0hqlch5y124pmxw57mrq7xyraivrxlb177j0c70gp1va0dr9hqsy.nar.zst
+Compression: zstd
+FileHash: sha256:0hqlch5y124pmxw57mrq7xyraivrxlb177j0c70gp1va0dr9hqsy
+FileSize: 1452
+NarHash: sha256:1ym7p30gb01dn4rcx76cj9ilam6a9nyn0q2pl5bnsdncrmsi5i3k
+NarSize: 3824
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:gU9pxKsR+NAvachl924/UJwP9iisB+RaQHZHPmUWpimNaIYKdrfWrF2HFASE5JJFju4TfA4VmTddxTdqKzTGCA==
+CA: text:sha256:1hlzrjmrqzmrawlafwn17hh1rmms0lj1aq14z3paz3841x3lksdr

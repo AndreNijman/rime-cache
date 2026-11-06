@@ -1,0 +1,10 @@
+StorePath: /nix/store/v1z0xl8gf67vkh5m3f02bdw1dw06vpif-valgrind-3.27.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/13pcf774pzjzfqbydnccqg3mvpks694bxirl595gbzmciyxd6r3r.nar.zst
+Compression: zstd
+FileHash: sha256:13pcf774pzjzfqbydnccqg3mvpks694bxirl595gbzmciyxd6r3r
+FileSize: 1695
+NarHash: sha256:18hgs4ahm708qv03jbqgg8c8a2pizas6ddwiaxx4crdla41kr63l
+NarSize: 4280
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4g4f65fap7f4w4knq80mi2zsjij677mg-reallocarray-test-musl.patch.drv ad657ddbp6ppqxhb7xmc95x98hnahnra-attachment.cgi?id=148912.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lfhwcdxivnrv0kyql7l2p8v13nb0gsl8-gdb-17.2.drv lndvcav254f85aaci3pdlf45s67kx65y-valgrind-3.27.1.tar.bz2.drv md18ys332f2jjcjk8dn940bk2aqmprg2-attachment.cgi?id=186451.drv qzdqr3803vnf5ysm52c5zykzc426m9dr-use-appropriate-march-mcpu-mfpu-for-ARM-test-apps.patch?id=b7a9250590a16f1bdc8c7b563da428df814d4292.drv r989dk196nl9frhnfsa1lb7knhbyjxw6-separate-debug-info.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:ryt+ePc7KZXSg4oyAzEblQHhUrwnGVs1pSQ7P7B8C4paFjGEL5JZvVERM06o5qyGRsQt7WXEdb97HrCKpCDYAw==
+CA: text:sha256:0inz92kkvmizq1l6n9fmlc5y5r85xy48b17nnjzf493axgywjn16

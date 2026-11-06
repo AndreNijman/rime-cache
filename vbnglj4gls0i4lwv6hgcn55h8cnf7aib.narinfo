@@ -1,0 +1,10 @@
+StorePath: /nix/store/vbnglj4gls0i4lwv6hgcn55h8cnf7aib-qemu.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0gfpgiac7w9f9wlp8wvzv91wnr3w9a0ij1bh07avij3r6v4r9sqr.nar.zst
+Compression: zstd
+FileHash: sha256:0gfpgiac7w9f9wlp8wvzv91wnr3w9a0ij1bh07avij3r6v4r9sqr
+FileSize: 123
+NarHash: sha256:0rd5al49zab6hckr0wwvyikyjfhc3h5mmw0fzcrb31r1wwwa79fs
+NarSize: 184
+References: 
+Deriver: h21jgps3xzqkamqqv5g3kkzwa3r5vplz-qemu.conf.drv
+Sig: rime-cache-1:8UkM31MtJPdPvS4aUgfpfyv9EqBGqyIidT3W0V1uwj51z55II2HBA5MRZpazkrSssoVYV3OyxsXyPKgeuJvPBA==

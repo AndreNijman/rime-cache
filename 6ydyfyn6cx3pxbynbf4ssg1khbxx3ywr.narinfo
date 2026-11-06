@@ -1,0 +1,10 @@
+StorePath: /nix/store/6ydyfyn6cx3pxbynbf4ssg1khbxx3ywr-fontconfig-etc
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/13f58fm98bnc5d0c1vaflbq44gsxlgnqsphhg59c13bxj6ch8h8z.nar.zst
+Compression: zstd
+FileHash: sha256:13f58fm98bnc5d0c1vaflbq44gsxlgnqsphhg59c13bxj6ch8h8z
+FileSize: 167
+NarHash: sha256:01k9i0zjgni1hs5xs2b319r3xqqvinrkfyy7jpgr23xsyfahsi3r
+NarSize: 344
+References: 40gyrvh1g1ibr5rh8g6daq5z008js8rh-fontconfig-conf
+Deriver: z9ldp5m6cdsycc6spb2d3vw7hj7p5k6w-fontconfig-etc.drv
+Sig: rime-cache-1:MGCwZh8deT/48rcmwc6lcSmP7IHdkmzCVCMYG3kjUOzsPjLtPW6fifJ5NqldGRDWsCbimCcJ9fXcOBtsRcGJCg==

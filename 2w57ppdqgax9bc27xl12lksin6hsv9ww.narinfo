@@ -1,0 +1,10 @@
+StorePath: /nix/store/2w57ppdqgax9bc27xl12lksin6hsv9ww-pyfakefs-6.2.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0a3d0brbyzhzcfw8zm673kd26yzqyv0yr22gl8nhjfcafnvmxcmz.nar.zst
+Compression: zstd
+FileHash: sha256:0a3d0brbyzhzcfw8zm673kd26yzqyv0yr22gl8nhjfcafnvmxcmz
+FileSize: 1392
+NarHash: sha256:14yxbpyl2iflgsaixjzwb8k05qfrmraxz5hmppsyvzpnc3bspqd9
+NarSize: 3624
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:Y1lDx7BW+R/h1jnZaxz9QGUK1e8RB5h1OQvpoSsbd+tdTJnSztrrUPiDnI2o2wCqVXDPuLFH726D5/i5kftUDQ==
+CA: text:sha256:1dgrbhi4s9y7h8rcvijhjcbgv9ign49yak7vfq0njkx01kbq8lqr

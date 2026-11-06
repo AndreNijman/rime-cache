@@ -1,0 +1,10 @@
+StorePath: /nix/store/32i9i54ryfl9qz24akfybn1adpkn2k0p-etc-fstab
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1rnyx4jzw1yxz5kfyw0dhw7xrcmhkc85jsjzrp633fz1giwz2azr.nar.zst
+Compression: zstd
+FileHash: sha256:1rnyx4jzw1yxz5kfyw0dhw7xrcmhkc85jsjzrp633fz1giwz2azr
+FileSize: 381
+NarHash: sha256:02gamjdbsw44vh6241sh5b8pcryq053ifxqr0j8wp90sz16pqb1h
+NarSize: 688
+References: 
+Deriver: q09wdzmjq64idany3rdg403h0ln3assn-etc-fstab.drv
+Sig: rime-cache-1:v++m+yU4brp2ebYjhVqzNON82VEvJekacKRzNe7VGKcuZkssLZTmBYtfgEN2eIEY9WbDxQzzuqiQCsbSfJjZAw==

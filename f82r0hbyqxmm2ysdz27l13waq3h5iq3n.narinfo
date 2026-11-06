@@ -1,0 +1,10 @@
+StorePath: /nix/store/f82r0hbyqxmm2ysdz27l13waq3h5iq3n-rime-greet
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xcnyzgc3yjmf4qmfxbpq24dlc9y3hxwnl73kdj9cay0szhjf8y7.nar.zst
+Compression: zstd
+FileHash: sha256:0xcnyzgc3yjmf4qmfxbpq24dlc9y3hxwnl73kdj9cay0szhjf8y7
+FileSize: 39682
+NarHash: sha256:0fhxva7rkh2d3agzxcmp6ykjsal3r7yr79qvhrxwjia0kd5n27wp
+NarSize: 128824
+References: 5zjsqdacgkfk1vif63cil60y023b3vnp-quickshell-0.3.2 f82r0hbyqxmm2ysdz27l13waq3h5iq3n-rime-greet yl8mwqqr3xj01i6daa82r0kwlasvk2hk-sway-1.12
+Deriver: 7k8z51y2y1plvsknw07gm80cmjbrxjr2-rime-greet.drv
+Sig: rime-cache-1:ES69Oxb+/qC/hJjh4j8nBVtwOMEFLIgO6xCfoyYAswpiBo0sW0UEecH3ymaaLOOIcwyTKHMCrb2mQ66MZv/1Aw==

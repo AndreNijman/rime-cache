@@ -1,0 +1,10 @@
+StorePath: /nix/store/byxnwmfygs6ijrhh6p531dyvxpwc8kgl-nix-voice-runtime.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0li299fc809al0k256ck0nqd1n1fi2slqwmrrap5b51qmsygzk7w.nar.zst
+Compression: zstd
+FileHash: sha256:0li299fc809al0k256ck0nqd1n1fi2slqwmrrap5b51qmsygzk7w
+FileSize: 1254
+NarHash: sha256:136li5pm27wjhdzkg9k5cq0k9sis631lyhy4p1h1znrz7r7iyg38
+NarSize: 2928
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 55031xbsdd2lvs9p2gm2ing153xnd4zd-gst-plugins-base-1.28.7.drv b154xlx18v3r1i9m7xxfw0z16d46fnjn-nix-voice-runtime.patch g1ydz8c6g3ncix83j6vfm7pny3n2bpgs-gstreamer-1.28.7.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r8qi7jljihh3lw673dsx5kh6h9q1qv67-gst-plugins-good-1.28.7.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:Vx1VTXgDkEq6Nt4VFU7T2LBtQfBXlt+aQK+9zJomdeDYW3/dBdz5cyUcxRLHxGSub8HeZsLQJocFinGG5AgbAQ==
+CA: text:sha256:0yk0wk7wgf3msvpagc0jaxbdr5yiz5n8pjyxwpypggblr7fzk7v3

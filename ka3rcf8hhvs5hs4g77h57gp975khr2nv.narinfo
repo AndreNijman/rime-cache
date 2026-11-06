@@ -1,0 +1,10 @@
+StorePath: /nix/store/ka3rcf8hhvs5hs4g77h57gp975khr2nv-Update-to-pygments-2.21.0.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1v4ncdaijkz7vg23gnawhfpaa3d16raa58zz0bj3db4c0pchwjak.nar.zst
+Compression: zstd
+FileHash: sha256:1v4ncdaijkz7vg23gnawhfpaa3d16raa58zz0bj3db4c0pchwjak
+FileSize: 6418
+NarHash: sha256:1d725c6pi2d2w4qnj9a1spfs7qcipiw0hrxqwrrg7r3y7xpxv78c
+NarSize: 120664
+References: 
+Sig: rime-cache-1:xZRoZP21HBynNqgYOX/0+hv6U7pyh0ZAHcF0fBEZSweThEnmpcRTzpe7IgrGEEKPJuAN+BkmsEdGfzQ5a3GrCg==
+CA: fixed:r:sha256:1d725c6pi2d2w4qnj9a1spfs7qcipiw0hrxqwrrg7r3y7xpxv78c

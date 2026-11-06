@@ -1,0 +1,10 @@
+StorePath: /nix/store/jbc82824i8073d2vk4b1mdcrnrqyh9i6-colorama-0.4.6.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1sksh6ycsgz4klw06c6xaayq0q5290503zqg2am9m9038szrd3vw.nar.zst
+Compression: zstd
+FileHash: sha256:1sksh6ycsgz4klw06c6xaayq0q5290503zqg2am9m9038szrd3vw
+FileSize: 1392
+NarHash: sha256:1i8adfwn6yfkr1660n7i21c0aqmgwnvhgx9x7chh5xf4rdmdbxk4
+NarSize: 3624
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:SWKDo3pMQIwJmCStk1kF7YDatqfgNQim0o2wc1p2O0xE425O+zz3MSPOMQwR4MV29XlY637WhEAUzq/sDEDLCQ==
+CA: text:sha256:0m8y3yxqih59ic38r0sw6m60m5zsq1czdasky4zbwc1shcyrihbg

@@ -1,0 +1,10 @@
+StorePath: /nix/store/r2dsw93q170x206qi27axayasy5j0068-prefetch-yarn-deps-26.11.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0x47426czzfah2wc19848743bfs4fygkp5r9irill3zs9zv7gp5g.nar.zst
+Compression: zstd
+FileHash: sha256:0x47426czzfah2wc19848743bfs4fygkp5r9irill3zs9zv7gp5g
+FileSize: 1208
+NarHash: sha256:1hflpx76m6d44989js7527drlggmv9msvyhssb9raj9kwxpck9y0
+NarSize: 2888
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 672n1fl8ii448n0mb85z50lfslk30w00-index.js 6gymal4kysfc97piz9iyisdclk9j24in-lockfile-1.1.0.tgz.drv k2iw0f4p2b1p1anwahqw9mqik3139i8y-nix-prefetch-git-26.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv p192jgmsn572wfx41nxnqx1sab7dpn2r-nodejs-slim-24.21.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv x0xjgfa179fisrzphna2xzlyv33aniad-common.js xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:Zm0xYPsZZNN6RgH69N6Baq8pbknJma+LBcbG1lh/K3FGAJbFCyPjrNP5PHZjbujetnFUnXbC83Vo11uj8ad7Aw==
+CA: text:sha256:0v0m087vw47x5x2lnb3gq6afaajcvjwnznb7ivappdb6jg57yx5r

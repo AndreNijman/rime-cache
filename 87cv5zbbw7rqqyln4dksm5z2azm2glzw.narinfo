@@ -1,0 +1,10 @@
+StorePath: /nix/store/87cv5zbbw7rqqyln4dksm5z2azm2glzw-ruby3.4-tilt-2.6.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xhksfjqfnjg9qk9as3s20fn3llw7hzc6wv0mf3pp4j35fpmy65x.nar.zst
+Compression: zstd
+FileHash: sha256:0xhksfjqfnjg9qk9as3s20fn3llw7hzc6wv0mf3pp4j35fpmy65x
+FileSize: 2442
+NarHash: sha256:0zf35bwa2cpiin4n14awnnzygk80nkvaw25fkylnhznp9wjrk45f
+NarSize: 5800
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv vdb8xj0l3b228szk9wx7z15867c8absf-tilt-2.6.1.gem.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:8XutoTsQexxhVfFmVvdupfYWjksmnrCS1L0TTyuf0VXnZP3qAoeg41442fMY+5bGhfuJpzxdzK9+czhoYWVnDA==
+CA: text:sha256:11r3ks8ycpji6kp8nwcmra4qvwl39mh4s367n7w30b2c2n55lkgx

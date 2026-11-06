@@ -1,0 +1,10 @@
+StorePath: /nix/store/v15f7qrpq296njla2w8b9ih3k3l2cf79-libogg-1.3.6.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/10jan3r5ls7z3qqcnqhbzk1np49swx6vfvir24vfiscrwdzraw4w.nar.zst
+Compression: zstd
+FileHash: sha256:10jan3r5ls7z3qqcnqhbzk1np49swx6vfvir24vfiscrwdzraw4w
+FileSize: 861
+NarHash: sha256:19vrrq5xzqs3kswknla8xaxpqf8zqklypnln1j7clmbkayq9b343
+NarSize: 2112
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m4ay42jrpiwjji0a4sz9dhkjhpai1ng3-libogg-1.3.6.tar.xz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:9u7pxOBb+JpiNpK4/JKqTutZpoAAH5ns7GZuT0kENxlehz47yZQlLyWU08Zvaobv2GHPH/Bw7fwr+qiscjpABg==
+CA: text:sha256:1lgj49njvh3q9vpxpk5s5l0imsq70ian6n3yrm9639qi3l5f2b6r

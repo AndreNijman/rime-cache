@@ -1,0 +1,10 @@
+StorePath: /nix/store/k4kq4af29f5g0kvgcwk5szpp3ajh8a64-unit-rime-secureboot-key.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/150w2xkn8c4az4czc7s7gz3jbg8r98qrvi92sxss12hwq9lqcd07.nar.zst
+Compression: zstd
+FileHash: sha256:150w2xkn8c4az4czc7s7gz3jbg8r98qrvi92sxss12hwq9lqcd07
+FileSize: 645
+NarHash: sha256:1mfjhg9afxqgv79js9j2yzgl6kpyl6sa51i98h4vigg091x49hs6
+NarSize: 1368
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e ndjnfmk7wiicbgjz5vq22pbqfkiiv783-rime-boot-install-hook
+Deriver: p0lw8cn8hnk0skc835i8dsdnk5b2bz76-unit-rime-secureboot-key.service.drv
+Sig: rime-cache-1:OBDUhZ39/NGwc6k9P/f1QbKUh+XXknrR14s2O/ZfQ+q4dfWfUqzZKv+6nCfUirPI87hnpyKgHyKn8MW1HuweAQ==

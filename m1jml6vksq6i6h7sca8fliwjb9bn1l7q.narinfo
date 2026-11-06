@@ -1,0 +1,10 @@
+StorePath: /nix/store/m1jml6vksq6i6h7sca8fliwjb9bn1l7q-mpv.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0hiipk2m19jwvh606r0lzl17f4iifiadr1ipz8zvypa3yi4m89mg.nar.zst
+Compression: zstd
+FileHash: sha256:0hiipk2m19jwvh606r0lzl17f4iifiadr1ipz8zvypa3yi4m89mg
+FileSize: 451
+NarHash: sha256:1hg0qzm161h89gxjphs4ncd3kpscj1jpscfi398g4fv19cyi1hvs
+NarSize: 656
+References: 
+Sig: rime-cache-1:OD/vvnQMygXfTMAWTw2zErCpeyxq7htY7u6Mjf06l5jWxzDtig37Z3ZtHxX6lnf3ksv7KyHOBVt4HsbKzRG2BA==
+CA: fixed:r:sha256:1hg0qzm161h89gxjphs4ncd3kpscj1jpscfi398g4fv19cyi1hvs

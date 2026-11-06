@@ -1,0 +1,10 @@
+StorePath: /nix/store/da9fjcdl86712c2g72nimrarxrigwmkh-typing-3.10.0.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/09daz2mzj7vjav3s1nrrpf2lpwn0xvk754cyz9fhr9aplpi202na.nar.zst
+Compression: zstd
+FileHash: sha256:09daz2mzj7vjav3s1nrrpf2lpwn0xvk754cyz9fhr9aplpi202na
+FileSize: 1371
+NarHash: sha256:0aivj9c51qkilgy529rx9ncm3zawzs7hj0x7ws3fymsqw4ayzfcx
+NarSize: 3688
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:fmdR8/L5LOh9StAZlgTu5IKr4FeAFROH0i8MX+MRecNan0UkELXmVVd+lGnDOdSAMJ36SewHD1vDkfvh0yPuAg==
+CA: text:sha256:1hysvwad0axv5rh9yr5xpcwfajznnh7gvxmr9prjj0nmjyyzy328

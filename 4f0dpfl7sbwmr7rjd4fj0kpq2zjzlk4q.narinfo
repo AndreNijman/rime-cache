@@ -1,0 +1,10 @@
+StorePath: /nix/store/4f0dpfl7sbwmr7rjd4fj0kpq2zjzlk4q-add-av_stream_get_first_dts-for-chromium.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/06h5x8nca7wl842yr83v5whsby1saqh6vb2ir6fglfv6arwqqh0x.nar.zst
+Compression: zstd
+FileHash: sha256:06h5x8nca7wl842yr83v5whsby1saqh6vb2ir6fglfv6arwqqh0x
+FileSize: 2037
+NarHash: sha256:0zl4x1y9b5z4hjizvwbwwi89mh2amp1yg5f4p3sjvg51w42fwzj3
+NarSize: 5400
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list hcp7wc7imkbrvb4j7bhjqibx4i3a800x-patchutils-0.4.2.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:2asaM9QDYfvvPPcxookOmrxb8Eh/WmIaOb4cDntFfy/WsuIfAErW2PjjeKX5rQ/ZZaruLF1/MXaPorTALlz3Dw==
+CA: text:sha256:0v7ysmxxa0ran13d48yp1a7hr6kx7clvzq3g3n542iqmnkzfc5nq

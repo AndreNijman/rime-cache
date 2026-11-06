@@ -1,0 +1,10 @@
+StorePath: /nix/store/aysfiabcj8fnlgwjq4idsna8xnvis951-merve-1.2.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1k8dkqaprzhflrra097pfqacs8w3vip4dw5gw8pmj0zf1ng65k4n.nar.zst
+Compression: zstd
+FileHash: sha256:1k8dkqaprzhflrra097pfqacs8w3vip4dw5gw8pmj0zf1ng65k4n
+FileSize: 1019
+NarHash: sha256:0dazgf9z39i6xgdmddvcqaamx6mcp921yzcqw49bqvsxqcwv9mb3
+NarSize: 2320
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3pfvk0al4qy8cpnq0q6z9vpxpdindf3h-gtest-1.18.0.drv 651xajj3936gr55kmaywpni3f3qsnbpp-validate-pkg-config.drv 6dqdd1a6aylpdmxrhx4jlp2fc6l49j82-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:qL1fYgxJUH2u+qrKQat33/Km/6DvBBbwIznJBx20VrF8gX0ZCSNtHie3XF1QwNXfLeJwBzxQ43kFLP09hHa1CQ==
+CA: text:sha256:1dn3b73b5l0w0irj10qqfxw0gcmyv9m1p3iprh3s9pzc2x45jk5v

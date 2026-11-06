@@ -1,0 +1,10 @@
+StorePath: /nix/store/yn5rx2mvwfndh4amrl8z0ap541wf3v11-vulkan-loader-1.4.363.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0mlq8mg4wsdkddmx629gfx1xf393jz9ndwpa0nv3f388rjh00433.nar.zst
+Compression: zstd
+FileHash: sha256:0mlq8mg4wsdkddmx629gfx1xf393jz9ndwpa0nv3f388rjh00433
+FileSize: 1430
+NarHash: sha256:0xzvr2gy17dq61bhqmg7xzbxrsg6z1dlv4dc0h4hprwbnaspbzc4
+NarSize: 3400
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5vxivx31h7fxc05il061icm9qai60xjq-vulkan-headers-1.4.363.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv fyfh5sqi6gcdlj79py8lsw99ycflj3xh-source.drv hr2kwvbpm1lcyzrbkhc7j1h01x0z64ws-libxrandr-1.5.5.drv ic7yqq4xlvmcy1kn3vp76hav0rn9c7iz-libxcb-1.17.0.drv jbybnywd1g9axih3qqdaq5505rnvipv4-fix-pkgconfig.patch l0z76jq8gpvlbmkv7h6ypz0jircszg2r-libx11-1.8.14.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mqiqy20arssmyrxszwi8yjf5c9bfkz8c-wayland-1.26.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:hUfFmsbAWOLpAcj4RXVlZ4AhyD3y9Ihq618xu01OmK2FLQ0I5Egb5oxNTQZpuvUzwpuC4pTlfcR2hjde8OHhBw==
+CA: text:sha256:0qklny40vclwkw3kys6bz9hvskljwkyrr4xg8bm3kss0jr1nsn19

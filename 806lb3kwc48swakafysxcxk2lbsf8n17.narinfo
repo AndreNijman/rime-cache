@@ -1,0 +1,10 @@
+StorePath: /nix/store/806lb3kwc48swakafysxcxk2lbsf8n17-etc-modprobe.d-nixos.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1j488q78nkybp1mkyqnnq0f1655rpmp8z1n8rb73g4ms41q0v94p.nar.zst
+Compression: zstd
+FileHash: sha256:1j488q78nkybp1mkyqnnq0f1655rpmp8z1n8rb73g4ms41q0v94p
+FileSize: 492
+NarHash: sha256:1dyna3prkiar609jbp5ws4p38gq3wqfvwgbjc4warrrybgrm8ic6
+NarSize: 1112
+References: cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 hgfpir45gbsx42xg1xfzlpsw7k2nrrgz-rime-nvidia-modprobe-gate
+Deriver: 7nbsa9xalqqgz05z09brfngpndaggaby-etc-modprobe.d-nixos.conf.drv
+Sig: rime-cache-1:bGEO1zV7WpFCMSRrKhp4sVrfm8P387D+RMpEpMA7fb7XaHd+Ig1TipvWSChsrMyLXQGjPOAeGGjNSZndXc6jCg==

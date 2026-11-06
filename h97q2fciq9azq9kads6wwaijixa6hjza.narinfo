@@ -1,0 +1,10 @@
+StorePath: /nix/store/h97q2fciq9azq9kads6wwaijixa6hjza-crate-percent-encoding-2.3.2.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0m3mmkn1hi4jp6f5h7h2dg4nqhizmh1pn73d1wyxl4aa7dzkz5k6.nar.zst
+Compression: zstd
+FileHash: sha256:0m3mmkn1hi4jp6f5h7h2dg4nqhizmh1pn73d1wyxl4aa7dzkz5k6
+FileSize: 1380
+NarHash: sha256:1apv5ajvdrsl8zplkqw5dl9lrlyl93l1i5irifh5yknx0rpsp74r
+NarSize: 3744
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:ykrrbxdEo/OWPm3/FBQFStzwQPnABKq2VbxYfPetxXl6Rj/xQkEbH37sY2SYtrTdMpqqOx8bwNgc/Kvi6eRHCw==
+CA: text:sha256:0zh7i8fwfwgak1hiwaa64fsw2v6jvxhak4j4n004b2387zd24pnx

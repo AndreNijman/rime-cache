@@ -1,0 +1,10 @@
+StorePath: /nix/store/77yxb63k3xv1fdsrvg6a52n97zv7a87y-flac-1.5.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0qa42jswwb09zxyhlf7d6vmv4zgp6fdmsv8npz4vpyxfj4bqbrcg.nar.zst
+Compression: zstd
+FileHash: sha256:0qa42jswwb09zxyhlf7d6vmv4zgp6fdmsv8npz4vpyxfj4bqbrcg
+FileSize: 1467
+NarHash: sha256:1rxyk893i818593a37i0bgp6wxfjgpwvpn774hlz9804lkidrmxp
+NarSize: 3496
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bfypnvz90qn53zb2vhcwg4hz5lpla2yf-flac-1.5.0.tar.xz.drv f3br3gvh6bdf6c31vf8sp7kg8cc8d87p-package.patch ga4m0qhvxhwj5bgziq55zdx7j13l97l7-graphviz-15.1.1.drv l0sdvmfkwwxbrz5b3j14i62si0zcx0pg-doxygen-1.17.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh pknjh6lilhgqqbmgi0a9yky1dl045ba4-version-check-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh v15f7qrpq296njla2w8b9ih3k3l2cf79-libogg-1.3.6.drv wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:r6LzqOjXp2M+mWDQlgPoREwJypqcUolgOw9KSB7CkkGteoHkUXDssGdLu9SWTc0MAkMd1/Qy+RnGtCcMBC3ZCQ==
+CA: text:sha256:1ppzs4qv19ibai7p12g0hyma4pfr1ip1pgn7vk3cdhw0qqjrvw6q

@@ -1,0 +1,10 @@
+StorePath: /nix/store/gd9yyw6nyqpry7zdpzxdk7dfmj9b3fn4-unit-cups-browsed.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/027g8qv30yhmww9skapp3h3zq3fsz35c5k5if2g7rl3lzc0hx5qh.nar.zst
+Compression: zstd
+FileHash: sha256:027g8qv30yhmww9skapp3h3zq3fsz35c5k5if2g7rl3lzc0hx5qh
+FileSize: 735
+NarHash: sha256:0bi8xrw64zjd2pb1qg9bg8ixad6wc0m99x010dlkig062vzfqy2l
+NarSize: 1672
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cpnz2miv3955ks7jlz3pmyp3v53a3lvh-cups-browsed-2.1.1 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e r078q4946xrjwh4v6w894akx3nxcf2bf-X-Restart-Triggers-cups-browsed r696h5h8bw8s625j7fg7s6546bd1vqil-cups-2.4.19
+Deriver: 000hl2dhvadmy468q6ayjirlgpyp7ly3-unit-cups-browsed.service.drv
+Sig: rime-cache-1:Royatwa0b4aEwDI+HwQgYQUxj+BoEUV0w3uj46T1u/ysgVLdU3uI4ZHEpdh81Hm3piWbIhSvnWuuyV0P/ZPfCQ==

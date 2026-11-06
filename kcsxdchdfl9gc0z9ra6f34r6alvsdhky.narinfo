@@ -1,0 +1,10 @@
+StorePath: /nix/store/kcsxdchdfl9gc0z9ra6f34r6alvsdhky-avahi-0.8.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0sd9dma2lq1lc6fvm31i71d6yyky65zc7z7zsxgmfk6irxqlj68v.nar.zst
+Compression: zstd
+FileHash: sha256:0sd9dma2lq1lc6fvm31i71d6yyky65zc7z7zsxgmfk6irxqlj68v
+FileSize: 1419
+NarHash: sha256:0ciachg9630lm8ljwcls94iajgbpvz5v9qdmzfxm6dy6238swdqf
+NarSize: 3672
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:sN8dgodLWP32a1VkB9Ch2bDBhdWzd+YDfrFSvqGfYhl0sfw2jR7RiTth5/pH1i6yNLgZk5rjBE8hQKs28zKOCA==
+CA: text:sha256:0mavhzh4w79ak1xy75yx0lfkc3rd7cv8lwl0h4y8ljy99xxrqxjj

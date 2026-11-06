@@ -1,0 +1,10 @@
+StorePath: /nix/store/z516gq7n0cckmzs96iwbaqxrl7z7ga20-mariadb-connector-c-3.3.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1h0yyw9v7dn15fc36b8ilzfd0ilgki6m72z3r83midxr3lri8qlq.nar.zst
+Compression: zstd
+FileHash: sha256:1h0yyw9v7dn15fc36b8ilzfd0ilgki6m72z3r83midxr3lri8qlq
+FileSize: 1679
+NarHash: sha256:0ldajkwm9ap9rp3wsl98f88mn5gada0799wllk1k7mfqqxa2z7qm
+NarSize: 4256
+References: 1fb3a0rh6ksyxc4a6ajpsarb3m9sxbl2-mariadb-connector-c-fix-cmake-4.patch.drv 2x4aa8vfj3fl1frwxrlsi5jjf0c6xq2f-glibc-iconv-2.44.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv ja16li1wjcgsvlmmgvg94pdvrvi95kdv-e8448137f3365568090d5c0d4051039ddc1cdb6f.patch.drv kxqgab82z3bx1ddgvbkz56hq4by61mh7-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv w57gc3q3cwsxjqxkk0a9fkw363sf32hp-curl-8.22.0.drv wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yi5kx3z9njylnfg9l0f3v276dyy4jgs0-zstd-1.5.7.drv
+Sig: rime-cache-1:PWi6vEaHQa8AqeYMwjA2wkEd0iQImOQW+ACnmmYqUOER7Ygk2PfMCN6Y0ik4C019GW9AFcFxFB5xJNvj9e7PCA==
+CA: text:sha256:049y3qnh1x0jpms5fvvlx4zm98f4kzcxrvgwd6cx3bn805jwlfx8

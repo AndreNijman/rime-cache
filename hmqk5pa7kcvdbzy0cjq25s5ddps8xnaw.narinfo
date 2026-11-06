@@ -1,0 +1,10 @@
+StorePath: /nix/store/hmqk5pa7kcvdbzy0cjq25s5ddps8xnaw-shutdown-ramfs-contents.json
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0cq1fxp2lrvipb28j94jk44dkdhmv49g23fxydbii8j8pvf6q6zy.nar.zst
+Compression: zstd
+FileHash: sha256:0cq1fxp2lrvipb28j94jk44dkdhmv49g23fxydbii8j8pvf6q6zy
+FileSize: 371
+NarHash: sha256:0whqddpwh2i05cvl92yxyvb5rp5l6rqh4p78c4g4c3v210cnfh6f
+NarSize: 952
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 hl9cvkrfpz06qwpjr3gi75r3d6l2p4c3-etc-os-release nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: acscly5j1zfyp060llv2mbl2saf7bxzl-shutdown-ramfs-contents.json.drv
+Sig: rime-cache-1:EOrluHiKPi2BtHSLIimQsFo9otMmIDrqLNeEiX124fGnu2/npHir9mpqGEB0gcc5+KueDJ5eQKAvykBiYZeyBA==

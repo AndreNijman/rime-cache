@@ -1,0 +1,10 @@
+StorePath: /nix/store/gkvq5541v79iy3sr825njq77scr4a1gf-pam.d
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1wf73nv91lyam85cn1bwp7xwjch2xqfnxl34w8ds5x7bkikz2zm8.nar.zst
+Compression: zstd
+FileHash: sha256:1wf73nv91lyam85cn1bwp7xwjch2xqfnxl34w8ds5x7bkikz2zm8
+FileSize: 1289
+NarHash: sha256:1d956li8f9dhry5hvb3mq66jxrv2vl6xq25zaqbzhbg4hw5gng51
+NarSize: 37160
+References: 18ykcs87zl2zxgdvjnl3zdzqcp7r2m44-linux-pam-1.7.2 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 9vs5zgw14lij8dr7ysvj3xd6abqhj8m6-gnome-keyring-50.0 hrrd7hvpwahm1glk19lwdznhpy2p1ja7-limits.conf jnzd79phi9hwp4fvm5na4hl8hczw53pa-util-linux-2.42.4-lastlog rj3h3pqmg4h9c9p9310far30hwpyk8ws-xauth-1.1.5 rn1dldsi6p9as7xn7pp45d36zrjl32rj-rime-keyring-login
+Deriver: alnh8z4l6j8c577va2l1k234lbz29i92-pam.d.drv
+Sig: rime-cache-1:QihQdXbO1RHzbyuJPzZ2QOJyapg5WHIfGsnjIQnNVlMHVE0vEySopxX5j4JYU8VE5gQlv5wyXg40v5WF0b2KDA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/2hl29h4rmbrfw3nbkiv7gpn0rgl4kyrq-jbig2dec-0.20.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/00x23735875gvqd8kd166i6srg4q9rdczznp4a5b960l6z99zd20.nar.zst
+Compression: zstd
+FileHash: sha256:00x23735875gvqd8kd166i6srg4q9rdczznp4a5b960l6z99zd20
+FileSize: 1134
+NarHash: sha256:1c7rbc6d843zj3vwp6lz9qfbhan2qbrsgfry3sz0kbg482fapfi2
+NarSize: 2568
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 82czysdbwzzvcrdfq1y9q9y4fv5kgy73-autoconf-2.73.drv 8535vxp9rsjhbf6vib9s5pq3lyvc93fx-automake-1.18.1.drv dl8285469a856nnaa0km1q94ypiq7s18-CVE-2026-38076.patch.drv kzsafq3mbxmri7r7ds04i9mpax1803ji-jbig2dec-0.20.tar.gz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh nl84vjdfp4hkik278sldsbxq5v6a5z3p-libtool-2.6.2.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:8mw/0GBp97UalfZ6QUSRIJWamenFUZD5BTFSbKAuF8u0D4pwoUfRUpi41o6sA6Y5AlBoQMEfcUK631usghWtDQ==
+CA: text:sha256:13z6jbn9ljqfkg4h52j3inqg3nrpr84vadhbp740bm2czpkzz70m

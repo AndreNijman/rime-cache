@@ -1,0 +1,10 @@
+StorePath: /nix/store/s7ccb0ianvw1gl7libc63hayfvkyw4js-kmscon-login
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1qsj2g05zsgz8325mhv4lanyiif1gd9pmd2pmwf00hm0lcfvj111.nar.zst
+Compression: zstd
+FileHash: sha256:1qsj2g05zsgz8325mhv4lanyiif1gd9pmd2pmwf00hm0lcfvj111
+FileSize: 134
+NarHash: sha256:1y62ssab7r0k0x9xfj4qc2hv5n6y6ddxqv35s616gbas14vqnfi6
+NarSize: 192
+References: w3hcc6dfig2jcpsnk0bncipmyl0rzs9q-kmscon-login
+Deriver: 49qdr32xvahw08j30qpq72qdj5w9rn6s-kmscon-login.drv
+Sig: rime-cache-1:zKY9LBktkSinfmovjS+vs6AD/PxMfkeg6UCWCHfb7NPkXmDl5sHRLYKaVvZRm0qNTlH6x5ERUqWCpNTmkC1QAQ==

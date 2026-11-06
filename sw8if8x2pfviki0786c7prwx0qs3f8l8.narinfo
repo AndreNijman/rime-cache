@@ -1,0 +1,10 @@
+StorePath: /nix/store/sw8if8x2pfviki0786c7prwx0qs3f8l8-unit-cups.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1liiwhxd24hajgll98m9rgpmln875l225ir535a714fj9mzqpzvq.nar.zst
+Compression: zstd
+FileHash: sha256:1liiwhxd24hajgll98m9rgpmln875l225ir535a714fj9mzqpzvq
+FileSize: 679
+NarHash: sha256:1sk9b654gzgasgxrsznzp52r768hs8i9zvay9d1h7qi3rzlhzy69
+NarSize: 1552
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e nw871pzdp0bhd7lbxvwnd6dvjbwxrli1-unit-script-cups-post-start r696h5h8bw8s625j7fg7s6546bd1vqil-cups-2.4.19 svwm4kwvx7ibx4ai5xsfm7j90shnwhni-unit-script-cups-pre-start
+Deriver: ardawsiyizncr62qdh7w43lkmfpc8433-unit-cups.service.drv
+Sig: rime-cache-1:X+ZDKXVsIQPc2oqshyPO7/qG9guZZiAuP1+czS4LCL57tXdqpDNwCcRx1ma2AXjm3ss6p00Ye9wVbaZ9BbRvAA==

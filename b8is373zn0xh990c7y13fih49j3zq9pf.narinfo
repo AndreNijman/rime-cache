@@ -1,0 +1,10 @@
+StorePath: /nix/store/b8is373zn0xh990c7y13fih49j3zq9pf-graphics-drivers-32bit
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0x5ppw42ds8sg0q8qmxz8b1b014p52fi2xvb09ivcq3pv42i0krh.nar.zst
+Compression: zstd
+FileHash: sha256:0x5ppw42ds8sg0q8qmxz8b1b014p52fi2xvb09ivcq3pv42i0krh
+FileSize: 2086
+NarHash: sha256:1h5x79ap3craijnxi5x4mrj64lqp1sqzhcdkcxccc2kmglrkibnb
+NarSize: 39584
+References: hhxdd360v6ygsaa8wr9536hpvir2585d-mesa-26.2.6 l8vvpcnmdqcnrzs7bdr1ilsc65qrazsg-nvidia-x11-615.78.08-lib32 wh308qnsn33vrh6wiyfl8gz5lhivmklm-nvidia-egl-external-platforms-x32
+Deriver: jrjv79zxn9cyk9kn4f14pz66s0sql3lk-graphics-drivers-32bit.drv
+Sig: rime-cache-1:hfBG6rMatIr0dj45GlqK+pcitm7DljKNyctgCLrbJRhVkengdgmDfzwh98rId4yKh2nt1HghaUTwURTd4QLIAw==

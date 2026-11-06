@@ -1,0 +1,10 @@
+StorePath: /nix/store/lbn1rpbbj0l6c9z33ip4lmgsc14f6xy4-security-wrapper-gamemoded-x86_64-unknown-linux-musl
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1iamf6hx1dj0yhsfpxaj52bgq8vsq0g5xpkg6h4hd9j707qbdrha.nar.zst
+Compression: zstd
+FileHash: sha256:1iamf6hx1dj0yhsfpxaj52bgq8vsq0g5xpkg6h4hd9j707qbdrha
+FileSize: 32810
+NarHash: sha256:07r45nm576h2px0hfiimq36dm2vw8pggdig4dladj7va3cjan7fc
+NarSize: 71592
+References: 4nmwv522191sg6jvg2m9gyy33498nyai-gamemode-1.8.2 jgjc8i2apilfajwd2xah9b8w5p34p62y-linux-headers-static-7.2
+Deriver: 8qpf05vqhiskf7j0piz8ch4gdp51ky7q-security-wrapper-gamemoded-x86_64-unknown-linux-musl.drv
+Sig: rime-cache-1:pjDrKnFpXVxreOD10lil2WxmeXFr5EtBSLf7Vw0wjif3jWv+DfS6OTecBo5ruSPh60wJ3zSLYHZCY7WeOL24Bg==

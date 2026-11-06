@@ -1,0 +1,10 @@
+StorePath: /nix/store/yrz34b7ybxhjgkf7cwwh5sn0vslrzp0m-mpg123-1.33.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/05sywvpwc76fsksdmddnqnq65n54hvm133dnbi93ay68hkd3asp7.nar.zst
+Compression: zstd
+FileHash: sha256:05sywvpwc76fsksdmddnqnq65n54hvm133dnbi93ay68hkd3asp7
+FileSize: 1342
+NarHash: sha256:00wdzjmpbmmn4jxh29l8ihp8x9b6r13lbx83db18mcrdyj68p765
+NarSize: 3344
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 8n5gvdcmxh8c26mc6w29jb6884gpvyr6-mpg123-1.33.7.tar.bz2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv jqyxbc5bb07vlamj6kvb1ji1595gwfns-libjack2-1.9.22.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lkblvqx3lns7gk6gnnldx4gn9hnqwk3a-alsa-lib-1.2.16.1.drv qa3q54dppvy1q2bmbxk0nxb8fygdxav3-libpulseaudio-17.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:vB8tw3KNxXPBPj/WY32Kf755/V5bwVWF+K7mcmjPDF61nWk28CoiULCGVKrNT5sh65rgfjLDqh79ZwA71ybaCw==
+CA: text:sha256:02klqaw81dlxs09j9ryhfqfvl8gfpjnis55qiivl3aj0i4y1rdjh

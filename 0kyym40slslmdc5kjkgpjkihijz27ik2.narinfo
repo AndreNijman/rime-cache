@@ -1,0 +1,10 @@
+StorePath: /nix/store/0kyym40slslmdc5kjkgpjkihijz27ik2-source-highlight-3.1.9.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1v8gc1x5f96a7bf3x00j29blfdi1bbsvamgi3cz88kv0qs65a93x.nar.zst
+Compression: zstd
+FileHash: sha256:1v8gc1x5f96a7bf3x00j29blfdi1bbsvamgi3cz88kv0qs65a93x
+FileSize: 1305
+NarHash: sha256:0yndw9211yabsngnfba936444hhv93p15mkyq55kphi4k0z7kv8h
+NarSize: 3288
+References: 115s3aa76a4j1k2kfqb21vwyri4s0fdr-update-autotools-gnu-config-scripts-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv cbi9g5rhxdr5r567w292r3bsa5ilkg2y-gcc-12.patch.drv idrpa02ci5ydd9ig0g87faw6hwv5rqlj-boost-1.91.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh naz4z3x269k0c09c7k76ianpmzlvkvpq-gcc16-disambiguate-regex-ranges-test.patch shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vlwnxny5afvmjd6lyvlz6iram7xkw391-source-highlight-3.1.9.tar.gz.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv y1s2d1smnp7m4dszrr08zhw0wagzzn7z-?id=904949c9026cb772dc93fbe0947a252ef47127f4.drv
+Sig: rime-cache-1:DnSw/w/RbXBD69xrn4Jia66NotaqUmVajqyMGEJU6jh1EdDzAFc+zijcXNGxxhwm3SGvoE5/GDlsJ7O4gHZRAg==
+CA: text:sha256:01k7jir0y83jwvvi3s7ibhvvmiz5l8kplrwpiig4z392n27y3bg9

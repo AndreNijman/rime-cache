@@ -1,0 +1,10 @@
+StorePath: /nix/store/2rkm5rk6qrblmviad2p0mmxqwc6wklck-wrap-gapps-hook.sh
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0612pm0c6rzp57fh3vm62dz4d8537gk6zaq2lclvqj7cfqpkfid3.nar.zst
+Compression: zstd
+FileHash: sha256:0612pm0c6rzp57fh3vm62dz4d8537gk6zaq2lclvqj7cfqpkfid3
+FileSize: 1606
+NarHash: sha256:1239iaaddsf3pad6rfjqz1r6pc86ilpb76fv5jyn83808jh3rk76
+NarSize: 4688
+References: 
+Sig: rime-cache-1:gu7zppTgpOdGnk/z2YTW5YcrtFANfsNnixx3ddMERtIbEmCOwMhnTpVUxqG2acN/XXYjbcXUZ3BuTT2Tz0EeBQ==
+CA: fixed:r:sha256:1239iaaddsf3pad6rfjqz1r6pc86ilpb76fv5jyn83808jh3rk76

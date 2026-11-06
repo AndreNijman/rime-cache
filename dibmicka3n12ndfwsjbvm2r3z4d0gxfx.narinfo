@@ -1,0 +1,10 @@
+StorePath: /nix/store/dibmicka3n12ndfwsjbvm2r3z4d0gxfx-Python-3.13.16.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1xx1may8ikjm46jzd1lmr68ylm2w3jli128x2nbn16306dfpqc0w.nar.zst
+Compression: zstd
+FileHash: sha256:1xx1may8ikjm46jzd1lmr68ylm2w3jli128x2nbn16306dfpqc0w
+FileSize: 1405
+NarHash: sha256:1cy6ziddqiiy67iwnhiw4k84biraf7g2fk46fg6fmg0ic690vmj5
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:DLOF0aQYNqkXcC0SNW1+Y3wMHr0vpgdThHJodSQgT4ysu49G/yEfVZ7z61i3hF3MgdYIQxG8x4lM3XDkF1DSBg==
+CA: text:sha256:04hjmccr1m91pnj7101gq9l9p1q4sqsllk5kn9sg1yig7zfqvv2r

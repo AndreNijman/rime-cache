@@ -1,0 +1,10 @@
+StorePath: /nix/store/sk22diph8p8glxmh1sfn0j699sbpa3kd-fdk-aac-2.0.3.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ygcby4ix5zh5lrsyvgdq871kwpxp14rf4m53bqw4d8s1zb7x7pi.nar.zst
+Compression: zstd
+FileHash: sha256:1ygcby4ix5zh5lrsyvgdq871kwpxp14rf4m53bqw4d8s1zb7x7pi
+FileSize: 1393
+NarHash: sha256:0i1m61m4cgby7nxm77yi9knak5kr5adlzi3l9ar0njw2b3da9xzq
+NarSize: 3632
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:o+i6bx/kTk4VVOVD4Ok/yYhhfdnvfofqISCvuuK0duyncqsC9s/3zXhO+xAKbAiIN5s8GIOxzA8KBUmnNGNiBA==
+CA: text:sha256:1zvd6ly4cxlnn10hik68rvmjawhpd6c7arrf03pm2f3h42kj08ah

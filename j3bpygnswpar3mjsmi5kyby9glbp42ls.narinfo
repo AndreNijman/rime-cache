@@ -1,0 +1,10 @@
+StorePath: /nix/store/j3bpygnswpar3mjsmi5kyby9glbp42ls-libXfont2-2.0.9.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/01qhya7hlkz61n52psz13ylw3jdhyb6a0c6gp9z07b6cms9b6my4.nar.zst
+Compression: zstd
+FileHash: sha256:01qhya7hlkz61n52psz13ylw3jdhyb6a0c6gp9z07b6cms9b6my4
+FileSize: 1401
+NarHash: sha256:1fa2gzrvp7dh2bjpk6qzg37ws2v2js782fvwdyyzym41y4jpl4hd
+NarSize: 3632
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:55DIebD0UvPkRtuDOIrcVf/MOtDUTshs0NTpPPcAS1V21Iwx08bNqYqwaxln2obk9nSIWVu2fke5N/PpwIJMAg==
+CA: text:sha256:1vb31s8mfnjp3rjsm5kdrq3y4dmznzr6npwnamr2agr0wpmmdass

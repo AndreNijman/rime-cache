@@ -1,0 +1,10 @@
+StorePath: /nix/store/b0pg43m16lcnkd5a8wbn99nrfd4qz398-flaky-3.8.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1w0r0vj0mgp7wwrpmg51n8x1x6gd4blr6h7frq55igz9bjzf3qa8.nar.zst
+Compression: zstd
+FileHash: sha256:1w0r0vj0mgp7wwrpmg51n8x1x6gd4blr6h7frq55igz9bjzf3qa8
+FileSize: 1388
+NarHash: sha256:1fxgxfll40q6ipx483mqpsrqpslvkf4j6vvn1yjiij05c8nf76mm
+NarSize: 3608
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:cD2ugDjsDOlA0dLLZBsAj5AsMJNY+yDGvHlbbRsyxbkVEqWXYLIrQXX70vzFJrgutF6O8hj0E81pFx+shgywAw==
+CA: text:sha256:19l50cggi39cmvrqysvqjghydgl8rqy5vfvsfl0xaj2x8x3ik7xa

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5hyrlwr9mc44v3ixf2grn1mn4l2ka5mc-qtbase6-setup-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0rqmcw2bviynzfiqaqr5x1gy44gg9a0kdq7vyjsdazqmdir65bnw.nar.zst
+Compression: zstd
+FileHash: sha256:0rqmcw2bviynzfiqaqr5x1gy44gg9a0kdq7vyjsdazqmdir65bnw
+FileSize: 972
+NarHash: sha256:0k7m69f4dcygbikhhwq3rgxgiy867cylf9jbdv2agjr8jjngnjsh
+NarSize: 2600
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv b6bbs8crpj5ywr9ln4sh8ch7xfnbxjxb-fix-qt-builtin-paths.sh fxca908c0l65rwmwq0x6dgpz2dljg2l6-qtbase-setup-hook.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lsmscjybgdssc6x0y13hf0qd6zzcy1ya-fix-qt-module-paths.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:D9e6JcM+p8XU77KHnUi//ocY1gJbFA9PSoXIGfI+BqBp4M5/aCWnwVmK9QkRSJyWmrglRQm8AB56W3FFJm5ZCA==
+CA: text:sha256:0kvbr76zsmybiwbbaax6xpfrpq1piq6fs1csj3p4b72fz0bqzjxy

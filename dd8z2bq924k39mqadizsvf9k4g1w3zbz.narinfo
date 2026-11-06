@@ -1,0 +1,10 @@
+StorePath: /nix/store/dd8z2bq924k39mqadizsvf9k4g1w3zbz-etc-xdg-xdg-desktop-portal-niri-portals.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0mn3sp74ydn5h2xgm02rcqgd0wmshpbcgi6w56sq1xjiclp2a5wa.nar.zst
+Compression: zstd
+FileHash: sha256:0mn3sp74ydn5h2xgm02rcqgd0wmshpbcgi6w56sq1xjiclp2a5wa
+FileSize: 181
+NarHash: sha256:10lm2hmjzin6jz1cpcjm0r8dqhmzq6ncjf9zcfg1b01qrxv701mz
+NarSize: 368
+References: 
+Deriver: 9q3c7nf63p5wd16cbzzl1wi1phhs9j7x-etc-xdg-xdg-desktop-portal-niri-portals.conf.drv
+Sig: rime-cache-1:dlNCd2s1jvaUE3/7FOjWHUGXKQ5kE604NDbtkoVKcyapC1ZF+W8xn4daalIsZ33sLbUxKSHudTpj4hMSsoKKDQ==

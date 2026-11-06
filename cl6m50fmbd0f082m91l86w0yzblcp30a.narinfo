@@ -1,0 +1,10 @@
+StorePath: /nix/store/cl6m50fmbd0f082m91l86w0yzblcp30a-40_suse_06-autogen-avoid-GCC-code-analysis-bug.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1nzg6mbya2afqnigwp0xndjjqwqx043f4pg94lf8lcj7rdb5fn98.nar.zst
+Compression: zstd
+FileHash: sha256:1nzg6mbya2afqnigwp0xndjjqwqx043f4pg94lf8lcj7rdb5fn98
+FileSize: 1460
+NarHash: sha256:1g3cinb2yxknw45bnjm1yadfs69xrh9kvq0ipknqkd21d7j65394
+NarSize: 3856
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:ZvgticZT5DTCgRe9YMy6l0n77qyoOfAfb/8VwjZAI6YNiyvJ1rY4iCQq84qFUXFzgGgCVijt1hqQDKl5cYFYBA==
+CA: text:sha256:022zsvwgjpmgjq8wb1gigm9v6l516ja3nkc9kywcrc2yah9gcqly

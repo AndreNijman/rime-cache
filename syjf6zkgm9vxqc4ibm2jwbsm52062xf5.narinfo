@@ -1,0 +1,10 @@
+StorePath: /nix/store/syjf6zkgm9vxqc4ibm2jwbsm52062xf5-fftw-single-3.3.11.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14cwahjw8zafcawxxsj2qxiznbkm30vkp0y0fs3nj4g86fn554y8.nar.zst
+Compression: zstd
+FileHash: sha256:14cwahjw8zafcawxxsj2qxiznbkm30vkp0y0fs3nj4g86fn554y8
+FileSize: 1078
+NarHash: sha256:1nddgdcb7vh6nd4qgn8sxa3sj40vabadgd2r5v19s5k7mlaq140w
+NarSize: 2832
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv ibpyfcrxdiyqdsd5rxsxmlsdrdqrfi6d-gfortran-wrapper-16.2.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv ydrq6185b13njbjzy77ccylavlbs0b4f-fftw-3.3.11.tar.gz.drv
+Sig: rime-cache-1:zsI+psoGKF2GpFDCK/DYcZUVG4k/BM6kiURVbkQURAm7XBYtF4QvMczqRSL7QJyvO0dmE3CppnroJglov3g8BQ==
+CA: text:sha256:0xvqd178ianafnvma8d953021h4rmy89646viqvajhg0wbdk01nw

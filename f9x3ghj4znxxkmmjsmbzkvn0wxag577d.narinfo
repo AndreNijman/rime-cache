@@ -1,0 +1,10 @@
+StorePath: /nix/store/f9x3ghj4znxxkmmjsmbzkvn0wxag577d-gengetopt-2.23.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0x7aarrxp4clnm38vnvwm50z4qf0ivfi3q6j6gsxy4l9y98bn4lp.nar.zst
+Compression: zstd
+FileHash: sha256:0x7aarrxp4clnm38vnvwm50z4qf0ivfi3q6j6gsxy4l9y98bn4lp
+FileSize: 947
+NarHash: sha256:1f4fhlzyflrkl17cq69q7j0fw26bhn0xjczb83qwb2b3c6k6r8ls
+NarSize: 2136
+References: 1kxb209g9nhy3qim68n0kavjphnk27zz-texinfo-7.3.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5m11262n6g7qs3qbvqdr1gp4knlyggqs-gengetopt-2.23.tar.xz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vsydi9vc4mng1rxqdnxgvlkzwbgy4nbx-help2man-1.49.3.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:eIPT+X1di6noqtjZvF3rErzqL0DCN51PNYKc4iv/7ki1qYWIwysf7mTTFB1eoLNjOAVXt4l1u7a83LoL+scTAQ==
+CA: text:sha256:1rk26vjq07086aamm3hig5bbcb6ylgprf8k16vd00dhzcq6l693l

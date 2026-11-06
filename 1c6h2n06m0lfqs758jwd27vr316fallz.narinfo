@@ -1,0 +1,10 @@
+StorePath: /nix/store/1c6h2n06m0lfqs758jwd27vr316fallz-jbigkit-2.1-coverity.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0pjk1hkn7k6fa6cmcg5r73mjlsv7dqg7pq2phskqky86bf4vwi31.nar.zst
+Compression: zstd
+FileHash: sha256:0pjk1hkn7k6fa6cmcg5r73mjlsv7dqg7pq2phskqky86bf4vwi31
+FileSize: 1988
+NarHash: sha256:1gqshkn2w5mnl84a1ra7k2x42w3fxk7p3y3lfy90x3b9swqzmq8b
+NarSize: 5280
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh yqikd9hjkm5j1a2zzmhifj09b8yk6sd1-patchutils-0.3.3.drv
+Sig: rime-cache-1:kgQei3Fcyetll4uQNsvdm5OKkS8fic9Pcdbhho6K8TXrDK1AbZgX6UWr/Yq73niOU+cyknvhQhWP5kNa2ffsBg==
+CA: text:sha256:1id4zba3b4vydh8ih3k21j9j5wjqz31q7llprj479x52ind3gb85

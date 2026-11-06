@@ -1,0 +1,10 @@
+StorePath: /nix/store/72y8ckh345myksipfdcp7s3h9vqq1s5a-async-channel-1.9.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1jcg64gygxcqfd7p033jcdjwabldfq6cxynr1dqzcb7zdkzr17ix.nar.zst
+Compression: zstd
+FileHash: sha256:1jcg64gygxcqfd7p033jcdjwabldfq6cxynr1dqzcb7zdkzr17ix
+FileSize: 904
+NarHash: sha256:12af9n71sbabh33d0a5drvl0qal4s2zi2hi4ffazag07zl8zzvgp
+NarSize: 2048
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv hgqk47cq9f0xm6k0440ax4129lgabv6c-crate-async-channel-1.9.0.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:T5ttXExjVke8uQNXuh91+ngafRLE3dp9INPyR3FwmnCCfPcw12LXlc85h/xhrJoHr0FC+2GyQ7h3thBIL32LBg==
+CA: text:sha256:0d46jxhyz28cf6plgmvcf6hghfw5rkhkwc0y9hnbp8hhmfhj640c

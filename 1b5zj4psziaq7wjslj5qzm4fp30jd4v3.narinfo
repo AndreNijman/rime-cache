@@ -1,0 +1,10 @@
+StorePath: /nix/store/1b5zj4psziaq7wjslj5qzm4fp30jd4v3-plymouthd.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ldljb91l6ph1n4y0wmjhyqrf1p6p2h9mn93lpbk1xrcspdd0dwg.nar.zst
+Compression: zstd
+FileHash: sha256:0ldljb91l6ph1n4y0wmjhyqrf1p6p2h9mn93lpbk1xrcspdd0dwg
+FileSize: 122
+NarHash: sha256:0x0vpnfc11fz1v7rr7mi62dbvkl5xhxgw8n12j5a6cw4jkfby988
+NarSize: 168
+References: 
+Deriver: k0vn8d9046447wh72lr3j5zl5y34j935-plymouthd.conf.drv
+Sig: rime-cache-1:kk7v1ZedVpmjhn8r6n5lXfUR5pbBsJJsJSdJb9mik5bHNKYsrAvCvQMZFKJNpQFt1tTntGapcrxc7ZOnrrAgAg==

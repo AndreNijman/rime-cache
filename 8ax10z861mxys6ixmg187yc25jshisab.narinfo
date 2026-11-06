@@ -1,0 +1,10 @@
+StorePath: /nix/store/8ax10z861mxys6ixmg187yc25jshisab-tectonic-0.17.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1xpw2qw3gl47fk7l4sqw396wngnjbirqapy1gjs5m0ja61xgjhgs.nar.zst
+Compression: zstd
+FileHash: sha256:1xpw2qw3gl47fk7l4sqw396wngnjbirqapy1gjs5m0ja61xgjhgs
+FileSize: 2189
+NarHash: sha256:1v6xdrlb41ajyb0z37nmbjrd4jjn260yfzkzj636211i93zrdl3b
+NarSize: 5224
+References: 0kfaz7kf1wjr8ssjh5025hiqmd7y41yr-cargo-build-hook.sh.drv 1wlq7f27hfii89rnf652xyxxagzc3mpz-rustc-wrapper-1.99.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 45ial5wyx19y9hbfz1asqbzyx1vq4gdz-cargo-1.99.0.drv 6kjymcnlrw8gi1zlkf2g30k87vmkv2rz-harfbuzz-icu-14.5.1.drv 7xy7zy8kiwlgvp0slpkf1am73x27vzqp-cargo-check-hook.sh.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bq80kzg8z8ci87l5dfx4p47zi5p1aica-cargo-setup-hook.sh.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv hngxswdf79dxdjrp2mx745jcc3r4mnbh-icu4c-78.3.drv kkx66nhydvcdq6slfg5blb76nlrbv7gv-cargo-install-hook.sh.drv l0hs6fl6j4d4lxihapy1rdp7ih3bmzrh-install-shell-files.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mb2c79cb9xaf08pdxavcv1znwr7cmmh8-source.drv r0k1m5wmj623kxj1ybjhdqdyq69fq23i-auditable-cargo-1.99.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yvxcj2hi66jds50c2i27257b3x1mk9z3-fontconfig-2.18.3.drv zi7iainic706fndj638iybggh6kmz219-tectonic-0.17.0-vendor.drv
+Sig: rime-cache-1:1kNkC6WSzKuChrjRmD9qkIwMs4CAuffapDxuQqIocjmKeJIWIcKaeZhxMCU4eDTQSB9t5gr4wygEQLFPOVlwBg==
+CA: text:sha256:1hq38fj1s092vhcxgn3bamyfbkxamgxsqzymbb6zx89shzn5d185

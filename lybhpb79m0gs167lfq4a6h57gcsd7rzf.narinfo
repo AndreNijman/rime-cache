@@ -1,0 +1,10 @@
+StorePath: /nix/store/lybhpb79m0gs167lfq4a6h57gcsd7rzf-perl5.42.3-Devel-Symdump-2.18.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/01j3a3qcqc3i2lnhby8q2h527308izgg1bh5zg7nig6h67qdmrqb.nar.zst
+Compression: zstd
+FileHash: sha256:01j3a3qcqc3i2lnhby8q2h527308izgg1bh5zg7nig6h67qdmrqb
+FileSize: 919
+NarHash: sha256:09j50n3mxsqb2ms7dwhwixw08yfv0i7ad8m21zd0lhn2346j1rdg
+NarSize: 2328
+References: 119w10l5ic8izi6igxqpq0wdmccs9mbc-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh n4kzjs7zpj57wim3gw5ppri5mnddsjd6-Devel-Symdump-2.18.tar.gz.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:D1tCarQttWPxIhAIChvH2DZ7bgcv2IuB1D/CXPhifQYcJJk//HnpdM/x9bcDW7nSIEvpeR0K8EAARIsQbwwZDw==
+CA: text:sha256:1r63qk5b7p0y6x1akv1n04vansfy054flvvqmiz7q4a2r3ik7c10

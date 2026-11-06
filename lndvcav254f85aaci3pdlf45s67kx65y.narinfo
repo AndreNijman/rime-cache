@@ -1,0 +1,10 @@
+StorePath: /nix/store/lndvcav254f85aaci3pdlf45s67kx65y-valgrind-3.27.1.tar.bz2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0d4c6pmgdckvvlr701gz7snv4svr0licf0d986k4m5xh8h296bpx.nar.zst
+Compression: zstd
+FileHash: sha256:0d4c6pmgdckvvlr701gz7snv4svr0licf0d986k4m5xh8h296bpx
+FileSize: 1402
+NarHash: sha256:1fgn0rqxayw1qy50wbjn0k9rywvmdv4bgy77dijrg494f96wsjwn
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:FI5xWUA+U1RROC8lHeq36vpQkUgSyLkPnjAshMWW0ICFy89SzIGlcB6r0WtdWfit4V3uhSNv9qdTFKAW7mE1Bw==
+CA: text:sha256:00aqn51z5ss37nbwx0y0rknvhcdl8sabvd00x8gwm4jclyxd1q78

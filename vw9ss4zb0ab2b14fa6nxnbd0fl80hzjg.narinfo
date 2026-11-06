@@ -1,0 +1,10 @@
+StorePath: /nix/store/vw9ss4zb0ab2b14fa6nxnbd0fl80hzjg-portaudio-190700_20210406.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1d3rzzczanqn5b9cw01n0pjg9a5d2pcb6xvk1v6nzmq862v6g3il.nar.zst
+Compression: zstd
+FileHash: sha256:1d3rzzczanqn5b9cw01n0pjg9a5d2pcb6xvk1v6nzmq862v6g3il
+FileSize: 1230
+NarHash: sha256:1xyp0ssi2phmgyd2rz8cxwa7602vzldvcx3k7d83m8pfjli490sp
+NarSize: 2696
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 8zap0jn0y7v9f1g3f2kyyqf4wgvv9srb-pa_stable_v190700_20210406.tgz.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bcr3xmcmiq2fqs9z084b83cq7wnn9m5c-which-2.25.drv jqyxbc5bb07vlamj6kvb1ji1595gwfns-libjack2-1.9.22.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lkblvqx3lns7gk6gnnldx4gn9hnqwk3a-alsa-lib-1.2.16.1.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:W5PQzn7zmGyqI646FAt88CsMSxk8ceGRukfnquc/C/yrimuHf3m9EPfpM3or3qrCJnHUA6/UAPHTeTUNlEbeBA==
+CA: text:sha256:11a06l92k0sa09q7xlbdrc6m84ib4h1800hl5wyjjgai6247hv4m

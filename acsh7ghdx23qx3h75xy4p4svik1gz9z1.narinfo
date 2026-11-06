@@ -1,0 +1,10 @@
+StorePath: /nix/store/acsh7ghdx23qx3h75xy4p4svik1gz9z1-unit-usbmuxd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0c1jr7fszsqrw76rb4ifvy1zjvg9f7kiil7v76qvmhkig34h9z6s.nar.zst
+Compression: zstd
+FileHash: sha256:0c1jr7fszsqrw76rb4ifvy1zjvg9f7kiil7v76qvmhkig34h9z6s
+FileSize: 671
+NarHash: sha256:0crjgaqq81lb094wq7rm2scg1kdmxbfm51218ma23b0gb4dypx1h
+NarSize: 1472
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e q2y6n1cwckk5j6w16bkclkvl358aizc4-usbmuxd-1.1.1+date=2025-12-06
+Deriver: y3w2mk29w9lh29pxms2za3s6zskp4byj-unit-usbmuxd.service.drv
+Sig: rime-cache-1:OKxDnuOfna8izd1Fa0j/gfWMfyxMFGgx8ZRXmq1k5FWAYR441nVw0HaGA0X4b1MG30DUI1Fs3SGDQwzXs7TGCw==

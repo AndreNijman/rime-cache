@@ -1,0 +1,10 @@
+StorePath: /nix/store/xfrj67znagwxcrmpssm7ycgcgmg4xrkc-resholve-0.10.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ajkfg3zwph4vkcmhfsz70vjksc7jws6k8dqcn83j151kj58df4a.nar.zst
+Compression: zstd
+FileHash: sha256:1ajkfg3zwph4vkcmhfsz70vjksc7jws6k8dqcn83j151kj58df4a
+FileSize: 1954
+NarHash: sha256:1xlms2vxy42sr47fmf612xrr9ils2b0y9ifcnj0yjv24v2cziaw6
+NarSize: 4704
+References: 1mddcqmyavrcaf3vgk2fddh0pa7pw82d-python-imports-check-hook.sh.drv 2zvcn5i5g883jpmv7myplz5x0w807gvx-wrap-python-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 79sggjq4g94jzdgirsy6jzypc1rjf71m-python2.7-sedparse-0.1.2.drv acsmj356qq5i4fd396798h6na8wln6lc-python2.7-oildev-unstable-2024-02-26.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv f0821dkyf61l0ga19j2vxajqw9mhwi41-python2.7-configargparse-1.5.3.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv k0g380c1kanppwxhzgigvv11d34zanbm-python-remove-tests-dir-hook.drv l0hs6fl6j4d4lxihapy1rdp7ih3bmzrh-install-shell-files.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh md3kbj746v6wrm24xjwwhli3yrsff8yj-source.drv rkxb6gxnxigd4kc1lc03z7xvydflh5ar-setuptools-build-hook.drv rp9zgm3sr3rjh7glw755vd90smmy809v-pip-install-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv v5sdwz76j8xl1xq6hfwi1dgpirmkdwyj-python-catch-conflicts-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xmkywhcm19x46mxrc1ii56bfmg27nbkx-gawk-5.4.1.drv zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:VbUNkP4V/83IipdjlG/u6d47utvQMcxoALSejHrPEl2odOcIyz7afHhfx+9TrgW+n1Hamy21z0/NyKnmPSUUCQ==
+CA: text:sha256:0zn0s9s0lqmyiqzl48215a7nd0rzdaxahwgnz74jywyrz8rxnl5p

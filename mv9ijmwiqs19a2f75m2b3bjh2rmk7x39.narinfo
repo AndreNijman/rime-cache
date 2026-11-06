@@ -1,0 +1,10 @@
+StorePath: /nix/store/mv9ijmwiqs19a2f75m2b3bjh2rmk7x39-colm-0.13.0.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1g4h25kwr3bxc7dq1bdhfb261b398snlspmw8w54367dp9lkmqsn.nar.zst
+Compression: zstd
+FileHash: sha256:1g4h25kwr3bxc7dq1bdhfb261b398snlspmw8w54367dp9lkmqsn
+FileSize: 1101
+NarHash: sha256:1sjq43vb9mmfgg936qpqyxbfgxg2cfs0s39cf0j8rsdgsng58ch1
+NarSize: 2504
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5lqjmf78b5br2c906zffaq7whp5x4byr-asciidoc-10.2.1.drv hjzzl7y4qy90800c8zk92z9w07l37x2a-gcc-wrapper-16.2.0.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qakk8a789in3px9iaw8hpyxj1403jgkv-colm-0.13.0.7.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv z1ipbcclk6rw0rwnkml8y9j6kk1jp230-cross-compile.patch
+Sig: rime-cache-1:RaUuoSIGqGb9nkwrjoc/YS6KIzU7qq5w01HGYzJaGpwMQ2Elwxz5OzCFYbi4FPss94JxIhxvfXo86t3gU2JADg==
+CA: text:sha256:19hhzc6mcxvyrgdggriq6jckqpinqnpqa475m7ynfcyr81m27gh7

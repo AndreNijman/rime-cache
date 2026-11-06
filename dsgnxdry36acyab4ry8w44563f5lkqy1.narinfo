@@ -1,0 +1,10 @@
+StorePath: /nix/store/dsgnxdry36acyab4ry8w44563f5lkqy1-security-wrapper-qemu-bridge-helper-x86_64-unknown-linux-musl
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1g52wjkhk81ydkn7i8pdyyg03jn9c5kp3la7q45l0mqng0g1hraz.nar.zst
+Compression: zstd
+FileHash: sha256:1g52wjkhk81ydkn7i8pdyyg03jn9c5kp3la7q45l0mqng0g1hraz
+FileSize: 32832
+NarHash: sha256:1qphvc4vw0gp1gjp1lx9b9r4q57vg6xvj6svx30ybhsbk8sbbffa
+NarSize: 71592
+References: jgjc8i2apilfajwd2xah9b8w5p34p62y-linux-headers-static-7.2 ka5n2xfg9rijrc5xndvggjccycwax31j-qemu-host-cpu-only-11.1.2
+Deriver: i38d6asqqb3bwvdhn9mlvl7kf61d68x3-security-wrapper-qemu-bridge-helper-x86_64-unknown-linux-musl.drv
+Sig: rime-cache-1:hQtvyaN840SsDTW4Y4Uo1acbE0BEGw76M5b/LH68rVBbkMR39QqsSp84e32HqG8bH9sSjUpNxfM6KNh/VvVNDA==

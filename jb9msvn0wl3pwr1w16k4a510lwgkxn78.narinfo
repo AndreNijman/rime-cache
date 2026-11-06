@@ -1,0 +1,10 @@
+StorePath: /nix/store/jb9msvn0wl3pwr1w16k4a510lwgkxn78-ronn-gems.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xfmi2704xac19byf6ivwrqcvjkg2l4yvbng5g4q9xffvx0d8vz9.nar.zst
+Compression: zstd
+FileHash: sha256:0xfmi2704xac19byf6ivwrqcvjkg2l4yvbng5g4q9xffvx0d8vz9
+FileSize: 1826
+NarHash: sha256:19lxpq3q5fngxr22k059yw0aslv4rn4wlgnng1lf2fj3qny9wj09
+NarSize: 5048
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4sih7ikfwgiwmyhkjpvg9r0c1fcr57c6-ruby3.4-racc-1.7.3.drv 8j21069vllfasj7aw06s9y6gypacdpch-bundler-2.7.2.drv 99vmyma8bzw6q14fv48319f7qhmzb91k-ruby3.4-mustache-1.1.1.drv b81q8ppry55gw65j168qwvskrxdr02vw-ruby3.4-kramdown-parser-gfm-1.1.0.drv gx0cyy1qcmv7adccxx3lg8hn02qddsq8-gen-bin-stubs.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv jcasl911h6naaj2dh9wcyndz93jcc7f2-ruby3.4-mini_portile2-2.8.5.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv kxjncqmzrpjg9xpvz0qihyybdp79i5q8-ruby3.4-ronn-ng-0.10.1.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh la3m4z3zmsm7588fcrs54a9hvi56bkx2-gemfile-and-lockfile.drv m3y6ciwgi7pvy2dm7lnxkapaxh0rmjmr-ruby3.4-kramdown-2.4.0.drv r09c3ixb371v2lhkhy6j41zihy9bccgi-ruby3.4-nokogiri-1.16.0.drv s3bkpvjkcjs8h1895a23bw6w8payi0fm-builder.pl.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh y7w8a1h64pjgm3g559g4safaasljq5ls-ruby3.4-rexml-3.2.6.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:xe0jxy8bVxaLxRKi6ZBqSHn5tYaRiupOLiOKlxSsKyi27ENwsLRhjJqu+pkse85o9Sqprv8AdCzSutvUoXCbBQ==
+CA: text:sha256:04nxgrnxfyhl8wl8c8n7pl98q4xmf1l46ph2whzradzbb6q23ml5

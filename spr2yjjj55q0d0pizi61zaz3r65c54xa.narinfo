@@ -1,0 +1,10 @@
+StorePath: /nix/store/spr2yjjj55q0d0pizi61zaz3r65c54xa-wayland-protocols-1.49.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/039qsag4s74h3x1afhj3i8iafl7yrznm51yfmdiwgx09j8gyhs5c.nar.zst
+Compression: zstd
+FileHash: sha256:039qsag4s74h3x1afhj3i8iafl7yrznm51yfmdiwgx09j8gyhs5c
+FileSize: 1116
+NarHash: sha256:027ms9p8i6b9zfly8g5l75x96iz3lynw5cwmrkxdlwzmwlzkn14g
+NarSize: 2664
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv l2bwdpmg5696a91w479mv3x5dd0bgkf6-wayland-scanner-1.26.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mqiqy20arssmyrxszwi8yjf5c9bfkz8c-wayland-1.26.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xgvi0qh16jmadvyidqrgm7z5s6p9ahgm-wayland-protocols-1.49.tar.xz.drv
+Sig: rime-cache-1:irZIhhtJbnNwdVNrnwJCHozPQ4drQzRErRS8x8B+HzaK/PmmeB4U+6glXHa7CMoP6ODVRcQHqVY46ai3EszJDg==
+CA: text:sha256:1nl2hv9z93afhlrbd9mw66asz3xwa4na11077g5ffyg1pc1c4rhg

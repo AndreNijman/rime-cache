@@ -1,0 +1,10 @@
+StorePath: /nix/store/jcasl911h6naaj2dh9wcyndz93jcc7f2-ruby3.4-mini_portile2-2.8.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/08wxwhw2drr4v8xv7yqakaid59jr544r138ylnqrrp03mny8629b.nar.zst
+Compression: zstd
+FileHash: sha256:08wxwhw2drr4v8xv7yqakaid59jr544r138ylnqrrp03mny8629b
+FileSize: 2450
+NarHash: sha256:0xll27n0p3c82068aikd3kjj6qq6a59q0pzzc57ld9mka6zpcmab
+NarSize: 5872
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv d7d6gvai24djk97lfgg8065yaqf5mdsk-mini_portile2-2.8.5.gem.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:8rhz18EAnSO6EfZOlbb098Iwhcsqzv0a7AxI3Cp5/eHq4fjYSZDuIpbxyHH5jdohNFIQ65e9EFqAyZMis8mxCA==
+CA: text:sha256:1ynhfi36s8g83rkxr912673zm0khnjj12x354mjbl4wl7xjb7pjs

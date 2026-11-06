@@ -1,0 +1,10 @@
+StorePath: /nix/store/iw8jby1rbfxlqjrxahkbkizrzaxq8182-asar-3.2.4.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ismvc4l3ghi5xwzj25zhz54x0234inlpa0r7d2s6z2b9r1imgry.nar.zst
+Compression: zstd
+FileHash: sha256:1ismvc4l3ghi5xwzj25zhz54x0234inlpa0r7d2s6z2b9r1imgry
+FileSize: 950
+NarHash: sha256:08yzlm7bcc25m0x48qzhs5nzgz3l2sn219qi469hgir7yyimm40r
+NarSize: 2192
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv a7mzwdph5vkavini0lj77xph53qhgjlf-nodejs-24.21.0.drv bw2dlqbwmyqdzxy5mph3crwzffnmz527-source.drv c65dc9xiv5fs6nxg4jhh1k0fdnfz6vg9-yarn-install-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mmbfq4pa21y5q2j85hz0gh6966sf0fcw-yarn-config-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zs6v22s7s5xyg5cjvza8j0xhswaj9afq-offline.drv
+Sig: rime-cache-1:FKYjzicB0p37wzrwbH5aEZf2ZIFZjdArKRzNwCQuSPpQn6p+yxAJE+WSGDNyr/zYEgHdUdTJm4NBVNuALPuYBw==
+CA: text:sha256:02js06n6kf4dz4crhhfwsps4yi50l6k419ynkqcjs3y8ssh34ywm

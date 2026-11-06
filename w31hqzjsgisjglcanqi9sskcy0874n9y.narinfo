@@ -1,0 +1,10 @@
+StorePath: /nix/store/w31hqzjsgisjglcanqi9sskcy0874n9y-spandsp-0.0.6.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0awh3cdw4whf444v2f7jbmhkyid29p8cip4q11pxj7y83a5ils9d.nar.zst
+Compression: zstd
+FileHash: sha256:0awh3cdw4whf444v2f7jbmhkyid29p8cip4q11pxj7y83a5ils9d
+FileSize: 1443
+NarHash: sha256:0n3x7z8mrq2nnwcjqpb0j7dlknqkcni92hjs5m1zizm9wjcszj6h
+NarSize: 3696
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:P6kLCrsngF7NIpgfLRPaScCKyISc7BKtF7MMLRPoX9/7oAnPnbgMQlijbIGPjPHKYWWIbVzceuMHYK7yoGmyBg==
+CA: text:sha256:19jvmj15lbzjcc5alvl2362s4a5akigf4g4kn9qs1z4hrb4sqy41

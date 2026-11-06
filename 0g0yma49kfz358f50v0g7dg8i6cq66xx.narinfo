@@ -1,0 +1,10 @@
+StorePath: /nix/store/0g0yma49kfz358f50v0g7dg8i6cq66xx-ttfunk-1.7.0.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1qcfjapg7dqg1w7nxdgyshsl1fg5vpxqns205n16qp0lqav90rij.nar.zst
+Compression: zstd
+FileHash: sha256:1qcfjapg7dqg1w7nxdgyshsl1fg5vpxqns205n16qp0lqav90rij
+FileSize: 1397
+NarHash: sha256:1csm504p7ydabzqmx1cj446pb6d33i4h5hqy8940lpnbkg98zccz
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:Cn2GbuDs2v7ORF+xxKXko6/VbS1FY5bU3p4E35c1ZbNuNe0aPE62LgA7v12TnmzQKg44kXf9P8VfChBMX5Y9AA==
+CA: text:sha256:1zn935f1sfrq60jppcyvzi2llp4x3qxlj3mslvbp39aglw3xpq3l

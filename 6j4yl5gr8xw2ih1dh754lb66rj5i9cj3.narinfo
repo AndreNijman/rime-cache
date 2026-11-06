@@ -1,0 +1,10 @@
+StorePath: /nix/store/6j4yl5gr8xw2ih1dh754lb66rj5i9cj3-yallback-0.2.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0am63938fgxh3fjqihh5ydjg340hl23djkgqxs0ihcyjlw04vjhr.nar.zst
+Compression: zstd
+FileHash: sha256:0am63938fgxh3fjqihh5ydjg340hl23djkgqxs0ihcyjlw04vjhr
+FileSize: 960
+NarHash: sha256:0sd2b8vsvaj2b2h3qpxnbx6qwpp3pqr8lgjv4v9512c1h0p2qvbp
+NarSize: 2272
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv mgicc2710bw3ffi1814yc82057fxka5d-bash-interactive-5.3p20.drv q99hwldy7mhqwzgrvk7yxaylp2z18825-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:hzXCr5zjiaZ773Ke82W64ywVf9sMwaUuodkxnPvq5iTi0YRb6aeG3s25GAJjhZMm2rcM3yH4gcpw+SFoH53YDQ==
+CA: text:sha256:0r02v0pd79kqyfz0gcw5jq1hl8w07w1j5s7gxdnmiksiwzk466cj

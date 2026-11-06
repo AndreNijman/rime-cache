@@ -1,0 +1,10 @@
+StorePath: /nix/store/jx3kwj1qb03f9d6gn1czzb64ip4wj65q-sratom-0.6.22.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0gjbczkwqxm2jlqzad5bmnqk0a7i7x0k5wn88dj3pils9ivxs74b.nar.zst
+Compression: zstd
+FileHash: sha256:0gjbczkwqxm2jlqzad5bmnqk0a7i7x0k5wn88dj3pils9ivxs74b
+FileSize: 1388
+NarHash: sha256:1sa9yp4xal2fal7s0lc1brm493z5zdsay9k9jmfgw075ydgc5gr8
+NarSize: 3624
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:v/yYQXd2AwN94SRhrZffN/FuCxCjaqj1n47obn9OS02Kcrmt1gWYkV0tmeShC9alZ7u0LL4L9c4K52KZO56dCA==
+CA: text:sha256:12rnr4m3p1sva7bczkdpqi0srq7a8wzc6j14ng432f2yh1fykqsi

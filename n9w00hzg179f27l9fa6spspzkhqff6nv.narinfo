@@ -1,0 +1,10 @@
+StorePath: /nix/store/n9w00hzg179f27l9fa6spspzkhqff6nv-hatch_fancy_pypi_readme-25.1.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/15shwlzg8wgsjl88mvv3ls9v245756ffy8ybq3a17vwwyk5q5fmv.nar.zst
+Compression: zstd
+FileHash: sha256:15shwlzg8wgsjl88mvv3ls9v245756ffy8ybq3a17vwwyk5q5fmv
+FileSize: 1396
+NarHash: sha256:0flv6ym0y5gd84wkb4y4gwa503nwy1arykbbkhmv0nl43dcbqbmw
+NarSize: 3696
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:+JLWv+g8tpFFuSEl/tzGJ6iWkhoQpiqMziFrw/YA1XMNNjlsSn4vBx/Bo6vjLZRyPWucgdvLE9zVRFgOgguzCw==
+CA: text:sha256:131cqbdg7c6753lmjs5l1crx720kdwspm1pp9id6kfs166ds1mdb

@@ -1,0 +1,10 @@
+StorePath: /nix/store/7ws5g4q3152gf4p3xhw1mk2xkmj2wncx-crate-displaydoc-0.2.5.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0202qqynf3x8rxrgzir1pvz1wiqiwb3bdlygiz4fmvad0saz2vzc.nar.zst
+Compression: zstd
+FileHash: sha256:0202qqynf3x8rxrgzir1pvz1wiqiwb3bdlygiz4fmvad0saz2vzc
+FileSize: 1377
+NarHash: sha256:1msnl6pmw6wzjljk3sqksk5qigiw89nf08fgq68si4frdxlkpwi2
+NarSize: 3720
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:zzX4wGNG7cQCcnLiMIqahh47Dl9hVNaeLXAXbfGhGsv9Iq0GOmqPgReN5i1B+bcoJKN/Rk+L6MqCcNIue/F1CA==
+CA: text:sha256:0naz7bl7qbdqpfigcx2v6sc192s2gj5g5lhckz291766labvrw3p

@@ -1,0 +1,10 @@
+StorePath: /nix/store/9nzs3n10a7034n9nprjyazhk18p1by8w-hardcode-gsettings.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0annvjwl5hz8qjyxpa2jb5zjlhvky1dsvzxym036w96ld65nbqbr.nar.zst
+Compression: zstd
+FileHash: sha256:0annvjwl5hz8qjyxpa2jb5zjlhvky1dsvzxym036w96ld65nbqbr
+FileSize: 1130
+NarHash: sha256:0bj612ghjbrc0lzk5dar7fgw8pzygki5fbh4y0pl5wdky6hhpjki
+NarSize: 2712
+References: 27bxqd8nf5dqmbhfsrg903n3zx7l6825-hardcode-gsettings.patch 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vibmivdnsa76lgsy75d1v8d6pdn4763y-gsettings-desktop-schemas-50.1.drv
+Sig: rime-cache-1:a9WD7Jvm/B10pV861nXwCmh7uCBE8rlyz3OcaTQVadHtNtbmeM0RW13Y4ttmn3jwrbRV+Wn/sRrbYz9qk5CjDQ==
+CA: text:sha256:1nx8pa3qi7hdv3p1qw5cdhxnjc7kkpglwqpfcds5h459d9r1c1li

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5xnhgidaxckd4cfllg4ll419f972crs6-system-generators
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1aa79ilqn2jskb34jc6h47p5rgnp3r3q3b1qx79lkcywy1lp7lvp.nar.zst
+Compression: zstd
+FileHash: sha256:1aa79ilqn2jskb34jc6h47p5rgnp3r3q3b1qx79lkcywy1lp7lvp
+FileSize: 334
+NarHash: sha256:1nsx9gpiwp46r0kp4kcp4w7v61g3f9jbjlb8c4rvp74s1vlxibk0
+NarSize: 1040
+References: 55w48cr7iihfw70692fs95pf43jkc080-networkmanager-1.58.1 fvj3i3vwp3cqh5h0v15438z0bd0ab63d-zram-generator-1.2.1 igagf756hj9ss3kzrsvs7ql01cjzyi8a-rime-hostlayer-0.1.0
+Deriver: qzmajhp59753z1nz7a0ja2llbgb79adn-system-generators.drv
+Sig: rime-cache-1:GrPn4TyYE6eZtx4tBECYGT8+ZKD9qsOUwinkpp9ErYsj4/ysJg9SkptkzUPxdeg95jSHcAd1Cp8Tx5RSXPbTBg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/fjjax0kf593ip84p1c3a9jd4gpl2qgns-libproxy-0.5.12.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1jy8hzjy94kfma4kz6d0hqyqkmnhrn7mmk4gcv47wsr1a9ayj0n8.nar.zst
+Compression: zstd
+FileHash: sha256:1jy8hzjy94kfma4kz6d0hqyqkmnhrn7mmk4gcv47wsr1a9ayj0n8
+FileSize: 1943
+NarHash: sha256:1cm1zn651288k4i6zfkvnd6fjwp8vhppj4dznii0lld7fynq24hr
+NarSize: 4456
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 6bbnjjjkp2m78ys9r630rjmypcb4s5zn-vala-0.56.19.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9g3yir5sx20wpdpdw37zddy6ijg4i36d-gobject-introspection-wrapped-1.86.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv 9nzs3n10a7034n9nprjyazhk18p1by8w-hardcode-gsettings.patch.drv fhjfc6xby2qig0kdn6c0az8q0bj2s6xv-source.drv fvpkp0mykql6qbsnhrn2wy7i9zipjxx5-glib-2.88.3.drv jsxxnncfzzmwk5icpbljk6k0rhfl0skm-duktape-2.7.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lcbw02cgcqq0yxfbrrmg5qblg47csmgv-skip-gsettings-detection.patch qvy71amdzc0pivfmh1a04ry2prw5b9kr-gi-docgen-2026.1.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vibmivdnsa76lgsy75d1v8d6pdn4763y-gsettings-desktop-schemas-50.1.drv w57gc3q3cwsxjqxkk0a9fkw363sf32hp-curl-8.22.0.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:bbo6hPJKphaM/JybF5u0A9+9DSKR+kyxLxFWKPMoaPDm9r6n74QNYiY8hPqJ9I7C8dPge6JyEAIc/EhKkpYpAw==
+CA: text:sha256:04m2jj4rvhq78r10jf2b55g9vmi127zsv7hw1imbky1778v88wsg

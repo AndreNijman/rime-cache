@@ -1,0 +1,10 @@
+StorePath: /nix/store/xi4x76nx776g5633xcn7r08d79g2mlj5-libdaemon-0.14.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0k2clhlpvqf4cvyjnxl1jy5wbmiigadamwgl233pw96qjz7gkmvj.nar.zst
+Compression: zstd
+FileHash: sha256:0k2clhlpvqf4cvyjnxl1jy5wbmiigadamwgl233pw96qjz7gkmvj
+FileSize: 813
+NarHash: sha256:1parfhq8mdf60qm9p5xh946sdpzqzzg2y8f87cz99n5m9znlldxy
+NarSize: 2112
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 37lqd3533n7fmnq9l6pfi4ckw14nip9l-libdaemon-0.14.tar.gz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh pml074rz39xzsk2xq6h3r9k0lwj5986h-fix-includes.patch shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:vVqJl+flmDJo8LYx3tBe4JSj+3B1ZzseHxVb7+/yZAvOypDlDbxSTtGsevSSo8dkjpmcx7q2PqjiZGLsE2sDBw==
+CA: text:sha256:1wlh9s35951zcqs7gbzsdvc6h35m0vr966a0lg4iccx0kv9p1qc7

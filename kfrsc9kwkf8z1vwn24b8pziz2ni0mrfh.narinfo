@@ -1,0 +1,10 @@
+StorePath: /nix/store/kfrsc9kwkf8z1vwn24b8pziz2ni0mrfh-rpm-sequoia-1.10.3.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0sjdlbc1w9civav7fjbqqpqmvprc1l6lyjd6qb83xbji347qfgmw.nar.zst
+Compression: zstd
+FileHash: sha256:0sjdlbc1w9civav7fjbqqpqmvprc1l6lyjd6qb83xbji347qfgmw
+FileSize: 1790
+NarHash: sha256:1p1wgkglz6rws6vnnwmqp3sxd2xnlcnqay0v38wxk5amjqqp77kq
+NarSize: 4200
+References: 0kfaz7kf1wjr8ssjh5025hiqmd7y41yr-cargo-build-hook.sh.drv 1wlq7f27hfii89rnf652xyxxagzc3mpz-rustc-wrapper-1.99.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 45ial5wyx19y9hbfz1asqbzyx1vq4gdz-cargo-1.99.0.drv 4gzqsgma3hy9lgk9338gkxhksb7k7dam-objdump.patch 7xy7zy8kiwlgvp0slpkf1am73x27vzqp-cargo-check-hook.sh.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv b8kay749g955h2b3qd237kj379031454-nettle-3.10.2.drv bq80kzg8z8ci87l5dfx4p47zi5p1aica-cargo-setup-hook.sh.drv brri4pkk33546ciq3cdybin8jh2lw5f2-rust-bindgen-hook.drv crk7v6vi4dwqwb0bzm4pr8jz6h9b3hsx-rpm-sequoia-1.10.3-vendor.drv d4nq3hr5pw01pgppryynkxapgph9zqgl-source.drv kkx66nhydvcdq6slfg5blb76nlrbv7gv-cargo-install-hook.sh.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r0k1m5wmj623kxj1ybjhdqdyq69fq23i-auditable-cargo-1.99.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:4wdyjnH3+LAk77sIZrg+jj9ZZW+McWUMMfVtNb3Gs3VXlzuzdPCiJke0xcyRAySQK/z4isCg9pCIVM4d9qKdAw==
+CA: text:sha256:1gal2hg70jz1n1akdbcy10a5dkay3mvdqyy06bbfrlrsk3ld93cm

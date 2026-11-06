@@ -1,0 +1,10 @@
+StorePath: /nix/store/3yqrdiajqfj324jvwy4pqflzznqhjjkr-jaraco_functools-4.6.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ay31h1yj8va5vaba74wrbfhrr02b10ahb60xm87bdcfkh2a217n.nar.zst
+Compression: zstd
+FileHash: sha256:0ay31h1yj8va5vaba74wrbfhrr02b10ahb60xm87bdcfkh2a217n
+FileSize: 1400
+NarHash: sha256:0rmfaabp4wahwfqrlr5qwx7l93a7hyryb8kh23c9xj59jldgmr53
+NarSize: 3664
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:sG2JcgCkNAcb/bTdSb/3yvK6haD/Dl387V1aHeEn84EFbl6I59B9nFiXn0ayLpsHlFiSA9/HWzAsfT4OP2+aBQ==
+CA: text:sha256:1wm9w4m0620ipwc1gv29z8cpdw9z1hkz5dhx6jpjify7vzybbwc4

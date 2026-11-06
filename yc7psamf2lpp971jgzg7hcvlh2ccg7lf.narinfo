@@ -1,0 +1,10 @@
+StorePath: /nix/store/yc7psamf2lpp971jgzg7hcvlh2ccg7lf-dconf-system-config
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0phq2nywbhv142djqnkl82j2abm5n003i3ygzhrbzsc2i39z0sqi.nar.zst
+Compression: zstd
+FileHash: sha256:0phq2nywbhv142djqnkl82j2abm5n003i3ygzhrbzsc2i39z0sqi
+FileSize: 186
+NarHash: sha256:1yssnnjc9vxa6i5i60nbvb5njb7hxs1japp6jxlxw9ls8snryhm2
+NarSize: 520
+References: ssz5ch12pvcdq1b6qng0xv7m1cv39pkg-user
+Deriver: gikxwiw5l2ypbyl873s2j8kjjpvs4pv0-dconf-system-config.drv
+Sig: rime-cache-1:J3v2cmWUi1yQEn3AlvPJYzFQ5vCYmrHJE/NCHZ9DapNAcebdbKRvXsUEGH1wNfi+yoq7rDHQ7imWMT3+eh54CA==

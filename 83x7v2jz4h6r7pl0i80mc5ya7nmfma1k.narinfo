@@ -1,0 +1,10 @@
+StorePath: /nix/store/83x7v2jz4h6r7pl0i80mc5ya7nmfma1k-rime-app-rust
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1i59zqhplvkkkx3001cfag08kvw23a3r4hvf6lay5aa6cfki6gf7.nar.zst
+Compression: zstd
+FileHash: sha256:1i59zqhplvkkkx3001cfag08kvw23a3r4hvf6lay5aa6cfki6gf7
+FileSize: 608
+NarHash: sha256:00hvpscizghkywl45vp2yrnpk714wb2p2dinriwy2wslkzpdzalg
+NarSize: 5256
+References: 6l9kbzxwq9ij2lcmwl2qb1jdpqisjr8l-rustc-wrapper-1.99.0 9d5hldsjq3zz3s7rk3m357948vmcl1qh-clippy-1.99.0 l3jrya2cdjmzxgdpnxzwvx3h416lcbr6-cargo-1.99.0 riirapln237pmnv38sipixvn6gis3cn7-rustc-wrapper-1.99.0-man vwgbz9vm1gyxqn6z4fg1jd6va2nzfa3m-rustfmt-1.99.0
+Deriver: 3hwrfy1agj2ij99rzlg333zq6kwi7xa6-rime-app-rust.drv
+Sig: rime-cache-1:AYvzsOqkDx/3s8pzYnBIavIzK5rrKOxEfM4XvCv6tE26ZhmgxKH3LLGEHIsa2PRkZN2yErPxoFa0MsgjJ0meBg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/f9mzzxnxfx63k0dkbf8g04wi2g78lga2-writeable-0.6.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/092a6i0hm9mwway1byzag0byrq3jna3f1nmangch4c0ps0arwvcw.nar.zst
+Compression: zstd
+FileHash: sha256:092a6i0hm9mwway1byzag0byrq3jna3f1nmangch4c0ps0arwvcw
+FileSize: 894
+NarHash: sha256:0wjmhgjn7wkj89b4j55gs8pqbvr49zjdx6mnf0fwry7ixsdqp6a0
+NarSize: 2024
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mnr64ai6g2xwcgc7wzb3qnl0zb8yg8i7-crate-writeable-0.6.2.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:CXowGfQmTtfGKp3HBJDGllKAoOT8ZxgjsWVcmvaQ31OSqof4cDrrGxjPpQwhg8jv1jxJm7x8NGw+dEVvfMWQCA==
+CA: text:sha256:09n7qjxk8g9sg1zqkgp9857is8bw2j45hh94nxar6biy6m6vj1am

@@ -1,0 +1,10 @@
+StorePath: /nix/store/7irs7z0qwljx1dpxc1vlg2z87rp5pyzj-crate-futures-io-0.3.31.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1nkc3fc0ixz5zrniymh9lah6b8qjjj5jk68a3vxdhrsvyxw04vl1.nar.zst
+Compression: zstd
+FileHash: sha256:1nkc3fc0ixz5zrniymh9lah6b8qjjj5jk68a3vxdhrsvyxw04vl1
+FileSize: 1374
+NarHash: sha256:08hw3s5203vpfgza5d9abzz86w23lsmd58inrp81hn37s6drnnyj
+NarSize: 3720
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:ujvvkJbSwkjlQ4PotSmUENU7FnkPomfbYhoRYj2d/T+2O3ym25adWrTmne0ImytDXb315qdBU8W1lqUnfNGcCg==
+CA: text:sha256:0gqa60402ld1qw2rrs2fx8y9irpax45i31ydvh1jfn16bzcrcy22

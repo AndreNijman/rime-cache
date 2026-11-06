@@ -1,0 +1,10 @@
+StorePath: /nix/store/cacsl5a1j2gqvq29m605x34cxwlrs0n3-unit-systemd-binfmt.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/04nn62jpsrhv9n04h0rk7rb0yygjdzhxrknn556vllbx5b9a22bs.nar.zst
+Compression: zstd
+FileHash: sha256:04nn62jpsrhv9n04h0rk7rb0yygjdzhxrknn556vllbx5b9a22bs
+FileSize: 589
+NarHash: sha256:1hkbx6za2b2gyj0pyq94il8x9hjmnfc71j586wx7038m3lyrshl0
+NarSize: 1304
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 b5ih5s76nqy06xinyz1r2zkz1scki4k7-X-Restart-Triggers-systemd-binfmt c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: kbp1hllgk9ij6bcca89afns3mn1s669k-unit-systemd-binfmt.service.drv
+Sig: rime-cache-1:72kGlbAKSI+sGkqF3Beq8RrJBgkF25xmSjcTi+M4e71qKdV80gwwlkbaSKUa4RNX15a4QvUmUUAZkWwL9BU1Dg==

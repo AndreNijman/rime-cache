@@ -1,0 +1,10 @@
+StorePath: /nix/store/pcdajis51qhlsbzqpcg1fb4da27prsqc-pkgconf-2.5.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1v2kablqn1rwc9qg92m2j10m2bv29l839w6iwx6k2lylziwlxapc.nar.zst
+Compression: zstd
+FileHash: sha256:1v2kablqn1rwc9qg92m2j10m2bv29l839w6iwx6k2lylziwlxapc
+FileSize: 1370
+NarHash: sha256:1ri4cfrrjp4w14wszw089csbg0d8r0hlj7npdbigar1lh3dvrr2k
+NarSize: 3600
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 82czysdbwzzvcrdfq1y9q9y4fv5kgy73-autoconf-2.73.drv 8535vxp9rsjhbf6vib9s5pq3lyvc93fx-automake-1.18.1.drv iacsilvsa2kwqvj9k5dvz6h3gmsryp0g-remove-references-to.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh nl84vjdfp4hkik278sldsbxq5v6a5z3p-libtool-2.6.2.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yjfxwnyq8dfmqj1ig0rl2f9cgh0d7xsh-pkgconf-2.5.1.tar.gz.drv
+Sig: rime-cache-1:PCsTVJ0tLzGGEW0LgJAEeWTK+5ONs1RI8HdUObJs5N9V46g0KtVPnakOL2sX3l0bMZptBj+z1oBA9U5GMFkODA==
+CA: text:sha256:0f8ivxyg24f4hk7nx42rcvfkdibcnn4vzvw43imlb4kmydfjawfq

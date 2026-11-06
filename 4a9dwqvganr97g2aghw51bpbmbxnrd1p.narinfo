@@ -1,0 +1,10 @@
+StorePath: /nix/store/4a9dwqvganr97g2aghw51bpbmbxnrd1p-simdutf-9.2.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1lyl3i1xp22pq2lp0j53gw6vpb68l69ijw0cm1sgv9cjq1yl3w7a.nar.zst
+Compression: zstd
+FileHash: sha256:1lyl3i1xp22pq2lp0j53gw6vpb68l69ijw0cm1sgv9cjq1yl3w7a
+FileSize: 1067
+NarHash: sha256:02i6sd5s0n4ygy855418afg59m03g35bldibfck71dg8aa72ipcf
+NarSize: 2416
+References: 2x4aa8vfj3fl1frwxrlsi5jjf0c6xq2f-glibc-iconv-2.44.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 60nr593r54iircdgmmwkd9q3nx1n1jxx-source.drv 651xajj3936gr55kmaywpni3f3qsnbpp-validate-pkg-config.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:+/Rvezf9dKKzp30GUXJcP5b0rhCVwhhorxLmOwh/WLPGh1SAU8b7PYePsD5XS5X0sk1GiWv55+2BcokFU0jDCw==
+CA: text:sha256:0ip6hzp4dqmpi8ibf0dmy71fh3lqc9cq4026g11khwhkx6jmvrsw

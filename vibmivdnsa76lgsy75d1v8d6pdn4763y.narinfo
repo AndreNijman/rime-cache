@@ -1,0 +1,10 @@
+StorePath: /nix/store/vibmivdnsa76lgsy75d1v8d6pdn4763y-gsettings-desktop-schemas-50.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/12az6536hx7g9ijyd7qfm15qgi87ynk8mrz9g7ayqkc8ah1hhg9y.nar.zst
+Compression: zstd
+FileHash: sha256:12az6536hx7g9ijyd7qfm15qgi87ynk8mrz9g7ayqkc8ah1hhg9y
+FileSize: 1436
+NarHash: sha256:1pcbxi26flkphnir2j9r8wfvxl2fkk0rsdsq3fds3s6fcvw0gniq
+NarSize: 3312
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9g3yir5sx20wpdpdw37zddy6ijg4i36d-gobject-introspection-wrapped-1.86.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv fvpkp0mykql6qbsnhrn2wy7i9zipjxx5-glib-2.88.3.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mh46zk3b37kflsz8jafysfyy0bgbn8d3-gsettings-desktop-schemas-50.1.tar.xz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:1jsLFl/dPuHY86Dxc2A31Hc7GPWZJMsLSzMsE0mvu9J7AbKOf1ef3qTRcJ9iRYN46iiBkL+93USxCyPwCi2/Ag==
+CA: text:sha256:0ai608qlgj9sis03vfmfxnxj52kijh15qqsa74rb8sgs8l0d6az0

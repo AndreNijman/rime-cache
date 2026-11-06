@@ -1,0 +1,10 @@
+StorePath: /nix/store/z6syfllcb4f0dqm478y973gn0mkq6w93-wavpack-5.9.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0qhjqin2knlfd3gp7fqbikcy02b5vihcsxl3ag2rq4il6k36rrqj.nar.zst
+Compression: zstd
+FileHash: sha256:0qhjqin2knlfd3gp7fqbikcy02b5vihcsxl3ag2rq4il6k36rrqj
+FileSize: 1002
+NarHash: sha256:0jzmbsspznl5x4icrqc97mj5x4cwx3pglipf70j1ia8pw55g7q0r
+NarSize: 2584
+References: 2x4aa8vfj3fl1frwxrlsi5jjf0c6xq2f-glibc-iconv-2.44.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv klwpqxm3cwh90ag0npljlifsdiqpxgjz-gettext-1.0.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qij0rbc4dbsd0hv7vddqks25j4r9xghn-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:lSpzjlYNaizJqzHuyIY2D0I5HJccpqnztmZ7pOE4MrIPQ4l5JUzqbmlXoqiy3oXE7t5AxDelBlOnQ8bpfUTOBg==
+CA: text:sha256:1kw2wwdyfi20j13gy7x0awhb3r09m4r17acnn1iaryfa60ay09zl

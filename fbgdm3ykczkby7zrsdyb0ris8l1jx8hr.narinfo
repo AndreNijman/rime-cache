@@ -1,0 +1,10 @@
+StorePath: /nix/store/fbgdm3ykczkby7zrsdyb0ris8l1jx8hr-ruby3.4-treetop-1.6.18.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ap909nvqrmq6wmzls75sirb5pxf1czr7ibx8r1w9l979p47h3w0.nar.zst
+Compression: zstd
+FileHash: sha256:1ap909nvqrmq6wmzls75sirb5pxf1czr7ibx8r1w9l979p47h3w0
+FileSize: 2530
+NarHash: sha256:03xp6s0ajk0hwi0aw4yzq84lgq3hjanhqbh0rr15zi9qd3p72269
+NarSize: 6136
+References: 1skwk4scsj2mrrxa6dbgwfkhrbwdp05m-ruby3.4-polyglot-0.3.5.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv w3654ip638qbpv2az9vr58nbqknr3hhz-treetop-1.6.18.gem.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:XHpkOZk+1G2kKZGwbYrmwrvSl1darL9UrjrjH6OjMuo1bDLw18lGOTJqIVlpf31MS3KqFKZgXgNdcSd8lK8zAQ==
+CA: text:sha256:1n4dq968v57y3vpg0y7d1nwpyx9kmsgwk6w7akljy0hd5fl1q47l

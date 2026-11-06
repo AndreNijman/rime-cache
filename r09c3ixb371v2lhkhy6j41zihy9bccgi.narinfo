@@ -1,0 +1,10 @@
+StorePath: /nix/store/r09c3ixb371v2lhkhy6j41zihy9bccgi-ruby3.4-nokogiri-1.16.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/004l8d1an3qal9i0gz33aph79rjjc7gvp8jfhbwx2bnr4if50ndr.nar.zst
+Compression: zstd
+FileHash: sha256:004l8d1an3qal9i0gz33aph79rjjc7gvp8jfhbwx2bnr4if50ndr
+FileSize: 2965
+NarHash: sha256:1gqapjzpv9n01jc6bhp4sfaf0ygissg4xsw25imnp4gg7bcc301a
+NarSize: 7408
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4sih7ikfwgiwmyhkjpvg9r0c1fcr57c6-ruby3.4-racc-1.7.3.drv 9abzw4a4vi8akcmqrcdzz0hckm6r0852-libxml2-2.15.4.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv jcasl911h6naaj2dh9wcyndz93jcc7f2-ruby3.4-mini_portile2-2.8.5.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb r7kprripy15xzxz5hpc61gl89zaflkn3-libxslt-1.1.45.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv x7k1n7iybny9sg343f0khayvfg8087cr-nokogiri-1.16.0.gem.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:1fct8gOkyVLGLfIP9FGJkSUyfuDSJOr3MLHhpLLqXWt3eQbyByuW3pk0A+GGJyGNVVM+nZPfqCjm6N+A9prHAw==
+CA: text:sha256:02a00h43xdfr90v4x4z7icwyk4y1n1252qkhms2lqiv4p81is3za

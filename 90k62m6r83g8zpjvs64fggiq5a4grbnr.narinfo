@@ -1,0 +1,10 @@
+StorePath: /nix/store/90k62m6r83g8zpjvs64fggiq5a4grbnr-crate-rand_chacha-0.3.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1fxf29fhix9i5bzjrirqsv3mi00chn804x880fmrw9fngjnrql2n.nar.zst
+Compression: zstd
+FileHash: sha256:1fxf29fhix9i5bzjrirqsv3mi00chn804x880fmrw9fngjnrql2n
+FileSize: 1374
+NarHash: sha256:1ccfqbiknnfhy66xy04qg7gzpqliwdpc92pdp1fbrj44rsds11bx
+NarSize: 3720
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:GQFZOazJHrQ2Fqb12BRJqzPOvLG5eKvgr85qO/uhAgSMCJkxyUrNDrQCwLADAD0EqOQFd6vI1l67e72OS7dkAQ==
+CA: text:sha256:0i1xh8cn5yqhaxk7w5iv5y07ybs14vhc70mhl2msbpy717yq1931

@@ -1,0 +1,10 @@
+StorePath: /nix/store/pvk6l0c36nps179jdg6bpxaxypzkahrk-roc-toolkit-0.4.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0mpirf6rrsa3fwybl845jrqlasn9rfccr4dc8mjklx9kpzlafdif.nar.zst
+Compression: zstd
+FileHash: sha256:0mpirf6rrsa3fwybl845jrqlasn9rfccr4dc8mjklx9kpzlafdif
+FileSize: 1613
+NarHash: sha256:1i1zlblnfj41yayymrs6prrhzaqa20c2l7235i2fp3xf3vf9zva4
+NarSize: 3824
+References: 2f446gmpannmfqmx8pjbd5ycpxwb5gyw-ragel-6.10.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3n4fdfy2ps8zs92970q42aw3739wk6id-libsndfile-1.2.2.drv 8s5qs5j262ch693mxkqam4kw66cjs2w3-openfec-1.4.2.12.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv cvcjsbbgrfp9rvwcnsfm8ylyy3rnf01f-source.drv f9x3ghj4znxxkmmjsmbzkvn0wxag577d-gengetopt-2.23.drv hfwh7j01cq6kqkx6d5vzn45g4cl85cap-libunwind-1.8.3.drv jsipbi9hs4xh68345nb6rbls69jpx0hc-scons-4.10.1.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qa3q54dppvy1q2bmbxk0nxb8fygdxav3-libpulseaudio-17.0.drv qikywaqmy727g5dhxzkkdql89qq1bfsr-libuv-1.53.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh x3s74v0wmipd4lrbh58y1yvyv02immsm-sox-14.4.2-unstable-2021-05-09.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zbylhxdh35ss7n30m95qwvrwpplff2hv-speexdsp-1.2.1.drv
+Sig: rime-cache-1:AgRQYHl5OVBgK5tDOBfN4ZdeUKlbFDTNOSxjnzJ7hpcHoDhJIvTD/BnghUe1Si03gtkq9aulUFjeAAwb447nDw==
+CA: text:sha256:161q537wsjaik2cq0s3gchaz31phz0wrkmsnl0d0fby4nwbgdzxj

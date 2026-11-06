@@ -1,0 +1,10 @@
+StorePath: /nix/store/qprihj21cdxvhxl709b5h1flpvl6xp07-nvidia-x11-615.78.08-firmware
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0f6wcx11brqpjiiaamqicf14m999z3480ilp4hfmw8jcb4hrnzgy.nar.zst
+Compression: zstd
+FileHash: sha256:0f6wcx11brqpjiiaamqicf14m999z3480ilp4hfmw8jcb4hrnzgy
+FileSize: 76846901
+NarHash: sha256:1s8lavm5akv7w53l1fh6ziyhvqgq32di0dxqapqynis7lv52ii0b
+NarSize: 117000736
+References: 
+Deriver: n1kkrv3yx7izmblim6x0i6d4lsiylabi-nvidia-x11-615.78.08.drv
+Sig: rime-cache-1:Fv+K8qVbCSpcVfrbCBpjqpjDoNcZEc3pU3E/F3f0MUgpaptsgBBewMiPbYp6W8dLQKxQNBO7/lDF9/OQ6/w2Ag==

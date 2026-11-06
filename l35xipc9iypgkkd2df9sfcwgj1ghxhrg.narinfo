@@ -1,0 +1,10 @@
+StorePath: /nix/store/l35xipc9iypgkkd2df9sfcwgj1ghxhrg-libdrm-2.4.134.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/03z75r7vv7f2lji4bk21r4zdpfyvzx6gdi9v6y5m6d3v6h00s46m.nar.zst
+Compression: zstd
+FileHash: sha256:03z75r7vv7f2lji4bk21r4zdpfyvzx6gdi9v6y5m6d3v6h00s46m
+FileSize: 1275
+NarHash: sha256:0crif49rja3gs401w4ggxpck79i8w6rhr4vr3s0xfvlz93dyc15c
+NarSize: 3088
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 564gcjnfp3gabwimvwhl8ifvgr11npq2-valgrind-3.27.1.drv 5jhn1rvvs952qkh4wc521gpy538ylnn9-libpciaccess-0.19.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bklj8hp37rw4zqg2zz5nxbxsx2532w9i-python3.14-docutils-0.23.drv d38pinid59xz7xkci4fq6q9a4xbar5m7-libdrm-2.4.134.tar.xz.drv i5zgpkl0x1ffw5bnjf27xqcwq4lz964a-libpthread-stubs-0.5.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:cTF0P5h3VFoQLEuLzLmZGUY2EDpZ70xkA6CvaZSp50xVwvjEB7CH0m4LRQuw0Ry4ghOLolAECZ8K62rhMw9nCg==
+CA: text:sha256:0yimvvapxf278apscv7gmxwf93587mff8apwdq3gjh2822pkfl5n

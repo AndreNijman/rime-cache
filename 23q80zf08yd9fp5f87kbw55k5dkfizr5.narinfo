@@ -1,0 +1,10 @@
+StorePath: /nix/store/23q80zf08yd9fp5f87kbw55k5dkfizr5-regex-1.12.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/04vaphm0vl81jirvy91vh8mjdymd46i9l0qnv2wyw737zp1kvxkq.nar.zst
+Compression: zstd
+FileHash: sha256:04vaphm0vl81jirvy91vh8mjdymd46i9l0qnv2wyw737zp1kvxkq
+FileSize: 894
+NarHash: sha256:1a8sy25kxc296y0fcg7m2awcllj47zsnq532jfsc40da0wrglgmg
+NarSize: 2008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv b4h32injqmjjd8n8w4rys4r9ha7hq2dg-crate-regex-1.12.2.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:U3umjQtbyZfrtqg9nK3RWMhYBqbhdpjJgu7wVF3Vwextm3dC/pYhPajrl9GQ+l08OjeOZeuWR1C/xp2WbTU0DA==
+CA: text:sha256:00wajqjih0x3nxmwvpd8kzzhmwk3gr1hrgy8rg3vj0awa81zhp1b

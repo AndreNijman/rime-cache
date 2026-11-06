@@ -1,0 +1,10 @@
+StorePath: /nix/store/k9vspjhg7ihwr0q886kdspk3hzhbplrs-libsass-3.6.6.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/08r15x1dz68m8wjw7yp6g2icglqb1pf0vqn7086dlbjs7kdc35q8.nar.zst
+Compression: zstd
+FileHash: sha256:08r15x1dz68m8wjw7yp6g2icglqb1pf0vqn7086dlbjs7kdc35q8
+FileSize: 798
+NarHash: sha256:1ci4ngncqv9wdalxqsdarmr1zcvwka4k28q8h8rz1w19pssi7vl6
+NarSize: 1904
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv h7z1gi19pgcn50i1cbm61d45khvw8pj6-source.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:RemH7dNGwT0O8wD/d+eLj4UEsGyNKkjctt1S1g4FYimtGmtNXBMEdzHxxr94fv1JIbje22fa+9fnRUEazfvOBQ==
+CA: text:sha256:0zx68har608jj9qyb7q0djip7xwml3643dvlg0bcs86811qbcvd6

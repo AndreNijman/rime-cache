@@ -1,0 +1,10 @@
+StorePath: /nix/store/bb63iq22v78aph20gvmbq5jaj5nfjbzg-rexml-3.4.4.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0dqcniz6zrsxndpj3qi9nyfrlkgf10mplwch12ymvidn8nw8xi2y.nar.zst
+Compression: zstd
+FileHash: sha256:0dqcniz6zrsxndpj3qi9nyfrlkgf10mplwch12ymvidn8nw8xi2y
+FileSize: 1398
+NarHash: sha256:0amlnwnhlprziw4n10d2xg57bssy6v0b6rxx0p1a5mlcv9sj8dz5
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:4VGlHNaiK1zl97cNInJJKQaiug9vVN7O7HfXBv3plGBrKW+/ZA8c/Pqx45Bu8j1G96EBp/5BrPR6RDNSQQz9Bg==
+CA: text:sha256:19xwvjaigw77c9pc6b8m7byj6l18cwg8ajhjvn6p3ak14pnz1d1d

@@ -1,0 +1,10 @@
+StorePath: /nix/store/vrx1fki0ll3sqhxi2iyzz970bjr4bz57-tinysparql-3.11.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/08dc8h3sxxn8ahq3v3sdvql0n9hc80pb8xhg86wbzw3za3jb04r0.nar.zst
+Compression: zstd
+FileHash: sha256:08dc8h3sxxn8ahq3v3sdvql0n9hc80pb8xhg86wbzw3za3jb04r0
+FileSize: 3167
+NarHash: sha256:0m2xnyiza3n8cpdd6ngzvh8jh0m80qws0qxa3mrzbbpwc8mbvj09
+NarSize: 7112
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 30qgab27bhcr8i1qharvhfg0ilg5xzs1-tinysparql-sqlite-double-value-precision.patch.drv 47advcfy66bkiyp0hhiq575vs2whm7js-sqlite-3.53.3.drv 5lqjmf78b5br2c906zffaq7whp5x4byr-asciidoc-10.2.1.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 6bbnjjjkp2m78ys9r630rjmypcb4s5zn-vala-0.56.19.drv 6dsgaqyg8cxi2nqqagzwq0zywzkmkvqm-man-db-2.13.1.drv 6ii520yh9xbjjxl68wkkwnkcqhi6c403-tinysparql-3.11.1.tar.xz.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9abzw4a4vi8akcmqrcdzz0hckm6r0852-libxml2-2.15.4.drv 9am5is3bq64f8smhz3a115gs8i42mdg3-json-glib-1.10.8.drv 9g3yir5sx20wpdpdw37zddy6ijg4i36d-gobject-introspection-wrapped-1.86.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv fvpkp0mykql6qbsnhrn2wy7i9zipjxx5-glib-2.88.3.drv hngxswdf79dxdjrp2mx745jcc3r4mnbh-icu4c-78.3.drv j4wl3ckszrymzpsvr3y3han3jdmiig6f-libsoup-3.8.0.drv jbiwaadxlpcmajkr2s5jig6ypw4dk692-libstemmer-3.1.1.drv klwpqxm3cwh90ag0npljlifsdiqpxgjz-gettext-1.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q2waqcgi8h7bk7hs1z47khmy08i1kna3-wrap-gapps-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh v5qbzr7yjk7kfz05818j6j29q0lajyn5-util-linux-minimal-2.42.4.drv wca1z7d4whqbd3ymslw4ckmvvllmgg91-dbus-1.16.2.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xqyimgjj40m7v4r9brqx0yl8qqg7a7d6-avahi-0.8.drv xv04hjgaam37ppmsyzg3w5lk2y7l8yqk-cross-file.conf.drv zl7n6gafksmzyjrdfvwzsrg326m4clck-python3-3.14.8-env.drv
+Sig: rime-cache-1:6zVh+8rUg8E9qesxubw3zxdE2funULrEs7G17s8wEQBrmp9gU2qGZkgxajhgM8ebDjEb7Hj1Flcw81xuSztuBQ==
+CA: text:sha256:1mhqbpxqklr0cgcwgiq70j2vi583cj4mq4djfykihwfixxn87llw

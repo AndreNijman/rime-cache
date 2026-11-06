@@ -1,0 +1,10 @@
+StorePath: /nix/store/wmpwxfn6j0mq7rbwwi6hiza5f1i8aa13-unit-plymouth-kexec.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/129jf0gjk4pmvxc7fsnx48b2dkx0qla1ik06cz8vhwif2wkc2b70.nar.zst
+Compression: zstd
+FileHash: sha256:129jf0gjk4pmvxc7fsnx48b2dkx0qla1ik06cz8vhwif2wkc2b70
+FileSize: 543
+NarHash: sha256:0y0idn5iaa9cif34wa528qa1q83a9gd05ikzpdqdr01iz6b91lnm
+NarSize: 1208
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 47grlda24rniq8964sgn0bmdjcpsy1j6-unit-plymouth-kexec.service.drv
+Sig: rime-cache-1:KbQs7zE0Ahol/UGfo6KtYdJ/GIyk2o2cT9j4Dpvz9yLbaszj1f18UeXukgkY7LSKR1j5pZjoN3R5yWiMjqNRCw==

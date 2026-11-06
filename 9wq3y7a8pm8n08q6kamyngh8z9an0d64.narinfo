@@ -1,0 +1,10 @@
+StorePath: /nix/store/9wq3y7a8pm8n08q6kamyngh8z9an0d64-firefox-policies.json
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1r1flz6gmqcrj3ynm86va5b7hirl5kbgbmq60bj70cbias69w1il.nar.zst
+Compression: zstd
+FileHash: sha256:1r1flz6gmqcrj3ynm86va5b7hirl5kbgbmq60bj70cbias69w1il
+FileSize: 307
+NarHash: sha256:1vxsj0rgpwazvir1kli06xs81s8qlbyjsxjgx89qprjvvicx2kkx
+NarSize: 736
+References: 
+Deriver: ynp37hl0djg41xbjy5lq9kza6ikh0yfx-firefox-policies.json.drv
+Sig: rime-cache-1:G6WPZxEY+xlAGSwmk/sE1pk7h2jS8niBW1GMTu7VuxgNVRCNJAaqn9okg3n3GSq/f2wsJKd2dbzursZ6Oub+Bg==

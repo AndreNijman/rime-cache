@@ -1,0 +1,10 @@
+StorePath: /nix/store/n4kzjs7zpj57wim3gw5ppri5mnddsjd6-Devel-Symdump-2.18.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ril4ky4h8w6mwcvi0xbg5fkahj5s292w21mgn9m0f96mqix1rbr.nar.zst
+Compression: zstd
+FileHash: sha256:0ril4ky4h8w6mwcvi0xbg5fkahj5s292w21mgn9m0f96mqix1rbr
+FileSize: 1413
+NarHash: sha256:04vvkrhyx2pwymx76ylh9sby2clxrkxsgibkdy3vcsspvmrrfabc
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:zxHElSw3UvoNmY5GSUnfP8yv/02Bta3Y2pWfmoM89tctVBET7BpQMhaUApJYTlb17H+PxE3Z7I+5boxGq4lSCA==
+CA: text:sha256:1a82yphksi8j4jizfcjl6j4v02bhbvwmskcr216ql82mpyyv1r5r

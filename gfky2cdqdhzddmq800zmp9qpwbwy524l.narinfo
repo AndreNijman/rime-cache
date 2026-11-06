@@ -1,0 +1,10 @@
+StorePath: /nix/store/gfky2cdqdhzddmq800zmp9qpwbwy524l-furo-web-2025.12.19-npm-deps.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/07mmsjg2x4vm30fz3h5d7wlqz8cb1p2zqa4wmxs9vj5mmjdmw8i6.nar.zst
+Compression: zstd
+FileHash: sha256:07mmsjg2x4vm30fz3h5d7wlqz8cb1p2zqa4wmxs9vj5mmjdmw8i6
+FileSize: 1354
+NarHash: sha256:1x6dvmab0yzrhana67rzh67bkfqbcgfv6mj775wp1jqhzx7ahyfs
+NarSize: 3088
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3shcc7mkfl08qwvhvc676mlmznjpvca7-prefetch-npm-deps-0.1.0.drv czvv2ra72sf396msvavds8chmdyg4lxi-source.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:KD9LjvU2hNX+4c7jLDLdVj0dziiA+T/Ru6thS79CN7nKxZ7vEPX/gcmy6vMLnOP0BkKTBIwX1FZ7L0ulTluUCQ==
+CA: text:sha256:1npmry0ck2x6d5iq6zigxqdj3vljy2ls3lzdxcfc5f8s352l1aii

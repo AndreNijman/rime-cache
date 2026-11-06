@@ -1,0 +1,10 @@
+StorePath: /nix/store/dsfcvwzwxbgc2zdwcg8qmkmvlr9a9jyf-rust-cbindgen-0.29.4.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ng5kqajlac3sll7147gii783k9ykghicwh0jfrfhi6h371fzsgm.nar.zst
+Compression: zstd
+FileHash: sha256:1ng5kqajlac3sll7147gii783k9ykghicwh0jfrfhi6h371fzsgm
+FileSize: 1555
+NarHash: sha256:002cbndf5cxw9hb4qa63w70mvk5ab397rbq236w4km2xbrcsq6bj
+NarSize: 3672
+References: 0kfaz7kf1wjr8ssjh5025hiqmd7y41yr-cargo-build-hook.sh.drv 1wlq7f27hfii89rnf652xyxxagzc3mpz-rustc-wrapper-1.99.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 45ial5wyx19y9hbfz1asqbzyx1vq4gdz-cargo-1.99.0.drv 7xy7zy8kiwlgvp0slpkf1am73x27vzqp-cargo-check-hook.sh.drv bq80kzg8z8ci87l5dfx4p47zi5p1aica-cargo-setup-hook.sh.drv ixhhgir39a9pinj67k6iw42vv6yqmsgb-rust-cbindgen-0.29.4-vendor.drv jddrbw8nfrnc0lmmj2ydz21b1phdfgqb-python3.14-cython-3.3.0.drv kkx66nhydvcdq6slfg5blb76nlrbv7gv-cargo-install-hook.sh.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r0k1m5wmj623kxj1ybjhdqdyq69fq23i-auditable-cargo-1.99.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv x2yasb2a8w6ahj59j3ggfl2wl2m192ql-source.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:9NWiweXKnd1uKai3ML6pyUFLb6sz5ZidEOzCU2T5v+sGIuAvCW0wdVvHtClLx7ILQT8rjBhBaDVsJXljHZQmAQ==
+CA: text:sha256:0d2l62vlb6bq254d6zd5vfw1z31dysmxq783vdv9a8qjjdiq6vkk

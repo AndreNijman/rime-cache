@@ -1,0 +1,10 @@
+StorePath: /nix/store/5vxivx31h7fxc05il061icm9qai60xjq-vulkan-headers-1.4.363.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/05hwlc5k5xk9wjyjmiid482r66pmmjm37rqwjfwhvwyr4brjanmd.nar.zst
+Compression: zstd
+FileHash: sha256:05hwlc5k5xk9wjyjmiid482r66pmmjm37rqwjfwhvwyr4brjanmd
+FileSize: 804
+NarHash: sha256:0n9597p9b6iwsc2riw7ng1xkicrkyhd0gqfxpvhkcj67drssv87z
+NarSize: 1928
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv bf69lc8j0irr290fql5q5v7q7z5fxc9s-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:WBMfRcpjN3qoobRgVUuX5rdPwLRl9NlDimT/OdIUtIhP2Dsd1ujfduxowFDcgVAsbiK41Z5qpJDjoa7AF//4BQ==
+CA: text:sha256:0125gf3nnas9p9ydjf5bnckx25iss49y67fds2jwls3mbw0n3dlc

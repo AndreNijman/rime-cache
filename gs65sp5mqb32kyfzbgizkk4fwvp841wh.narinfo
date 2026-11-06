@@ -1,0 +1,10 @@
+StorePath: /nix/store/gs65sp5mqb32kyfzbgizkk4fwvp841wh-nodejs-install-manuals.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0c8cdavy0k6n9k13ik898jdf2jasgba4zasjpbn3m5gfkpdi9gws.nar.zst
+Compression: zstd
+FileHash: sha256:0c8cdavy0k6n9k13ik898jdf2jasgba4zasjpbn3m5gfkpdi9gws
+FileSize: 973
+NarHash: sha256:1dx6i1bnba8q17zx42bw1pka7fwqd2wr1kp6mdg8kpxgv4081cfw
+NarSize: 2368
+References: 2rkll8ncy5ldfv8zivk8ml6sga8zifgv-jq-1.8.2.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6my3szmdc6rcpmn22g9q5d7awqclnpxi-hook.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l0hs6fl6j4d4lxihapy1rdp7ih3bmzrh-install-shell-files.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:wdfIZpkfU9/rpsK3lBQqzMupEStdVJAXqz1NTpYnnVq2ETvdMyfXLeX0J5pbENy4o/tMnLWpEcWY0nu7xwoyBg==
+CA: text:sha256:0ng2jn72sgsv9fd8a1vxhrq7jgz38im0g3llwv74gpdylrbrma0g

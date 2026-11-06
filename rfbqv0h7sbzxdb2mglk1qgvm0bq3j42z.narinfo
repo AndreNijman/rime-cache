@@ -1,0 +1,10 @@
+StorePath: /nix/store/rfbqv0h7sbzxdb2mglk1qgvm0bq3j42z-yara-4.5.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0zag9jyv73f4qm7cca36gr02q9k176w63h7mzjdxpzs6pl7rfp9l.nar.zst
+Compression: zstd
+FileHash: sha256:0zag9jyv73f4qm7cca36gr02q9k176w63h7mzjdxpzs6pl7rfp9l
+FileSize: 1226
+NarHash: sha256:19812ramb282rvvxjg4h072dcqdr6aj2kryrhbhdz78kbazi3csn
+NarSize: 2712
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6lamdazjzi0866pbc9fj09zc6q4gmszf-jansson-2.15.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bnmjdyf9v4bcl9fbb22wwszr08qwixqi-source.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv fbrm5k3q1a4dr4hwff6h1fpm28kxh74b-file-5.48.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wrf8zkkqqypzjv84kmlmj2zml38p0i39-protobuf-c-1.5.2.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:HHySideUe578oSsWwaxwi+inaWjn4Qlt3CqmV7dFeVli9SvNEHzTkS9k0UrGoY7rPf/6joDilJiFAf7HsN4VDQ==
+CA: text:sha256:0w551qjk3kcvlvs6j09rxmm35cxcwsjpn6q1abnll6ibgb41fwfj

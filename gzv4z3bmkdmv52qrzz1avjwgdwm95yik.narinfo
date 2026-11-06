@@ -1,0 +1,10 @@
+StorePath: /nix/store/gzv4z3bmkdmv52qrzz1avjwgdwm95yik-crate-idna-1.1.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1vxbirv0pf9js9m5529pm45hpr3v31037nixpyngmypsd61b842m.nar.zst
+Compression: zstd
+FileHash: sha256:1vxbirv0pf9js9m5529pm45hpr3v31037nixpyngmypsd61b842m
+FileSize: 1384
+NarHash: sha256:1503kkarhx9235kgymw163dcc196z2xp6zaag7mgz5mvfx4k0w6d
+NarSize: 3696
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:8KC/+U9WRIc0klbBCyyWfS+HZei9cd2o5NmQM1LLowE/o9gBEaTIyiNQxF+kWZCVRocfQyqzayowUXHMMT9dDQ==
+CA: text:sha256:05vvnq9nqiba5588z298d34pnlg0xc2bmdf5rial5jdccy19kkwv

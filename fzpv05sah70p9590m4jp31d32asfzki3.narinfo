@@ -1,0 +1,10 @@
+StorePath: /nix/store/fzpv05sah70p9590m4jp31d32asfzki3-unit-mpris-proxy.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/09k6qzi0nyzk3arv58n8y8kl3c26xy0fh0wms4a4a7bm3i9wdq7k.nar.zst
+Compression: zstd
+FileHash: sha256:09k6qzi0nyzk3arv58n8y8kl3c26xy0fh0wms4a4a7bm3i9wdq7k
+FileSize: 541
+NarHash: sha256:0ff521sd3ajz7nwqjhcvby3d31wan0ky31z3dqkhac81acq31vh0
+NarSize: 1208
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 8h3aq13781d7psdnshq4jz07qab8120w-unit-mpris-proxy.service.drv
+Sig: rime-cache-1:/LrUbT6d2X24+R4/UjH+OQLiA+izcWukdjfj4vw9F1KD2PAqFdiOOyQVMyZsgRJ1z2sX/EHGskd1krC1rc0MCw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/lgkhchjj7g0g63543s07jaqn84ajicbg-subversion-1.14.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xdphl323921djz7wzpqb3xnjl1jc9jgsq5kn904vivzlm62y8jq.nar.zst
+Compression: zstd
+FileHash: sha256:0xdphl323921djz7wzpqb3xnjl1jc9jgsq5kn904vivzlm62y8jq
+FileSize: 2157
+NarHash: sha256:0v34k280j9d2bjicdsjml0b4214p1yhp3pq8f3wy6wphls18gd4l
+NarSize: 5528
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3bfz5msr97kqcqbnw0isim39p28ns4bn-apr-1.7.6.drv 47advcfy66bkiyp0hhiq575vs2whm7js-sqlite-3.53.3.drv 5a57rpki0j4ldw49c7bllq68v2nhmdq6-apr-util-1.6.5.drv 6h9mymhjvyiky09myvcjr6i7bzmjsbak-expat-2.9.0.drv 82czysdbwzzvcrdfq1y9q9y4fv5kgy73-autoconf-2.73.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv dd0jql19555xhgijn04c84w4gx9cdp89-utf8proc-2.12.0.drv h0rc0zkaa6vn42hs0vxmp83fjyhj9p33-lz4-1.10.0.drv hkm8bhd15n0x28nygncrkypjkcqknspd-subversion-1.14.5.tar.bz2.drv kdxk342mgj23ikaw9xhnpc010l3dmbk3-serf-1.3.10.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh nl84vjdfp4hkik278sldsbxq5v6a5z3p-libtool-2.6.2.drv sfd5km3rfq8x1rrz1xgrzrikiypb5dig-swig-4.4.patch.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv y2pxmsc6py9zpqzikz4zr061rbphs478-apr-1.patch
+Sig: rime-cache-1:lnnIty3jy39SUvtYwTmE+nSIeU7zoX80IDip0fkDhTWUTDFn9c1ELLOWiBwYXXoiKFwZKcOLvUijn9kM2TIdDw==
+CA: text:sha256:0qhqwc6yf8w21kw7qajxb0jh6xdq8qxlsyqhdgrihqwja0q21pcp

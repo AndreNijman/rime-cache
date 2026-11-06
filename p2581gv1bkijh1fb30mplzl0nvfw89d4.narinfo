@@ -1,0 +1,10 @@
+StorePath: /nix/store/p2581gv1bkijh1fb30mplzl0nvfw89d4-speexdsp-1.2.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xpq2yvzm8ynwjxqd09jk8g4dbqhi4izj525f8yvafzj64kpvbdl.nar.zst
+Compression: zstd
+FileHash: sha256:0xpq2yvzm8ynwjxqd09jk8g4dbqhi4izj525f8yvafzj64kpvbdl
+FileSize: 1409
+NarHash: sha256:1kp762bf3mxss000q1hpnarmsfc33xfp18sqipgply1wyd2s0cz9
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:vEOqUkRtLravdiARx0HZA26T4JRkWhI3fEBUGY+M8ayR+Spwu593TCWV9AePKewQy8VacOMPhnLRQ4WebcGMBw==
+CA: text:sha256:1whsgbrc34i1c80rf6fjd9lkk7614pnmpq5b9hxjy7n08l4im3hh

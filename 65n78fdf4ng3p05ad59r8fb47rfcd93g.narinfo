@@ -1,0 +1,10 @@
+StorePath: /nix/store/65n78fdf4ng3p05ad59r8fb47rfcd93g-mesa-gl-headers-25.1.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0yadzv56dgssxbfxn1qzavxznp6cxdgwcp9z28mi2kk9i5lr2192.nar.zst
+Compression: zstd
+FileHash: sha256:0yadzv56dgssxbfxn1qzavxznp6cxdgwcp9z28mi2kk9i5lr2192
+FileSize: 792
+NarHash: sha256:0v3kgnisfsqp9ssb1d4qxdw01b0c6fb13jwgwwwnbpx8sc5xmrm4
+NarSize: 1856
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6d9ywldwfkax30pq5fhdc5i1hbqxx0x0-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:VdbZoEgoNDsP0A4xODKUp8AsG6HYWrzUSVpiYqvSkwL9C1FoC+qT3CCJOD9hNpYQLzdzLatSyXW7VHkjry6eAQ==
+CA: text:sha256:1ylg7ig4wpmj77hllps3z02hrkwzmmjg9z7lgq47qdn1nn6z8w8r

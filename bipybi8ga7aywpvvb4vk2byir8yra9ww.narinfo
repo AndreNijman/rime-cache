@@ -1,0 +1,10 @@
+StorePath: /nix/store/bipybi8ga7aywpvvb4vk2byir8yra9ww-camino-1.2.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1d78iiv147kg47k5f2b9cal4dldghckdj0lys9xzqf87gxsih03c.nar.zst
+Compression: zstd
+FileHash: sha256:1d78iiv147kg47k5f2b9cal4dldghckdj0lys9xzqf87gxsih03c
+FileSize: 894
+NarHash: sha256:1s9jj0rrhxwcnk9kfjlsfpd34cfgrl9im6n8bsgc0wkg00ch91a1
+NarSize: 2008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh yqna5p8z1503my780052dfwarl2zpbld-crate-camino-1.2.2.tar.gz.drv
+Sig: rime-cache-1:3BLbbJ7L22w8ZeN03IFJZhKYpmnl2xQnTP7vOqkpog8wv7jofYPsrm6PWxwNuVjLKIcBkAC5K/GdZS7H0oK9Bw==
+CA: text:sha256:1xg8mhg91mpnd5h3zcd28ww3k4k0sz2qm0kqfaakivhl26lb4aw0

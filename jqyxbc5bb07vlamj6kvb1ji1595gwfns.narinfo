@@ -1,0 +1,10 @@
+StorePath: /nix/store/jqyxbc5bb07vlamj6kvb1ji1595gwfns-libjack2-1.9.22.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1c9qy4qx6m6ddj7dl0a1rswjl1dpjiqsy2nv2gcjiwqnj3jq32kw.nar.zst
+Compression: zstd
+FileHash: sha256:1c9qy4qx6m6ddj7dl0a1rswjl1dpjiqsy2nv2gcjiwqnj3jq32kw
+FileSize: 1419
+NarHash: sha256:1ylfnq9x5ydbkrzkh0g2jrgn98szv7i8hz5xzvqcs4yy7vfy8drn
+NarSize: 3272
+References: 0b8fqyhhv2l1v7ai2y10vziaz7vancpr-source.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6h9mymhjvyiky09myvcjr6i7bzmjsbak-expat-2.9.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bxclbx763jk8dhxnpdnymsx4fff4f72g-waf-setup-hook.drv cdnv7r0n9l6iv7hkmq0ijxjaxdn1cnrn-jack2-waf2.0.26.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv wca1z7d4whqbd3ymslw4ckmvvllmgg91-dbus-1.16.2.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zlpvchfv1n0v0zi07nsrx3xwnlcjciy4-libsamplerate-0.2.2.drv
+Sig: rime-cache-1:fO4h752yLqzJYrA87rguTiH5suRYNT/Uha6SafkS+NVz8Is4lmA+RFmGQB/o0nj0/WiXHwAvzz2MyRR6RcFcBw==
+CA: text:sha256:0ns53n9g643pm1kab9vi21wa7b8535d6xpd5w397a2jr9pss9wzw

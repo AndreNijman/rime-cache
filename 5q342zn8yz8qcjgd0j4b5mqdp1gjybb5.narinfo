@@ -1,0 +1,10 @@
+StorePath: /nix/store/5q342zn8yz8qcjgd0j4b5mqdp1gjybb5-cups-progs
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/16ibllf0rnavpk8zkcazlv43j847qpaa2dsh2rcd4vlscsiva7z2.nar.zst
+Compression: zstd
+FileHash: sha256:16ibllf0rnavpk8zkcazlv43j847qpaa2dsh2rcd4vlscsiva7z2
+FileSize: 3857
+NarHash: sha256:1dl5anbbp035bn5imd9pxghjgl3vrg1nxasfih376jzjsxm9fi1k
+NarSize: 76296
+References: 659l9q22ydygcv7qg5jwi3hk1c51wp5p-hplip-3.26.6 6y6bfs896dwa3jdngcxj08zqp6qx58nk-ghostscript-with-X-10.08.0 cpnz2miv3955ks7jlz3pmyp3v53a3lvh-cups-browsed-2.1.1 js42jalfhmr3jhg4p4520daavac7kky8-gutenprint-5.3.5 ld26s11yw7vpj0wsvgg0b7104vbgs25a-libcupsfilters-2.1.1 lqzv9zr429v4h9bzwj0s5c5lgbylhzjl-cups-filters-2.0.1 pbshnw00s8sm3jrhpf8qjg8j0zx0bkhy-additional-cups-backends r696h5h8bw8s625j7fg7s6546bd1vqil-cups-2.4.19
+Deriver: r69x422fz0cbyvjvbchpyn8khhvijy0p-cups-progs.drv
+Sig: rime-cache-1:wfACoOQCfcDC5Sp1srP4niPTx9f+N+GDGAh0L0QObcvF+l/+hWOaVzB5olmk4bTATxuf4FQMMww3HR2vv1Q3AQ==

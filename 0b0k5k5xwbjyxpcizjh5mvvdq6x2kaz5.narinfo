@@ -1,0 +1,10 @@
+StorePath: /nix/store/0b0k5k5xwbjyxpcizjh5mvvdq6x2kaz5-qemu-ovmf-metadata
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0p9ql64cfj1i2hwnxb3wg6sjcljnp0gqg02g4q8zw0kmyz9szdil.nar.zst
+Compression: zstd
+FileHash: sha256:0p9ql64cfj1i2hwnxb3wg6sjcljnp0gqg02g4q8zw0kmyz9szdil
+FileSize: 736
+NarHash: sha256:1r8k1ygdj11xw993m9rlkgrcs6nj8lmqfbl6wsjp0syl3sb6hsnc
+NarSize: 7104
+References: 
+Deriver: skp48ff6kv2610gdbfdfla0mn6z394z5-qemu-ovmf-metadata.drv
+Sig: rime-cache-1:YKoAiffWgmLvSHptkhNfxj+OqDKKkXl+rgR+lbafN4/CnwyQq5JgYSebnLZKQxy73Ta0O6NmCocXbrXCBJ1nDQ==

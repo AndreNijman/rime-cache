@@ -1,0 +1,10 @@
+StorePath: /nix/store/ayx365l3vi3n7dq8n339qdfgdxf02bci-rime-luks-tpm-status
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/18k6q86a136a92gd5pr33rhxav3yalsjskn9hi9872b4kjpm9inw.nar.zst
+Compression: zstd
+FileHash: sha256:18k6q86a136a92gd5pr33rhxav3yalsjskn9hi9872b4kjpm9inw
+FileSize: 406
+NarHash: sha256:1f6ai271i5bja5izjxb35kilyajrvrwrq3h8b3awfvqkn1lijqkb
+NarSize: 872
+References: 16yp75x3xx64qrl3kksxjmgrpqjy3mr3-rime-luks-tpm-status.py 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin b1r6yxf198cjfk0sfxh6m6075j0fyhk7-cryptsetup-2.8.8-bin nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 xahxrjs30p3mw0a42bqg9ikgkikskw8m-python3-3.14.8
+Deriver: zh8c6g465fc7658bib2icjqyd9437k82-rime-luks-tpm-status.drv
+Sig: rime-cache-1:VmbwGIDcjQgVz7oT9/dGMi6VlboSzRJUblM7Y+ilzpEsH7hi1tH8nLUiCBxpm+zGkgs7GI/Q527WlfXKhwJCAg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/gjwgbqyjydiy64a5gj04fgsamwr86ffx-libxkbfile-1.2.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/185fnpsz8lbn3prd3pz9nvnijshmhkrif4cc3vhmjp9gbhhicqlp.nar.zst
+Compression: zstd
+FileHash: sha256:185fnpsz8lbn3prd3pz9nvnijshmhkrif4cc3vhmjp9gbhhicqlp
+FileSize: 1039
+NarHash: sha256:0ir3559gg4jva4zf0dyzq7sklx5k4i5svwc92c5rsi2y3y15a6q0
+NarSize: 2520
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5079zx28lciny73n7cjfgxzyqkrprgja-xorgproto-2025.1.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv b1z6mvx61b4skn35rvqxq6qv7iyiicih-libxkbfile-1.2.0.tar.xz.drv l0z76jq8gpvlbmkv7h6ypz0jircszg2r-libx11-1.8.14.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:3eea2e5XELTd/kYOgO7lrAeYj02mJ8gtrWwxMxFLDa8V3knHThS0u5ZvjXEjpawyV0TCfqgtk3+0e5vjvJxGCQ==
+CA: text:sha256:1flx28ms4f63gl7k4sblr3fw5qf43lr12w49c3gkg0x6k374i11w

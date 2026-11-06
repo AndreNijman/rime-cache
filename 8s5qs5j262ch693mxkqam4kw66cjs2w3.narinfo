@@ -1,0 +1,10 @@
+StorePath: /nix/store/8s5qs5j262ch693mxkqam4kw66cjs2w3-openfec-1.4.2.12.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1l73h2x58zrks4bigsl227j92cs940kmb4y7rmwaz2i930bgnk4c.nar.zst
+Compression: zstd
+FileHash: sha256:1l73h2x58zrks4bigsl227j92cs940kmb4y7rmwaz2i930bgnk4c
+FileSize: 1017
+NarHash: sha256:0707c2kfsw3vxvp6sjgkh2w4x794vn0v3cxpgp9qf003j0vg00kn
+NarSize: 2296
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv gn6bk78fb0z7r875g9zxwgvlxf608s5q-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:KpTtCBdsTaTX0u3WLuukDrddHS801mRqWJPABd3GmS9ApKp7EX/iAewFuMAQWfY+2OYOUkUfM6tW8lbAau9tAw==
+CA: text:sha256:02dbi19cla58bhv9jg5i64yjgdvjp4mrzlh5bbqg97y67f2klyvh

@@ -1,0 +1,10 @@
+StorePath: /nix/store/05hby5bhzabka3657d3kz5a2djcbr6ik-crate-windows_i686_gnu-0.53.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0cx7y81xckrkrp0llfdcjwpybjvs1qal3mw6r6xhfkcqh0nziz36.nar.zst
+Compression: zstd
+FileHash: sha256:0cx7y81xckrkrp0llfdcjwpybjvs1qal3mw6r6xhfkcqh0nziz36
+FileSize: 1378
+NarHash: sha256:1rx8zbm3z4r8ghi39p03217zp98f9khd1qb85ddgq61nxf06cd36
+NarSize: 3744
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:5N1u6sZsJJhNGuGx5v0DXwTrkrTAplGSWPoD/MuDQ2DIaXW4AnBYWjacxzgTYsn4CJALglYHW0/usMgi9nwdDg==
+CA: text:sha256:025is4y5cddcfsvdg0s7gpn0pkm3krwp5kdqvyy6n5szjrqx0d0x

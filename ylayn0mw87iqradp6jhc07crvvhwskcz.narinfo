@@ -1,0 +1,10 @@
+StorePath: /nix/store/ylayn0mw87iqradp6jhc07crvvhwskcz-etc-modprobe.d-firmware.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/13fwnsx01qcgn2ja53935k9w5s1lqjranw29zhfjhpz05slcs4w6.nar.zst
+Compression: zstd
+FileHash: sha256:13fwnsx01qcgn2ja53935k9w5s1lqjranw29zhfjhpz05slcs4w6
+FileSize: 151
+NarHash: sha256:1l6dwp53q4mcmwycm2ks46mvr3rrsb3iqayqqk4qfjxb1lf4baqa
+NarSize: 208
+References: ypkalj20l0y27xc6zbqxf5fpdpqh6nx4-firmware
+Deriver: ivpmp43hfbvlb0vrimfr7ncd1lvpgvlq-etc-modprobe.d-firmware.conf.drv
+Sig: rime-cache-1:HTIT1Dn0obxGThbDn8kfN5/peS0+/3RdP52S1cv6HaF4m8CPeEIyHBCVpuo23yKtQZH4T1NhkATxsNSoPLYSCQ==

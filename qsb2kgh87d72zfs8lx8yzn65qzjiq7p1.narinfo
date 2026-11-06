@@ -1,0 +1,10 @@
+StorePath: /nix/store/qsb2kgh87d72zfs8lx8yzn65qzjiq7p1-ruby3.4-pygments.rb-4.0.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/19351fbl0ys6kgw3kqq2fii2hkar2flvc1bjxzjn25ifrsabxlaj.nar.zst
+Compression: zstd
+FileHash: sha256:19351fbl0ys6kgw3kqq2fii2hkar2flvc1bjxzjn25ifrsabxlaj
+FileSize: 2528
+NarHash: sha256:0da4djyrymq2ph22fi3l25lfsn65chvwxlc1r783j6fnll73whh2
+NarSize: 5992
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv w8n3z0q02vkryq43p6jb9gb1028wf3jr-pygments.rb-4.0.0.gem.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:lubwIkIAVkbpQNjGdaP3bYCQj30OE3m+bBRckE2046OqWO9Vd+mwR33/paYvhqbG0krbi9RGAJrvII4L17SXBg==
+CA: text:sha256:1j2bysiyhppilsy3v8rsbqs26ak1fg7w57sr3avrmz7qdq33b8m1

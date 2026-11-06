@@ -1,0 +1,10 @@
+StorePath: /nix/store/b5byxnbmjkb21gz8vah9sigkfhji34s1-fix-setlocale-without-iconv.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0zaj3c8bbk5wsrc1kf51mqykvlcw3fn5cvrddk39gl9j6qjjdvb6.nar.zst
+Compression: zstd
+FileHash: sha256:0zaj3c8bbk5wsrc1kf51mqykvlcw3fn5cvrddk39gl9j6qjjdvb6
+FileSize: 437
+NarHash: sha256:0b5wqx4c4spiadx4wxyvf2ily9x12p45k34y9ppl130bmr8f7pz0
+NarSize: 688
+References: 
+Sig: rime-cache-1:xBgbOsBHoxFAHFMDg1RYK0WNVp9TNl8wksY7aTpP3DUHDwmYmlV6Xdw8TMfkP+4jajAmgwRCilks21xxwvl+AQ==
+CA: fixed:r:sha256:0b5wqx4c4spiadx4wxyvf2ily9x12p45k34y9ppl130bmr8f7pz0

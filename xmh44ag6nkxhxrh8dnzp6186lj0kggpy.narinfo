@@ -1,0 +1,10 @@
+StorePath: /nix/store/xmh44ag6nkxhxrh8dnzp6186lj0kggpy-procps-4.0.7-binlore.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gvjls4y0rf7f6l5i7vx6b3mks5kwfw2wdndrmlbq2fhfkz0daic.nar.zst
+Compression: zstd
+FileHash: sha256:1gvjls4y0rf7f6l5i7vx6b3mks5kwfw2wdndrmlbq2fhfkz0daic
+FileSize: 1277
+NarHash: sha256:1awgk5gs72llymmyd99l7lynjwd2bzgdcp3smgziw66q08z4lqyr
+NarSize: 4128
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6j4yl5gr8xw2ih1dh754lb66rj5i9cj3-yallback-0.2.0.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mji1v532d76fadnbq2l0652jjbl19kzm-procps-4.0.7-lore-override.drv pas0nxk4anj5g6iqwyqlgk4i2d9x6ccr-procps-4.0.7.drv rfbqv0h7sbzxdb2mglk1qgvm0bq3j42z-yara-4.5.7.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xihna7s0ajxs8lhymnhjjrvhkak8mkm2-source.drv
+Sig: rime-cache-1:DWsJbCQch3jcLEtMsiEbZQXDLBsJ3EvXKoGnLLjNjjs115a4CKOL7bSyAfNnkRPNR6TQ4P+iGYrMPDRRO1LiCw==
+CA: text:sha256:0qhlkcr7cpqb0pq3hdrzpl7y4nl5d6hv98lcia6f3jrlzl7ddcv1

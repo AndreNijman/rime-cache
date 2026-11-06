@@ -1,0 +1,10 @@
+StorePath: /nix/store/2r9kp05jziw71qd8ah4sbqdxkwfzw8lp-nvidia-egl-external-platforms
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1icagfgp90v6ajc89j4qwbvy8c213fm4fis3b85xmk57p631gb2i.nar.zst
+Compression: zstd
+FileHash: sha256:1icagfgp90v6ajc89j4qwbvy8c213fm4fis3b85xmk57p631gb2i
+FileSize: 701
+NarHash: sha256:0lpkx8crl5xzaplfvq8jhd6rzcj1mir47sr1kh67wxxrf3bhg1ih
+NarSize: 7320
+References: iqdqd8kq8iwdbsnlxchlxm8bjqv70fcy-egl-x11-1.0.6 rlbxikdn65hina7fvz0xvjq1bqa6c5pv-egl-wayland2-1.0.2 s2h482ksrc4qgai8l6xn5pkrgb4qn3gs-egl-gbm-1.1.4 xb2jjdp0dfa6fkyhwxzhv040kj6b4iwx-egl-wayland-1.1.24
+Deriver: w7hhii8mh4gpsg9443q0im13kpikvfjn-nvidia-egl-external-platforms.drv
+Sig: rime-cache-1:nj/LgMmQ5xsmR2gs2abx6RwfPQ7xQe2EG0EBBSz03yH6C1BvXPfjmrA+JlVNklTAHxppsCyCwiVcj1On3+yKCg==

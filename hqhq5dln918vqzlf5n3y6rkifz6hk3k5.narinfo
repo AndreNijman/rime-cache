@@ -1,0 +1,10 @@
+StorePath: /nix/store/hqhq5dln918vqzlf5n3y6rkifz6hk3k5-alsa-ucm-Check-UCM-verb-before-working-with-device-status.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0hjjy1pfv8a0xiyfi3nkp6w7ainfikb0763avn98szqcwi3x0s1q.nar.zst
+Compression: zstd
+FileHash: sha256:0hjjy1pfv8a0xiyfi3nkp6w7ainfikb0763avn98szqcwi3x0s1q
+FileSize: 2040
+NarHash: sha256:18admmixm5wqxbyrlcgwnfni5y9dx71qfqm67s2xqpf39rzszbik
+NarSize: 5400
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list hcp7wc7imkbrvb4j7bhjqibx4i3a800x-patchutils-0.4.2.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:/FECNhrYOjrmSgKA/wKRjENRBOFNzZ9wVHbRJr9OVwJIOlYEMSiogGdn5ToGrPki91tRXkMLfIyBrYmLnirLCQ==
+CA: text:sha256:0mi9j1b1s5ka5si4xvm4ira845qkcd9sgshhn51c5vs9lykz2xs9

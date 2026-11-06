@@ -1,0 +1,10 @@
+StorePath: /nix/store/amxd1dsfy7xwca0xyb98rld7swgk0340-30_ag_macros.m4_syntax_error.diff.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/19ba3ixy3ja531jr4pqxlg5ivwpa5kmqawfni1g4vali6gqs0f99.nar.zst
+Compression: zstd
+FileHash: sha256:19ba3ixy3ja531jr4pqxlg5ivwpa5kmqawfni1g4vali6gqs0f99
+FileSize: 1442
+NarHash: sha256:1gviribyks2sgndqdcgcvk3xmjfnxblfd4j6s7nkvs935i9crc9w
+NarSize: 3776
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:rdC6P3PN2Exbd7FLzBSd/u26xMJjo4ayq6BVjYtR925a/G4dwMteaHmUegLu1sxBF5BUys7OufUrmSQ1DJsjDw==
+CA: text:sha256:153ll18pvs3jhk0ajf0qrm8bmzgc930v1h2bkr5wajyh0f0112wg

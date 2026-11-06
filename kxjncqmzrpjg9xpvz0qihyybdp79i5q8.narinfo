@@ -1,0 +1,10 @@
+StorePath: /nix/store/kxjncqmzrpjg9xpvz0qihyybdp79i5q8-ruby3.4-ronn-ng-0.10.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1cc9z6dv4yf7nyj9cinyk5yrba9j8a2ld8qvy419s1f1j9jfdh80.nar.zst
+Compression: zstd
+FileHash: sha256:1cc9z6dv4yf7nyj9cinyk5yrba9j8a2ld8qvy419s1f1j9jfdh80
+FileSize: 2754
+NarHash: sha256:04qx82k40h4b0aby0ifb4vx7lshwj9km0dbgz04bs2nsc85q94m5
+NarSize: 7080
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 99vmyma8bzw6q14fv48319f7qhmzb91k-ruby3.4-mustache-1.1.1.drv b81q8ppry55gw65j168qwvskrxdr02vw-ruby3.4-kramdown-parser-gfm-1.1.0.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv kmg77iwxfcz7vjajj6h54kv213x0d1hj-ronn-ng-0.10.1.gem.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m3y6ciwgi7pvy2dm7lnxkapaxh0rmjmr-ruby3.4-kramdown-2.4.0.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb r09c3ixb371v2lhkhy6j41zihy9bccgi-ruby3.4-nokogiri-1.16.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:YLF5GQINwH0Y9/Gd523+DN6HZtNeubtkWnqfAxbu8m3/IVjM+RQItiyj90BfPQ1KTzNP4ShK8C5RTqvXctmiBg==
+CA: text:sha256:0ybwxgmr56y35z45yqy0mbhjgs5ph93yj8l3bhmqs2zvq5wimvz0

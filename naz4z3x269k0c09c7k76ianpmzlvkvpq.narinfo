@@ -1,0 +1,10 @@
+StorePath: /nix/store/naz4z3x269k0c09c7k76ianpmzlvkvpq-gcc16-disambiguate-regex-ranges-test.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0292yx3nvkqwhvid6m14c2nwjbg99lnn27a68lhargwj7r0rq6p9.nar.zst
+Compression: zstd
+FileHash: sha256:0292yx3nvkqwhvid6m14c2nwjbg99lnn27a68lhargwj7r0rq6p9
+FileSize: 639
+NarHash: sha256:1rgksri2rl3zl4xqcr63bwn1sdzh7blp5kp12x40pnkx2558zk8w
+NarSize: 1944
+References: 
+Sig: rime-cache-1:BaTDjEcET1K7kxLC36Ut4l42ItHFFFIai82BygNrOb18lViQ0XSYAOfGv54VJ+cYDjU0d/uqIzm7iPmpopUGAw==
+CA: fixed:r:sha256:1rgksri2rl3zl4xqcr63bwn1sdzh7blp5kp12x40pnkx2558zk8w

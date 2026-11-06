@@ -1,0 +1,10 @@
+StorePath: /nix/store/5f9bncx84nbbr0r3qlnv2szcs8pkam5x-crate-socket2-0.6.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/05lcadj8ddvqnsak6rzscs5vdb7xb9s4d529fykzb5vh9n29g867.nar.zst
+Compression: zstd
+FileHash: sha256:05lcadj8ddvqnsak6rzscs5vdb7xb9s4d529fykzb5vh9n29g867
+FileSize: 1368
+NarHash: sha256:1s22zlzxw54xkf6b374fiz92r1jb64raddqmizbx4gd1bgakf9ck
+NarSize: 3704
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:7MgbeDDN7zAR0WILm799kclP+LCQCaLZgJYD01xWXgSMDrnFkW7z48TdgzNZveUPrXsC4hw+LTuHAqUr7wgDBg==
+CA: text:sha256:1sqbfx80k87qq6gf8wgcg4ayp20wib7wig1s76h5zaqz4ngagxwk

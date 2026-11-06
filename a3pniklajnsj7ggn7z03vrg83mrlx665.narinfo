@@ -1,0 +1,10 @@
+StorePath: /nix/store/a3pniklajnsj7ggn7z03vrg83mrlx665-crate-rayon-1.11.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1jyhiwlb6fsy5n8281alqg2aazg7q6dsh5v1vxrndny5z2bnf31z.nar.zst
+Compression: zstd
+FileHash: sha256:1jyhiwlb6fsy5n8281alqg2aazg7q6dsh5v1vxrndny5z2bnf31z
+FileSize: 1373
+NarHash: sha256:195s1kxgx2b8wnpf6khkh456g3f171qzv7kxpnv1vjbr17l8q5p4
+NarSize: 3704
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:4hk22ttlXyLYZBj3EX+QGoSVp3qosj/1qgVQ4DGWiJJvyGwH97lOMn7oAMpVvNFSvV3/rx4hcOMc3nTDyVBLCQ==
+CA: text:sha256:08ip6f93x33c62hjxak7j6dgq41k2dhgdxj3lrlngpbjmrvq88zs

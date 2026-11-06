@@ -1,0 +1,10 @@
+StorePath: /nix/store/cki7ijgk1pi0sz2927hrw2kr653p6mf3-pytest-9.0.3.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/11c9mgjyf1wx593d51414gcd273cvfw43j0p7r5hbvaxfq23j3zn.nar.zst
+Compression: zstd
+FileHash: sha256:11c9mgjyf1wx593d51414gcd273cvfw43j0p7r5hbvaxfq23j3zn
+FileSize: 1386
+NarHash: sha256:076khnwycbwbknlhcr3s2kzv55lgj9b1h75jv31spr984kfsskdl
+NarSize: 3608
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:CcMAK9Jsa43dFQTeBZxPyorxl6NZE65JewbQILIiO6BYvWeJerRqOExqxu7d+mcujcw2dpBT2RMl0d2W2BONAQ==
+CA: text:sha256:1d06aagz07aqralpcxybinvw2kvjrhygyw6amx40iz0naxkgm4f4

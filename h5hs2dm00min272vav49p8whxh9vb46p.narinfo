@@ -1,0 +1,10 @@
+StorePath: /nix/store/h5hs2dm00min272vav49p8whxh9vb46p-libxi-1.8.4.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1yyjmpk4dpkvc5zsdm0sq4qz4j33a6dqk727zf9w2x2g6nqa2qw8.nar.zst
+Compression: zstd
+FileHash: sha256:1yyjmpk4dpkvc5zsdm0sq4qz4j33a6dqk727zf9w2x2g6nqa2qw8
+FileSize: 1120
+NarHash: sha256:025zb8l3p1hs3jr1ilnzjxw053939i8qbdnvsn1xvn5sc6pswfjw
+NarSize: 3048
+References: 224qi3ykryy15820h4kbfg54pgyj9jq2-libxext-1.3.7.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4gs4y81w8v9r7pv00cm56jycx4qpnv5p-libXi-1.8.4.tar.xz.drv 5079zx28lciny73n7cjfgxzyqkrprgja-xorgproto-2025.1.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv l0z76jq8gpvlbmkv7h6ypz0jircszg2r-libx11-1.8.14.drv l2cap5j552a7pq2kfgnpqjr19kylg0w4-libxfixes-6.0.2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:iVP5iDAL6MarYia2MkBtrKd7vPkcfUIoaLBSG2NKpIavCbyFFm9NVQI4iyScX1X7gQArd9O7gDxKZ4Ga5b5JDA==
+CA: text:sha256:075z6b4hn2rh0grj8zl3m883szppmw4mxxkbynsn2gv5krhaz3br

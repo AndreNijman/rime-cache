@@ -1,0 +1,10 @@
+StorePath: /nix/store/r078q4946xrjwh4v6w894akx3nxcf2bf-X-Restart-Triggers-cups-browsed
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/09q4brjyjiwlb03yiz1j32spy10c3k3dpx1jf5bi8rl1l9zxz6d3.nar.zst
+Compression: zstd
+FileHash: sha256:09q4brjyjiwlb03yiz1j32spy10c3k3dpx1jf5bi8rl1l9zxz6d3
+FileSize: 135
+NarHash: sha256:1yc5c5h2f3ld9wfnv0xv89byppi9haqyxypjazhh685r986wl267
+NarSize: 176
+References: 7l1vns44j8jvdjpfy1j6gm50ikyl3q18-cups-browsed.conf
+Deriver: k8k7vcdy8kqf5m0g6i6hrxgdsggs8j9w-X-Restart-Triggers-cups-browsed.drv
+Sig: rime-cache-1:wE/J2Aryox98Bm5BdK7CDRS1onM6k2PNLEWdRvWPbY/Ydns5Dogd87oDLd4htU0C0MPXS6gIerPptmLotgbWDA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/xdmq29hbwrvmc73rap2zs2pyr2v26klj-crate-castaway-0.1.2.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0kldvvsqlgrwb96vlbxqjfcpzn2vrcaa3x71k5g63mkb8hmz1ajb.nar.zst
+Compression: zstd
+FileHash: sha256:0kldvvsqlgrwb96vlbxqjfcpzn2vrcaa3x71k5g63mkb8hmz1ajb
+FileSize: 1372
+NarHash: sha256:0q31wvw8mxln5jh9p03yhqia7dx47g5rs48qa1wqmwwwn04qmvcr
+NarSize: 3712
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:xYSwZSBYLFOQrR3n9OSVpQrZsuUc39uft+rn0x9xaBcaVioosedejCHVhO7QmTJ7XIdg23e4CWJDlqx4AJqkBg==
+CA: text:sha256:0ggpjcc62p4shvj38jhf22si8lgi2kkhrsw16p1zfizrksni7m40

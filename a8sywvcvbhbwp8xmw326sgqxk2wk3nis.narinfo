@@ -1,0 +1,10 @@
+StorePath: /nix/store/a8sywvcvbhbwp8xmw326sgqxk2wk3nis-python3.14-sphinx-basic-ng-1.0.0.beta2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1xxwbqcy6abww86a3zbw3vk9dxff7x92w91g3agq1h7v3v4kgx73.nar.zst
+Compression: zstd
+FileHash: sha256:1xxwbqcy6abww86a3zbw3vk9dxff7x92w91g3agq1h7v3v4kgx73
+FileSize: 1641
+NarHash: sha256:05pygzv9izmr8fcxndl8djcj6vajlvv0pyq9z12gnri56z6s6c9p
+NarSize: 4176
+References: 2i1795b07kafxvwch92kj0hfmjg37cr2-python-remove-tests-dir-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5rny9r1kd4c6mg2ha32wri4dvi0bcdp1-setuptools-build-hook.drv 5x76xgd4fqggv7ikx0985ayjh83azkqk-python-namespaces-hook.sh.drv 7zhs931h87ln2sknslmj1zv8jsc0mzm6-wrap-python-hook.drv 8h7xmhabwjbqbchnj8xgfjckh8r6mvjz-pypa-install-hook.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv kxws3pbi3sjl806nplw1j6apf9gjchk5-python-catch-conflicts-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lyy01ac4lg06fmh2bhy9mj8gfisrfvwf-python3.14-sphinx-9.1.0.drv mnhrps1293ppks5kpih2698302v1m8qg-python-imports-check-hook.sh.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv x5szyz5rh7z1zgqqdhar4rgs9r4bd87b-source.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:lonNaQxmGvcvmyBvofwogtnaK7XmHlnH7ZB2ct+8NhD1RzysrKAggtobUoYv1/z/NQ+h4hGe91AXagJeIWlEBw==
+CA: text:sha256:0z59g2q231hyjmy092dp96syk2cwzg3vc532n1bb2rnnl64ymgxa

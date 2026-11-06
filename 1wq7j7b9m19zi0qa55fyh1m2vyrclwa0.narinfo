@@ -1,0 +1,10 @@
+StorePath: /nix/store/1wq7j7b9m19zi0qa55fyh1m2vyrclwa0-python3-3.14.8-env.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1m33gnv8902cps4pwfllmxlrfa1r6qfnqxnlxhiyqf9ka31k75s9.nar.zst
+Compression: zstd
+FileHash: sha256:1m33gnv8902cps4pwfllmxlrfa1r6qfnqxnlxhiyqf9ka31k75s9
+FileSize: 1691
+NarHash: sha256:1c51qq0563yyfnkslqy8kzglgk4586fpig9hr1iixz7qk1h1p561
+NarSize: 4808
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv hykq8sd1r3cmyb93hphxh9mjxl8vr690-bin.drv ia68s621sjx90hc02qgz8p5zj8cc45zx-python3.14-six-1.17.0.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh s3bkpvjkcjs8h1895a23bw6w8payi0fm-builder.pl.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vg2yqik90dgl8dvyx73c07bi5pf9kz0r-make-binary-wrapper-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv zi3w7li9ajc45qvnbvvhb4q5ms31sh8y-python3.14-gyp-unstable-2024-02-07.drv
+Sig: rime-cache-1:0CXlv53Z2GkJy9rkbMOIf7R6pc+TEP37+J/vquQuwTpwtNS3lphkvc1gPcD0Ol6tJG4JVySyAQ2vep0pIrGJAA==
+CA: text:sha256:1ffmk5qc8j2as1lsgny754mp1vwx01ib02qqnmmia1pnkm89c9lv

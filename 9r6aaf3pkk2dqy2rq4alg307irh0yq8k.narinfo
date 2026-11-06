@@ -1,0 +1,10 @@
+StorePath: /nix/store/9r6aaf3pkk2dqy2rq4alg307irh0yq8k-ruby3.4-prawn-templates-0.1.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1bs5d40ah4jfy711zbdpz89vx5k3x52j4z8r4mpq4nwjzy4g61ji.nar.zst
+Compression: zstd
+FileHash: sha256:1bs5d40ah4jfy711zbdpz89vx5k3x52j4z8r4mpq4nwjzy4g61ji
+FileSize: 2623
+NarHash: sha256:1gk7fx6ji1jxwx13ahdj752ashlgrpk5n16szbd38wrcj0d8kcnf
+NarSize: 6488
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 76siza88gh2fnf32nz0br7nj7hphkyvz-ruby3.4-pdf-reader-2.15.0.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh la8wn586sl30hxkr664np6m38gx799rd-prawn-templates-0.1.2.gem.drv m2b90wl3l18by8c6gwlfgvl9wzd5c3zf-ruby3.4-prawn-2.4.0.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:XVt/vxAvGwTGHfm1c2RJoya9LE7ZvY0WsiXCT7n3PRpCf6OCsEo55bicWPJvKVcVExy2Yke11Lna7lfLU0HwBw==
+CA: text:sha256:07f1wmlcj2b2xrg1jvaw822b62b4wph13haq7zvrl089n00146ca

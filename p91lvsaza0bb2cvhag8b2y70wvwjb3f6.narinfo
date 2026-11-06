@@ -1,0 +1,10 @@
+StorePath: /nix/store/p91lvsaza0bb2cvhag8b2y70wvwjb3f6-git-lfs-3.8.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0qrm44iyhfqmgmmcglccfrs87q183w39whd6ji79yphrz9g1fbxv.nar.zst
+Compression: zstd
+FileHash: sha256:0qrm44iyhfqmgmmcglccfrs87q183w39whd6ji79yphrz9g1fbxv
+FileSize: 2600
+NarHash: sha256:054ajbrp65ksday47m00h5p0w89rx62fz09rsfgsq2mvg9y2wsr7
+NarSize: 5936
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv gzksd62lyni2s68rz3zb7yx2spkr2q0l-source.drv jqn7swihj9iypi8shx9p21rsyzfqyg02-git-lfs-3.8.1-go-modules.drv l0hs6fl6j4d4lxihapy1rdp7ih3bmzrh-install-shell-files.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lsklxr7k7vs2qja22qr2gp4z2h97hblx-git-2.56.0.drv mxqlh07a9kdcabldzlwwrpacvf4qnnzq-go-1.26.10.drv pknjh6lilhgqqbmgi0a9yky1dl045ba4-version-check-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zgqw671sz6p1nbifi86kcnw96l9462mw-asciidoctor-2.0.26.drv
+Sig: rime-cache-1:54ootxBolf2wHs87bsp9SGs4s6RwiJyV5Oy5UmRmdVLud8y9atag/j9B0FlodWCOgcezUMwzg4TcL7pL80h5Dg==
+CA: text:sha256:15h7rgjdpy6dnibzr8di2xbsmn9xlcf7kpvmwphlfmk1zdz6h4zj

@@ -1,0 +1,10 @@
+StorePath: /nix/store/bnn70gy8jh0i2qnrnqxkbzd87gzvnr6a-unit-suid-sgid-wrappers.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0rc9rx4jyl2yfl2kbxp91k8plj650d5wg8yd9jprpz75vidb6mk0.nar.zst
+Compression: zstd
+FileHash: sha256:0rc9rx4jyl2yfl2kbxp91k8plj650d5wg8yd9jprpz75vidb6mk0
+FileSize: 727
+NarHash: sha256:0khqwzj8ri3pdlnpmcxfhnzszq974varixja87hd5lqnpj12mqs2
+NarSize: 1592
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e z50b6i9g5z2dyx4kzad6l9jywyx94bkh-unit-script-suid-sgid-wrappers-start
+Deriver: s8n1yvhbzmajcf6hzspcn521i0r0nyq2-unit-suid-sgid-wrappers.service.drv
+Sig: rime-cache-1:HUH4t+UxrxBYSHysThXlck6oLr43BWv2eHA6nzZ7EFmpj9SymI26WTj5ahGlWFMYBse1pX1HRW+947GElMg4Bw==

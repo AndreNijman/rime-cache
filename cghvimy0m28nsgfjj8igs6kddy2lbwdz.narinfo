@@ -1,0 +1,10 @@
+StorePath: /nix/store/cghvimy0m28nsgfjj8igs6kddy2lbwdz-unit-reload-systemd-vconsole-setup.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1r27k5cgz2sh10nyn0fp4py5kx28byyrnqy1k9a75yr8ya0fxxgv.nar.zst
+Compression: zstd
+FileHash: sha256:1r27k5cgz2sh10nyn0fp4py5kx28byyrnqy1k9a75yr8ya0fxxgv
+FileSize: 698
+NarHash: sha256:1h18r7yv9sign47c9zmc2xnvmvznfwlzh54h6c8j707106h37zg5
+NarSize: 1592
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e j1bs05a97m8829rm22z0dscjj1zzg14k-X-Restart-Triggers-reload-systemd-vconsole-setup
+Deriver: a622f963yl1lb8c9nln5cbh0a7zz4xjb-unit-reload-systemd-vconsole-setup.service.drv
+Sig: rime-cache-1:zgodEh2gqeRj9REd8G2KVjh5KneFxyAoYC/3yW+myDVE+DBG07EmdC+FNcg0S1fNZZ2u7hkOMJ6LiKettvd0Dw==

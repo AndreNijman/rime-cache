@@ -1,0 +1,10 @@
+StorePath: /nix/store/h1nc7c9dwlzkv32iqkdrpr1cxg57srva-zram-generator.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1a2l497vrxgjxi5w1mjimi22f2lx1mvl7ifjbzwhapsr01r2riiv.nar.zst
+Compression: zstd
+FileHash: sha256:1a2l497vrxgjxi5w1mjimi22f2lx1mvl7ifjbzwhapsr01r2riiv
+FileSize: 162
+NarHash: sha256:1a24jg32qdn805rnanp6cga1j4jd729zqsm2bpyzvrwl4c7yz0x6
+NarSize: 224
+References: 
+Deriver: g14milm0mixczfp4p6wf974216jibdrd-zram-generator.conf.drv
+Sig: rime-cache-1:qsRR/BGSjuqumBcolMdY++P1ndzYwWSAsF11Fw/qgOTWsmMpf+BHVNeWfc3BTRKXIm0j8EKREIgSSVQJy7a4Dw==

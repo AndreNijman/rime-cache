@@ -1,0 +1,10 @@
+StorePath: /nix/store/la3m4z3zmsm7588fcrs54a9hvi56bkx2-gemfile-and-lockfile.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0nq35h9lhqhikjvl9k22gi8h9kdldj0n0fbisd4qkzrvpr0d3vn8.nar.zst
+Compression: zstd
+FileHash: sha256:0nq35h9lhqhikjvl9k22gi8h9kdldj0n0fbisd4qkzrvpr0d3vn8
+FileSize: 763
+NarHash: sha256:1vrgpmshckqfp468xkbc0cncqkf24n86sk8rx2l77fa7sfcjigxr
+NarSize: 1968
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv gfxypyjzhi44gaf5n1wfnnfy76gni95z-Gemfile.lock jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh n96z0p71cp1rxzrk68xxkxmc8hi9qk0n-Gemfile shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:lLvj4RYmFcXB2gSgw/AAEWyLGKUvICDscx1tOWKrisCSViXqL5BcgRXDGozlI0j2Ubq9bRMxDb7VM7Lmt+8WAQ==
+CA: text:sha256:0hi7bn5xa6p4m97xckags64sqjydg8y4qmk6cfwprbrcp1zcwh9m

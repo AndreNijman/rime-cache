@@ -1,0 +1,10 @@
+StorePath: /nix/store/c3pbn472mrr69hs1vnfk1vv7ffsfncfn-unixodbc-2.3.14.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1z2d0i2abd6pwi8xdsivqrnjv7jhrj5walklj9wnml42m42bl44p.nar.zst
+Compression: zstd
+FileHash: sha256:1z2d0i2abd6pwi8xdsivqrnjv7jhrj5walklj9wnml42m42bl44p
+FileSize: 767
+NarHash: sha256:1iksdzv0b7c071ldqlf3fz2vqzsbrm22cnhgxapqp1qhz3p046ca
+NarSize: 1800
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3qkmccl1ldyfpqyw9ij2hgdxhqfcm9al-source.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:LfudV9PS1TZzBzxHR7WZMz6hSYCZ3eTSZd/yHoEm1Eii3CbBNHWl18VaSSu/z26wpT5eSGG/dGDCJeV2bWlcBw==
+CA: text:sha256:0ypgvszcbv8kqn15cyvzzddffzn77yqgj9g19kyq5v20bi0cpca0

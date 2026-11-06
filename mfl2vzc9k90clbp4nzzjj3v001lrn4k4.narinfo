@@ -1,0 +1,10 @@
+StorePath: /nix/store/mfl2vzc9k90clbp4nzzjj3v001lrn4k4-20-rime-wifi-powersave.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/052fq2szffhhkqx98j5q0v1gp8x71dhq90ql68n2sghhpqkxj5b0.nar.zst
+Compression: zstd
+FileHash: sha256:052fq2szffhhkqx98j5q0v1gp8x71dhq90ql68n2sghhpqkxj5b0
+FileSize: 448
+NarHash: sha256:1ncwld3wmwb5bk2dbn0dz9rpyibm6rrwh73np9wb4yqfb6bynghp
+NarSize: 680
+References: 
+Sig: rime-cache-1:wuLI424gQcr7/St5zwiUmuL0MycxaLFfQh6iIHBtBX1EWSS/c5Ps6p0RzBm/hUIvLwrfXX/LtpjZKev7F1BpBg==
+CA: fixed:r:sha256:1ncwld3wmwb5bk2dbn0dz9rpyibm6rrwh73np9wb4yqfb6bynghp

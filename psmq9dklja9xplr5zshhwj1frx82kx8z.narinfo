@@ -1,0 +1,10 @@
+StorePath: /nix/store/psmq9dklja9xplr5zshhwj1frx82kx8z-libdv-1.0.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0l393v7qjjcfp5grrzp7rhcg3w24vsxm5cp8i22hsjb49i42c6h5.nar.zst
+Compression: zstd
+FileHash: sha256:0l393v7qjjcfp5grrzp7rhcg3w24vsxm5cp8i22hsjb49i42c6h5
+FileSize: 785
+NarHash: sha256:0kss9vcay34i97d0n2fd4ghlvkrmgsggj9if1ygsk842ghq30dgv
+NarSize: 1856
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vdijgsnnwi1qkknzq5vfs0g2x91ls4sh-popt-1.19.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yjpixndfknyhi7716jr4h66qskbhiqp7-libdv-1.0.0.tar.gz.drv
+Sig: rime-cache-1:/Zm/xHPinN2NedDQb6H91YjXNfyqrGEIaX/+DvnzWrqNeH7JBD5P6Stn4gyBcvWTi56qPT2G9iinwlBWY/ACDw==
+CA: text:sha256:0afhza46kr2qjl3j33nv0zc3vxlfsnra8v1x1kwl9z06dvgw29ij

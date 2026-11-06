@@ -1,0 +1,10 @@
+StorePath: /nix/store/j4wl3ckszrymzpsvr3y3han3jdmiig6f-libsoup-3.8.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gjvw0cwmxrlpmvv1a2yz3kr5gnqx7lgd0s37z0dkg3h3s7d4b2f.nar.zst
+Compression: zstd
+FileHash: sha256:1gjvw0cwmxrlpmvv1a2yz3kr5gnqx7lgd0s37z0dkg3h3s7d4b2f
+FileSize: 2106
+NarHash: sha256:0xm8jrjbf8zbddpmf3d4di0fkbxfagxcp2s5mr9r0jss6xmxrpxh
+NarSize: 5248
+References: 20293nhr740hj25lnl85r10flbjlbgx5-libsysprof-capture-50.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 47advcfy66bkiyp0hhiq575vs2whm7js-sqlite-3.53.3.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 6bbnjjjkp2m78ys9r630rjmypcb4s5zn-vala-0.56.19.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9g3yir5sx20wpdpdw37zddy6ijg4i36d-gobject-introspection-wrapped-1.86.0.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv aaqpni1gcrxjl1wn0xdx5dh8jv345hbl-libsoup-3.8.0.tar.xz.drv avbgj982yxkc0qzyr0jf5r80s9j6vfk7-libpsl-0.21.5.drv fvpkp0mykql6qbsnhrn2wy7i9zipjxx5-glib-2.88.3.drv imj8k40hz32xyii3l9db2h4nw33ynxf4-brotli-1.2.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qvy71amdzc0pivfmh1a04ry2prw5b9kr-gi-docgen-2026.1.drv r989dk196nl9frhnfsa1lb7knhbyjxw6-separate-debug-info.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv ydp15cmnw09grvcwzc6309808yb4fpls-nghttp2-1.70.0.drv yi5kx3z9njylnfg9l0f3v276dyy4jgs0-zstd-1.5.7.drv
+Sig: rime-cache-1:LVsxZt4KpGGX6J4xC7LPzIcThnVDX8YrYWI3TgUq3cyoP/7KjOFlhQMCgq8DqScmDniWCf4NInQlM25J+dDXCg==
+CA: text:sha256:0y961dahhw9b07h58dixsz9j2s8jqw8yp6wnlxb04kzvdaan1cq1

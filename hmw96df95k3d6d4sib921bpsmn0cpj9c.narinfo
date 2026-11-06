@@ -1,0 +1,10 @@
+StorePath: /nix/store/hmw96df95k3d6d4sib921bpsmn0cpj9c-IPC-System-Simple-1.30.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/18zcbq6fnzdrlxn61pln7s0fn0s90x9qibrjj35ks3qcwkl0nx9z.nar.zst
+Compression: zstd
+FileHash: sha256:18zcbq6fnzdrlxn61pln7s0fn0s90x9qibrjj35ks3qcwkl0nx9z
+FileSize: 1412
+NarHash: sha256:0hjp1mgj898jb0l8cf0s8bz0ssl71vlfcs14zri4zq34985w4mv2
+NarSize: 3664
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:ZNXIKCm8YoYZHWBKo7oc1Cm4io1by0U2ZoUQxwiC6LjysHcUtP8vqT+1v6on/kgenUBg2NLnq7hvBuz5DomPCA==
+CA: text:sha256:1f9876lglbjymx5ai2yfnadmm6q6765q25gw7w5wwxzzpxk6wc4y

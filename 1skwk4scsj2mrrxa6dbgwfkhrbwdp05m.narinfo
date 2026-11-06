@@ -1,0 +1,10 @@
+StorePath: /nix/store/1skwk4scsj2mrrxa6dbgwfkhrbwdp05m-ruby3.4-polyglot-0.3.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1nz38isqyw5w4qk61azqp1w0r6fv7y3wk0hckxg5isna1fl1i6qp.nar.zst
+Compression: zstd
+FileHash: sha256:1nz38isqyw5w4qk61azqp1w0r6fv7y3wk0hckxg5isna1fl1i6qp
+FileSize: 2446
+NarHash: sha256:168g5vqkb594p3iry49jfjd6k27wds46z17rbf9b5f3j79qxgs89
+NarSize: 5832
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv kix2008530g71gbxxj01qzv6zf20mjza-polyglot-0.3.5.gem.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:XBwWXlOieKBkWkAvE9WbBvxD/iiQVhw4aozUhnBYwgLZtDXrajLs5sUYaKwsBV3N96972aHeo4ihY7mTPlMqBA==
+CA: text:sha256:0idra7iirjga056nim7jq9d8h60gch48ynmf3pimb35xlpqim08g

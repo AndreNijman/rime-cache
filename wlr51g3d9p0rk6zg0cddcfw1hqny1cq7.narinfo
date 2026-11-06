@@ -1,0 +1,10 @@
+StorePath: /nix/store/wlr51g3d9p0rk6zg0cddcfw1hqny1cq7-gnu-gs-fonts-other-6.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1lqc79rzrq6pgq739r0qsf2ngwdbxw8l9h9cvcw9rmqp88z6dlaq.nar.zst
+Compression: zstd
+FileHash: sha256:1lqc79rzrq6pgq739r0qsf2ngwdbxw8l9h9cvcw9rmqp88z6dlaq
+FileSize: 1402
+NarHash: sha256:01fap62vw3gnkap711rf19vi9mik58s7fwv5yca7z3r07r5mn35g
+NarSize: 3656
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:Q+0zDunxJMTOlk3se0Pvt5kDCUcgvQrd272pGKPZO360fzaruE0PWx/SOizBa58TjcAzlNU5pHcyErLg9261AQ==
+CA: text:sha256:02v49q2q8w1iz8skhqf1s78cqq75w1qrgwpfqd2pc9k6lj3w8i7z

@@ -1,0 +1,10 @@
+StorePath: /nix/store/0s1xg5x18kp0q83ykpcrqj1lvydh2gv8-graphics-drivers
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1m7wysaj24pfrxq5qpfj3ahp2xs74v8s8ifcbmlj07864pwznwaq.nar.zst
+Compression: zstd
+FileHash: sha256:1m7wysaj24pfrxq5qpfj3ahp2xs74v8s8ifcbmlj07864pwznwaq
+FileSize: 3323
+NarHash: sha256:16ph643b5aglcn507gynbbpc9xpqmp9lsw25vqy4lwxp44mjq6nw
+NarSize: 69576
+References: 2r9kp05jziw71qd8ah4sbqdxkwfzw8lp-nvidia-egl-external-platforms h9lbjvp7zdnncarq3md5k5gw47f1ijqh-nvidia-x11-615.78.08 j6846pd6a2i4bx16wcdn571sq7jznr71-mesa-26.2.6 pwsf6z8pfi0w2bbj7mll7n93kb1l1fyd-nvidia-vaapi-driver-0.0.18
+Deriver: d9laqfchm2qrnnlgv1swcjgcn0v71jll-graphics-drivers.drv
+Sig: rime-cache-1:RwNGYZus+ZOKLdIGZUIbzH7kKbn4tNy7WX47WrDotYvdi+0GHI7zFo5DynPjOPT34pPK4/+BM5pj8ocQ480DAg==

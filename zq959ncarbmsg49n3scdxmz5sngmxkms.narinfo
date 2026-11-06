@@ -1,0 +1,10 @@
+StorePath: /nix/store/zq959ncarbmsg49n3scdxmz5sngmxkms-etc-systemd-system.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0k9a923n5csxajjginkfwqrqlb4fwii8wgg9a7a80sm46aw7wfl6.nar.zst
+Compression: zstd
+FileHash: sha256:0k9a923n5csxajjginkfwqrqlb4fwii8wgg9a7a80sm46aw7wfl6
+FileSize: 528
+NarHash: sha256:1s0cazialsihjbrab6m44r6lgnm4fv4vgc0iiyp1c13pi49axsrg
+NarSize: 872
+References: 23iwhvfr5pmnzf6c5j9w2d2s1dhrf4fk-cifs-utils-7.5-bin 3yr53grpp9cfny1ybqsbwd9qgsl9yvlc-util-linux-minimal-2.42.4-bin cfrd7kqj31b4bqpl5nmrb64dpg56sb2c-xfsprogs-7.1.1-bin gksybc3b64irpkf84k30qphb44yjwqiw-openssh-10.6p1 nir241y4rfc6vwzdn9fk8nnf0hascnir-mtools-4.0.49 wgm5fv4jg18f7r85hpx1w1a5jxpncb6n-btrfs-progs-7.1 y1gravakn32yll26y7y6y8zfn19pd16d-dosfstools-4.2 zljkv0qrknm5z8w2dxl0jas2bcby6bhd-nfs-utils-3.1.1
+Deriver: g8h2gpz5v4nr72s88j9wxkhkdhsb7ypm-etc-systemd-system.conf.drv
+Sig: rime-cache-1:tHLsyu8Np0i98dilo8mCyhQK8zZook1RZRhKDxzPxa9pawWvEheLz1rGVoIIS2C8pECPT7o8GeW0qDnMYdwABQ==

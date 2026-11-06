@@ -1,0 +1,10 @@
+StorePath: /nix/store/b81q8ppry55gw65j168qwvskrxdr02vw-ruby3.4-kramdown-parser-gfm-1.1.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1j5q5qd4wbdgv0l13xb9l5jy5sf9l24fds663vwqy4s56dx38mv6.nar.zst
+Compression: zstd
+FileHash: sha256:1j5q5qd4wbdgv0l13xb9l5jy5sf9l24fds663vwqy4s56dx38mv6
+FileSize: 2545
+NarHash: sha256:1z2azixnrgr99kbrbs78z1jglf1l2s7jfzy7qc2z354lkblvc2cj
+NarSize: 6224
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m3y6ciwgi7pvy2dm7lnxkapaxh0rmjmr-ruby3.4-kramdown-2.4.0.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xv886lbh3zp8f1s3b9s7k87arh5aa3kc-kramdown-parser-gfm-1.1.0.gem.drv
+Sig: rime-cache-1:HsKs5KVuYgfA/XGZtVrQ1ujIUDWEKLsGfUtT4wiLtW/o/BtbiOcuBSbZFmshVJC9FHz/HneHcC42yrP3MFsADw==
+CA: text:sha256:0f247snzngawl97c02w4n1x2204prhslg527j8a5920b0qwpy8xc

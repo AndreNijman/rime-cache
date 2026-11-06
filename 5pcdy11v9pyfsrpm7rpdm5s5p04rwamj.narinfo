@@ -1,0 +1,10 @@
+StorePath: /nix/store/5pcdy11v9pyfsrpm7rpdm5s5p04rwamj-crate-backoff-0.4.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1cd2vv816klp3aqjkdca1ipi05lrmslrg35riv113wh7yrqzbh7v.nar.zst
+Compression: zstd
+FileHash: sha256:1cd2vv816klp3aqjkdca1ipi05lrmslrg35riv113wh7yrqzbh7v
+FileSize: 1370
+NarHash: sha256:1yqc65q3m4wxmnwnsddmipc4hj9kf662k4j7j2d9j9q2p3vfq1dm
+NarSize: 3704
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:cnJPBEa+kOXnn6+yuBHBJ0mh57plflamk2UV0/akyKK51oeEcN987+oYfXTG88CYl1M0jZmqqRfsqU0bhCIGDw==
+CA: text:sha256:05lkdrr6mm2iwgmzzggr3r1kmpwrfhp49d3jfci10pa0n7n40l0i

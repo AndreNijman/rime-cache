@@ -1,0 +1,10 @@
+StorePath: /nix/store/mcvrfql7wh68cvz1iyvh9afnxsa4rqlm-matrix-0.4.3.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0a29qz4whc2xza2bn29x86mygwi76lawy7qkzy0zma94kay3dl7x.nar.zst
+Compression: zstd
+FileHash: sha256:0a29qz4whc2xza2bn29x86mygwi76lawy7qkzy0zma94kay3dl7x
+FileSize: 1394
+NarHash: sha256:0k32pdsiyw2kxw0iia4q2p2ijl9dpv0935xw4l351an1a3jdi3bd
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:DOQ0K8TKQo7zXouvPlPtAki8T3wmf32NpIFNXsWtLjPnBm2a1ITxE+oS3mQ2fUKob9CSYMjWb29PLRr6m87KDA==
+CA: text:sha256:0nw2inqzng3bwpps8qhzzphzlqk37n17hgm476lhxlyl09mshjrh

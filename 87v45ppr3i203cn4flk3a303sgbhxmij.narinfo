@@ -1,0 +1,10 @@
+StorePath: /nix/store/87v45ppr3i203cn4flk3a303sgbhxmij-unit-script-sshd-keygen-start
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/154pxy8gssfpw05iyvqb3ba2xi0x0cqjqpxm3nvdrc58pvdb1yvb.nar.zst
+Compression: zstd
+FileHash: sha256:154pxy8gssfpw05iyvqb3ba2xi0x0cqjqpxm3nvdrc58pvdb1yvb
+FileSize: 429
+NarHash: sha256:0fpxcvz4d7p7br3l8l1qg9di88qzvckbs1gmxncrchd4z83cxy3h
+NarSize: 1736
+References: nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: sah0ab33difyi711qd089c536ay1jmv1-unit-script-sshd-keygen-start.drv
+Sig: rime-cache-1:aK+OPCoMtq13kjkEFBPHOO73ogONk+i4ULv1o9WA9Mr45/p525KliaQQI0MVtr49vQzcO+224OU+PORot8JVAw==

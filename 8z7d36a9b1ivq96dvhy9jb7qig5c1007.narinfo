@@ -1,0 +1,10 @@
+StorePath: /nix/store/8z7d36a9b1ivq96dvhy9jb7qig5c1007-bitflags-1.3.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/194qxdhjjg62q9zl4q54fgi5avgfzfkbx80jvkjfkszcfczhbgij.nar.zst
+Compression: zstd
+FileHash: sha256:194qxdhjjg62q9zl4q54fgi5avgfzfkbx80jvkjfkszcfczhbgij
+FileSize: 893
+NarHash: sha256:0j9lwn5kw3z80wvbv5hp86i04z6wq3pdcmz2izwl3xxnshrpbpww
+NarSize: 2016
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv cp4ihnh5mbii7aipswx06p0pq9qc6f3a-crate-bitflags-1.3.2.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:6H4DPvm1Az4pqUsqsfUJ1isrNdWkij5HV3zMtXpxueZnVOz17eHXxpyhsa0DJw/d6w/qtaEsm9yUUdut/l3GAw==
+CA: text:sha256:15vs4p90jcbarsggij94jsj79jqbi5jl8dcws0s9676sgw4ih8mm

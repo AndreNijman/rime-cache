@@ -1,0 +1,10 @@
+StorePath: /nix/store/xnyikagiakqgnbzfxfmk1r2pivpkk4r7-NetworkManager-openconnect-1.2.10
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1wgmfqq1xwi3aza6pwh20657y9lbqbha351bxh8w24l3ik1vk1dm.nar.zst
+Compression: zstd
+FileHash: sha256:1wgmfqq1xwi3aza6pwh20657y9lbqbha351bxh8w24l3ik1vk1dm
+FileSize: 551582
+NarHash: sha256:1bchnpf1fafv8m7b3a1fplh84bldv5f9dqi2qhpvslz4cw4ab10z
+NarSize: 3147088
+References: 55w48cr7iihfw70692fs95pf43jkc080-networkmanager-1.58.1 d03jsfz5lq08cc8s9f4bdnnxs91bb40r-kmod-31 ddqbzpn77xmi900rj1a7wy8b5lbwm4ay-glib-2.88.3 pqyiidz5mi73wv5f91d48s9plcqyj5bz-glibc-2.44-57 v2yyw92lxzr2fj3rdz2fql5nzvm9cp31-openconnect-9.12-unstable-2025-11-03 xnyikagiakqgnbzfxfmk1r2pivpkk4r7-NetworkManager-openconnect-1.2.10
+Deriver: bkgk4ch1p0d3g1cp9l722vmazn4i3n3g-NetworkManager-openconnect-1.2.10.drv
+Sig: rime-cache-1:K3mC4MJso8KEbXdsO5us/67drZ1tBSEUwBCiZtcDrc14eKueHsVLbpJ9TTQjRDRqaXvp/nAyPOijftVNZJibCQ==

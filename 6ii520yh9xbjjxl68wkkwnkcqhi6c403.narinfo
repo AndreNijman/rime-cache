@@ -1,0 +1,10 @@
+StorePath: /nix/store/6ii520yh9xbjjxl68wkkwnkcqhi6c403-tinysparql-3.11.1.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1fs89dm7rvsbnibl4i9xs2kflgk463f6sqb82xjvv1mky109vfzm.nar.zst
+Compression: zstd
+FileHash: sha256:1fs89dm7rvsbnibl4i9xs2kflgk463f6sqb82xjvv1mky109vfzm
+FileSize: 1398
+NarHash: sha256:08pa0lr609d4ljphjwpsaasxyrhsdz300lbsihkpgsxllyxrqs64
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:E7KtE9sRsjoJHDsu4NxxP9T+pZDj0yC0T9wReNiRgrLqZDqxMkhAwNi5iell7ncKOWe+WMgMvfPeJHNrVEyDBg==
+CA: text:sha256:0qji9v6kbrqxlqpf16q9spjqa0q7b5kik6rxk4bby7xyj5ywjima

@@ -1,0 +1,10 @@
+StorePath: /nix/store/g206pmaqvlgsmqcqb8f8xsnjbnw3sx6r-sqlite-connector-odbc-fix-incompatible-pointer-compilation-error.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0y94pjcfaza4n33bx52drl0j75aibv3ik6id3f3x1xj9r5s2gagd.nar.zst
+Compression: zstd
+FileHash: sha256:0y94pjcfaza4n33bx52drl0j75aibv3ik6id3f3x1xj9r5s2gagd
+FileSize: 2062
+NarHash: sha256:12qr9wpxx7lz0490qyrzmlbk3vvhd9w57zxvxi2l6b3f2sl2jysz
+NarSize: 5472
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh yqikd9hjkm5j1a2zzmhifj09b8yk6sd1-patchutils-0.3.3.drv
+Sig: rime-cache-1:Ua4AlJzGC5QcjS/Q1yoK7UhYGHwOohFGVtiVavlib6QVLkrm8P0+fY7oR6p0xbZliXpLflF1DF3eNPWJfUFSDw==
+CA: text:sha256:0gdf2f5ds8phnxhapb7khlsfidavkrknsp1xi24axkyd0sib05kj

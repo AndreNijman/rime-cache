@@ -1,0 +1,10 @@
+StorePath: /nix/store/62cwrayy65zaaf5r93g6vkwws38pk8kg-python3-3.14.8-env.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/18v307ln4pvz9jml6i87ahy0c2yypd7z6wpl7vp8aq71ynj5srcw.nar.zst
+Compression: zstd
+FileHash: sha256:18v307ln4pvz9jml6i87ahy0c2yypd7z6wpl7vp8aq71ynj5srcw
+FileSize: 2696
+NarHash: sha256:0nzn7syln4a6ikifw3rsg5mm92qgjb0xbhv3nma057s4yi1p7rli
+NarSize: 9632
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4gs1nln6jxd8ai3q85b55hlrii1jw9lw-python3.14-mdurl-0.1.2.drv 4vwfs5wfkrwl9qhmslcy7b4fnw01690s-python3.14-markdown-it-py-4.2.0.drv 627kx41g0qbxgnmwmlk11v0jh2b7wdiq-python3.14-jaraco-context-6.1.0.drv 6gn7bvnknbvbpwf589xb5fb8cnifw8s8-python3.14-pygments-2.21.0.drv 9qx27fycxd42i05599rn3xsf1vgj96ln-python3.14-rich-15.0.0.drv gmwc2wfkpcbkhwv4f5qhrs170lf28gz2-python3.14-jaraco-functools-4.6.0.drv hrgn7ahpw6pcysgq8p62v4s4fm41idqz-python3.14-more-itertools-11.1.0.drv hykq8sd1r3cmyb93hphxh9mjxl8vr690-bin.drv ia68s621sjx90hc02qgz8p5zj8cc45zx-python3.14-six-1.17.0.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv kcr89zvzk3f7k156jxrijfmmmc2anvy5-python3.14-packaging-26.3.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lwan0vf7f1jcbr8fj9i0pbgkcg4crsqs-python3.14-shellingham-1.5.4.drv n5wbzab32ldrk3lkzqckzx5h81rqy1kb-python3.14-jaraco-text-4.3.0.drv r4sll8m931wap9d18drddi1dqakr2phm-python3.14-jaraco-collections-5.2.1.drv r67blll10plqvjfy00nvafxabvv56a0j-python3.14-typer-0.27.2.drv s31l9v8zqdkad6622f6sraggzy2gv40z-python3.14-distutils-83.0.0.drv s3bkpvjkcjs8h1895a23bw6w8payi0fm-builder.pl.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vg2yqik90dgl8dvyx73c07bi5pf9kz0r-make-binary-wrapper-hook.drv vsbr8pjjcsw3wgbvzkvng87xxhym1h45-python3.14-jaraco-classes-3.4.0.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xkqfcd6d44zbn7bpdgl75zypq6y3dg3h-python3.14-annotated-doc-0.0.4.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:znyxzFvM4oELisj7r4Qegr2jMZtjOCueVl7SQ68haB3vTq7+TmzbvCGn9cZPGgl5kMu35d42p7LB/1hJ5yZGDw==
+CA: text:sha256:1h0bb94frc2l0ff8190zz5a2sns523wd0kj86mi5jyjpqzab1a3i

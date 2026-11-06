@@ -1,0 +1,10 @@
+StorePath: /nix/store/6qlasyyrk2krxzr7b8bablm0w69m74j3-sord-0.16.22.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1zn99npcy3p00dzyycx28ddymzpz6lpk3ywss64s0h855b06pjmq.nar.zst
+Compression: zstd
+FileHash: sha256:1zn99npcy3p00dzyycx28ddymzpz6lpk3ywss64s0h855b06pjmq
+FileSize: 1284
+NarHash: sha256:0y4b0pqczjwvdw4nkgc20x2lhrj3ahcnxaah3f3r1li68xqwhcky
+NarSize: 3152
+References: 2ka55f5g4rcb38rncyzbdaz4bi7r5qxm-pcre2-10.49.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv iw109hmbwzs65g7yhm3a1jjnh72lplx6-source.drv iz62wxmw3m2zl4835970cim8kfq2igl8-serd-0.32.10.drv l0sdvmfkwwxbrz5b3j14i62si0zcx0pg-doxygen-1.17.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zdl5ngg4xsd074l63am8d54b0sfx6cdl-zix-0.8.2.drv
+Sig: rime-cache-1:I9iyFlVKF4JcjAqnfhhAVwfwTw/Uuw/1DJBQ7UVScQ5XhTI3vJJvCD+XQxs8wUNBX9Fgfe4LINcSVs6vqCYIDg==
+CA: text:sha256:0zj7lq9m1vaki6zjzhpn6f6k0sxvpsz0f1nlh3hm1w5piqv39b8h

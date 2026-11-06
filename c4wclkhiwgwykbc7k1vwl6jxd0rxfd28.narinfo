@@ -1,0 +1,10 @@
+StorePath: /nix/store/c4wclkhiwgwykbc7k1vwl6jxd0rxfd28-xorg-server-21.1.24.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0yqsmhxbw3y629kyfdcy81hcww48rg9a3js3wckx38md6w8bg99l.nar.zst
+Compression: zstd
+FileHash: sha256:0yqsmhxbw3y629kyfdcy81hcww48rg9a3js3wckx38md6w8bg99l
+FileSize: 1404
+NarHash: sha256:0bi95k2vibnkhy2d7x2j0q9aby0gf0crdcrl3mqbsz4mriwhiffc
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:/tsmtXj5kGFI1e334o5EYixyoiDxKj56B5+BvtYh853ubU19RxRZrVw62/AvE89tYJSdXsCQr6Hy/1iuoppmBQ==
+CA: text:sha256:1hdb8dp3pdbf6m0lr2pcfkg7nalcm29ix3k0c0rkvkmffjmz7xys

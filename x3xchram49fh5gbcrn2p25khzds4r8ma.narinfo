@@ -1,0 +1,10 @@
+StorePath: /nix/store/x3xchram49fh5gbcrn2p25khzds4r8ma-wrap-qt-apps-hook.sh
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0f1q1slkac9kanl4zad5jsz0b76x2sy6bpqpymalvsahnhmyvnwi.nar.zst
+Compression: zstd
+FileHash: sha256:0f1q1slkac9kanl4zad5jsz0b76x2sy6bpqpymalvsahnhmyvnwi
+FileSize: 1261
+NarHash: sha256:0d8msz10i8m3745fk0p4h53a1n9ikjcj411sbcyxi8bnxpsx3v05
+NarSize: 3592
+References: 
+Sig: rime-cache-1:xPe7D1WxG/r8Bce2kHy0P9QKZ41TJX1k6AccSGo8TsqxmQB2IwSo7gXOQQpugvs2NaTzrSBVu85IOxZGGUDECQ==
+CA: fixed:r:sha256:0d8msz10i8m3745fk0p4h53a1n9ikjcj411sbcyxi8bnxpsx3v05

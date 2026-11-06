@@ -1,0 +1,10 @@
+StorePath: /nix/store/pw9i9vg5pmhj5hvlvbl2jr2vb4g8vnxn-etc-rime-hostlayer-switches
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/1104fjmhp8mc6rvc91zyy9xpz5rm35nc40sjp6fp135d3z7xpgfj.nar.zst
+Compression: zstd
+FileHash: sha256:1104fjmhp8mc6rvc91zyy9xpz5rm35nc40sjp6fp135d3z7xpgfj
+FileSize: 119
+NarHash: sha256:0fkdpjjxdkv8sa0g84j8l36kvgz2mg2c927smwjcgwhkbg5w6mck
+NarSize: 176
+References: 
+Deriver: sfhm3s9kh8az3bpy2yc7iyc6p6mapvqa-etc-rime-hostlayer-switches.drv
+Sig: rime-cache-1:snhN252GjR4bW49yWRSSn25jtEdMYEITkJawjPwDST4DU0qjWwOlj4VjLD/shpA+4BdFw5LuFZhIY6O6blNlAQ==

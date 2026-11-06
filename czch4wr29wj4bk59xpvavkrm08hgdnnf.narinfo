@@ -1,0 +1,10 @@
+StorePath: /nix/store/czch4wr29wj4bk59xpvavkrm08hgdnnf-crate-vcpkg-0.2.15.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/16rfwx4ii1kji3a191n7354jxxrj12n08gxagh964kq9dxx1yixf.nar.zst
+Compression: zstd
+FileHash: sha256:16rfwx4ii1kji3a191n7354jxxrj12n08gxagh964kq9dxx1yixf
+FileSize: 1371
+NarHash: sha256:1zfpld4cafp6ncivrnfm2w1ir1ghkkx9pdh09qdlmh9qv8mr9hkw
+NarSize: 3704
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:GDbhE+488SvOBNJ5sFKwMKb/SHSQismPnWhP4aM2WRLpvhgOwDvYRfPUkOo3eJkgbKY6GKns8W/IkXodjj9CAg==
+CA: text:sha256:1lyz2k0x5r5z0dzsq28f8mlpi1l4sjrzf9m0axs8zwyjknjb5lxr

@@ -1,0 +1,10 @@
+StorePath: /nix/store/zglfy5syffp58rwz1sbfbc7zaq9kq65v-npm-config-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/009hmvl9j19fkj8x912ny9rnjil3bwjj65f5mcdn419kqngrqv0d.nar.zst
+Compression: zstd
+FileHash: sha256:009hmvl9j19fkj8x912ny9rnjil3bwjj65f5mcdn419kqngrqv0d
+FileSize: 1263
+NarHash: sha256:0fwz5qc8m4rf79y1h4abhw9fsxnfmi7ryc3cdjnj0xngbp7lwnil
+NarSize: 3232
+References: 2rkll8ncy5ldfv8zivk8ml6sga8zifgv-jq-1.8.2.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3shcc7mkfl08qwvhvc676mlmznjpvca7-prefetch-npm-deps-0.1.0.drv 6lilla2ivarcf55rfcpcqw7p4cbgwik9-diffutils-3.12.drv a7mzwdph5vkavini0lj77xph53qhgjlf-nodejs-24.21.0.drv a7qh64mad8r7hlhcqqrzrl2df3fgns2i-nodejs-24.21.0-source.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh rfhsj5vb63bdgl8s60l1pbxzd53x362y-npm-config-hook.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:qD2IVymsPV258zTkTEGy3lbK2TOdXVDE4k5uhxFMiYXiTql0KUFqTuzSku1MK5guKBqRXy5uaZ6cQeGGnloHBg==
+CA: text:sha256:0hkahg5a0f2h6hafsfc1qs0i465v18m024bramgcm0m401xjbs9x

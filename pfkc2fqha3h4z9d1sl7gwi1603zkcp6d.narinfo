@@ -1,0 +1,10 @@
+StorePath: /nix/store/pfkc2fqha3h4z9d1sl7gwi1603zkcp6d-iso-codes-v4.20.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0jhmjs7d05xyk25hs4la3zrb6fbkk2fcq2y9qf47q5yqvklklw6z.nar.zst
+Compression: zstd
+FileHash: sha256:0jhmjs7d05xyk25hs4la3zrb6fbkk2fcq2y9qf47q5yqvklklw6z
+FileSize: 1415
+NarHash: sha256:18nkx935q0cjnr183xgj10gxw2213lyscv0iss05mamzgaccgs5w
+NarSize: 3672
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:YScyipETcWIkYWJEt9gsPTah64QP1KyFh0Zl16aEhx419i/XdOveU+ogwSbd7FCpUu524AsRqHbjNEV5fBZ3Bg==
+CA: text:sha256:1355vykdav90vmq40f90q2kpg1f2cjk3dj934y0gwp1d3x5cbl6f

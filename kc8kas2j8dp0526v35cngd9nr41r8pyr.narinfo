@@ -1,0 +1,10 @@
+StorePath: /nix/store/kc8kas2j8dp0526v35cngd9nr41r8pyr-libepoxy-1.5.10.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/18qww11w9y5fq6gsb2p501msx1akagz31ixgxbhs8jjmafhkspyj.nar.zst
+Compression: zstd
+FileHash: sha256:18qww11w9y5fq6gsb2p501msx1akagz31ixgxbhs8jjmafhkspyj
+FileSize: 1329
+NarHash: sha256:18v38bhw0fzk99hdxnabvcpqykndflnxmb4kaajf3cacspfzm8d8
+NarSize: 3080
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 796dnsf95f3yi1sd4gcsl6ijcknvlxq0-libgl-path.patch 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv jkznihpqhvir51b7239imj36wm2hdizw-libglvnd-1.7.0.drv l0z76jq8gpvlbmkv7h6ypz0jircszg2r-libx11-1.8.14.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh l664c6hrddqiyvprkshcvfc0p45zvi6b-util-macros-1.20.2.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv whbczhnnip4mbihr50wrn67dlmr5h53k-source.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:4nrYLIPNWSPPr6u+lwupxXcx3dFg4NHtqAIAuRhsn0GaP/QNt0KcJ6D8TIdjedZ802dzHVGhyISm63hD/E5jDQ==
+CA: text:sha256:06h42l6xdnlwczg74lmlxzjr3kc6lfs5zbza5kjhp8gkaknk0lgh

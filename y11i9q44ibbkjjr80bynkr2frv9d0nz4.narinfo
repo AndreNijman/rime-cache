@@ -1,0 +1,10 @@
+StorePath: /nix/store/y11i9q44ibbkjjr80bynkr2frv9d0nz4-rime-kbd-xkb-2.48
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1al0gqs08d46d6cmcg8wkg6b3b234n1gn98921zv74zizrv3413q.nar.zst
+Compression: zstd
+FileHash: sha256:1al0gqs08d46d6cmcg8wkg6b3b234n1gn98921zv74zizrv3413q
+FileSize: 1016597
+NarHash: sha256:0w6hfkqkf30ki8nkj00g7kq8qar5i4ysxzlq08f57s7r76v78lgf
+NarSize: 1562720
+References: 
+Deriver: nwmp9kld3k2gz51c0qvmh04dxiv97vfk-rime-kbd-xkb-2.48.drv
+Sig: rime-cache-1:FQegMLULrThzDIbUIBdZRawBQGYdGqNUjui1o35abfxAJutEAbOGUvrDc+vc1nFzgSQ6T9EExcL0MWmIZRAnBw==

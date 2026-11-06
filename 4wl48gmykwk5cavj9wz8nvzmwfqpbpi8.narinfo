@@ -1,0 +1,10 @@
+StorePath: /nix/store/4wl48gmykwk5cavj9wz8nvzmwfqpbpi8-xdg-user-dirs-0.20.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0yph4bh1cym8jn6hg9bh23f7xrcnh4n9b57mff24mw9cdpnjygpa.nar.zst
+Compression: zstd
+FileHash: sha256:0yph4bh1cym8jn6hg9bh23f7xrcnh4n9b57mff24mw9cdpnjygpa
+FileSize: 1514
+NarHash: sha256:06d4726y5w5yk19p9f11j5nqn9lv4ndqgfl2p38kg7fwk0cnksna
+NarSize: 3528
+References: 2x4aa8vfj3fl1frwxrlsi5jjf0c6xq2f-glibc-iconv-2.44.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 5vp79alambrbg5q1jxfwf7c0iysp2zrq-docbook-xml-4.3.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv bak59igmbly0kvhl0h6zivgn9xhc031w-docbook-xsl-nons-1.79.2.drv iygha4yh3cgzcfyhfg48z08nclx4cykk-xdg-user-dirs-0.20.tar.xz.drv klwpqxm3cwh90ag0npljlifsdiqpxgjz-gettext-1.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r7kprripy15xzxz5hpc61gl89zaflkn3-libxslt-1.1.45.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vg2yqik90dgl8dvyx73c07bi5pf9kz0r-make-binary-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:QBw4s5lI6CXsMP2BGpBTKkpxepJBlIozLntUbIiKl9laURRoRhBaE8pTa+TScSDsldFnP9ldyCtRveuRzyemBA==
+CA: text:sha256:03b0kklniwqzg3vnzn76c2dih4gvjsfc948w7hgwhrz961p1l5gy

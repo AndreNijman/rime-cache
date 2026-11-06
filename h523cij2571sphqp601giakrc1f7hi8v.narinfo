@@ -1,0 +1,10 @@
+StorePath: /nix/store/h523cij2571sphqp601giakrc1f7hi8v-stable_deref_trait-1.2.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0c93bqxb9h71jl95vyy1kkdq5cb8s9n7v0bf1yw0alfvxrfxrfxq.nar.zst
+Compression: zstd
+FileHash: sha256:0c93bqxb9h71jl95vyy1kkdq5cb8s9n7v0bf1yw0alfvxrfxrfxq
+FileSize: 911
+NarHash: sha256:0dmxkhmicwrd1z8g2s1ky8kp3kj7468skpzjqqsjp8x10w5aa31q
+NarSize: 2072
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mhh9wwvvhaq62fc24l5m16b9m7kwy1y6-crate-stable_deref_trait-1.2.1.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:GfbLO9Ren+Nfpq1Q9fuj+ZUElJXYGxzC4jiJ5hUS2gIOaUq/T581yuGxgS5Ld/NiaSmTPZ/5w2vXUtQnc3A5Dg==
+CA: text:sha256:0bh09a32r2vv1qwgahpmj37m1sdyrspih54cizvxly5n84jd9l4d

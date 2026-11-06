@@ -1,0 +1,10 @@
+StorePath: /nix/store/la3djpw0lrjmk9yjfwyyv22vxhmp79q1-jaraco_collections-5.2.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0m7kdxdkmdzhnvxh7fnw7xislr4i9syz1xfpb33mwarrqxqmjlb7.nar.zst
+Compression: zstd
+FileHash: sha256:0m7kdxdkmdzhnvxh7fnw7xislr4i9syz1xfpb33mwarrqxqmjlb7
+FileSize: 1406
+NarHash: sha256:17gna0k4jp9rmjna0hc3i0hvlm8dks5q2xk81p5y23gsj38381in
+NarSize: 3672
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:Df195ASXTkJSQ6SMqbPY1NvOUIWlBMFp48gqjx+/ikdeLhB+VaKtNOwDr9s1/7QEeZFzvDvTYs1h+XrJvdQ/CQ==
+CA: text:sha256:196whrqp2nxvxjdvgybv1vdl7gxw1hn4r3z86y6z8g27lzyn66a5

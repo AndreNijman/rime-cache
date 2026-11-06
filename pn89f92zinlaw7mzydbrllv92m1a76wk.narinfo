@@ -1,0 +1,10 @@
+StorePath: /nix/store/pn89f92zinlaw7mzydbrllv92m1a76wk-xvidcore-1.3.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/069cgczjrihr6x72m2g3m30lw7021jl9ifr3yi9dfjsgbs9gdxhw.nar.zst
+Compression: zstd
+FileHash: sha256:069cgczjrihr6x72m2g3m30lw7021jl9ifr3yi9dfjsgbs9gdxhw
+FileSize: 893
+NarHash: sha256:03v9g526f4zfhhlas11wvfbqy474b8ngjrpylyvyfraacyra4ddf
+NarSize: 2080
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 8a5by4z6rccc1k609wd8vhsnx91c2fhn-xvidcore-1.3.7.tar.bz2.drv 9w46lj73n0g8frw9chs4yv2pxi182m01-xvidcore-c23.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh p68vc4ba5p5ic1c4n218bzv5xn4nbq5s-yasm-1.3.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:86pF3wcIHaCFTxI0OMpqSsPfmXFU0IgjUochDsfVYh6WuOq6s4hgUcM8Hr/fJCt9CLaXOGA+OAcr00J3vH3GAQ==
+CA: text:sha256:1raz2v1f238ng0xwb1j2xjv5knq8a08aj3v2wab2q3b6f5yjp0kl

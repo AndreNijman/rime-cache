@@ -1,0 +1,10 @@
+StorePath: /nix/store/9cr229gqqndhagh7vha4czk1wmfygsn2-coreutils-9.12-binlore.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bjk0fwp60yalqg1jhx055pyk1myjyakgwxjkz9zil4w4g7qrgxz.nar.zst
+Compression: zstd
+FileHash: sha256:0bjk0fwp60yalqg1jhx055pyk1myjyakgwxjkz9zil4w4g7qrgxz
+FileSize: 1292
+NarHash: sha256:1lv0camnjk41r4nl1ssi2w8kjy09ga16khxl34k339krji8miwjg
+NarSize: 4168
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6j4yl5gr8xw2ih1dh754lb66rj5i9cj3-yallback-0.2.0.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv rfbqv0h7sbzxdb2mglk1qgvm0bq3j42z-yara-4.5.7.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xihna7s0ajxs8lhymnhjjrvhkak8mkm2-source.drv z0kf6q05ipa1dp2anfhp7y4lynqjlcxm-coreutils-9.12-lore-override.drv
+Sig: rime-cache-1:7mouNRsLTdMVYbhOS9O/VHLSKcpOGSYZY30q+G/i4Mf/PFlhQyUgWpZeYEzLtrhtfWMjsmrqKT0QNQh6zLwhBw==
+CA: text:sha256:02n2r45d6pzkp0p6pn3cnvm18x7vqnl11axlpv5jd1hs6gwx5kf3

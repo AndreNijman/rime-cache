@@ -1,0 +1,10 @@
+StorePath: /nix/store/p54hb48r4pclrfskhpn68f8l45aap84p-python3.14-pdm-backend-2.4.9.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1i16nhmybhdxf24z37yjc8sy8pd84aw86g6183pmbp65m5y4vagr.nar.zst
+Compression: zstd
+FileHash: sha256:1i16nhmybhdxf24z37yjc8sy8pd84aw86g6183pmbp65m5y4vagr
+FileSize: 2177
+NarHash: sha256:11n5gpn71nql3xrwj0acpvk7hzlnbyh5a0hbbrj0kl0cdsr4c211
+NarSize: 5456
+References: 2i1795b07kafxvwch92kj0hfmjg37cr2-python-remove-tests-dir-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 44q2zajrz91agb167xifb5qchwi1q8z2-pypa-build-hook.sh.drv 5x76xgd4fqggv7ikx0985ayjh83azkqk-python-namespaces-hook.sh.drv 7ssq5g6gc8p7wyw1q828vv0mx4kn49n1-mercurial-7.2.2.drv 7zhs931h87ln2sknslmj1zv8jsc0mzm6-wrap-python-hook.drv 8h7xmhabwjbqbchnj8xgfjckh8r6mvjz-pypa-install-hook.drv 8hka6pq2rdl4fmbikcjy7a1349snjx9b-source.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv dhls2jkih3ivhbfa6yidblyqifsawjal-setup-hook.sh hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv jxjb6jfyhdgcrx4hdhqqjhai22h61qdp-pytest-check-hook.drv k06sglvkhikc4w8kzx50l9lbwvr9604s-python-runtime-deps-check-hook.sh.drv kxws3pbi3sjl806nplw1j6apf9gjchk5-python-catch-conflicts-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mnhrps1293ppks5kpih2698302v1m8qg-python-imports-check-hook.sh.drv nzxyp2h867y3g5gbmvwsayj285vjk0ma-git-minimal-2.56.0.drv pg0q0cza5icdxga3zm8idshhim4yaqi8-python3.14-setuptools-83.0.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xbjm8k1jcv08s7wn3saf9a9c9fdqmjja-python-metadata-check-hook.sh.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yhdvc615w2j52yi3blwky63z39wvv0sp-python3.14-editables-0.6.drv
+Sig: rime-cache-1:9uJKDaq0Wgt6gW9keclVyBWLF2bsqdSNpcUjexIuJovmR6Dela7A4IVz1hR9KJnO2tbbRjngfhNd6Co5a515Dg==
+CA: text:sha256:0ydwx44jr4l5sx5naa6ga73544kjpdxb7kxxn6rnv3wsz18nzs80

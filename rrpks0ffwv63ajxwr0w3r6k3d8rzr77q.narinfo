@@ -1,0 +1,10 @@
+StorePath: /nix/store/rrpks0ffwv63ajxwr0w3r6k3d8rzr77q-crate-smallvec-1.15.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0jjrxx87rzd34r6giyzfmlw1dz82hnmz96diflxs0jzngfgvjr7j.nar.zst
+Compression: zstd
+FileHash: sha256:0jjrxx87rzd34r6giyzfmlw1dz82hnmz96diflxs0jzngfgvjr7j
+FileSize: 1375
+NarHash: sha256:1b6kvix06hpdyd2jy1a24b8y8wm3c9qy377vyx5p1hc85qnz86gs
+NarSize: 3712
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:eoQPRib8Fa0Tc55jpBvG3yTqRLcLerAPT1FwasKjcryzXZkQm9pOtBePE/YM2vzmvvoDqwTM58LePMy+V61NCA==
+CA: text:sha256:10lwclqy3qd48y8f2fazxp1052zp6p0gkzlrdswxnyc68lakb594

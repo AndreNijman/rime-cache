@@ -1,0 +1,10 @@
+StorePath: /nix/store/9hn4pmi2043h2bk5jj35bvj62pjnccbs-perl5.42.3-File-BaseDir-0.09.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1k2immbvg6gm2p93pjrg3bkkqxcmhl2ikskbc5kqkw6k6c18nzz1.nar.zst
+Compression: zstd
+FileHash: sha256:1k2immbvg6gm2p93pjrg3bkkqxcmhl2ikskbc5kqkw6k6c18nzz1
+FileSize: 1058
+NarHash: sha256:1hasdkj2qcy1qmk07ncbfmfdwh089qj7sy5cqp63jxyr8ydvi49c
+NarSize: 2648
+References: 119w10l5ic8izi6igxqpq0wdmccs9mbc-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv b7r6gsz16ilk0qnyhyn0qp1qqfbirx3k-perl5.42.3-File-Which-1.27.drv iiy87pzarfl0rmzgpvfvi6nyf6h5yiw3-File-BaseDir-0.09.tar.gz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh v8vxn66ynq1gmhcpq2wiji9sd03kmr5w-perl5.42.3-IPC-System-Simple-1.30.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:3Uw9rv6u2i1zMJZAtfIEwZHj8fOJxENpobVYjkX2U8f7EDquHoD63gFdHj+AHENmVNKtLuuO4ZYQ1iII6vXdBg==
+CA: text:sha256:1glnpsjs3i5avgdfr1c2sh8dh14q4494ri8cq9vywhwwqr4m4j20

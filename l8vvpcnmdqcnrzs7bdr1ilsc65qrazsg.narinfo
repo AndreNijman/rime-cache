@@ -1,0 +1,10 @@
+StorePath: /nix/store/l8vvpcnmdqcnrzs7bdr1ilsc65qrazsg-nvidia-x11-615.78.08-lib32
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1hj44jzzb4xys9xqhhvpd7as338zfzx60b66s92z65l5kz0hkd1c.nar.zst
+Compression: zstd
+FileHash: sha256:1hj44jzzb4xys9xqhhvpd7as338zfzx60b66s92z65l5kz0hkd1c
+FileSize: 138756884
+NarHash: sha256:0y8r9ihpbdcadmv3rhff4qipp6hmpb57afpznhz8qwlkn6y9dqpm
+NarSize: 627968064
+References: 09m0lq8in7n6hw58yrbaynklp7mz5my7-libx11-1.8.14 1lk0vwb53hl25jvrr5p28yjaq08w83p5-zlib-1.3.2 2lklihnn5964z29xqnkha8g03bbhkshn-dbus-1.16.2-lib 44kcmsygc5b3a25im1lkfqayklm9xvkd-mesa-libgbm-26.1.3 7a2cjhcgzyym5zaz6m4fksw47qvm150w-gcc-16.2.0-lib dh7gbcwpk9v08kr6a58b971vv1z0zlbb-wayland-1.26.0 g5sk26fcgxcn2alzzkdfv92cvd3vm8sp-openssl-3.5.9 gszfxcwwk9ni5i2ajwjpgv5apynz4x39-libxrandr-1.5.5 l8vvpcnmdqcnrzs7bdr1ilsc65qrazsg-nvidia-x11-615.78.08-lib32 mznh0lgiqblf8vvqi2r2xrs9ji1cyj16-libxcb-1.17.0 nghximqphfdnqyf0wcm19yjpal6h851i-libglvnd-1.7.0 pcjmqy42wk2xy0ilsficz5b9j9xnib3x-libdrm-2.4.134 r6nbrkll3bs53h5n81j7kss9sr2gkg39-libxext-1.3.7 z8vdyzfzihii6j5nr53nqilj0d1c98zi-libxv-1.0.13
+Deriver: n1kkrv3yx7izmblim6x0i6d4lsiylabi-nvidia-x11-615.78.08.drv
+Sig: rime-cache-1:xikXabbd/Z05ILyA5muxdTr0N3J8fngr+o36Wx8Ohtu5wvRriT366Cv6cLSuQRANDQQVADv1TK1VO/dC9G3vDw==

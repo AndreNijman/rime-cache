@@ -1,0 +1,10 @@
+StorePath: /nix/store/ypkalj20l0y27xc6zbqxf5fpdpqh6nx4-firmware
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1pipaxfmq6nih28lghqg3vda67xgh9z827g99fdr662860v9yzdv.nar.zst
+Compression: zstd
+FileHash: sha256:1pipaxfmq6nih28lghqg3vda67xgh9z827g99fdr662860v9yzdv
+FileSize: 10936
+NarHash: sha256:1g6j6pc04q4jdalkhgy90f11hl8a258hnw4jhjnaagk3aggz1c6s
+NarSize: 386304
+References: 4q35kbgs7jdk5q4da755sl1zhz459cyk-linux-firmware-20261019-zstd c80yvf6ppbn2s5qhnc4q13478znfa5vp-ipw2200-firmware-3.1-zstd ljkbkiynxgpkzgw1xqd0wh0aw2r0kahp-rtl8761b-firmware-rtk1395-zstd ma8hhrbqiijkv8znjdfl1ssscyf7mdbg-rt5677-firmware-4.16-10-zstd nxrn6y6j6228r3wav2md9ss7b2bz2jhn-sof-firmware-2025.12.2-zstd pxlg8w00y12crbiwqm6y8050np440gm1-alsa-firmware-1.2.4-zstd qprihj21cdxvhxl709b5h1flpvl6xp07-nvidia-x11-615.78.08-firmware s4lvaqs8li0vga0x0fla20qrajnpg495-wireless-regdb-2026.09.03-zstd sncyqp7fgzljckfgwqfn9v0m35a8rr9l-libreelec-dvb-firmware-1.5.0-zstd v2w1dq7cilsqhcpxc5nq2dab7fi1wjbg-zd1211-firmware-1.5-zstd wb1l00xjkmgmsskfrnpd06czyylwj0l4-rtl8192su-firmware-0-unstable-2016-10-05-zstd
+Deriver: pi4ignm06h739x87lq7g8lnc5468697x-firmware.drv
+Sig: rime-cache-1:ofvDXWEpJ9QzU53gnTJDqGzu7Prw5j4lv7TqKdL+OUPJzVw050HLyMV55x3xRMBf3Unbf6Jz/TpAqviM3KzgDg==

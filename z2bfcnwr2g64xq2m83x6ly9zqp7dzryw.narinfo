@@ -1,0 +1,10 @@
+StorePath: /nix/store/z2bfcnwr2g64xq2m83x6ly9zqp7dzryw-event-listener-2.5.3.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ynb8kxpvkw0hr1bf0rsrnqzk1w91flx7hmriwmpkv285yn513an.nar.zst
+Compression: zstd
+FileHash: sha256:0ynb8kxpvkw0hr1bf0rsrnqzk1w91flx7hmriwmpkv285yn513an
+FileSize: 905
+NarHash: sha256:1awjgdqsmwmaam9zj0ngqvc4mji9zn8x5kk4qb3577gghf3ymf73
+NarSize: 2048
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3x0y991z6bf05q6sx5jmi2q9w2hqxksx-crate-event-listener-2.5.3.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:ASUiO7vYUHlxSSHCCdonCudaPjVf+7qEyEl0bL6EabDX81H7VP0wqLA7ImdOUWMKAH6TRhz+2PagpyLAf/iwCQ==
+CA: text:sha256:1yh17nspil4dca4bmn985r4kwz9zl3hawpmwc9v0l5fgj7d6655m

@@ -1,0 +1,10 @@
+StorePath: /nix/store/a089b495z1m39iqdiv2ciazfsizf6jzw-libmad-0.15.1b.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/13hdy89ln0r92p08n1ah0wrqnh85ab0y2wnam0y9l4m4dh3wxrf6.nar.zst
+Compression: zstd
+FileHash: sha256:13hdy89ln0r92p08n1ah0wrqnh85ab0y2wnam0y9l4m4dh3wxrf6
+FileSize: 1238
+NarHash: sha256:1nq0bx3gwnw4k229116qsval635xiv1r3h4xnd3960rlm6kwxdsx
+NarSize: 3016
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 34cpinyzsrkq90by60xrlgzmi3sgx8an-CVE-2017-8374.patch.drv 82czysdbwzzvcrdfq1y9q9y4fv5kgy73-autoconf-2.73.drv k4iy5x0nmqc50qhkifrfmpsxjd0w5pzx-libmad.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mz3ak9l1sjcdk2kwc0y1f0rrpzsa4msg-libmad-0.15.1b.tar.gz.drv n8kh0yc1n8wlfz5nmbm80jwna5jsfhqh-001-mips_removal_h_constraint.patch.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yphwsivdr4ig8d6d1vai65iqifcpvx0b-CVE-2017-8372-CVE-2017-8373.patch.drv yz1vsfp932xv1cqafr1s1lvibrh3rpyc-amd64-64bit.diff.drv
+Sig: rime-cache-1:zZ4DyynfRl8oGvlrR+4EDu7ntM3u+tFT0ia3ywFZG3gF8spo96Zrq8+szBeuHc/HfRe8ALdA5NqAmWTt1JGPBg==
+CA: text:sha256:0hhb3ybm3ba4dlz10yb8bap9an8pn41d90r9mh85y1hrk0qq258r

@@ -1,0 +1,10 @@
+StorePath: /nix/store/g4lvr9rr19lgbdcn370q629ipgris85i-libraw1394-2.1.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0irmacws1plccsgly3rk6r19chpkarzw94yfyhljyvqvlmkvc4sw.nar.zst
+Compression: zstd
+FileHash: sha256:0irmacws1plccsgly3rk6r19chpkarzw94yfyhljyvqvlmkvc4sw
+FileSize: 676
+NarHash: sha256:10hyvhrnk29049850gnlj04kmgz1z2kac2rv5vy0njx4w4lzydv6
+NarSize: 1672
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv b8hwds9c45d5smgd7nwf48s8b1mwzlf2-libraw1394-2.1.2.tar.gz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:WYFeYVbOFDLkXg93BbQdU6eC4apboLRgMv4UyurEd8BRrgOybwhPGDp3Ps+kjDgNFthfhUqa/m/JQWWowAcFCQ==
+CA: text:sha256:1d1brcmsfs86szsdbn084zlygazv4z7qfd0wwyqb7rv5sinl2gbj

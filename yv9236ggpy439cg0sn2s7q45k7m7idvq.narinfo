@@ -1,0 +1,10 @@
+StorePath: /nix/store/yv9236ggpy439cg0sn2s7q45k7m7idvq-unit-rime-gpu-notice.timer
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/10xj2h2yzi8f06qxik0dmdiakh989wsrqiqrx1gspfysbgblvp4j.nar.zst
+Compression: zstd
+FileHash: sha256:10xj2h2yzi8f06qxik0dmdiakh989wsrqiqrx1gspfysbgblvp4j
+FileSize: 257
+NarHash: sha256:122al2386pxmf50g0bi6j5jw8gzycixi2f0vmj5ppn732s7w2p85
+NarSize: 472
+References: 
+Deriver: yh4aix1arc3mp28d7wbaqv9vjdd4w3ia-unit-rime-gpu-notice.timer.drv
+Sig: rime-cache-1:IEhm+SoygOMhNl/Jjxp7CFpGU+/Velb0SiU2d98p14oE9LQ4Z9qJWKKO8Q7nJdilm9LZW7cyNARdmeLlPRa8AQ==

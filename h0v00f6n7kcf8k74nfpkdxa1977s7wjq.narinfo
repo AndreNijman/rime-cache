@@ -1,0 +1,10 @@
+StorePath: /nix/store/h0v00f6n7kcf8k74nfpkdxa1977s7wjq-opencl-headers-2026.05.29.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0i8na2b2qxqvk7ccwlz6rm3lzi5c40j86pkw0dpninhsp67gh13a.nar.zst
+Compression: zstd
+FileHash: sha256:0i8na2b2qxqvk7ccwlz6rm3lzi5c40j86pkw0dpninhsp67gh13a
+FileSize: 741
+NarHash: sha256:1dhvk9y6ipvmsd614l30bp8n7wh6lhbrk1ijifhwfpff2x5qy5rn
+NarSize: 1800
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mjslfj1580rp85af5z83120wdqlqys7z-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:J03HzHTTPK9SJyuAYLBHDTdKWxRmdWydgFfxP2lTTX/CI2wBey3Gfl/XWA4Cp5aKhyWDqJtygXezxaWbkUPPCw==
+CA: text:sha256:1bxdhk9874ibizsf6m2xxx8c50apax5qvj7ijkwsngzzfvmhc7z7

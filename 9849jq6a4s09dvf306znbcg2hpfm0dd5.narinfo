@@ -1,0 +1,10 @@
+StorePath: /nix/store/9849jq6a4s09dvf306znbcg2hpfm0dd5-env_filter-0.1.4.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/09p0lf2ngvikr5y51aa23hrvvglhrbrg4a9kpcd8fz1l516nksj1.nar.zst
+Compression: zstd
+FileHash: sha256:09p0lf2ngvikr5y51aa23hrvvglhrbrg4a9kpcd8fz1l516nksj1
+FileSize: 900
+NarHash: sha256:058b41816dlpxg6n0a2i06ng5wi64fc9yjn9kka44kl7j56yvzj6
+NarSize: 2032
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv dd6fpybj1k7mn855qx4j0yq6i5crdhbq-crate-env_filter-0.1.4.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:td12gAlAFN9y7KxCnkphIY4oK/BnlVUm2Gf3Kkkop5SkzBmkM+fcdlXHEvD5QnIq/idS8WAU2nIjTZnYxDnEBw==
+CA: text:sha256:1psmrwgilzjl1c86lfkpqx2r1s39bc6zjfhbv3bk526p0ch001ah

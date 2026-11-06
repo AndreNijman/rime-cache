@@ -1,0 +1,10 @@
+StorePath: /nix/store/chyy35k4nb6jh6g5zjwzj2v2hwcc3adj-librist-0.2.11.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0dwmqx173nlfd4x6ddr6sp7jbc6f6gwx6dlghzhczmcb60bfl77s.nar.zst
+Compression: zstd
+FileHash: sha256:0dwmqx173nlfd4x6ddr6sp7jbc6f6gwx6dlghzhczmcb60bfl77s
+FileSize: 1095
+NarHash: sha256:0g42q5djiqfmgi13561d4qx0b2x8hgvyr8ji7mqz1xq0zbqmb1gb
+NarSize: 2496
+References: 0i6aw2dmsagfh8h2wb2ja2q5ay55jkp4-cjson-1.7.19.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 8yd8mycspz4ixdpw2zwbqkg3560zm1gr-cmocka-2.0.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv akarpj4n2d4vls2b0z7iwry6rapvsdqf-mbedtls-3.6.7.drv cw8439gvamac1w0dgj3kg5i3c0d8z1j9-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:nB9a4Dl6ClNY40SZYcKY0mzQXk9jZjeKOCb9MQr4ZkhqHXnEoAx7ogUSrGH5RHL/zddc+fSVE5p/vFcH7oywAA==
+CA: text:sha256:17dbcwkzkpqf2rcwkmwlj77shl34m5si9n17nanmfpzfvsryly64

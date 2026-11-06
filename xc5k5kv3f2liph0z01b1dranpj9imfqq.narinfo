@@ -1,0 +1,10 @@
+StorePath: /nix/store/xc5k5kv3f2liph0z01b1dranpj9imfqq-crate-slab-0.4.11.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1h9dxn5gy015r6a95drbi5w8djh79l9xczdc9racwi6j8aszdfws.nar.zst
+Compression: zstd
+FileHash: sha256:1h9dxn5gy015r6a95drbi5w8djh79l9xczdc9racwi6j8aszdfws
+FileSize: 1378
+NarHash: sha256:175x8qm3h5fkgmcz1ric5vsz2a5a30xxrjvdzkfbhhwmdsh3df2d
+NarSize: 3696
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:lWPl9sjSrUG+h/+QDkQb2RizvEdKHjdzdcH5nPUPzmVpdz6/ojBtFH2C/tx+SQ3RAUgPYEnQVJw9WQPM4yBOBw==
+CA: text:sha256:0y7pfswisk02y9jc245l8i0fxdsc8n3jqircfrzwpvz548iz9986

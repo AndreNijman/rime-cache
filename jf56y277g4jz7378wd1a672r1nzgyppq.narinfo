@@ -1,0 +1,10 @@
+StorePath: /nix/store/jf56y277g4jz7378wd1a672r1nzgyppq-nix-package-layout.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0vizyg5y119hmk5hnac2b08fmaq0dab3xyphq5161fljx4h8ijwq.nar.zst
+Compression: zstd
+FileHash: sha256:0vizyg5y119hmk5hnac2b08fmaq0dab3xyphq5161fljx4h8ijwq
+FileSize: 1445
+NarHash: sha256:198gnbjppdgqx565mv11k5mfbj0hl6h5phg03br8xgbkjf2km46s
+NarSize: 3368
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 457ml3w6m3qkazvn4brb1m040swnwb4c-nix-package-layout.patch 55031xbsdd2lvs9p2gm2ing153xnd4zd-gst-plugins-base-1.28.7.drv 6syp47m4fp8z5wqp1naipsr2rs8mdvcy-ripgrep-15.2.0.drv a7w374jq64acnyrwfvckymasm7aqw1n0-bubblewrap-0.12.0.drv g1ydz8c6g3ncix83j6vfm7pny3n2bpgs-gstreamer-1.28.7.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh pmwz3i65s4zs998jgp2msnfwn9s8z02f-ps-procps-4.0.7.drv r8qi7jljihh3lw673dsx5kh6h9q1qv67-gst-plugins-good-1.28.7.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:nu1FISJKAtWn/z+NuyLQg7NmwjFNMPx7IM+fsku2L0HfcDMs0RnsAOZj/n//6xyWEvPrtzV/d/k6Dtg7g3D0Aw==
+CA: text:sha256:0dh0gqjn9118wb7k1dl1a7c0lpzff7mxc53g9phyi4n9kkpayprc

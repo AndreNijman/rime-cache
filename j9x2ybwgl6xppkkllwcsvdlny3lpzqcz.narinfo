@@ -1,0 +1,10 @@
+StorePath: /nix/store/j9x2ybwgl6xppkkllwcsvdlny3lpzqcz-is_executable-1.0.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0cfva8kkqckw9rwx6ml9nvqcisasddccpvc5005mkis2wsq60klg.nar.zst
+Compression: zstd
+FileHash: sha256:0cfva8kkqckw9rwx6ml9nvqcisasddccpvc5005mkis2wsq60klg
+FileSize: 906
+NarHash: sha256:14q57ly6qxs1w25j42kvw0arjk2386jvygrig5qlmnxdbhziswhx
+NarSize: 2048
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9jj2d2891jgyymvh9agacn3hnbqyz2cf-crate-is_executable-1.0.5.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:DvqfeqG//uJvWOU8/pH07+i8e0+3t9cSBd6FOUzvxHZvdFTS3x4e8sf5mY0kft3g2UbHm9G14aqlSkxGI0obCA==
+CA: text:sha256:05721bi3d44kkd2z01f6lnx36z7lczsmww5vdb1fkzkn7xjic4zn

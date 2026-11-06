@@ -1,0 +1,10 @@
+StorePath: /nix/store/2kk63s434pvdn36b5sln66q9jyqjkqx1-X-Restart-Triggers-resolvconf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0avspwk755bk4h3hbaglywfl02zh41lcbkmj2vvraq6anl0rck27.nar.zst
+Compression: zstd
+FileHash: sha256:0avspwk755bk4h3hbaglywfl02zh41lcbkmj2vvraq6anl0rck27
+FileSize: 132
+NarHash: sha256:0l60mm1mdj77cb0ncr2q4y57pyzw9f36zaydixbnyamjqrn4in8r
+NarSize: 176
+References: v25bmpwd8asbdhxbdvbl5lnxiwvj719g-etc-resolvconf.conf
+Deriver: 1cqkm5crna2r04923cs9pf5dsyfvj1xc-X-Restart-Triggers-resolvconf.drv
+Sig: rime-cache-1:yTfVRjBZ2h7xHWFNk/phbWhFZWT4QNGIFYazJRmnrDv8ZGZn3eUsq/cdbM6lY3VOQcAGl6rzu3o9G0cFdEelBg==

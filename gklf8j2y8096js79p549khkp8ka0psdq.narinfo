@@ -1,0 +1,10 @@
+StorePath: /nix/store/gklf8j2y8096js79p549khkp8ka0psdq-lame-4.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/15vsl9d2a7nzc0b5mp3vrf6w4nqibzp1hdbhva7myr7jahxa6qx0.nar.zst
+Compression: zstd
+FileHash: sha256:15vsl9d2a7nzc0b5mp3vrf6w4nqibzp1hdbhva7myr7jahxa6qx0
+FileSize: 1196
+NarHash: sha256:108xxa8lw64q3fbxifar3dx8v289fbn706956r6y6z4xdin4m0a8
+NarSize: 2976
+References: 02hv0xqillcjmwga4xqdppqrfdp0890h-nasm-3.02.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv b5byxnbmjkb21gz8vah9sigkfhji34s1-fix-setlocale-without-iconv.patch bgsb97mmmwnrxiwkn5hhfb1yynrnvr2z-libmpg123-1.33.7.drv f4wi9zv532w1si33csnbcfcb51mr99dq-export-hip-pinfo-symbols.patch l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh ma77f4mrjij47sg8jaczcgzk3hpms52y-fix-utf8-id3-tag.patch mp1rhgks849b6chvsaaar1hpicnvkzq0-lame-4.0.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:agOSQcpjql+x9VBD4WFh9uftdDeUzzMUOiiCy5Jkn93KwXlQ9l57OyJYuVWEUUVVL6afmKz0zt8+rmZ9h+ygAQ==
+CA: text:sha256:1va60q3rdikm0li0nh2rnxnxr3pcgdbskfaq17d2rp9bmcd3bzs7

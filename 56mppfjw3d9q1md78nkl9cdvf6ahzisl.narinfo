@@ -1,0 +1,10 @@
+StorePath: /nix/store/56mppfjw3d9q1md78nkl9cdvf6ahzisl-X-Reload-Triggers-polkit
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1kqvs6ivcgxjl73c48la96h5147smwgdx39h7y0ma5ynhavn33j3.nar.zst
+Compression: zstd
+FileHash: sha256:1kqvs6ivcgxjl73c48la96h5147smwgdx39h7y0ma5ynhavn33j3
+FileSize: 140
+NarHash: sha256:09jg6bd5y73p2587zvq6al2aa5q021cxalx7c1cpwx5zihwamqcj
+NarSize: 192
+References: hpvgqxmvanxagk0xlq50wp3q39rdgw5c-etc-polkit-1-rules.d-10-nixos.rules
+Deriver: swj3i6mqs0xyp940p9ari4bkhc3f95a0-X-Reload-Triggers-polkit.drv
+Sig: rime-cache-1:3Z6NF7Qy0Vi5T5STmXwLDVQ2avggudDDwMddFiLelCX/LYPvC/27lNC2GzeZ4ZJs92UuBr7LxkFhb331PmGuBg==

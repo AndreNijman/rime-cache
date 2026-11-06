@@ -1,0 +1,10 @@
+StorePath: /nix/store/drpay9dhl4ara9ay3i7qzghs6lafwh8g-sluice-0.5.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14s1ianyak83lfd23pikisagw1cg3pdfcgbsnrn2ns0b60d5bnc7.nar.zst
+Compression: zstd
+FileHash: sha256:14s1ianyak83lfd23pikisagw1cg3pdfcgbsnrn2ns0b60d5bnc7
+FileSize: 893
+NarHash: sha256:1fdp41dm9ijpx04sckr7kq51pn9477hisx56iamn9r21r0s9169a
+NarSize: 2008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv is10nc1dak9r7r15nlyrd0bsys7biark-crate-sluice-0.5.5.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:tt/jbVBHoZYg0NodACxqPI/VSTn8+0os8LMXd8I8HPwPp50j9mKQPXW2J5HMjLDQW1JqgtxgyKpnihe/yiljAw==
+CA: text:sha256:03gywlg3088v9rbvaxbxy63b64sss07dhlrf3ya8y0vhqb3dngav

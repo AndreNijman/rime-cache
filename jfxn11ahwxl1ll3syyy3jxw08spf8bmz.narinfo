@@ -1,0 +1,10 @@
+StorePath: /nix/store/jfxn11ahwxl1ll3syyy3jxw08spf8bmz-40_suse_01-autogen-catch-race-error.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0nqa4sa5p0vanv2k8jgd9snv0wafs2ww53q4si91159f96sd9spp.nar.zst
+Compression: zstd
+FileHash: sha256:0nqa4sa5p0vanv2k8jgd9snv0wafs2ww53q4si91159f96sd9spp
+FileSize: 1443
+NarHash: sha256:14c645yk2lgvkr86kz07wm2463nvwvs89jwhxcaidb07a18xdscz
+NarSize: 3808
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:UUeIW0tcwYAOeYYBXx4hiIgB0eBmP9edDE0P8DeFlsSAfjwrmNagfQR9wqEG7DSqJiHJ8b0XWpEUQ3WC0MIOBA==
+CA: text:sha256:0wp1vbq6dc35cxxfx0lqjb4yq5sz84d4ssx3bgnbn5ckbgwjk0h5

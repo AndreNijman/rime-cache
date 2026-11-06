@@ -1,0 +1,10 @@
+StorePath: /nix/store/s1pc1cwsibm645870kwj0xl9d1n9pdjs-unit-thermald.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0baiy2c7865plk0kkghgbvaj1hbvzm0vxy4byr0q1109fr5wxa04.nar.zst
+Compression: zstd
+FileHash: sha256:0baiy2c7865plk0kkghgbvaj1hbvzm0vxy4byr0q1109fr5wxa04
+FileSize: 769
+NarHash: sha256:05i22vv8118gvgikf1ld63rxmgavivs38rhznn9pzjg1nrkbdqaf
+NarSize: 1648
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e hkm2dzgspcckl44cqssa22n1yp3f6hkf-thermald-2.5.13 kwyi4bq5s2qgwbhz6cs4gjy57c2zdxws-bash-interactive-5.3p20
+Deriver: q85xlsy3yi6a8h6g7qxg999x3dqi5n9l-unit-thermald.service.drv
+Sig: rime-cache-1:c56GX4So7B8iXbRewPAhJUPyjLN/ObW47M0rJ5bruFRsi3tqcYeKDU43x5E3uMoz86n0ZjCh5xieZe5xqQPqAg==

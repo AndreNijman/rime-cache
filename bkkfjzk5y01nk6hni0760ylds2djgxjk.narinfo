@@ -1,0 +1,10 @@
+StorePath: /nix/store/bkkfjzk5y01nk6hni0760ylds2djgxjk-ruby3.4-ttfunk-1.7.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0743v4pr9nfwwnpbf7bsqhxi4llb9an6lqhycrbpivv2z9h9zhiw.nar.zst
+Compression: zstd
+FileHash: sha256:0743v4pr9nfwwnpbf7bsqhxi4llb9an6lqhycrbpivv2z9h9zhiw
+FileSize: 2446
+NarHash: sha256:0qclik5aj6pc8bs1frv6s32c926qbmhwhz7s57pk9qbxp6am2iv7
+NarSize: 5816
+References: 0g0yma49kfz358f50v0g7dg8i6cq66xx-ttfunk-1.7.0.gem.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:INlUtfRJcrA0tZ1aZtINPWdaLfl260j6/FgD64XgXtCUUUjnWPc2o+d1HwE78uHy9/w377Y3fw+G8epddl4dAw==
+CA: text:sha256:14dj0v1njxc7wlp1iamwkd7d3m9vdf5m4ixdx9jd9lp8gmrmrqjz

@@ -1,0 +1,10 @@
+StorePath: /nix/store/fk8nvf8vdswypn13gwpcl06i14263jk0-tempfile-3.23.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14r2lyzknlsg3yq7k09cr4cgiiqmq2nkn1759wx4qyk9cr1amy2x.nar.zst
+Compression: zstd
+FileHash: sha256:14r2lyzknlsg3yq7k09cr4cgiiqmq2nkn1759wx4qyk9cr1amy2x
+FileSize: 895
+NarHash: sha256:18izq4vw8qmx6dpjnj3y3lbh4zgnappxqaa9x50yasmrsyx9nwsj
+NarSize: 2024
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m9v9nq04yxc5ykf32as05vhqwc9hvkjl-crate-tempfile-3.23.0.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:4jvQY+LoYZZSh38YVHHpLRsXnBlWMvBJhTv69DbZ8S3wqh5i0GYTYnsBYisgZR1Z+A7lcQ5fWSQwNbrlY5c+Cw==
+CA: text:sha256:1q1szk1zw88v4dbym697390k2zmnrl3hklkjbx2scbaxbif1x2lm

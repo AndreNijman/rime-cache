@@ -1,0 +1,10 @@
+StorePath: /nix/store/lvjkgvyicisxwngyc77y22mysd6mjbp6-audiofile-0.3.6.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0fhw0bsdzak6nd5l3rxjrrr2753yb22vfn4k71rwrnvwxywg0m4z.nar.zst
+Compression: zstd
+FileHash: sha256:0fhw0bsdzak6nd5l3rxjrrr2753yb22vfn4k71rwrnvwxywg0m4z
+FileSize: 1400
+NarHash: sha256:17hivc0ldbvyx0y3bmvbqyz59gr02yw5v1cll70dpw9i08gyz0xs
+NarSize: 3664
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:K942XVc5LNJygtUCO3JTzXgyDqt2I6OnxtvbjXwTUWbwmbHTltLBa+XUuFdRCf/2P4HGzTGX05C1wOrfIxglCw==
+CA: text:sha256:10hbkwslrc4vr9cvhmngac8vzp9krpk0nvi3l9w5vy5lpfsbvx45

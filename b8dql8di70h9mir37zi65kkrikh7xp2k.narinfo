@@ -1,0 +1,10 @@
+StorePath: /nix/store/b8dql8di70h9mir37zi65kkrikh7xp2k-symlink-0.1.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gkxa6ccdci5d0m20fgigslk6f8a1wlxjmfizynga5rm3rxqjn87.nar.zst
+Compression: zstd
+FileHash: sha256:1gkxa6ccdci5d0m20fgigslk6f8a1wlxjmfizynga5rm3rxqjn87
+FileSize: 896
+NarHash: sha256:04b5a62s96scjr594jjmf7qirrhlgvlz12a7rrwdzagzka453gn6
+NarSize: 2016
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 99i1an7fkk4b4r2cb059h8ksjn7xmbk7-crate-symlink-0.1.0.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:NQUp036dIeMzCP/FWtwl+XisvbOfL1FhgCg6DknKYft2+UKFsPyMgmFqKV6JE8Qjhx77svS35H/Bv0e4wbNCAg==
+CA: text:sha256:1phwz619317xnjf6cjd72389r1gbn911hdczsjzkw2h28a5z0avy

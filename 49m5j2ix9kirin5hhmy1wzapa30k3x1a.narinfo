@@ -1,0 +1,10 @@
+StorePath: /nix/store/49m5j2ix9kirin5hhmy1wzapa30k3x1a-zvbi-0.2.45.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/146jbmbpf0k0gbdnrczcag8v96wcan5h68s6qp6arwc2gi9cqa7g.nar.zst
+Compression: zstd
+FileHash: sha256:146jbmbpf0k0gbdnrczcag8v96wcan5h68s6qp6arwc2gi9cqa7g
+FileSize: 1039
+NarHash: sha256:0wgmcd775pvvj9r71c4dwkflj1izi0fdd4qxs099883xvxz4kcsr
+NarSize: 2568
+References: 2x4aa8vfj3fl1frwxrlsi5jjf0c6xq2f-glibc-iconv-2.44.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 651xajj3936gr55kmaywpni3f3qsnbpp-validate-pkg-config.drv 8r8x70f54kf47xxlr52i749sildywypz-tzdata-2026e.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qccmardzmmdzs5lzix0wzl6vr1jbg003-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:XkqYtZQKREGLorNEPSxTWa/PZHuZZ5bm+sNjYJ0INF7elTY3zLGsUD768YhtPQtzrK47U2oor8joOZoVpz/IBA==
+CA: text:sha256:0w202ac8j9jrinbrfr71a4ppqd02glkxdqmg78izgab3m21jcpgr

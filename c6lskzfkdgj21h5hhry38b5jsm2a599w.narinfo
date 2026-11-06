@@ -1,0 +1,10 @@
+StorePath: /nix/store/c6lskzfkdgj21h5hhry38b5jsm2a599w-python3.14-ply-3.11.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1jlr588wdr3zcy4lr9y7xy19qixgxh62qjh4fzl0xx3a2iq8gbc2.nar.zst
+Compression: zstd
+FileHash: sha256:1jlr588wdr3zcy4lr9y7xy19qixgxh62qjh4fzl0xx3a2iq8gbc2
+FileSize: 1576
+NarHash: sha256:1bzvnbnr9flxjmimvr81ricsk1ycmyvrs76b717k0gpgcs4n0svm
+NarSize: 4088
+References: 2i1795b07kafxvwch92kj0hfmjg37cr2-python-remove-tests-dir-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5rny9r1kd4c6mg2ha32wri4dvi0bcdp1-setuptools-build-hook.drv 5x76xgd4fqggv7ikx0985ayjh83azkqk-python-namespaces-hook.sh.drv 7zhs931h87ln2sknslmj1zv8jsc0mzm6-wrap-python-hook.drv 8h7xmhabwjbqbchnj8xgfjckh8r6mvjz-pypa-install-hook.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv kxws3pbi3sjl806nplw1j6apf9gjchk5-python-catch-conflicts-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mnhrps1293ppks5kpih2698302v1m8qg-python-imports-check-hook.sh.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv z9jdwcchp7g54n88by17i2kr5326kx2x-ply-3.11.tar.gz.drv
+Sig: rime-cache-1:NgDOq8aZa/Wr13n+CK6JlvM+K+TcPoLfj4/0qtqt3XxVg1L3m5uZ07p5+vHXV/tGj/Te1VjlvsAwYIh3q3koDg==
+CA: text:sha256:1lvkvk7vf4bgjmj7jcx6pc4xhzigr5s6zrwdxxgzknfzs198ybyr

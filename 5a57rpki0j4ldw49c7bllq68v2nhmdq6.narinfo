@@ -1,0 +1,10 @@
+StorePath: /nix/store/5a57rpki0j4ldw49c7bllq68v2nhmdq6-apr-util-1.6.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0zgwk18cin0dhh7y4d70368fgfxf09h4d44ba3ighq5k3hir1ixi.nar.zst
+Compression: zstd
+FileHash: sha256:0zgwk18cin0dhh7y4d70368fgfxf09h4d44ba3ighq5k3hir1ixi
+FileSize: 1842
+NarHash: sha256:1xd819hagm8mx0v0pxhzvh4xcl9pyv1gld7qji3nax8dgfyihxqp
+NarSize: 4592
+References: 2x4aa8vfj3fl1frwxrlsi5jjf0c6xq2f-glibc-iconv-2.44.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3bfz5msr97kqcqbnw0isim39p28ns4bn-apr-1.7.6.drv 4fw9ksqs3knbrsfjr3g47i16vzr5v30a-gnused-4.10.drv 6h9mymhjvyiky09myvcjr6i7bzmjsbak-expat-2.9.0.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv d5n9qjsfmb7rn7dc6x8p6dbhq3d5p9qj-fix-libxcrypt-build.patch i797sbsq7rnrfbf4yn708nsmxzg6mc3p-libxcrypt-4.5.2.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lk46vq15181l0c1s1rqcpkcfjvymgkvj-openldap-2.6.13.drv lvls9vr5djdh73ivxzlvvh0b0vhikmr3-db-5.3.28.drv rqr7r3lf0p8sb8svmv82w0bkml5vy5af-apr-util-1.6.5.tar.bz2.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:MYWyscHmQ6cWjwFKbshU+HCwb5HarCe96KaZdqWYvpQZuUU8QmkIsqhlEZItwqBxySC2Muoa+DUGDgDUSj8XCQ==
+CA: text:sha256:0im8w13gkj38jvzmnk3fy7kzcgq9d381gf4s9nrsmp72wvklvnhh

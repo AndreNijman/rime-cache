@@ -1,0 +1,10 @@
+StorePath: /nix/store/y6as2w2c80xcyr83ya9358lsqi56x594-xdg-mime-prologue.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1iinmf5208j5v1dd97axf5cgbqrmdpxafswwl40l0ccgkbqz5409.nar.zst
+Compression: zstd
+FileHash: sha256:1iinmf5208j5v1dd97axf5cgbqrmdpxafswwl40l0ccgkbqz5409
+FileSize: 1155
+NarHash: sha256:047fn02yra25mcp6n6pmmz0l0vwxzrdvvgph20lbfh537wwjv2b3
+NarSize: 2664
+References: 1b6dc0fncc74kn5vaj3zvcw5gj59g0d5-shared-mime-info-2.5.1.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh v70cqr8d92nff2y8l0dv25x4n3rgdn5p-perl5.42.3-File-MimeInfo-0.33.drv
+Sig: rime-cache-1:3FpY6JCzJno6Xla+YX1HaX4GR1VmcGZmtZ8U2aPQhHGXa1u4vxbKXzyvWY/XZSouXsY43b2XR1aHOtMakmjlCw==
+CA: text:sha256:0nij1lc5ywnrg2i3hfy4pmacicl24yiyarm4dfjp9kl7mjfbxfdf

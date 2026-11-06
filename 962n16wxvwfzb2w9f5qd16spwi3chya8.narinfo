@@ -1,0 +1,10 @@
+StorePath: /nix/store/962n16wxvwfzb2w9f5qd16spwi3chya8-jiff-0.2.16.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0jbhv52qnxpb9343wc5x8nkslqzjy8g67hdljjcnlwhyspy26dvf.nar.zst
+Compression: zstd
+FileHash: sha256:0jbhv52qnxpb9343wc5x8nkslqzjy8g67hdljjcnlwhyspy26dvf
+FileSize: 894
+NarHash: sha256:1w3hrv0mrrnpilxd9d5g0gf8az1iyrqbdp2g54a1xs9w0x3iqawz
+NarSize: 2008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv iczq2wcnixczpj5m9sii0afasijnfh7a-crate-jiff-0.2.16.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:6T4mS85sqUL24t94NBBOVgUHCMQgKq7ULpvdTt1srFAEgTIHgSQ+xpbFNpaUrZCNfNRCHYSrWvatU50ZDsxsAA==
+CA: text:sha256:10rv84x1gm74amh9whnx0q61kzg7sj2145ic786gmfkrldhhfiys

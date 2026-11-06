@@ -1,0 +1,10 @@
+StorePath: /nix/store/79ck5s2yq8y4185j572am153h4wv93i3-ffado-2.5.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0azcgvav2ssmbl1y6wyc32vay025rshnw6mjy13znsvp0z09zn6h.nar.zst
+Compression: zstd
+FileHash: sha256:0azcgvav2ssmbl1y6wyc32vay025rshnw6mjy13znsvp0z09zn6h
+FileSize: 2103
+NarHash: sha256:03zlbjdwhdr7qdsbwd9s494js3ylbsnd28h2ghgggw0hi32c1g1r
+NarSize: 4712
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5jy788vawdimr6svhpi3kdb5mc0jr5al-dbus-cplusplus-0.9.0.drv 62cwrayy65zaaf5r93g6vkwws38pk8kg-python3-3.14.8-env.drv 6h9mymhjvyiky09myvcjr6i7bzmjsbak-expat-2.9.0.drv 6kfw933caylm22gxzhx09qzck246gsr4-libffado-2.5.0.tgz.drv 819s6w5hl7qj8xwqq7zb38cr877nm8m9-udev-check-hook.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bcr3xmcmiq2fqs9z084b83cq7wnn9m5c-which-2.25.drv fxhxfwkjw0i5ndj05zfc2zg6ljd2g6ja-libconfig-1.8.2.drv g4lvr9rr19lgbdcn370q629ipgris85i-libraw1394-2.1.2.drv jsipbi9hs4xh68345nb6rbls69jpx0hc-scons-4.10.1.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lrpz1c9w519ac3fj48yq32qw9mqwddjq-libavc1394-0.5.4.drv qmp4d7yqfhg4iik024wfvacf4mll6sz5-libiec61883-1.2.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wca1z7d4whqbd3ymslw4ckmvvllmgg91-dbus-1.16.2.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:1a/nHpp1hWedDBBNWk7WAbnEc0HrcjSI+qBYsBS/VK15ioAbg/K0bcAMLPGethS4KtyU3pQWB8xlSzU4GnA3DQ==
+CA: text:sha256:14s9kbxkvr7l0y7y9z28pvilj5sixj05r4r54yi9j4k8a8rwfxny

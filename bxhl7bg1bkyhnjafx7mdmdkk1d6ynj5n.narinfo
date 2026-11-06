@@ -1,0 +1,10 @@
+StorePath: /nix/store/bxhl7bg1bkyhnjafx7mdmdkk1d6ynj5n-claude-desktop_4.4212.0_amd64.deb.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0n977b2r5h12z27clr0zw630v6rrdpw9i8h3xwx1q5dwvy1iy3h1.nar.zst
+Compression: zstd
+FileHash: sha256:0n977b2r5h12z27clr0zw630v6rrdpw9i8h3xwx1q5dwvy1iy3h1
+FileSize: 1387
+NarHash: sha256:19yk5fgjr71wdjs97sfwmr98p6vhmkcnmimrjfvxpxa13qhy0sbv
+NarSize: 3784
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:BDZg6t9Jvwh1Vun384QjlXr9vFL+VixUF2GukpkqmpzSwCgl0uYPtLKEUkH2aGgMXW0+rjBKCsodZp1j1qrvCA==
+CA: text:sha256:16fnv2xzkfj81c91kagz2pn2ax258gz5jzp64d2smcavrsmra5w6

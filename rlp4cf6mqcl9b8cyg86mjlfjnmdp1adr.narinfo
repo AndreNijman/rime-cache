@@ -1,0 +1,10 @@
+StorePath: /nix/store/rlp4cf6mqcl9b8cyg86mjlfjnmdp1adr-flathub.flatpakrepo
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0sn3j34hm7rsbnxc4p97w44l2icdkxw0hqvp23vz31ihncf77gzb.nar.zst
+Compression: zstd
+FileHash: sha256:0sn3j34hm7rsbnxc4p97w44l2icdkxw0hqvp23vz31ihncf77gzb
+FileSize: 3120
+NarHash: sha256:1n6axhrnqwsqkas2id6dnajis3lsggd63y60hsm0mx9ssqa5k66s
+NarSize: 4152
+References: 
+Sig: rime-cache-1:dkkPhm/oHYtkmiaEuCWgy8FnsVWzzlKzYOz900yQVMm3LzgjQhfJcJwu533sTBF3oqUIXuKK1nEtBFdoSjBVDg==
+CA: fixed:r:sha256:1n6axhrnqwsqkas2id6dnajis3lsggd63y60hsm0mx9ssqa5k66s

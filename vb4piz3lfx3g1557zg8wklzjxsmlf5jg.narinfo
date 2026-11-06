@@ -1,0 +1,10 @@
+StorePath: /nix/store/vb4piz3lfx3g1557zg8wklzjxsmlf5jg-css_parser-1.21.1.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1w7iln7zal83mys2gdynxymsh8bm2px5r4ixvmzr3026zb171apv.nar.zst
+Compression: zstd
+FileHash: sha256:1w7iln7zal83mys2gdynxymsh8bm2px5r4ixvmzr3026zb171apv
+FileSize: 1403
+NarHash: sha256:162i0qa78qv78hq9l18askghbjk3s3vi2bsmmhp8iagybjp0piix
+NarSize: 3664
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:DNUlFVPOFp/rl34Qu/6viciZZjRQkWbUWPhb8iJRxl57eeKz3+Y5Y52iQa9z7nywJ0iUXxT9Pd6vAzhotYozDw==
+CA: text:sha256:0h9ba0kx7nvc9d4q9b9sidwhkyhyymkjdpslrcbijysnc9lww6ra

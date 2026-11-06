@@ -1,0 +1,10 @@
+StorePath: /nix/store/ld69331l0pf9shdbm68y6ys3w60k64db-ruby3.4-asciidoctor-2.0.26.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1mpj24p1ni3x9s6lypcvf8ql1k4w768n2zprkmjnjk7d4a015n04.nar.zst
+Compression: zstd
+FileHash: sha256:1mpj24p1ni3x9s6lypcvf8ql1k4w768n2zprkmjnjk7d4a015n04
+FileSize: 2446
+NarHash: sha256:034a147zrypivmp78gvyqs4yxax1s23xwhkr1rv6m4a61nmjr2qf
+NarSize: 5864
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb s49bbngyl6zn502d4g3igahbsa7m7ka0-asciidoctor-2.0.26.gem.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:FVPF31XzwRb867FOrga3qGz2isa7eJGplHJ9OYLQyACTJuDWXwpnxIqEEqq/2VHZq4jEYUNI22qGKo6LIhg/AA==
+CA: text:sha256:04mgkbfdkq2v4998iymgl9rvwcc48278d6sswbsp1is1jzx7g467

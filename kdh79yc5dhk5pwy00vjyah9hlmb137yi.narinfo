@@ -1,0 +1,10 @@
+StorePath: /nix/store/kdh79yc5dhk5pwy00vjyah9hlmb137yi-fnv-1.0.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1fch3nnaj74fyr4sy1hq8nskwqx5qgfzpyyc5psh45wi8si863wi.nar.zst
+Compression: zstd
+FileHash: sha256:1fch3nnaj74fyr4sy1hq8nskwqx5qgfzpyyc5psh45wi8si863wi
+FileSize: 893
+NarHash: sha256:0mihc3wvz5b01f1mydl5s5rap2xqrn529dd8gxn7v99dy9nwj20i
+NarSize: 1992
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6say1i95b7f6yv79ii6wx41kspjx8mda-crate-fnv-1.0.7.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:93uP5irqYYvufNAPRBpnBamfVZYY4TD47i0WpfItIu2mt//we/eWf0yZLLKhL4x19F1LxoBxDoYuj/WNmLw5CA==
+CA: text:sha256:03h49l659bp0dylr46g25c3ry49pwq22vyzv2ya875dsvrdk6akd

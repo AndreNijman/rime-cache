@@ -1,0 +1,10 @@
+StorePath: /nix/store/6i63b2jqgacnq4lnd128s4k9z4jjq8mf-regex-automata-0.4.13.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0gqmlpl4k8syafnvk1bv3129qhwsnl2cpvc4ywnc316f961xc0bx.nar.zst
+Compression: zstd
+FileHash: sha256:0gqmlpl4k8syafnvk1bv3129qhwsnl2cpvc4ywnc316f961xc0bx
+FileSize: 908
+NarHash: sha256:1cxgrk5wyzp34wrn21a58m4gq4vws610l4a5z758ih5rzd23c511
+NarSize: 2056
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9g96f3scxn4a6sr19hmp32ffabyl8wzk-crate-regex-automata-0.4.13.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:+c2EWk3Kl19rAW6xfghsYTIWgFNnVP+EHAe+7hudD04nkzYHT3GriGay690X4gbOis7E3MNH4ZoVKTPUzRXEBQ==
+CA: text:sha256:1xj4sn4r9xwxpgbynr25j5bldhd2znrq3gc2h0w0c38synjfz2v9

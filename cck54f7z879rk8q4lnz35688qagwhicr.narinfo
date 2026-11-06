@@ -1,0 +1,10 @@
+StorePath: /nix/store/cck54f7z879rk8q4lnz35688qagwhicr-xone-0.5.8
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0n8hcvc523izxxzxb8gnhc180kkvggxsgafm6wcz0x9dwhsmrn24.nar.zst
+Compression: zstd
+FileHash: sha256:0n8hcvc523izxxzxb8gnhc180kkvggxsgafm6wcz0x9dwhsmrn24
+FileSize: 139619
+NarHash: sha256:0yi3m5d3qplcpapnli2fpfnv6bdsz682sqn9yd91fx280m25p20v
+NarSize: 145104
+References: 
+Deriver: v1jdaiab2i517iknimjvjf0v5yzyg7nk-xone-0.5.8.drv
+Sig: rime-cache-1:zV0Hu1LD3WQRJPYYUNkBMhDIivg/JQdcN0DJxrAN9Ypa1Npinl7j3ut+e+Ydg1bwLiAnCeD6gNtWjiV96LKXCw==

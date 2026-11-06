@@ -1,0 +1,10 @@
+StorePath: /nix/store/2pzbq8gbn1z9hfzz7f1l9znsvas5lv1r-backports.entry_points_selectable-1.3.0.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/09z2gdnx5m687q1gwcwdivfx43fyw01658fgzvqg8lnk8nq83j4n.nar.zst
+Compression: zstd
+FileHash: sha256:09z2gdnx5m687q1gwcwdivfx43fyw01658fgzvqg8lnk8nq83j4n
+FileSize: 1406
+NarHash: sha256:0p0kjss2skqavbyv7xrgz42mkivw9kw3cqin1j40m1h8k6nhfgmj
+NarSize: 3744
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:xPz857mjAH/fqb2OjCxgn/Istc0rlI28QY+ditLw9KGHQR8wKLuHHFcZdJMIJVEK8AVSvcW5FZBKlvwgt456Dg==
+CA: text:sha256:0s7n7xdzr3alv1l7r6r7s9zch59w6p2g8p938cfajfahxr927389

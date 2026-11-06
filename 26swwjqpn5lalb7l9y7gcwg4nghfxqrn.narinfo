@@ -1,0 +1,10 @@
+StorePath: /nix/store/26swwjqpn5lalb7l9y7gcwg4nghfxqrn-steam-1.0.0.87-fhsenv-profile
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bya93ln0b3av0clrfjzlqx99s4cgqlm83shhx9a8ngjmri3gcrs.nar.zst
+Compression: zstd
+FileHash: sha256:0bya93ln0b3av0clrfjzlqx99s4cgqlm83shhx9a8ngjmri3gcrs
+FileSize: 1714
+NarHash: sha256:1hjicmg0a4ffrpsrv09i627gjf9md90v5igwh2x5kw7j8d81c1r0
+NarSize: 3880
+References: 
+Deriver: fd7w9ghlqp35rb05wfid0yr9qd6z9h7a-steam-1.0.0.87-fhsenv-profile.drv
+Sig: rime-cache-1:e+11Ow5HobzTova6grkwV1Linmwa9YJ/wJ8+hyDCPvd0ZIpyRq7Umz/Wkeaxh8WTbWMPJvC/P1Wui21985LSAA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/2v1nfc61qvrr7pslc6mcaxg6ba605w0w-xdg-screensaver-prologue.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0k634m1dnfayvz4y6rjkz7linm10sa6jk7b6mmms99cq4v6w81cc.nar.zst
+Compression: zstd
+FileHash: sha256:0k634m1dnfayvz4y6rjkz7linm10sa6jk7b6mmms99cq4v6w81cc
+FileSize: 1251
+NarHash: sha256:0i1ysg5ixjir3k9sn91d1cbsn88zfcbpf3xsbv41x1ggkrh73m59
+NarSize: 2912
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4i1r5w0cpf3ha4mmdm4cfg3ck5z48y7d-perl5.42.3-X11-Protocol-0.56.drv cz1bfg08ijm96yrcnlvrhisw6mbnyhqn-perl5.42.3-XML-Parser-2.46.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv mj6rj2qgdxny8v70d0whrh2i6ar6a0d7-perl5.42.3-Net-DBus-1.2.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vcn3y7z2avndp53g42f982disi696xhy-perl5.42.3-XML-Twig-3.54.drv
+Sig: rime-cache-1:fNXy4ZyPChwVFZQTpAz+lE6p1sBRMhwIDmIVcycKyf0aGh5jzK+JHMijSelKzJ9tgzFBp+zjspYCmvRcYRm9Bg==
+CA: text:sha256:079p1c55w8spsr88933009za5lfrd10r56jg3hnqwawn95clf7pw

@@ -1,0 +1,10 @@
+StorePath: /nix/store/k0g380c1kanppwxhzgigvv11d34zanbm-python-remove-tests-dir-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1bv4x6ldla5rbjxnflr9pr0i4kba9v7ar16l5slw8rfpz34k8cxh.nar.zst
+Compression: zstd
+FileHash: sha256:1bv4x6ldla5rbjxnflr9pr0i4kba9v7ar16l5slw8rfpz34k8cxh
+FileSize: 854
+NarHash: sha256:09an5izj8bw5jnrga5dby1q070yyppkj88kp8pjyc4wbjbkygblf
+NarSize: 2240
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9ckkiyf1q5shd87k2v73j8lpmc5krsxz-python-remove-tests-dir-hook.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:EJJUS98+ZsGfhObUA3MXAUsba182zH0OJ9O28+bNIS+scHh0mmTvt5YP+3w93KKDTQSIY9clcoLfBlBsK19RDw==
+CA: text:sha256:0a5a7a0ggqcfss0q87gj1nxi0nkylgsajzp4g7bwz7zbj7jv6cwq

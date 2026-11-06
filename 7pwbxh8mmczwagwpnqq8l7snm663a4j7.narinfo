@@ -1,0 +1,10 @@
+StorePath: /nix/store/7pwbxh8mmczwagwpnqq8l7snm663a4j7-crate-synstructure-0.13.2.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1rv7736lnw130a2cql37z5gz4d13m7pnbgb46npkxk2gvh95spd7.nar.zst
+Compression: zstd
+FileHash: sha256:1rv7736lnw130a2cql37z5gz4d13m7pnbgb46npkxk2gvh95spd7
+FileSize: 1375
+NarHash: sha256:19cafbyhbryr4w9qfrcrwjc9hvn9jdvav15aid21jnvlsrfn2zz4
+NarSize: 3728
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:T6fTwQJuRR5x1cVldWiWuvILbvDpamF42eMjUhmm2licdtQrNlzRH/YMdgyU8ocDozJG3Pd8uw+lSprp+xeBBw==
+CA: text:sha256:16g7l9q4vlcaqlv7bz18wsilcjrbznc4fdi8akbbqyj43r17475m

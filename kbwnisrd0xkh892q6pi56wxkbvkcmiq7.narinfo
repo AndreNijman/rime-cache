@@ -1,0 +1,10 @@
+StorePath: /nix/store/kbwnisrd0xkh892q6pi56wxkbvkcmiq7-autogen-5.18.16.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0af3nz858lz8zph9z5rbz0pp442933zq95936rx66cdcifr91hyp.nar.zst
+Compression: zstd
+FileHash: sha256:0af3nz858lz8zph9z5rbz0pp442933zq95936rx66cdcifr91hyp
+FileSize: 1405
+NarHash: sha256:0wdwqz3nm4xr3j6xh707b6pnmrc3fqsyhwcfxpbbpqlj7h28gk8p
+NarSize: 3672
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:n4FKq2zTORDCFyN/v968lWgRjk/mrV25AlaB7arldZ7eipQllELIqFzMA4+mWrsttHvXkw3S/5IT9sXpLZ+/DA==
+CA: text:sha256:0sazi5albjq8blnf3vrvjyws900ssbjwgvgxgh41kdw7xp9bfars

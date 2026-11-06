@@ -1,0 +1,10 @@
+StorePath: /nix/store/c700620p2lz9nl21x0zj4i1gqydagaaf-python2.7-bootstrapped-pip-20.3.4.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0jf9pz3ykvxagchs0h3zvxa4aa7z9fmfjqd2dyg17p427kbj9ilz.nar.zst
+Compression: zstd
+FileHash: sha256:0jf9pz3ykvxagchs0h3zvxa4aa7z9fmfjqd2dyg17p427kbj9ilz
+FileSize: 1599
+NarHash: sha256:01501mnv6dkqg2dlx4jm8nb8gvfp63zrdrh6ngk026l1c6g98l2m
+NarSize: 4096
+References: 2c4blyq2wfsb4k32hhvgldj06d7jxsh7-setuptools-build-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 732fm1hlxi53i907s04cy1ll4kic0h0z-pip-20.3.4-source.drv cbzyafj5idjb3w0a74q1svdgf5rlfam8-unzip-6.0.drv j0b96r9c7y8w1jshp4v0jqdr9z8ycv3m-setuptools-44.0.0-sdist.tar.gz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lgzgzy9dz0ac0vs0g7m3inipyigs5kmi-wheel-0.37.1-source.drv r29mam1iykplq6ds238yq2aralh9abyg-pip-install-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:RsrSzmBAUrDytb7RvZychaa/SeoIcg5MNARLr0aKhWrtXggkSfvojv95dsa8N79i4+deIN5DssoSnWVxkRKvCg==
+CA: text:sha256:0hxsi08lzci5xjbm3x477mcqg3rz87qxkwba97dvqikpxgp7ygik

@@ -1,0 +1,10 @@
+StorePath: /nix/store/99qrqjmhapm9vij817rp7570fhz55hfl-etc-environment.d-50-systemd-path.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ba0lygv49cw4ckl0784g25kd1x51vkrkr2wf282qxn21gbpv6f4.nar.zst
+Compression: zstd
+FileHash: sha256:1ba0lygv49cw4ckl0784g25kd1x51vkrkr2wf282qxn21gbpv6f4
+FileSize: 241
+NarHash: sha256:05rc8l4bi8wmk1vd81fv1jdjaqk44q3yzmynihwkwrj0s56xfvxk
+NarSize: 432
+References: 
+Deriver: qbbslg2d1r32zgz0bk7hs23ix5y2mrma-etc-environment.d-50-systemd-path.conf.drv
+Sig: rime-cache-1:Ge898ZPQL1xWrLwTyELCZ+vKHEM/9bj7xCRiIcti0VfKQy2brFjeoWzvamvJ4VxhmJ0FbzIloGYB1uhKqc9rCA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/ixhhgir39a9pinj67k6iw42vv6yqmsgb-rust-cbindgen-0.29.4-vendor.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/08jfz21ryd0g1bgg9krxy04bdkd493ka8rws0ns1i5ljl0l0z7s5.nar.zst
+Compression: zstd
+FileHash: sha256:08jfz21ryd0g1bgg9krxy04bdkd493ka8rws0ns1i5ljl0l0z7s5
+FileSize: 1012
+NarHash: sha256:1yljpxsziz5iczdmf7x9d0sj7sgsgnw25apy09bv844h35q23f0d
+NarSize: 2440
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 45ial5wyx19y9hbfz1asqbzyx1vq4gdz-cargo-1.99.0.drv 66678n25ykgk1aylfrk4q6647pavd0qp-fetch-cargo-vendor-util.drv fc1byqrrzpcslw0m7ncfrl5acqw1pc6f-replace-workspace-values.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh zykfjlbg6sgh07j2pypprya5qb14cg0r-rust-cbindgen-0.29.4-vendor-staging.drv
+Sig: rime-cache-1:oPXUE1ECVqquuskw+MushTlkHBYMGkdVg1hi4Ssbl4S6Kv+jjkOZHIO37TUT2cPjcStc1c6lqopGEe65F5wjAw==
+CA: text:sha256:0xkr4rrzdsvym7mlbgsjrspdm0my6l9iixy5s2sfs7wn8r9brchz

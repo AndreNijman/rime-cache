@@ -1,0 +1,10 @@
+StorePath: /nix/store/0v47likpx2s1bsz0a44wp4snc1frykzb-concurrent-queue-2.5.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0pm9j26fzxig99i46i86jhqy7xh9dkr1929xycda108mc7ndj7fz.nar.zst
+Compression: zstd
+FileHash: sha256:0pm9j26fzxig99i46i86jhqy7xh9dkr1929xycda108mc7ndj7fz
+FileSize: 909
+NarHash: sha256:1g11mrh8nj58n75axnrwfc4lwx5ld16h0ykxcgikd5rrkfsizsqm
+NarSize: 2056
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv haq9lyg2dp1fy1qafv12k5z58hr2fxkf-crate-concurrent-queue-2.5.0.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:sJvtxncU00WZP74HZPGP3jlUIVTshThSW0rT9qok/AiBzCyPPiDr9qH36tfIEln5CPOr2t8lMmRPaGh49m6SBQ==
+CA: text:sha256:12ihjj0r1hw5x2nd3x119fmr3iky6rvzivs0jaqq0craaix1k9lv

@@ -1,0 +1,10 @@
+StorePath: /nix/store/4ybjww50mqmg6my21463ywx1jcijazjx-fonts.conf.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1kq0z33lms17ni4frpj36zlkw1v2sz2rvpn0kjippmmpzq8n9hqr.nar.zst
+Compression: zstd
+FileHash: sha256:1kq0z33lms17ni4frpj36zlkw1v2sz2rvpn0kjippmmpzq8n9hqr
+FileSize: 1175
+NarHash: sha256:11ql3lzrpmr0vhd6dak0ggppckhzzxxx3yp7xs6ffhx19a9kjjd7
+NarSize: 2992
+References: 2yznhicyw0lkz2balhnwxgw992zjjn87-ghostscript-with-X-10.08.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv h87x7ncrpxb69nylxfjw346nbdhimaml-make-fonts-conf.xsl ifr0ncw86kq555z9lrzabni2na9p8g3k-dejavu-fonts-minimal-2.37.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r7kprripy15xzxz5hpc61gl89zaflkn3-libxslt-1.1.45.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh yvxcj2hi66jds50c2i27257b3x1mk9z3-fontconfig-2.18.3.drv
+Sig: rime-cache-1:kcLwsKLZ0WKtzRqGhHlCYcPeE+sW2m8twLOLLhMr2KUPVTP59AH1IuioC3eLCcuSWkPZFzsLeM2EYbIe9DcHAg==
+CA: text:sha256:1yj7g6rbflz9a9z95rrz8vx531ihsc00ivc9hy0synssjdncm46r

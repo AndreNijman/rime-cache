@@ -1,0 +1,10 @@
+StorePath: /nix/store/3cb4qi9s2yf51mhvmq090hrrdm0s5ry1-libopus-1.6.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0r16ih7jy0n3dbgiiyjb0nhfpp3kqgncc7yvr57v1axj5l1qn317.nar.zst
+Compression: zstd
+FileHash: sha256:0r16ih7jy0n3dbgiiyjb0nhfpp3kqgncc7yvr57v1axj5l1qn317
+FileSize: 1193
+NarHash: sha256:0b16xk56ihzipr13dggsk840zhfzmj4gbjjifahlrnmxpk5azp71
+NarSize: 2776
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3ca5s98ga2f6n91yc6rww29bl1sjbp70-test-timeout.patch 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m88rcpyi7rjshxpf54v43bvagccg2by7-opus-models-a5177ec6fb7d15058e99e57029746100121f68e4890b1467d4094aa336b6013e.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh syifr70ndfpbk7s50g7n9fgjlnqnf4sr-source.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:E75I/008iMYYpH76A3MKIDNOoxsJ9wZHExF+ycd/ggZiqmztrOmSoFfJBl/2JKsFwwmi0ypPMku04NtXHt0mDA==
+CA: text:sha256:1qk4wvzh6cv0a686952x8wy356jr9cniq4h6sapf152fshm3nrw4

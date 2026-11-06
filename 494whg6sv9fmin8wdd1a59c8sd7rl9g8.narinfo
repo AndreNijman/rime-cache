@@ -1,0 +1,10 @@
+StorePath: /nix/store/494whg6sv9fmin8wdd1a59c8sd7rl9g8-libnotify-0.8.8.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14jgr8pphg33xr9g0v5g54sq9qzxqnnb64qjy7jrmp8fkkbim3yz.nar.zst
+Compression: zstd
+FileHash: sha256:14jgr8pphg33xr9g0v5g54sq9qzxqnnb64qjy7jrmp8fkkbim3yz
+FileSize: 1399
+NarHash: sha256:0ndnhnamxk5m1wx9kbp1v1apkqxxxnd70r0z3s013dh1asbdp1hg
+NarSize: 3640
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:87gQfS96wB17+ODBTTLLIYz7e7dTIzJPkxqHMGOwvQz4hKYOF7vWZJM8bCI4VK3PGjvPhBUlgCaH3m7+k2SmAA==
+CA: text:sha256:1lks8m04nh4nqqi8dyxrsbjk0lz4wrw2s9zcazizpikca3pkwvz6

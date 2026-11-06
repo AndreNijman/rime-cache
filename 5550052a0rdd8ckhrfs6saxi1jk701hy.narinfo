@@ -1,0 +1,10 @@
+StorePath: /nix/store/5550052a0rdd8ckhrfs6saxi1jk701hy-iso-codes-4.20.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/00yvnyxry2gxcdy1vqwp4irdyvd8lrimr7mp045py45mif47cbqc.nar.zst
+Compression: zstd
+FileHash: sha256:00yvnyxry2gxcdy1vqwp4irdyvd8lrimr7mp045py45mif47cbqc
+FileSize: 955
+NarHash: sha256:0xjn00k9riafpxn5gpyrpapvpsjvha7rpyj9bcg17cpa09lxc020
+NarSize: 2240
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv klwpqxm3cwh90ag0npljlifsdiqpxgjz-gettext-1.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh pfkc2fqha3h4z9d1sl7gwi1603zkcp6d-iso-codes-v4.20.1.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:PUKYyShSkA4+XDdFTiigK5TKJNUn/snmPiTphlHDvasnEzUlSS2PMX89CfUxRzUbjcCLu3VPanl1QaM7uJsEDw==
+CA: text:sha256:09sx76jjb00rlxi1sj40ghl6i51bmj1sz2yjv7sdd0dcgfyz8k2y

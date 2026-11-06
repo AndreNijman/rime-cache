@@ -1,0 +1,10 @@
+StorePath: /nix/store/m56qy72ybs94x2bid65hhdgq02smaj65-libelf-0.8.13.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0y5bp2399kki41z3z7s7y20sccxh4xlx1rshsn1q3wdn01w3lidc.nar.zst
+Compression: zstd
+FileHash: sha256:0y5bp2399kki41z3z7s7y20sccxh4xlx1rshsn1q3wdn01w3lidc
+FileSize: 1406
+NarHash: sha256:0iqn8242cffb4g0gb2lx9vkk16mcq807kspvy35apcm78kbwq6c3
+NarSize: 3664
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:kCKCmPMD0YxpaNcUjLOVVv1aKIB/6CGqp2Cn6SGLAkk1+8GeoZwNlgG0BjQR3bjiryzV3XIfXsvae8RFIHOYBQ==
+CA: text:sha256:1gr6ml81qjb4vmpl519znighkv2d46b0w7kiy5f2x2490bnylz4s

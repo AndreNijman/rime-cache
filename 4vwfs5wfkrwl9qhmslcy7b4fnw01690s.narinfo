@@ -1,0 +1,10 @@
+StorePath: /nix/store/4vwfs5wfkrwl9qhmslcy7b4fnw01690s-python3.14-markdown-it-py-4.2.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/06idx2kskkws6lgw9g0b81wr82jlq7f6nka1nf0rg1z2av6pc4yv.nar.zst
+Compression: zstd
+FileHash: sha256:06idx2kskkws6lgw9g0b81wr82jlq7f6nka1nf0rg1z2av6pc4yv
+FileSize: 2124
+NarHash: sha256:0898f3maqdlg0icvsn5iadjx4d621li5axcbxlpxlsxjhng5w4y0
+NarSize: 5432
+References: 2i1795b07kafxvwch92kj0hfmjg37cr2-python-remove-tests-dir-hook.drv 2vm9yrmqaw9nfbw0ivbhjbfbaygbismh-python3.14-flit-core-3.12.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 44q2zajrz91agb167xifb5qchwi1q8z2-pypa-build-hook.sh.drv 4gs1nln6jxd8ai3q85b55hlrii1jw9lw-python3.14-mdurl-0.1.2.drv 5x76xgd4fqggv7ikx0985ayjh83azkqk-python-namespaces-hook.sh.drv 7zhs931h87ln2sknslmj1zv8jsc0mzm6-wrap-python-hook.drv 8h7xmhabwjbqbchnj8xgfjckh8r6mvjz-pypa-install-hook.drv af89zk5j10aj4vf3fhl6pm3ixgmrnyvb-python3.14-pytest-regressions-2.11.0.drv c2k6nl2bywz4mrhdi67gfm2i5n2zl6qd-python3.14-linkify-it-py-2.0.3.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv jxjb6jfyhdgcrx4hdhqqjhai22h61qdp-pytest-check-hook.drv k06sglvkhikc4w8kzx50l9lbwvr9604s-python-runtime-deps-check-hook.sh.drv kxws3pbi3sjl806nplw1j6apf9gjchk5-python-catch-conflicts-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh mnhrps1293ppks5kpih2698302v1m8qg-python-imports-check-hook.sh.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv xbjm8k1jcv08s7wn3saf9a9c9fdqmjja-python-metadata-check-hook.sh.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv y0vbdbf1s1l517n22am0ajqzafcr2nf8-python-relax-deps-hook.drv yl9clcdiyhh8sab0pmy7w9b6ah3sfldd-source.drv
+Sig: rime-cache-1:XiOzVfk0wKDYVq33FJ72hA2NOQhTkMgPlfnYhXR5t3U2PyViGcA3eeD6t5M6hLoDiYwBzih4aBRCh8ZS8T9dBA==
+CA: text:sha256:1318xqk2sjwz9s0j321qw7s2j8k58j92rbdkrhcq73lk7scgi6sy

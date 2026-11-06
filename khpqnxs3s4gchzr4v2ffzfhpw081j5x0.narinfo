@@ -1,0 +1,10 @@
+StorePath: /nix/store/khpqnxs3s4gchzr4v2ffzfhpw081j5x0-taglib-2.2.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/17zj64y7pc67aq50c0lyw7y80q2as5nsymawdhfrkngyjfrcfpvq.nar.zst
+Compression: zstd
+FileHash: sha256:17zj64y7pc67aq50c0lyw7y80q2as5nsymawdhfrkngyjfrcfpvq
+FileSize: 934
+NarHash: sha256:0w32z0zd7zwdjxd1m8lq2s9zppd0df91pv0kxnrbj1z110gc65b8
+NarSize: 2080
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv fd6hwvfypgwz6vqcp3h3jw8cw8kz8mf6-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv vzwwyvxjcjps00fsrqh6j51wq3qns6l1-utf8cpp-4.2.1.drv wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:kA/N7zW9+Lxz9Uqe1uo7Q4sWEWVrzaHXx/PCY0cyR0yu1M/Bh4LZMe1C/qqWxpnrsHStgBYEw8G29uDjO/JUCQ==
+CA: text:sha256:08ppk3r6a0yxjaimw8gb3zb4kv1gzlj44dqyzwxlng3z2p1rvhpx

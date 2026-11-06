@@ -1,0 +1,10 @@
+StorePath: /nix/store/iwqx35pawvxwi6d6hs2vax6as20xqvxf-rime-session-labwc
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/15y5l8pnvzhp48wcw09509z58brb2m5b8rf3k1x5ssdzw6r0qw66.nar.zst
+Compression: zstd
+FileHash: sha256:15y5l8pnvzhp48wcw09509z58brb2m5b8rf3k1x5ssdzw6r0qw66
+FileSize: 276
+NarHash: sha256:1i05754rb64q7nk2y9azqcp64j73x67i6j5zrhx48nwz235x7951
+NarSize: 360
+References: dgz64r75cdffvx6ifmx1cj7jhpbbjkcc-labwc-0.20.2 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: 6qq65sg5wnyidma75gvjjmnv8hax7bwa-rime-session-labwc.drv
+Sig: rime-cache-1:2cO1WVdhhMUyTUES/1ix00dyDUhy16B6hZU8UqBZWd3NezARz1L9VjcyCIyepTIwj+ETsB7AGNPwKihOhgnSCQ==

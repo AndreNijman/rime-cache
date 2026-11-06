@@ -1,0 +1,10 @@
+StorePath: /nix/store/4wn323mv5djffm1dqi6kbwbndns3fs6j-qttools-6.12.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0iqkmv1rnd800lgnfgvs3n3yzyw0c637gddnsr0w8125kri7c91b.nar.zst
+Compression: zstd
+FileHash: sha256:0iqkmv1rnd800lgnfgvs3n3yzyw0c637gddnsr0w8125kri7c91b
+FileSize: 1388
+NarHash: sha256:1x47iq8dvmyy61xf5wfjypbvihsrk6bbsgnxvq2364520vk4rbfb
+NarSize: 3176
+References: 2ha5b47x31wp2pi2hmgh4ng76xgpw5vi-qtbase-6.12.0.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv f5swwapniajcbylbxsjnm9wlk8wxlpiv-qttools-everywhere-src-6.12.0.tar.xz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r989dk196nl9frhnfsa1lb7knhbyjxw6-separate-debug-info.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:zm9jY0O/h8LCYXNicIMDnuQnaOsIx1DrJhWjXATuNs09BX3s5NGmtzV224oHKKt2F4cDdNgsYYs2mvK0op40Dw==
+CA: text:sha256:0xnlpawapac0yah68fmii72qppxyrdx698wayf11y9rgdlvbb6vh

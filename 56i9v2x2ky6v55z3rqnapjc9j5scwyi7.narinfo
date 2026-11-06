@@ -1,0 +1,10 @@
+StorePath: /nix/store/56i9v2x2ky6v55z3rqnapjc9j5scwyi7-etc-rime-hostlayer-declared-accounts.json
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/09z6z83kcz6nvaiqxbj3bwlwfmvsgzvv85dq9dwkwcb5gq171zmp.nar.zst
+Compression: zstd
+FileHash: sha256:09z6z83kcz6nvaiqxbj3bwlwfmvsgzvv85dq9dwkwcb5gq171zmp
+FileSize: 895
+NarHash: sha256:1didicdkspjjb9pgkg3dl0ygwm0nk2j0yy2gi9rm1lsrl76ahbgg
+NarSize: 5960
+References: 
+Deriver: p1lcjm1iphl4534hq2d419v760idb213-etc-rime-hostlayer-declared-accounts.json.drv
+Sig: rime-cache-1:P0Xly/wCciPBm2Z3tBx28bNBkA+kcuG3EK6KHLwbaN96ub1GCWKSZ9kYqUtfRlphjw3xWnR/uWkBYvU28l3XDg==

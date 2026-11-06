@@ -1,0 +1,10 @@
+StorePath: /nix/store/zlpvchfv1n0v0zi07nsrx3xwnlcjciy4-libsamplerate-0.2.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1qhlmw5grn1lvwwrcykchlwfg5kh2q503r3ra511sainq8qycmni.nar.zst
+Compression: zstd
+FileHash: sha256:1qhlmw5grn1lvwwrcykchlwfg5kh2q503r3ra511sainq8qycmni
+FileSize: 869
+NarHash: sha256:1sxjprp1kbbda7zpgcqy14ijnkcms87kkb28gjbplmsc17dfsi46
+NarSize: 2168
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3n4fdfy2ps8zs92970q42aw3739wk6id-libsndfile-1.2.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wm01jf1l38i46ba4zjxpkpkqsmnpk5d6-libsamplerate-0.2.2.tar.xz.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:bsMUMl0GniJDXVkkGDo1LKk9srLnKjPKSQAjsM1ZjewXj9XKmPnP2knujaDpEc6JxHKVC4B2dWZyKCDUx2YPCA==
+CA: text:sha256:1iqml94adqb4c0ydj2r95gh5zwv3fnrggbnlr71rp7zcdhwi11hv

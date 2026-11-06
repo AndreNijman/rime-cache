@@ -1,0 +1,10 @@
+StorePath: /nix/store/vlmwxc4rnwpa8cbs73m4scv4n1k7iwbn-crate-crossbeam-deque-0.8.6.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0xvf101a04rn7n762gmpxyciysjk02hk0mhs8lqa7aqcvf4n9xl0.nar.zst
+Compression: zstd
+FileHash: sha256:0xvf101a04rn7n762gmpxyciysjk02hk0mhs8lqa7aqcvf4n9xl0
+FileSize: 1378
+NarHash: sha256:0gsyv0g2w07zhv4ml6b7sxmrhxwq04jihdk8ksm1icyx1db4n07q
+NarSize: 3736
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:bWmgdMiVYNHeE+yZhXzrMTaovD2SjDvj0dDIszP4Toy/7gHhWA7+2bfAfZP2fOcEMeo5QZOd9UxeBDgPglumAw==
+CA: text:sha256:1r3d7lflnffbyk10qacmjhslkw1x94vhpipck34l9v54k7z0zki0

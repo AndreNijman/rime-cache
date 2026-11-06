@@ -1,0 +1,10 @@
+StorePath: /nix/store/6kfw933caylm22gxzhx09qzck246gsr4-libffado-2.5.0.tgz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1glkj9mh4cmk39ybij97wvwblmz4gwvr53wmvcg1v5lr77iv3mny.nar.zst
+Compression: zstd
+FileHash: sha256:1glkj9mh4cmk39ybij97wvwblmz4gwvr53wmvcg1v5lr77iv3mny
+FileSize: 1390
+NarHash: sha256:1anbx5ybv45a7fjizr9mcjsk50nykix95x2bfpmyydv018bgkzkj
+NarSize: 3608
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:TeqXMFvI9Q1NLrYCQSq5Ggbse3fz5LGM5aAROIxUMwbdAwPLlR8X+SRGupTQ5yMjBUfHqfk9qMTiU9pyd+ghAw==
+CA: text:sha256:0jxbxicm4ixpk5gfd1xsxv1w42facw8y4wgkdflm16wwjx7s2i8j

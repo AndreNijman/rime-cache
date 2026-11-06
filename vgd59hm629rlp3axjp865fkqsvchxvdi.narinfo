@@ -1,0 +1,10 @@
+StorePath: /nix/store/vgd59hm629rlp3axjp865fkqsvchxvdi-netpbm-11.15.3.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0j3nrlg8iabcfby8k75bb8m971vswrgvkz79v77w2g55zlv0gy6z.nar.zst
+Compression: zstd
+FileHash: sha256:0j3nrlg8iabcfby8k75bb8m971vswrgvkz79v77w2g55zlv0gy6z
+FileSize: 2235
+NarHash: sha256:1wgj8k4y26swl8isia7p2vmfi4sh3wwabdgsrky1vhdjihxc94m3
+NarSize: 5440
+References: 1wj40l6nq7chs1zami65i3g7mwimrv38-libtiff-4.7.2.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4ci4005kmcb9p05rmj94mz8j46ymw8j8-libjpeg-turbo-3.2.0.drv 8h81nqc28i5hvyfvr1252d5blp722ra5-libpng-apng-1.6.59.drv 9abzw4a4vi8akcmqrcdzz0hckm6r0852-libxml2-2.15.4.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv fmnnhiy0v7fv4cln55hk1nhyickvbm8f-advanced-r5264.drv hjzzl7y4qy90800c8zk92z9w07l37x2a-gcc-wrapper-16.2.0.drv krzz0znidbvk7mi32cigir69hxsmxi67-binutils-2.46.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh pqgbzf5pia674iirk9fd4h4xmzs71n8s-jbigkit-2.1.drv qp5ghq91jr959aw46yqgdi0cpj3vjggz-flex-2.6.4.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:aAyGtNqiFPxfZpevWspE9gb0B2Y4AgW/mwZ37Bye8WGRZvP5s1z+KBfC1Tib7C0mrzy9bEWMpQGT1GVkrcRQBw==
+CA: text:sha256:0nq4n722a7ffnvx2sw6lrp34kin4fz78mxj9s6rnwxryfsvz778a

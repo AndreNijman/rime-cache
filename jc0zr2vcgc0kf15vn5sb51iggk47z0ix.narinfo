@@ -1,0 +1,10 @@
+StorePath: /nix/store/jc0zr2vcgc0kf15vn5sb51iggk47z0ix-Pod-Coverage-0.23.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/1235zl6hgnskf8c8lhgnldhp89f5c82k01dl3vc1rb7077fbh2cx.nar.zst
+Compression: zstd
+FileHash: sha256:1235zl6hgnskf8c8lhgnldhp89f5c82k01dl3vc1rb7077fbh2cx
+FileSize: 1408
+NarHash: sha256:1qpp9z6dpbrfwl2avi7v4vaxfdli3pmmwrpm7xwmvcc62q9d4ayn
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:Tx2CMx0X5qU6Dmhle/JOyrrTopStMaelkjwBF+hxU8pmn3ayDgY0Tau/vge2YKFxg7r84X/k2M+/Gx7OpukXBg==
+CA: text:sha256:14apqpb8a6j5dx5y12pwsmbgjh1n7g1zh4pgz46v0w8w8v4rwlc6

@@ -1,0 +1,10 @@
+StorePath: /nix/store/acsmj356qq5i4fd396798h6na8wln6lc-python2.7-oildev-unstable-2024-02-26.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0sffjhyl35mvmgcdl8yqjigf4gr53ci37ki4xamxdq0qbk3jm5ds.nar.zst
+Compression: zstd
+FileHash: sha256:0sffjhyl35mvmgcdl8yqjigf4gr53ci37ki4xamxdq0qbk3jm5ds
+FileSize: 2362
+NarHash: sha256:1fmjqh62dwpjcrygp29rna8kbq10n079cf4z30zx1s7lv11p166g
+NarSize: 5960
+References: 0smp0rs4jsvpzsakv240ywh7swvgl6z0-python2.7-typing-3.10.0.0.drv 1mddcqmyavrcaf3vgk2fddh0pa7pw82d-python-imports-check-hook.sh.drv 2zvcn5i5g883jpmv7myplz5x0w807gvx-wrap-python-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv ap23k1mfy5vys02yglg7frc1225gn7fv-source.drv cxp598z2wnfy8yf5z5gfvwnvabyzgh0m-python-output-dist-hook.drv fbrm5k3q1a4dr4hwff6h1fpm28kxh74b-file-5.48.drv gnb6c5bp3jn1s9g3n423bajc22rj7f06-glibc-locales-2.44-57.drv hbabbs4zp80j772ah2ga0z1fidnr8iqq-python-remove-bin-bytecode-hook.drv k0g380c1kanppwxhzgigvv11d34zanbm-python-remove-tests-dir-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r1affy2mxxi2jb3ch7cy7cjxvd3nygma-re2c-4.6.drv rkxb6gxnxigd4kc1lc03z7xvydflh5ar-setuptools-build-hook.drv rp9zgm3sr3rjh7glw755vd90smmy809v-pip-install-hook.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv sx180arb3q7xkv5dbaqvj2wj88jkyvih-ensure-newer-sources-hook.drv v5sdwz76j8xl1xq6hfwi1dgpirmkdwyj-python-catch-conflicts-hook.drv vsbsh2bcqkb5ra9yz1yalp58k0p55vl2-python2.7-six-1.16.0.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv z071zqc3hsa43sbg6awx9z26kxx5jxsj-source.drv zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:nRxg0WCkIK9p0oFHak1086BkBiV/+nskUXMhqDs0z7aNDOb/nkxOZWV3ddqd4et/J8yIKVBq04o6578HOCNmCw==
+CA: text:sha256:04byi59a36i5d67mjc26a26wkd7qpavj266km0b38pnf8cxjmf3s

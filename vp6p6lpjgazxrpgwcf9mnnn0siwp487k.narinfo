@@ -1,0 +1,10 @@
+StorePath: /nix/store/vp6p6lpjgazxrpgwcf9mnnn0siwp487k-X-Restart-Triggers-systemd-modules-load
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/03sj20aj7ph7vb9bz82vi5x9ylvavpa2rr2wm50fwgabxlaqbj24.nar.zst
+Compression: zstd
+FileHash: sha256:03sj20aj7ph7vb9bz82vi5x9ylvavpa2rr2wm50fwgabxlaqbj24
+FileSize: 125
+NarHash: sha256:10fxwn7m184x5dwd265v3sbk2l3kf71gcsikw51bk59vdf5rrccn
+NarSize: 168
+References: 831xygksnw38aqlpxzxkm2ga0lahdizf-nixos.conf
+Deriver: ilc0y4l4ajq1rx4c1m39pn13zqxqss7x-X-Restart-Triggers-systemd-modules-load.drv
+Sig: rime-cache-1:BLU2nnz7MI60NNRxF2GpCCxStiqkYVPRtYquLBWzxpAmpjEv4urwG2jvJVfuoFEO6MGGfpihRDr7mff5qRD0BQ==

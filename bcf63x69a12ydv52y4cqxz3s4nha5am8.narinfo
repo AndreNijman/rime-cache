@@ -1,0 +1,10 @@
+StorePath: /nix/store/bcf63x69a12ydv52y4cqxz3s4nha5am8-cups-progs
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1sdgsa2gvxqavm05a0sl1lgjyk7840b03k9cm6mxjbvi48sai60y.nar.zst
+Compression: zstd
+FileHash: sha256:1sdgsa2gvxqavm05a0sl1lgjyk7840b03k9cm6mxjbvi48sai60y
+FileSize: 515
+NarHash: sha256:04rs24ccv327pfraaxql63m1bia8blsgnw76zc7z9rmhflrgnjyi
+NarSize: 2632
+References: 659l9q22ydygcv7qg5jwi3hk1c51wp5p-hplip-3.26.6 79r53wchg1qh1dhj1m21fr0wqqly3wgx-cups-files.conf 7l1vns44j8jvdjpfy1j6gm50ikyl3q18-cups-browsed.conf il35v8k0x1mbdrr85p16vf25bq7plkw3-client.conf js42jalfhmr3jhg4p4520daavac7kky8-gutenprint-5.3.5 kl45yxirrhjp3lx356d6ljq0jv90bixy-cupsd.conf lmv081nxa4hl17g0acg2k5qrg2iz32xs-snmp.conf
+Deriver: b2jxdzhgqymi255lmk67xymzn9i2p7fy-cups-progs.drv
+Sig: rime-cache-1:QI7WZUKDSidJbdEgkA8E3+BuHIbeUckBbbByXByMSV7Mvmfjn7c8mMOPV5yLIm7GiYpK3SdXSO1/YBpDWWZ4Aw==

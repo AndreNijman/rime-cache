@@ -1,0 +1,10 @@
+StorePath: /nix/store/1g593wadmwx08p8fnk01b3y50570hf71-spandsp-0.0.6.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0hf4dy60vxplmyjmlq9v8zkakvz6m2f1vpra9zrq90nh51fbixp0.nar.zst
+Compression: zstd
+FileHash: sha256:0hf4dy60vxplmyjmlq9v8zkakvz6m2f1vpra9zrq90nh51fbixp0
+FileSize: 3005
+NarHash: sha256:000kw919387d2znghcb8qxvy8samhpb2r76mxmd7v4n2xxslpvab
+NarSize: 7352
+References: 16pq6q7qv350cnvdwkjlpd18l3gx9bf2-fftw-double-3.3.11.drv 1wj40l6nq7chs1zami65i3g7mwimrv38-libtiff-4.7.2.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3n4fdfy2ps8zs92970q42aw3739wk6id-libsndfile-1.2.2.drv 48ihr8r3x17167sy27hw1vffgj4ln3f2-Fix-tests-pcap_parse-build-on-musl.patch 82czysdbwzzvcrdfq1y9q9y4fv5kgy73-autoconf-2.73.drv 8535vxp9rsjhbf6vib9s5pq3lyvc93fx-automake-1.18.1.drv 8l74y4xj7g6yrgq1liri8cw07r4qkzai-libpcap-1.10.7.drv 9abzw4a4vi8akcmqrcdzz0hckm6r0852-libxml2-2.15.4.drv af39p2yqvm08zqk86f6jbwmg65h6ac5n-f47bcdc301fbddad44e918939eed1b361882f740.patch.drv axl9qgy1n8wk4kq33gba2hm7687zqzg4-Check-for-feenableexcept-explicitly.patch bcr3xmcmiq2fqs9z084b83cq7wnn9m5c-which-2.25.drv hjzzl7y4qy90800c8zk92z9w07l37x2a-gcc-wrapper-16.2.0.drv hv799i7ax0kn8bdmgz09f17y7858mkn1-1f810894804d3fa61ab3fc2f3feb0599145a3436.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh l9cmd52fjjkd5fzdmmryrf2xdq2alnq3-audiofile-0.3.6.drv m4dk2dfhibd5kjhg99z1f6x3kcw90md6-f7b96b08db148763039cf3459d0e00da9636eb92.patch.drv nl84vjdfp4hkik278sldsbxq5v6a5z3p-libtool-2.6.2.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vgd59hm629rlp3axjp865fkqsvchxvdi-netpbm-11.15.3.drv w31hqzjsgisjglcanqi9sskcy0874n9y-spandsp-0.0.6.tar.gz.drv w32d9vrkbzjsd17068ywhxmhj82fzjq1-util-linux-2.42.4.drv x3s74v0wmipd4lrbh58y1yvyv02immsm-sox-14.4.2-unstable-2021-05-09.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv ync0k2gpblgk0rnk4623ms39rz0bf37j-fix-bit-operations-ub.patch
+Sig: rime-cache-1:621Z0zKa4Li/jgJjY1YsxLM1ZfExXPx6kngsKbzSXjswHBUKz9AGCPsVHTQAdkFxJU6v+KrTr+TCTf3cFHiQAw==
+CA: text:sha256:0zqa2ip7rvx0x7l1p5zgjr7871f8f4yf6vd7w8c6qpp2d9ri5dzm

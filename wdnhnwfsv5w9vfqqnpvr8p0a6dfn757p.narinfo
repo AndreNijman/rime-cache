@@ -1,0 +1,10 @@
+StorePath: /nix/store/wdnhnwfsv5w9vfqqnpvr8p0a6dfn757p-guileImportsCheckHook.sh
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bdr1k9gydf4pl5izyx212jp89ppab4hdih1xjhy9xwblvkdngwv.nar.zst
+Compression: zstd
+FileHash: sha256:0bdr1k9gydf4pl5izyx212jp89ppab4hdih1xjhy9xwblvkdngwv
+FileSize: 458
+NarHash: sha256:08sxkbj78ggmsn50cxkvwmvl0bcav76c0l4z8kcwakwnxfwg299q
+NarSize: 800
+References: 
+Sig: rime-cache-1:9A1HVBiq1l5KL7AFDAO77ctI0ljyF9d+N9jweaih9cXkiWVrOaEMgrsfrtOuKaTziIZhXIk5Inh+yTFLyyilCA==
+CA: fixed:r:sha256:08sxkbj78ggmsn50cxkvwmvl0bcav76c0l4z8kcwakwnxfwg299q

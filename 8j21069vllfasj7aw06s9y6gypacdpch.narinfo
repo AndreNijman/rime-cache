@@ -1,0 +1,10 @@
+StorePath: /nix/store/8j21069vllfasj7aw06s9y6gypacdpch-bundler-2.7.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1bw9q4fq6jr672yk6yn814vlqm3y447ihswmpr7i3hffh28nqydd.nar.zst
+Compression: zstd
+FileHash: sha256:1bw9q4fq6jr672yk6yn814vlqm3y447ihswmpr7i3hffh28nqydd
+FileSize: 2591
+NarHash: sha256:1m97b5maz5lplg7kxqbgm2mg79bcw3qmhli9xjr2ff4ypjqfm1hv
+NarSize: 6096
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv kra0ipbw0j6nscqd23c9j6i6y4k3njgh-bundler-2.7.2.gem.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh pknjh6lilhgqqbmgi0a9yky1dl045ba4-version-check-hook.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:bLECqW6Fohs2xLxMd/UC1V3eJhRPdLdziVp6TtNCyqXW/fLL2coe5smAqoQLVkTRw6CAXRrtyGFBgBV6LT50AA==
+CA: text:sha256:00bwlglxka4nlsi69bzdypaj9788jpc78wa46vjf1agld2yk0iza

@@ -1,0 +1,10 @@
+StorePath: /nix/store/4h2sw9zw51j531900bdfrijw114lss5y-libipt-2.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0vlirhrb6qv61crvvay81i5rn0kiwfg9b5yv62jw0bs2yl4lqhnl.nar.zst
+Compression: zstd
+FileHash: sha256:0vlirhrb6qv61crvvay81i5rn0kiwfg9b5yv62jw0bs2yl4lqhnl
+FileSize: 729
+NarHash: sha256:04q09316i3ijxjh4pzs0shr7qzxnaa34mxj402s13aq3f89lcf1s
+NarSize: 1744
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh sd1rbs1a7zwfb4020zfyvbmjm0xmb4nq-source.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:4Zd3lE5XHRJkglho26GWkfWu1+EGPvBMsnfn5q9LUd/FRwf7pphXDmL6WrEQ58QO/VWtdx0LzO/365OQeDkrAA==
+CA: text:sha256:179f6kyrwiwlh2q2am1cxcrj5wacflj55siz3j3lx1mbgqz1gbkx

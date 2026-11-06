@@ -1,0 +1,10 @@
+StorePath: /nix/store/j0b96r9c7y8w1jshp4v0jqdr9z8ycv3m-setuptools-44.0.0-sdist.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gwgqp2snxksh1yb5ssjhvfhc6irkc585aj625cfqifcr4qwgkx7.nar.zst
+Compression: zstd
+FileHash: sha256:1gwgqp2snxksh1yb5ssjhvfhc6irkc585aj625cfqifcr4qwgkx7
+FileSize: 989
+NarHash: sha256:146agqkn8lhmlcjbxghjzcg3qnj0nbg10dc1863ik80dnln32a89
+NarSize: 2448
+References: 0qzs4kq2lvl09k80nf54bl00hd2ylfam-tag-date.patch 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh x1ly3df8mdlg4ack5974xzs2ny32zfm3-setuptools-44.0.0-source.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zbisyn6pid8sjlh8hp5kacsgx789c3sa-python-2.7.18.12.drv
+Sig: rime-cache-1:y98bHxiQ17X2nVicFoEROEJENbQ+GqZ087oinDahH39PPJRKAeoXhQjcmKpZoUXOiKv/O51Sh5hLthbts2JXDQ==
+CA: text:sha256:08g5nr11b542qaiv1idj1h4jilv8gm2lvz8jc1i8qf0wm6rlmfy8

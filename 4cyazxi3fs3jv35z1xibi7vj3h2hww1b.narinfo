@@ -1,0 +1,10 @@
+StorePath: /nix/store/4cyazxi3fs3jv35z1xibi7vj3h2hww1b-55-nixos-aslr-entropy.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0g0a2v6v5minnzy6jz08xnqd2fnlmp7gzwi2wnsbc0wm6gg70apa.nar.zst
+Compression: zstd
+FileHash: sha256:0g0a2v6v5minnzy6jz08xnqd2fnlmp7gzwi2wnsbc0wm6gg70apa
+FileSize: 113
+NarHash: sha256:0r6i15hnbp5fbpv79yphb296a6dfq7fx8j19cgkff2xa3avxqp2k
+NarSize: 160
+References: 
+Deriver: i0n3dxym4s63lf59sny1575q083cxqcy-55-nixos-aslr-entropy.conf.drv
+Sig: rime-cache-1:tGXHU/aLEtQ16iDC019NA2EHo8+urqfWhMciQQ/MndHxrkWqv13LW5uaV3qYXqxnSI3/NbQIJIAJokJbjeKGAA==

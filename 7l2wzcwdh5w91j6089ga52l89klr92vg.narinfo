@@ -1,0 +1,10 @@
+StorePath: /nix/store/7l2wzcwdh5w91j6089ga52l89klr92vg-webrtc-audio-processing-2.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ia4xbhgp2c0vilx7bs4jfjrky4mscgpapaww1m2ym262k8l3rjz.nar.zst
+Compression: zstd
+FileHash: sha256:1ia4xbhgp2c0vilx7bs4jfjrky4mscgpapaww1m2ym262k8l3rjz
+FileSize: 1100
+NarHash: sha256:071m080rk43zb94ca1sih47plya1p5rmzvc15bym8ycf2i0y7f2y
+NarSize: 2720
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 35yva0034pqqcz6bjsdr9zk1b61km9q3-source.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv fwgx1fvnzzgklg9syaw9n76ff38924pq-gcc-15-compat.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh m0arxd5gqa9an6dnhps6s4cg3nd8dlrx-abseil-202508.patch shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sr6qvj5kxzv9jxgy9hy9kcmikw7hjhfk-abseil-cpp-20260817.0.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:NMssqtb3I+AQHF/VlxoAF46vVEGogkbKUbCme3INaVywDso6HBDj+Y1xefETgGSyukaXcmfOvZ7TmmRvi7xMCQ==
+CA: text:sha256:1l198h3vy1x0d9h1364hjrns9vg8g7id6vw79gf6vcpymfjkhh18

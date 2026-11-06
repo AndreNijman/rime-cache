@@ -1,0 +1,10 @@
+StorePath: /nix/store/dfj3379ahs85il6apx72i61vld50gh3s-crate-errno-0.3.14.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0pbb8i24w4r34ab6sn10y9v6q7sr7899886plwyzw84ks2qpjgnx.nar.zst
+Compression: zstd
+FileHash: sha256:0pbb8i24w4r34ab6sn10y9v6q7sr7899886plwyzw84ks2qpjgnx
+FileSize: 1373
+NarHash: sha256:06dmxz1g92grz5mkqgacd17dyv02mn23wki9ayhhk48c37q6dajb
+NarSize: 3704
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:Rdqeg7Q6d+vIxhsMHc/lmj0ZTn9Cwj+tnKUpEjBTX+l5tYlHh2OChJLdJRF70qPIuFb4tgwE91GwRWHnS1/zAg==
+CA: text:sha256:0idlqzc63zp2hyj12vrfq346ydypc65513kjsx6v17vbsk6zavxs

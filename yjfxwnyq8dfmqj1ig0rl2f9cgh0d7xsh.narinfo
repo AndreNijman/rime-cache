@@ -1,0 +1,10 @@
+StorePath: /nix/store/yjfxwnyq8dfmqj1ig0rl2f9cgh0d7xsh-pkgconf-2.5.1.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0kmr639wwjr08ggis7s01wdmdjp3bl33lqnqs0zy3lnczpjkb53a.nar.zst
+Compression: zstd
+FileHash: sha256:0kmr639wwjr08ggis7s01wdmdjp3bl33lqnqs0zy3lnczpjkb53a
+FileSize: 1401
+NarHash: sha256:1jsw4krsc6lc008jspwi0i45mh55mjgjg4hiby63dkbjqkkk5mr8
+NarSize: 3648
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:AM9Yb0ovxxU3fxynhjwLpG7CN6+UDb1rXZZkKFH/CM+6KPPXNAj7wuWSb/TTMAUc3J1DVWZQwIdvMCc3zC7PDg==
+CA: text:sha256:0hfy2x0vk530wq9qvbfqx953wx0665yv9vm0l13kg6livv7j92sz

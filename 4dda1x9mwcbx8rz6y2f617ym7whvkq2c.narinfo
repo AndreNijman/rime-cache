@@ -1,0 +1,10 @@
+StorePath: /nix/store/4dda1x9mwcbx8rz6y2f617ym7whvkq2c-appdirs-1.4.4.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0n26zqv4jlzgrrkkvqipj3fcrz7fz88ga34460yccwy6z0cn6dp3.nar.zst
+Compression: zstd
+FileHash: sha256:0n26zqv4jlzgrrkkvqipj3fcrz7fz88ga34460yccwy6z0cn6dp3
+FileSize: 1392
+NarHash: sha256:15vyi1n1xdsrrbzqgxn708vxcjlqxwm39k6fvs7bahzyfb22pmv7
+NarSize: 3616
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:QSYNLVYkh5w9nyb6/NwSzJ6SslU/oluKA3PSoYn5Y4trQW6NGeYpUxYhuEXohQqJXqYb7clz9WeJ2W+hzLUaDg==
+CA: text:sha256:0sqsyk7qggpppkcpkkczs22wx4ffpnbs9j8vcbsjx2c3bmk0v0wl

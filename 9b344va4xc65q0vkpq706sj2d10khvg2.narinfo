@@ -1,0 +1,10 @@
+StorePath: /nix/store/9b344va4xc65q0vkpq706sj2d10khvg2-libcanberra-0.30.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0gpzrqdliyskg62vwl4y4nri3jdgmx1sqxh32rxq58y4ff2f8rm7.nar.zst
+Compression: zstd
+FileHash: sha256:0gpzrqdliyskg62vwl4y4nri3jdgmx1sqxh32rxq58y4ff2f8rm7
+FileSize: 1415
+NarHash: sha256:0yjy67q0as3pvdiffmnydjvszss8kqgfv8shz2bqvyql4pz2nz8v
+NarSize: 3688
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:6KdpBXz/Rjt/kBo4LSWy64lw9NaJOOQ7oVSZa+IiwK0ZcaEGoTSKiEkUT8ZV4f7axTxvPf19HgU23onLNPOHCQ==
+CA: text:sha256:0zp7zfmcnxwx9gkh8xkgc00arq309lsnyf07ss0a4damg0fmyw2g

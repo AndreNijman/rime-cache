@@ -1,0 +1,10 @@
+StorePath: /nix/store/cg3i7an2h5fjskxjnnas81l545yayvkg-rustix-1.1.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0d4mq8d00sawydm4y0x7kpl8fvhgnm0xm4yqcnjb59g1823a47gq.nar.zst
+Compression: zstd
+FileHash: sha256:0d4mq8d00sawydm4y0x7kpl8fvhgnm0xm4yqcnjb59g1823a47gq
+FileSize: 895
+NarHash: sha256:1zk8pxizfqzg22wr48ck1xvkgd1agrd4p2vvd1sjfncgqhfbs87a
+NarSize: 2008
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv cdg69qx3sinwqg98dv3rbvm9r1s6vmg4-crate-rustix-1.1.2.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:7SB0yFSELAqMipWRI6Xex4+/G24i0pwufdL1MVF9dVKMcpo0W4b5Q31gLqMLHtggsfVtX1rPPuyAQjZBSch8Bg==
+CA: text:sha256:17clflzkzgylxkiy0mys456km8asfjf57wq88fkpdy1rz47nnva6

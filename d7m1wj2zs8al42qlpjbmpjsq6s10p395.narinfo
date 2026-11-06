@@ -1,0 +1,10 @@
+StorePath: /nix/store/d7m1wj2zs8al42qlpjbmpjsq6s10p395-libxcb-wm-0.4.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0349z9dh5adl3n7mrdxjp6yrvc10mr22cyxxmhwvnmrf134hvh02.nar.zst
+Compression: zstd
+FileHash: sha256:0349z9dh5adl3n7mrdxjp6yrvc10mr22cyxxmhwvnmrf134hvh02
+FileSize: 985
+NarHash: sha256:10qyx1mqd07cmri9r2w99q7zxyh7120y7dq3wdcrmp1hdwmpfadq
+NarSize: 2448
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5079zx28lciny73n7cjfgxzyqkrprgja-xorgproto-2025.1.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv ib05kzzpwqd9mgfvfy85psvs2k20f26z-gnum4-1.4.21.drv ic7yqq4xlvmcy1kn3vp76hav0rn9c7iz-libxcb-1.17.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sqxkjn0lbbzb4ikkr6pbq2wbzgh1b4v7-xcb-util-wm-0.4.2.tar.xz.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:4A98r0ldjDnCudpQ5Yu/OIjVCHCNwwiJtGnCj8hdwZO1UTB5X0cgKBJo0FR4UV0SMxaywNXTHm1qM31wJO4fAw==
+CA: text:sha256:19wy91d3qhc4ib8h646hicv6ssxbi2s74f02bqxavn2icck91dv5

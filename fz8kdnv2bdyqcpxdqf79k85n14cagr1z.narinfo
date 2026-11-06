@@ -1,0 +1,10 @@
+StorePath: /nix/store/fz8kdnv2bdyqcpxdqf79k85n14cagr1z-X-Restart-Triggers-sshd
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1kxc04iiw0zqp04i1iraxi7y0fjbvmhl4giakdvzj01r3057cfjj.nar.zst
+Compression: zstd
+FileHash: sha256:1kxc04iiw0zqp04i1iraxi7y0fjbvmhl4giakdvzj01r3057cfjj
+FileSize: 130
+NarHash: sha256:1iawadqjf8aq2sxk7nggppdiizp8im2jqccffv0q5r0j9p5kb6ba
+NarSize: 176
+References: 6khilwpjqw4asldpfhs55i6r68gqi4j9-sshd.conf-final
+Deriver: yx9hnp5y0692zp0pwhhfywladib775sa-X-Restart-Triggers-sshd.drv
+Sig: rime-cache-1:Nsnwk2WZT3saAIH9ezYVREdXMMlyZOZtNA/eKhlvY71/L2LGGXvYs11xCaspb6eLXeDEwJf8xBT0tLy/8LDRDw==

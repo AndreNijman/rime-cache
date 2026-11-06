@@ -1,0 +1,10 @@
+StorePath: /nix/store/bsjr2qlb5yg4ixmb438nbgjfab4zcy6n-rime-session-hyprland
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1kxsyyhbbcl3y1jg5xdwnnk07sszq2s246ybx2jbgfp658ryacfa.nar.zst
+Compression: zstd
+FileHash: sha256:1kxsyyhbbcl3y1jg5xdwnnk07sszq2s246ybx2jbgfp658ryacfa
+FileSize: 283
+NarHash: sha256:0jl6z1mbz2nlsx24p663z7064fbsnn5m7am7grmkncvlrc0xwp7l
+NarSize: 376
+References: dmxlm63flzqqmm1wxfgmq057g2df2pmx-hyprland-0.57.0 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: cf885yjrl1mbf375iklf5q3x0hxwwajb-rime-session-hyprland.drv
+Sig: rime-cache-1:yHNvyw3c1QsdIGIGg6M+liYsWnrvT3m4wEz20sxFhZ7KWylY9Euy0rVqb47LobZHgSwyXHMm92RyfXZnieuKAw==

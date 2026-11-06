@@ -1,0 +1,10 @@
+StorePath: /nix/store/q2waqcgi8h7bk7hs1z47khmy08i1kna3-wrap-gapps-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0rk8kx80b6ji5a6q1j5ihvxbbyn4k0j063vzvck0488vm5r6mfpf.nar.zst
+Compression: zstd
+FileHash: sha256:0rk8kx80b6ji5a6q1j5ihvxbbyn4k0j063vzvck0488vm5r6mfpf
+FileSize: 941
+NarHash: sha256:09hjxcdapic6pcxgmgcszh7w9z3w90pw221fs3yxn5i2lxqg2j5b
+NarSize: 2256
+References: 2rkm5rk6qrblmviad2p0mmxqwc6wklck-wrap-gapps-hook.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qzimqf1db0a780080l00p8w7l5bd3p6z-dconf-0.49.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vg2yqik90dgl8dvyx73c07bi5pf9kz0r-make-binary-wrapper-hook.drv
+Sig: rime-cache-1:UyyOVAR+QmIxjcgEvzE+3D/7C2p6M6NA62OpIg7RXF1wgF2ThxcIFQtMG0nCG9SZE2CpN1UMn0UprKFI1CqKBg==
+CA: text:sha256:0552mg244prnrl210sjpkrsdv97fa07pdrn915yqjqy8xrszpqmc

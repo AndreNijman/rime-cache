@@ -1,0 +1,10 @@
+StorePath: /nix/store/mlx4a0qzqd3vb0hzfw51br3llaffpw70-python3-3.14.8-env.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0bj7ppxrrhjn06r7y3fl7x8rzjzfv04hdyx83rqcqinvs7la87c3.nar.zst
+Compression: zstd
+FileHash: sha256:0bj7ppxrrhjn06r7y3fl7x8rzjzfv04hdyx83rqcqinvs7la87c3
+FileSize: 1765
+NarHash: sha256:1sbfpx3s06fyf3abhz69vmaaigzyiw7yhhskqnfrm79pzyyvxnb1
+NarSize: 5120
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv hykq8sd1r3cmyb93hphxh9mjxl8vr690-bin.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh n7ha4bxj9lakwy7i5p44g9idjc7qpk5z-python3.14-pycairo-1.29.0.drv s3bkpvjkcjs8h1895a23bw6w8payi0fm-builder.pl.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh skiv8m99qzrx1m4iavzm6hvqg21bj640-python3.14-pygobject-3.56.3.drv vg2yqik90dgl8dvyx73c07bi5pf9kz0r-make-binary-wrapper-hook.drv vp41zp627jr5xwh6wq9v5653xf8jidm0-python3.14-tap.py-3.2.1.drv w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:NkcJZAvcYEQbckHu0IBIuXbTHERBSCO3LXNDd8VeLZHHC0fWNSdhRbNDvqbLrCc9aH5MKM51Bw2sBO09gU4TCQ==
+CA: text:sha256:1w11dfc6xxz51czr0z2mmzcvwdyvaaxm0s77v5ykvxmx9ybxcdsn

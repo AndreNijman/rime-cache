@@ -1,0 +1,10 @@
+StorePath: /nix/store/b1nfcx14rjvi7604lr35f23r0j4w5pf7-rand_core-0.6.4.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/11xp4bam1wai5nlnc2nn1kabnnzakkjmkbq124pslp4mil9ngpqy.nar.zst
+Compression: zstd
+FileHash: sha256:11xp4bam1wai5nlnc2nn1kabnnzakkjmkbq124pslp4mil9ngpqy
+FileSize: 895
+NarHash: sha256:02bjc1xb4ky9cday7r15lpvwdjvzva1ffamhp8pcxp0p8ksrid06
+NarSize: 2024
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv cpjnb34irqzaln2yvxsjjnikzqh9wwap-crate-rand_core-0.6.4.tar.gz.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:+Oi4gxcuAfPXCcQBei1pBE+KxitKv2GuYUTzD8vLJgRSXBCdy1f62X8+Nd0VrZjNP+HYmazKcNoRGAvjWPBsBQ==
+CA: text:sha256:11z8wpxlznzd9jk79bmmq40icb5xkg6n3wn5is97c2wal8lci87l

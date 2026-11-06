@@ -1,0 +1,10 @@
+StorePath: /nix/store/0ab8bxyq4mwcbd43c5ib19sc29plzfp3-unit-systemd-sysctl.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1f320bn2p5yfbqbx8q9v60yw6anqaw20ay87cbxaxzlpjawvmkwq.nar.zst
+Compression: zstd
+FileHash: sha256:1f320bn2p5yfbqbx8q9v60yw6anqaw20ay87cbxaxzlpjawvmkwq
+FileSize: 598
+NarHash: sha256:1a7v81vch24px24zh7y0v5xnm1cz1c05xh22pb20bcrgmwa5v4z6
+NarSize: 1304
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e ijrnwirkbkww4pgrcp9mjgppgli5rfns-X-Restart-Triggers-systemd-sysctl
+Deriver: xw4p6xvqqnadqm3nc9jdi07niilgc5sk-unit-systemd-sysctl.service.drv
+Sig: rime-cache-1:zWX5+GR02B7av2ZlKrKl4Z5NSPtpyPV9ICUlOYC+bpT4OFxX6hzL1CK0SdlkPKzeQNSpxfKpw23QD1bstXIzBA==

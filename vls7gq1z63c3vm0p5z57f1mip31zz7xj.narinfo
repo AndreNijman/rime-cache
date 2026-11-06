@@ -1,0 +1,10 @@
+StorePath: /nix/store/vls7gq1z63c3vm0p5z57f1mip31zz7xj-libxcb-util-0.4.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/04yi99cx74api75jfi2cvfk72sglfhsg7baqsa94c13qvwyc1fsh.nar.zst
+Compression: zstd
+FileHash: sha256:04yi99cx74api75jfi2cvfk72sglfhsg7baqsa94c13qvwyc1fsh
+FileSize: 852
+NarHash: sha256:0iqblg25zmmy3jwmmkck17r5mzsik2b55rablam7hi51f8rwgjqg
+NarSize: 2184
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv ic7yqq4xlvmcy1kn3vp76hav0rn9c7iz-libxcb-1.17.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh n8dah8q7rajh40698r9khylw0gznbwyp-xcb-util-0.4.1.tar.xz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:C0B3L3uDTKchrN1bpGj4ctnVX8w3MIl4Umd5w+/NaeYC8rpJhVJMibBDvommp8TjuGK5b9Jof5vubdfT2NAbCw==
+CA: text:sha256:0r9fsmr6hg9mq6rnxsi0syn3ma83vglx89hf10201flclgmikmza

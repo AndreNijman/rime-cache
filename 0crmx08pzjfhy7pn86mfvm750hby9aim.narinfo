@@ -1,0 +1,10 @@
+StorePath: /nix/store/0crmx08pzjfhy7pn86mfvm750hby9aim-etc-xdg-xdg-desktop-portal-hyprland-portals.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0sr5r69v7va7xjbns6s5p9afrjb7aqyxmcs4lrkn6la7xjhqhnyn.nar.zst
+Compression: zstd
+FileHash: sha256:0sr5r69v7va7xjbns6s5p9afrjb7aqyxmcs4lrkn6la7xjhqhnyn
+FileSize: 164
+NarHash: sha256:02z0zs87a6dp29av9qkrcydvzv1cchi89hfwg698vyflzxfgv98k
+NarSize: 296
+References: 
+Deriver: i5z2dic1rnidic6acdxra4n3sjiz5s4p-etc-xdg-xdg-desktop-portal-hyprland-portals.conf.drv
+Sig: rime-cache-1:+W9U2casxivuaG2fDn4AbXg2FszP4sTJTgw1OE4K7mQBg1NkiKRB+TUvk5233YcU7fqHQnRWz7NjVe8lEsZyCw==

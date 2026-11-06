@@ -1,0 +1,10 @@
+StorePath: /nix/store/vxfyfa1s06bgg4a1lkqpganbw0vkh2wc-pytest-check-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0x80l2qjjzbbs74gyrbkcxs1wjprc60yqw537s0zas156cp1mjpw.nar.zst
+Compression: zstd
+FileHash: sha256:0x80l2qjjzbbs74gyrbkcxs1wjprc60yqw537s0zas156cp1mjpw
+FileSize: 973
+NarHash: sha256:1yb7070im6i7b1xdnlj340n2gbgll939ng7ay61rr1kx342zn9d7
+NarSize: 2448
+References: 207wrvwipcdi5ih534672v5a8zwvf0ba-pytest-check-hook.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4wxcfqmy6p54q1cw356p7zggmcplp5c7-python3.14-pytest-9.0.3.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh w1svn0lba9gv480i37z2q97yi4155mlr-python3-3.14.8.drv
+Sig: rime-cache-1:QgI0yG91wfqgoFCJqoDg2XzdOFUOLzuX+dr1LRduh9oHZaVFzhU/DfqQ+KnRnwYN/h0fT8CUcT59e1P0DQqUDw==
+CA: text:sha256:0arwwz4kmfvvqrq8qgcl91y49wph5qd8qbzzv8h28n17d1hj7l7d

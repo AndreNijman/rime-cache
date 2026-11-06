@@ -1,0 +1,10 @@
+StorePath: /nix/store/syvv098ild26ynrr5rd3mlvxlw05s07g-instant-0.1.13.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/00pif2v2q0xxnc9pffimymyxhb4wa1ka4zh24cwiw5bzzhi8nz6r.nar.zst
+Compression: zstd
+FileHash: sha256:00pif2v2q0xxnc9pffimymyxhb4wa1ka4zh24cwiw5bzzhi8nz6r
+FileSize: 893
+NarHash: sha256:0nb22jarl1p5rkc9j0jf6afcks40lyq62bryiyxk5hfg6lyax9pw
+NarSize: 2016
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q3w7323gms0cg4zd6nga0xbd3ynzbdrh-crate-instant-0.1.13.tar.gz.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:owjVBoytCN/YWz0sAGoOtnKAJzTVBFktkoIc6MxMvlM4vO+fNTVnTdCcivAy5Jd2gSfbf/yYLzC023z/rzA2DQ==
+CA: text:sha256:1dm7fwvhlmihcg71igds7dsx13ksmxrfmjzr23d4ss3bbrvaxnla

@@ -1,0 +1,10 @@
+StorePath: /nix/store/9mql0g0gw9r8kmj3fb4m4gkp9h6cdnhq-fixup-yarn-lock-26.11.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1h388m47nm56ashqixqhhb79mkjalyj4gzlr8qg6768cgmkwm9dp.nar.zst
+Compression: zstd
+FileHash: sha256:1h388m47nm56ashqixqhhb79mkjalyj4gzlr8qg6768cgmkwm9dp
+FileSize: 1053
+NarHash: sha256:037x07h1xhyyhg4h3mp9k3cks4bp8ivc8d2wjfj6dkb4pb4xjsx9
+NarSize: 2560
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6gymal4kysfc97piz9iyisdclk9j24in-lockfile-1.1.0.tgz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh p192jgmsn572wfx41nxnqx1sab7dpn2r-nodejs-slim-24.21.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sn4j4gf91rxl13i9scs3fm63nrfp2r4v-make-shell-wrapper-hook.drv x0x06y815bswvy0f730h8wc3r90h778a-fixup.js x0xjgfa179fisrzphna2xzlyv33aniad-common.js xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:ihy/kkHHymDmaVHp6dPdx4pUhckk9OOJmI4GZLfHuiEUKnYK7PmKEoTBQFAabUR/CU4BO/JfGEJ27H3DDehtBw==
+CA: text:sha256:02plms96jy6mn8chkixm66y49ifhgxv699h8h2fwacqfl165ib50

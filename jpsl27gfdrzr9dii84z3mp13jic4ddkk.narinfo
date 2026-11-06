@@ -1,0 +1,10 @@
+StorePath: /nix/store/jpsl27gfdrzr9dii84z3mp13jic4ddkk-unit-scx_loader.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/06hz4ii9zvh66y4m0xc3n5wmaxi0442wby3lrp13s7khg8qxz72b.nar.zst
+Compression: zstd
+FileHash: sha256:06hz4ii9zvh66y4m0xc3n5wmaxi0442wby3lrp13s7khg8qxz72b
+FileSize: 561
+NarHash: sha256:0xkwind17cajz5czvkxrl3pmzma8p5901ka6slf7ckqlhwi2d7w7
+NarSize: 1296
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 7bnw78yww4kh5nb4l872h1vqmi4c2p5c-rime-scx-1.1.4 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: snr0ymz2lc98ycm032ds3mddkbyzz2zq-unit-scx_loader.service.drv
+Sig: rime-cache-1:5cUbUHnl3NZKSXkOuDarII2xeJgjD4zkOR8bwaj59tJ2WGuv2y0bbAySaqpSeU3zzfyIwiI03aTAPRDUFfXIDQ==

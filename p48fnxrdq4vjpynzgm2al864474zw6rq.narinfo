@@ -1,0 +1,10 @@
+StorePath: /nix/store/p48fnxrdq4vjpynzgm2al864474zw6rq-qtbase-everywhere-src-6.12.0.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1cvhbd1hinhn3z0gb9c90qmv6fy3xdm4hsvd8imqy6n743qrzf97.nar.zst
+Compression: zstd
+FileHash: sha256:1cvhbd1hinhn3z0gb9c90qmv6fy3xdm4hsvd8imqy6n743qrzf97
+FileSize: 1420
+NarHash: sha256:18sbydfh4ybrv5p4f3aqp7ly4z3yjhr64bprrjc6j28yd4xd4q1j
+NarSize: 3744
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:RJACGr+lLCW6/nJSTOI5jv1hyFGDvHEmGbUIHkUnh1lGd+ERFugSFaWw9zN6HREfiRsrdNbMQnKt+7KcQ8M1Cg==
+CA: text:sha256:1258xwxbh8k8s2v5s3bspw79zgg0a5jwxlfw3xx5f94gx55p5ypj

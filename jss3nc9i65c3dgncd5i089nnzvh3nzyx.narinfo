@@ -1,0 +1,10 @@
+StorePath: /nix/store/jss3nc9i65c3dgncd5i089nnzvh3nzyx-libao-1.2.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1l9z7d2ygyp5sw6ml9vwc1akcrck0gx7m785bgc9m4icfz5kl997.nar.zst
+Compression: zstd
+FileHash: sha256:1l9z7d2ygyp5sw6ml9vwc1akcrck0gx7m785bgc9m4icfz5kl997
+FileSize: 1229
+NarHash: sha256:1c4zr0p6qc7b1nnh2qqsajlrj2q3qlgzq2395vgndv00ablpc86a
+NarSize: 3064
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv gr2s99484985yyglaksqb8bygnpxvnzh-source.drv grhvc89afiwfa2rzqzigyzr8kgkdk9n9-libcap-2.78.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lkblvqx3lns7gk6gnnldx4gn9hnqwk3a-alsa-lib-1.2.16.1.drv qa3q54dppvy1q2bmbxk0nxb8fygdxav3-libpulseaudio-17.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wr0mjai5vyaaj0rhx82ya1qmrv50yakf-nanosecond-header.patch.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:jzyZTvvsNsw5wMWRXCzZLb5I6q1HGWlCpZJvlH6U9na8Ru3MoncJ8nyqH6C++k3Kgq0FfjjrWdbOzuiaytd4DA==
+CA: text:sha256:02i46c3ilfq5ippx9pc54drybrchriyjbd8c3cgna7afhwr2h0zm

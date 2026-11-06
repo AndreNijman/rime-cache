@@ -1,0 +1,10 @@
+StorePath: /nix/store/k8cvwj53vrjkrrsp5mpxxykn70p75yc5-rime-firewall-0-unstable
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1ms7fihy51p80wa1gn2iv5z65cqyz0wp40jfv3if83khvpbzqpif.nar.zst
+Compression: zstd
+FileHash: sha256:1ms7fihy51p80wa1gn2iv5z65cqyz0wp40jfv3if83khvpbzqpif
+FileSize: 14043
+NarHash: sha256:0mashz2hsi8ilb3lcnrlr24vc0mp69a8zkmdb8psvzwv7vxsl2lz
+NarSize: 47584
+References: 55w48cr7iihfw70692fs95pf43jkc080-networkmanager-1.58.1 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 h96s16mjssibkvk62pvmfm3lwfc3wnwp-gawk-5.4.1 k8cvwj53vrjkrrsp5mpxxykn70p75yc5-rime-firewall-0-unstable kwyi4bq5s2qgwbhz6cs4gjy57c2zdxws-bash-interactive-5.3p20 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 nwhaqj3i1lwvangwrfa3c7xswr3b79n1-nftables-1.1.7
+Deriver: qyagsc62pmkm4gym6asif02my9rra6fc-rime-firewall-0-unstable.drv
+Sig: rime-cache-1:LysFIWAh/S0NCzAwT4drMB0mHmOvA4+L+2hJDTAYplqWP3db0oiKUqGKFonsliKgvgKIvc/EKFmGHjsYY+XjDw==

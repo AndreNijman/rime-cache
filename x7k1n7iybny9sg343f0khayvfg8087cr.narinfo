@@ -1,0 +1,10 @@
+StorePath: /nix/store/x7k1n7iybny9sg343f0khayvfg8087cr-nokogiri-1.16.0.gem.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0laixpl7n7camwrxdxia71zc52d025s1isvgm76yi1rir9778zsz.nar.zst
+Compression: zstd
+FileHash: sha256:0laixpl7n7camwrxdxia71zc52d025s1isvgm76yi1rir9778zsz
+FileSize: 1402
+NarHash: sha256:1jwxwhasw797rvhcx6xx410jqr79ggwwsm0rddb55hqzgrzdwi5q
+NarSize: 3656
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:xODCwXeQR4iG76VGvqdAgQh0TSIHCtwc24ofuhIkAuZNxiVQx7sHnE4VXygDm3cLdo0Jhh566DMOlI1Hq2iaBw==
+CA: text:sha256:0zxg6ay0jyxwmacmdj87wnf9g81rw5a3r4rxidr895ykq5zh1yh5

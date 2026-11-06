@@ -1,0 +1,10 @@
+StorePath: /nix/store/l9cmd52fjjkd5fzdmmryrf2xdq2alnq3-audiofile-0.3.6.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0iys8ihqzk7cj4v445gg2g1jci9wprnr6c3nfj6w71xnqdc6gv2a.nar.zst
+Compression: zstd
+FileHash: sha256:0iys8ihqzk7cj4v445gg2g1jci9wprnr6c3nfj6w71xnqdc6gv2a
+FileSize: 1638
+NarHash: sha256:1ng76cwmgyp5jj47j9fgm01708wizp33jqks3n8rzix01z6ks50q
+NarSize: 4424
+References: 1cl09g0szzjgchiy7dz2xs8w5nqi2004-CVE-2015-7747.patch 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 51g83acdl5pqk24bw0b6zc8gpaqvp6fg-CVE-2017-6831.patch.drv 7la07917h4az034sbdsl92irf5xs897c-CVE-2017-6830+CVE-2017-6834+CVE-2017-6836+CVE-2017-6838.patch.drv 9b04588ww6vqgcqhdi40pdabi0lm4wqc-CVE-2017-6839.patch.drv cwllnp3xqsmnybs16njdsrvasyi5zkkz-CVE-2018-13440.patch.drv d5liy08dnkj94f26rb680yyc9mzkkqg1-CVE-2017-6827+CVE-2017-6828+CVE-2017-6832+CVE-2017-6835+CVE-2017-6837.patch.drv g51bnqfh5gbk7f30li39hq5cfl1g7krq-CVE-2017-6829.patch.drv jkg5gwbr25fn3j23fafnmliwa8wi2pj3-CVE-2018-17095.patch.drv kd51bvw3ccijgaaj375mrd9y5f64ik95-CVE-2022-24599.patch.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lkblvqx3lns7gk6gnnldx4gn9hnqwk3a-alsa-lib-1.2.16.1.drv lvjkgvyicisxwngyc77y22mysd6mjbp6-audiofile-0.3.6.tar.gz.drv ndbkfdfbmfdb8imv7izkqzhzx0dibvkk-audiofile-fix-multiplyCheckOverflow-signature.patch.drv scv7rayf3jw76pqwligvdy62kh3prb00-CVE-2017-6833.patch.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh v4cq8rv7m2rr8mzvc0y93k45z1ln3v5y-2_CVE-2019-13147.patch.drv wj0df85ms4xl350vb3zjnmhx3ykgki3c-1_CVE-2019-13147.patch.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv z3pqhg6lbygziw6gbv0nwmmsm81s6lfi-gcc-6.patch
+Sig: rime-cache-1:hOh4sbxLMzYSYP3kNQ54lMJ1XvMloF5agFYRs8BZDnA5Z+epSfY5paMFbyIO/MkO6LH+NbvIUN+GayhT+987DQ==
+CA: text:sha256:0hf0j5jfxhik53cm5b5cbfqq9bf7c2dxj974js3w74vdx27dimns

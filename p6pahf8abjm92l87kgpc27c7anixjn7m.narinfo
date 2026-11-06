@@ -1,0 +1,10 @@
+StorePath: /nix/store/p6pahf8abjm92l87kgpc27c7anixjn7m-crate-zerovec-derive-0.11.2.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0hd9hnwvmz6cgaw2yqprsj78s6cxi3cvhlgs9z6xf4331myzv5sv.nar.zst
+Compression: zstd
+FileHash: sha256:0hd9hnwvmz6cgaw2yqprsj78s6cxi3cvhlgs9z6xf4331myzv5sv
+FileSize: 1374
+NarHash: sha256:1h7g0xxlgixyhvrm5bv4365b3ngs69205x76jq42s5jgsc2cpr2z
+NarSize: 3736
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:a/XwSUmvyVw6uCvs/1obv9WyNifAE3tuTlwf223wQVFuTQbHFyusCGqXFXX5tYRqFaDjLNd6gI0TB2FQ4B02CQ==
+CA: text:sha256:1zn0yn4djw6pnvk1hhm1xzh1z29dzib0zi2vsm85z8ind53g0xja

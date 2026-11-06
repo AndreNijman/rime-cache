@@ -1,0 +1,10 @@
+StorePath: /nix/store/l664c6hrddqiyvprkshcvfc0p45zvi6b-util-macros-1.20.2.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/00n7dxbcgdbw3iv3b396h97zms8injsmgiiwgsnm1hblf8nrb2m0.nar.zst
+Compression: zstd
+FileHash: sha256:00n7dxbcgdbw3iv3b396h97zms8injsmgiiwgsnm1hblf8nrb2m0
+FileSize: 748
+NarHash: sha256:0wdk43khqjdkcyhybs666qsxbyrhipx4lxmv7xvlh98lb9dlx80w
+NarSize: 1792
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv dpp104iw7l5159i5f68bqnznpnai8pzn-source.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:B8akip5z52Rr22DUrLUV69dRcHMGqwnVUHobgQhHEhP+lIMllrOujssYTHXSpq49yhZR5UgnwtvGmxgdCZqkCg==
+CA: text:sha256:1pssifvdg95862m38h1jg2jl6dmbkrvkcgdnjrsd4qvcr9n32bw0

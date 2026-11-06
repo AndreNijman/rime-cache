@@ -1,0 +1,10 @@
+StorePath: /nix/store/ync0k2gpblgk0rnk4623ms39rz0bf37j-fix-bit-operations-ub.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/010k4b2xnl99i5hzjysv3clww6f361ifaa2w56hjizjlvm9k1b5n.nar.zst
+Compression: zstd
+FileHash: sha256:010k4b2xnl99i5hzjysv3clww6f361ifaa2w56hjizjlvm9k1b5n
+FileSize: 979
+NarHash: sha256:18ib9k9glim34h8rrq7qn8vvrj8r0pip13gp7mg6rpg3khiiz4m7
+NarSize: 2264
+References: 
+Sig: rime-cache-1:cSION/ojXdQgZMyOKRpOtD/IZHmQoqbwONDq5dEvdjce857LgoaRDBHj17cHrkBXBWWcAV7zBzQRp4QtATYPBw==
+CA: fixed:r:sha256:18ib9k9glim34h8rrq7qn8vvrj8r0pip13gp7mg6rpg3khiiz4m7

@@ -1,0 +1,10 @@
+StorePath: /nix/store/3a3ah17x4p1z9lwgxvziq0rf08v2gnb4-mariadb-connector-odbc-add-include-cstdint-gcc15.patch.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1qcgf173lp3wcmqbfrrwvxbzd4lvbzdjskbwjdj3afji3r7i64y9.nar.zst
+Compression: zstd
+FileHash: sha256:1qcgf173lp3wcmqbfrrwvxbzd4lvbzdjskbwjdj3afji3r7i64y9
+FileSize: 2026
+NarHash: sha256:1ph2d4x4kc82dpzxrxriqwgrnqa8jqiknl88jdxpyk732crl7w78
+NarSize: 5376
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh yqikd9hjkm5j1a2zzmhifj09b8yk6sd1-patchutils-0.3.3.drv
+Sig: rime-cache-1:oFwKS91p65FFpykPnIGDBBmBWwRHoV16GPf145T+kNqGmdmBGkuKBwDWPdxd/RY45h9Ijv+yee313g9JNizRCw==
+CA: text:sha256:063c3hm89r35phrivfyrq94b3f5qirk63ks30bk3rdzry4njvzhb

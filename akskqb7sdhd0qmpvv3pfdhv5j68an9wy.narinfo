@@ -1,0 +1,10 @@
+StorePath: /nix/store/akskqb7sdhd0qmpvv3pfdhv5j68an9wy-0001-abr-drop-support-for-dynamic-loading-libldac.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1c8y6739jwa8w4mv948xjqdifriipmq3dd9dwh38jwjv3m9gf4xc.nar.zst
+Compression: zstd
+FileHash: sha256:1c8y6739jwa8w4mv948xjqdifriipmq3dd9dwh38jwjv3m9gf4xc
+FileSize: 1721
+NarHash: sha256:1lww91s80i2wrxr92ln49a637ccm26y0azasharmrg4f7cppzzb3
+NarSize: 5280
+References: 
+Sig: rime-cache-1:ezZc5LPgimdAfHRqv9G9HT41CSzMi6mm+RrUCikpvnOvrMzf5OYBlk8WXyYDyoHBpGno1gWv59f5OTRwxOZhBg==
+CA: fixed:r:sha256:1lww91s80i2wrxr92ln49a637ccm26y0azasharmrg4f7cppzzb3

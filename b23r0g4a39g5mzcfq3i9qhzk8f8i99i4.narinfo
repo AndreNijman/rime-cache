@@ -1,0 +1,10 @@
+StorePath: /nix/store/b23r0g4a39g5mzcfq3i9qhzk8f8i99i4-nspr-4.40.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0ahldrx0cnzg89pfq8g2qvapqnmqm31vf078p7gvazaanlryv5p3.nar.zst
+Compression: zstd
+FileHash: sha256:0ahldrx0cnzg89pfq8g2qvapqnmqm31vf078p7gvazaanlryv5p3
+FileSize: 1019
+NarHash: sha256:1blcbimncvljanbj7c2vrjc64c53kf6mw2h7m5i8js4nb1r27mf0
+NarSize: 2440
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 358y2sv1h0hh0a1l5vrk5xc9gf7hws03-nspr-4.40.tar.gz.drv 66600paax3x0rmba4j2bc6m99la9bkv8-0001-Makefile-use-SOURCE_DATE_EPOCH-for-reproducibility.patch hjzzl7y4qy90800c8zk92z9w07l37x2a-gcc-wrapper-16.2.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:9nHlAymTH4NlGQW7jbY9gB87OqNGUkNaijO9IhLbBP2C5Md2zrmS6KN3mkGGaliltQcSIIdaOq5tPLiElkiAAA==
+CA: text:sha256:06namappnmfcsp8nxlac4hm29jil5qzh7rdm518vgbpmvbqg9paq

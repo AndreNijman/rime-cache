@@ -1,0 +1,10 @@
+StorePath: /nix/store/25ly7y1sjxfa515mdc7gb8x81s3jkfrh-21-rime-connectivity.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1hkw0cijia0dbbba806lmqlx765mvlxxai6mnfgmll7imzvzbnpx.nar.zst
+Compression: zstd
+FileHash: sha256:1hkw0cijia0dbbba806lmqlx765mvlxxai6mnfgmll7imzvzbnpx
+FileSize: 1184
+NarHash: sha256:1kkkwpa41cim9x44m8kzw7xnq007k42ydf2ng5ifynkhs7gv5ih7
+NarSize: 2352
+References: 
+Sig: rime-cache-1:pW7AT+l/gmHJ/CPi+FlhKlYSSEEzKYpEAiTJ4YY7u46rx4akcVT8QTPnfLusdU9oDl1MvOPXzvcBsEXcdFdPAQ==
+CA: fixed:r:sha256:1kkkwpa41cim9x44m8kzw7xnq007k42ydf2ng5ifynkhs7gv5ih7

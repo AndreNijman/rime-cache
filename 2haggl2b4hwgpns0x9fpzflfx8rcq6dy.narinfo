@@ -1,0 +1,10 @@
+StorePath: /nix/store/2haggl2b4hwgpns0x9fpzflfx8rcq6dy-rime-greeter-keymap
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1q5hs9xvh7h7x2s14rp7cl51ihl3l1xrnfhs4fvcfpwbx03k0752.nar.zst
+Compression: zstd
+FileHash: sha256:1q5hs9xvh7h7x2s14rp7cl51ihl3l1xrnfhs4fvcfpwbx03k0752
+FileSize: 379
+NarHash: sha256:0nyz4vdv2wbn1bab22zhh26pyzzb6bg3cirkfl7ixmjv986mn6sx
+NarSize: 560
+References: m2xa7fgbrc7wpzqk74nhl4nzzaggnsd7-50-rime-keymap nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: pzyxl803vy1mr2qkiw8ikm3hi5b0zl6d-rime-greeter-keymap.drv
+Sig: rime-cache-1:cO1ePhN80qy4o5bcYDofrhwK2HmdUb1+K4Weenal+TYF8KzlY1sctlQhc3jtTaSwfzi8HN7FdsXzG1hYc6z9DQ==

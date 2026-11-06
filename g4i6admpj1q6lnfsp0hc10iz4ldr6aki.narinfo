@@ -1,0 +1,10 @@
+StorePath: /nix/store/g4i6admpj1q6lnfsp0hc10iz4ldr6aki-lksctp-tools-1.0.21.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1r0rh0rjqgp7nvmgrgs6a1mlm6dvwjzhm30724zxa8nqf5rsylw2.nar.zst
+Compression: zstd
+FileHash: sha256:1r0rh0rjqgp7nvmgrgs6a1mlm6dvwjzhm30724zxa8nqf5rsylw2
+FileSize: 779
+NarHash: sha256:1ips41h3plpxrg4hdksz816hswivg8f6z8k63sld8bgsbxh1ac31
+NarSize: 1880
+References: 29l051pmbmn8x55bqmnvdmazpfgxqrwc-source.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:eY5Vk4WeUcphhAYCewk9y+uif/ihZSSOar3RCU3/cMA2Ki+Z7blH/fOI+Kwa/b8ibvjMtYnDoT6NObhma/LnDw==
+CA: text:sha256:19np82fb5zd6hk20y7gbfbhkpiqi8cz1zj588f1rgvl7jcj73m07

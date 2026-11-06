@@ -1,0 +1,10 @@
+StorePath: /nix/store/b5ih5s76nqy06xinyz1r2zkz1scki4k7-X-Restart-Triggers-systemd-binfmt
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0yn9c88qhc9391jggsla7zi3mnzal07vjfafgzyy0r06r130x11x.nar.zst
+Compression: zstd
+FileHash: sha256:0yn9c88qhc9391jggsla7zi3mnzal07vjfafgzyy0r06r130x11x
+FileSize: 334
+NarHash: sha256:0cfypj995b6xb6s8hc4jsrqv6886z8xar9kkx3rblinhydl5zlnz
+NarSize: 920
+References: mkx34clkqm7mqfv3yr7cg9zc5v1b2n4a-appimage-run-0
+Deriver: 68zikqipa2a01jfk7js394zyxc0js5v5-X-Restart-Triggers-systemd-binfmt.drv
+Sig: rime-cache-1:2fvW2oWSAeQXn5iYL6auyXyZ1SYx5ZD8L9RQdTybQwlw4+0pm4oGaOjgDhegBqsVJZBVrTj69/B67FGv7GjWCA==

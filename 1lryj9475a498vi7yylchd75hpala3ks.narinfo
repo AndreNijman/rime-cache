@@ -1,0 +1,10 @@
+StorePath: /nix/store/1lryj9475a498vi7yylchd75hpala3ks-guileImportsCheckHook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0a9qj7058ac869c1jqrby5icj98j72ryb5z27g0p9g1xd2mzksdf.nar.zst
+Compression: zstd
+FileHash: sha256:0a9qj7058ac869c1jqrby5icj98j72ryb5z27g0p9g1xd2mzksdf
+FileSize: 842
+NarHash: sha256:06l7lp08phsrsqmcb5hcvcv7i7dc8mvi723axsfb8i5r7qvskckb
+NarSize: 2168
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh wdnhnwfsv5w9vfqqnpvr8p0a6dfn757p-guileImportsCheckHook.sh
+Sig: rime-cache-1:eGRy8e30QxmX+P5jVaTTNZhKutTaPJ4WgV81yOevtwPpLIoG+KgdrE9gWk8VoyA/yFtJM+Yx41b1Xj8SgtkrDA==
+CA: text:sha256:0g02w9l99lv1n07c9zy0r3glji305jxy6l8ycrjh73y5vjiz976f

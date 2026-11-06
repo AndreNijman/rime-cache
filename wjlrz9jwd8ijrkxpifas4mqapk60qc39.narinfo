@@ -1,0 +1,10 @@
+StorePath: /nix/store/wjlrz9jwd8ijrkxpifas4mqapk60qc39-libXdamage-1.1.7.tar.xz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0c4bfi72m7ac7kxs2rncp7diad27l6f11153z8aiqn8n6rfkxk7x.nar.zst
+Compression: zstd
+FileHash: sha256:0c4bfi72m7ac7kxs2rncp7diad27l6f11153z8aiqn8n6rfkxk7x
+FileSize: 1395
+NarHash: sha256:09ahrgzajiwgwgdg99vghgl4pl024f899w8ahq5va98kh978n2l9
+NarSize: 3632
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:j46KB+AiCacAel2S4rroYthjuFFAtpPb4QGtyT0eO1tVwHQhU+VbcGVaPnM382aaEZqNnqC4IWz5yE6Gksw1Bw==
+CA: text:sha256:0zfp5wgfsidipw3hhi87gzmnvmdp2pppjzk40914jwlc11ri539r

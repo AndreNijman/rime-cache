@@ -1,0 +1,10 @@
+StorePath: /nix/store/2p97z5nkr9l4lf51pmy795g69k5jpgzm-rime-autostart-blueman
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1992yclnql058b1kh8jbn9r22dgcrpmis9si30qzxk9jy3k7a2nc.nar.zst
+Compression: zstd
+FileHash: sha256:1992yclnql058b1kh8jbn9r22dgcrpmis9si30qzxk9jy3k7a2nc
+FileSize: 1221
+NarHash: sha256:1y90mjfaynyfhyvqhr1kmzjsm49804npsrs797xjal5r8zqwrxww
+NarSize: 2984
+References: 
+Deriver: 2rv3cma14k4d24npiyhzsp636iqwlpqk-rime-autostart-blueman.drv
+Sig: rime-cache-1:m1+lJrOpn7/r4afUMZouXPdNyywlHEAfIej7HKTSjWuFSqydJ2iK1L5A/7ECITSi5rMPdG4YQXTv1E6z5428BQ==

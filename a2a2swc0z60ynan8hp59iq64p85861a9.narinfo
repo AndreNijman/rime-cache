@@ -1,0 +1,10 @@
+StorePath: /nix/store/a2a2swc0z60ynan8hp59iq64p85861a9-ocl-icd-2.3.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0qwwbr27bf138dm15v7hj15c1k18yy48y98bg0zf51zgzk0iccnc.nar.zst
+Compression: zstd
+FileHash: sha256:0qwwbr27bf138dm15v7hj15c1k18yy48y98bg0zf51zgzk0iccnc
+FileSize: 960
+NarHash: sha256:0p88h6bnq6z7dh843xb0437r8krwlqbaihk2pbw4hzix6176vf99
+NarSize: 2160
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv h0v00f6n7kcf8k74nfpkdxa1977s7wjq-opencl-headers-2026.05.29.drv j6igyjswdxr4zxz198bhqpmync05nmap-ruby-3.4.11.drv kl7rgiw5y1idk3gqkg80hdc39z1mg7fk-source.drv l0yasb9rvvzhll3qc4hw7ygdwh2scxc2-autoreconf-hook.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:l91vTVH3buwuIJGvquZei7kCQ6uMZYUt4OxwPmmiVVhuFIeIlrVePY6225I5r5cSMvQamZx/nuZJbwWLTS05Dg==
+CA: text:sha256:1a66yw2xin0apqqpdk5z6pr444iv4jx1mazxb0yym79i4msjgn34

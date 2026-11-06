@@ -1,0 +1,10 @@
+StorePath: /nix/store/fg1f27kgfcs76mg86f1fyyd8671wcpmg-linux-rime-7.2.11-modules
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/05alzszxri6irf9fkyzkbpbpzyl24265irv8isi1m58pjidm67k2.nar.zst
+Compression: zstd
+FileHash: sha256:05alzszxri6irf9fkyzkbpbpzyl24265irv8isi1m58pjidm67k2
+FileSize: 1564019
+NarHash: sha256:1xcfnl7l83x15j5y94wiwm9x07s88pakqsr58a2ysvr65w1k54az
+NarSize: 9292768
+References: 04claha0hb48van5h9b3k3pzszkfz0hj-xpadneo-0.10.5 3xhk0r6dg9n3q2x2qwdxc2yx6kjl0268-xpad-noone-0-unstable-2024-01-10 cck54f7z879rk8q4lnz35688qagwhicr-xone-0.5.8 hrpfybb2cam2q6kra362zgr71iv366jc-nvidia-open-615.78.08-7.2.11 rv7a6842qs8x4c11qprjldg4fz34721y-linux-rime-7.2.11-modules yjixk34nsh15z3ffxdvj84xkvsybfa0y-msi-ec-kmods-0-unstable-rime-d7fbbd88
+Deriver: jh9jjhaysfq910p7pyr3bh4mds4cds2p-linux-rime-7.2.11-modules.drv
+Sig: rime-cache-1:Mb6POJykzmGoh/5CtYCshgHvcs3iSQslEL5tLzFDGIcyA7XNB63qTo+30wGk8ivVqJG90Ieyw2TmF80kZ5PKDQ==

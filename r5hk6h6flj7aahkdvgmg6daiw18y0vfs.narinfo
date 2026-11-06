@@ -1,0 +1,10 @@
+StorePath: /nix/store/r5hk6h6flj7aahkdvgmg6daiw18y0vfs-unit-generate-shutdown-ramfs.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1dsq816s2sp01867df0gg8g8wy3kgg6nzv9pkl4n1w1yf5q3nsxb.nar.zst
+Compression: zstd
+FileHash: sha256:1dsq816s2sp01867df0gg8g8wy3kgg6nzv9pkl4n1w1yf5q3nsxb
+FileSize: 851
+NarHash: sha256:13ggcgx29bhk9nh0xa933y29mzhhz151aknbgra0ilfj58wrmxz9
+NarSize: 1856
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e gaxk87chv6aga1dnh382ajqh3119k2qb-make-initrd-ng-0.1.0 hmqk5pa7kcvdbzy0cjq25s5ddps8xnaw-shutdown-ramfs-contents.json
+Deriver: p28572ndm02x54900cczm9dxy44p7xb8-unit-generate-shutdown-ramfs.service.drv
+Sig: rime-cache-1:mDH1dAXk7i6M8awjK9VgPhRNErxIUmGPXACHW6FqVmlcsBij/L7CbPBGgxygv24th5jKnTVyLfn/2PYvUh9VDw==

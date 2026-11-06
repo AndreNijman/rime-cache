@@ -1,0 +1,10 @@
+StorePath: /nix/store/6syp47m4fp8z5wqp1naipsr2rs8mdvcy-ripgrep-15.2.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0nhrcrdpf5jq2p9f0crjjqla89szyh7lcxl84mms28a31nis3h4l.nar.zst
+Compression: zstd
+FileHash: sha256:0nhrcrdpf5jq2p9f0crjjqla89szyh7lcxl84mms28a31nis3h4l
+FileSize: 1961
+NarHash: sha256:1wzdrwksalwbiq8n9zn3m27jbb66cik1ym3dklmdypgsxf2827b7
+NarSize: 5008
+References: 0kfaz7kf1wjr8ssjh5025hiqmd7y41yr-cargo-build-hook.sh.drv 1wlq7f27hfii89rnf652xyxxagzc3mpz-rustc-wrapper-1.99.0.drv 2ka55f5g4rcb38rncyzbdaz4bi7r5qxm-pcre2-10.49.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3v5kp4hf2arp6mib6gx6n6xpx2ybs91x-writable-tmpdir-as-home-hook.drv 45ial5wyx19y9hbfz1asqbzyx1vq4gdz-cargo-1.99.0.drv 7xy7zy8kiwlgvp0slpkf1am73x27vzqp-cargo-check-hook.sh.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bpw1dfiavw60zybss5fa8ar6mifrkjzd-source.drv bq80kzg8z8ci87l5dfx4p47zi5p1aica-cargo-setup-hook.sh.drv bwndpairqs9m21hbddgm5h4146fds94k-exec.drv kkx66nhydvcdq6slfg5blb76nlrbv7gv-cargo-install-hook.sh.drv l0hs6fl6j4d4lxihapy1rdp7ih3bmzrh-install-shell-files.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh q0994m2gb0axkbzs8i8qncn36igmlz0p-ripgrep-15.2.0-vendor.drv r0k1m5wmj623kxj1ybjhdqdyq69fq23i-auditable-cargo-1.99.0.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:vK5b6WDBu69ArPCGXp+BmxPmS5TWLfLYL3Pe2tTry+a5tfYxq1/6ykUue9bNq4fNUe+blmxvafj4XFyKJYa4Cw==
+CA: text:sha256:19alqsiv84cj8v7lgfrs4hgbyla05mpi4mh4b3sj6yaa321dzzw6

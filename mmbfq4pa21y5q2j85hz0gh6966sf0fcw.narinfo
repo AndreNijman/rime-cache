@@ -1,0 +1,10 @@
+StorePath: /nix/store/mmbfq4pa21y5q2j85hz0gh6966sf0fcw-yarn-config-hook.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1chv2ir627za62hayv2mfhxbf4f83vpscsg3hfkxfa7r6iwzdv3f.nar.zst
+Compression: zstd
+FileHash: sha256:1chv2ir627za62hayv2mfhxbf4f83vpscsg3hfkxfa7r6iwzdv3f
+FileSize: 1021
+NarHash: sha256:1i2c85ipxw304vdjpvmwcvqspd6g4hf0mgdqwc4p785fw629z3rq
+NarSize: 2528
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 6lilla2ivarcf55rfcpcqw7p4cbgwik9-diffutils-3.12.drv 9mql0g0gw9r8kmj3fb4m4gkp9h6cdnhq-fixup-yarn-lock-26.11.drv gsgzwqnczsad9gnvhdh3qbl8jghz1zdm-yarn-1.22.22.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh z2wr8b63z5p7w0qn8518vggar2h6jbza-yarn-config-hook.sh
+Sig: rime-cache-1:wC80fFQm/cyzcyJd+qjbenpYTp1LAvcIbPy7qS8Z3La/aNojBqgiUbga4tsJe+1tyhnWSIlQm5vsgQ2yPxwZCA==
+CA: text:sha256:1vzjarrjs1f2pzavgpwjmrv760qy6rmzfgrjbkg36n3ir8cpd659

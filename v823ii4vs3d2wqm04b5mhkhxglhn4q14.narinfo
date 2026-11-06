@@ -1,0 +1,10 @@
+StorePath: /nix/store/v823ii4vs3d2wqm04b5mhkhxglhn4q14-dri-pkgconfig-stub.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/02x460kx3ynm6wqkwnp885zjww5j6qprnrxa34ks3z1zndry77lv.nar.zst
+Compression: zstd
+FileHash: sha256:02x460kx3ynm6wqkwnp885zjww5j6qprnrxa34ks3z1zndry77lv
+FileSize: 938
+NarHash: sha256:0yi1iacvjg06bfslj85xnplx8a3wb9bnfmlbqjzbj17aaam22i61
+NarSize: 2152
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:xtP9GABNFoKr7dVKqcXdXC7zlOsHKcGU5O+6ztV5/O5Qe64j2BuEAN9GjxeD+lUdGJA6ppSr6GliTjDnn8kuBg==
+CA: text:sha256:1kyf54ppk21b38r5w9dhsvlxlaa3sdnzy632xi6rzybf226xjs12

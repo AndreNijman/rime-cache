@@ -1,0 +1,10 @@
+StorePath: /nix/store/ch8yyyxc7magyms2avvy0s530s9biiqk-rime-vendor-verify.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/142j81d23ag2d1b5j3da9dx44wdxm6gkw502qfdyn2ryrbqvz3by.nar.zst
+Compression: zstd
+FileHash: sha256:142j81d23ag2d1b5j3da9dx44wdxm6gkw502qfdyn2ryrbqvz3by
+FileSize: 2287
+NarHash: sha256:191k8psg1nn8y7rh2a3ikw3n2i7scs14ybphsibri1bv825xlypx
+NarSize: 5176
+References: 1142izpla409fzbfwncwmmbs8y9ndc0k-gnugrep-3.12.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4fw9ksqs3knbrsfjr3g47i16vzr5v30a-gnused-4.10.drv 5r7c7f8vnqxyi3vhhwxabw5bxa1vph5s-gnutar-1.35.drv chlw82awbfkxryb58qk96r1n6mw9d29f-rime-vendor-block.sh.drv i2kqy3dvhmcaxmrcx4651gpw2njld2g5-gzip-1.15.drv jn56c1r6y0490pb6i0h9bjhmbmp4ips8-xz-5.8.4.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lqfpvvm2ia1vkxdsp62g08qdh0pbapf8-binutils-wrapper-2.46.drv m7bmd2qz1zcnk4k25y5cg6wbb3y9qwcb-coreutils-9.12.drv qb8f9gxy37s4495gvgrmynfmczf8msb8-cpio-2.15.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh spiwshijgc38k8lqj7x40jahpa3hgd7n-rpm-4.20.1.drv vxlj9risz65rk8dq6f02z1mnvcydpjjj-ShellCheck-0.11.0.drv w57gc3q3cwsxjqxkk0a9fkw363sf32hp-curl-8.22.0.drv xmkywhcm19x46mxrc1ii56bfmg27nbkx-gawk-5.4.1.drv yfkqmp0sfzxgnp97mgc84r0sjkfyd408-gnupg-2.4.9.drv yi5kx3z9njylnfg9l0f3v276dyy4jgs0-zstd-1.5.7.drv
+Sig: rime-cache-1:57jLlP6thRWDCAfXuiy1A5vCoqH53wq9Lfs1eszk/5WD2WUzmaWqJvaS3BLXb5/JI/gz3FTfFWSXAoZN4RN4AQ==
+CA: text:sha256:1n4sf992hbrhbppjkndcwdvxv4ivp2yvsyph9jz525abcd3r04v5

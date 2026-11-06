@@ -1,0 +1,10 @@
+StorePath: /nix/store/47ldqhjpyav233d49fpgj7xb22yyra7v-ldacbt-2.0.72.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/187rc6wclflp02rszzlsvyfazcx4msrpclfvvah04q2vqah7hca4.nar.zst
+Compression: zstd
+FileHash: sha256:187rc6wclflp02rszzlsvyfazcx4msrpclfvvah04q2vqah7hca4
+FileSize: 1216
+NarHash: sha256:0l79wkf5i0h0faryk1vf3famb2xbbijrh9anclhgfvvx0cwmck81
+NarSize: 2856
+References: 2194z2pvavylfcq5kpma7rzdwpyhf6m0-make-byte-order-checks-portable.patch 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv akskqb7sdhd0qmpvv3pfdhv5j68an9wy-0001-abr-drop-support-for-dynamic-loading-libldac.patch l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sqk0wi50isssvz8m6zwzsy49jcfhzkyx-source.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yckjxmr4a5kj3xn6bsydaxfs2cx84a3l-meson.build
+Sig: rime-cache-1:H0fplvjs8ydfAh9ICaWi2qBdbnQaunbOMZBabSI67U9JNv7dbMw1nufiavUaf/t9UB+ledPAZL9n0L553JHoAQ==
+CA: text:sha256:1rz3h6sj3y2ygl4g6s8sp73knxwy1dhg7h36flfmydp31py5j5sx

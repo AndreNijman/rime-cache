@@ -1,0 +1,10 @@
+StorePath: /nix/store/04claha0hb48van5h9b3k3pzszkfz0hj-xpadneo-0.10.5
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1g696gmi9aqwvhs6zh58658q317jhngng93wi3sk09q291ir9z5j.nar.zst
+Compression: zstd
+FileHash: sha256:1g696gmi9aqwvhs6zh58658q317jhngng93wi3sk09q291ir9z5j
+FileSize: 32666
+NarHash: sha256:1bnrn2wryrkdcv9ynvcsm7phf7f42byyad1hmrylc77cfggz4ik0
+NarSize: 33744
+References: 
+Deriver: 4arslrljqkzkrmlqdpwlljgwphmarpgi-xpadneo-0.10.5.drv
+Sig: rime-cache-1:mk2EQ98ziCuxpwP4OetoCmCWpT2gMyCB7Cnn6PCP9CA7WBZaVX928W1zicu/4VcAf10/bEdlq8qSUFLRBWIhCA==

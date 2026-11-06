@@ -1,0 +1,10 @@
+StorePath: /nix/store/m0hbq75fwvzpx9w2ac092q9sva1rmg2m-mariadb-connector-odbc-3.2.6.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/15p1lmcf4qsp45l7gq3rqrwsrwx63ldi54dbini8sdrzwb59hy0h.nar.zst
+Compression: zstd
+FileHash: sha256:15p1lmcf4qsp45l7gq3rqrwsrwx63ldi54dbini8sdrzwb59hy0h
+FileSize: 1311
+NarHash: sha256:017p6rdzaap6fqw1bykazj2jagzd7dl2v5ijpkl93lrylhrw187p
+NarSize: 3176
+References: 1wh71gyw28sn0dk6y01nifiwcnbx8c2m-mariadb-connector-odbc-unistd.patch 2x4aa8vfj3fl1frwxrlsi5jjf0c6xq2f-glibc-iconv-2.44.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3a3ah17x4p1z9lwgxvziq0rf08v2gnb4-mariadb-connector-odbc-add-include-cstdint-gcc15.patch.drv bq8wrx4026xwb6x0xfh1xry0si7mmagk-openssl-3.5.9.drv c3pbn472mrr69hs1vnfk1vv7ffsfncfn-unixodbc-2.3.14.drv hiqbn9h7grm2jhi7jpmdvl0jshi415z5-source.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh lqxh5f246m2c9srgmvmsk89f64bg4bnl-mariadb-connector-odbc-musl.patch shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh vvpr99sq55csykmgpsihqczi68q4g2xc-zlib-1.3.2.drv wxnz6dras0ldwapi44rspc0a2sc1n3br-cmake-4.4.4.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:ywIjJ1+H6It7nMDcMyXe6eZnYmPtR4+7VA+p/06suKCYDUIog88wkECB69bbrOsGCCOvxK1EMo0WvBScBA0oCg==
+CA: text:sha256:0x0amv94r1nxmsq570lxl3qm2zk5m08gbs53jyywb7x45ikbmn9y

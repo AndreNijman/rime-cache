@@ -1,0 +1,10 @@
+StorePath: /nix/store/1rpvy1cgq56rbw02zsmmmiv7y8si5x3y-libxcb-cursor-0.1.6.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/03k26kkmv6jx8y1f1ci4fn0q01llzd67bsshbn21pp87mfn5pz0k.nar.zst
+Compression: zstd
+FileHash: sha256:03k26kkmv6jx8y1f1ci4fn0q01llzd67bsshbn21pp87mfn5pz0k
+FileSize: 1112
+NarHash: sha256:010ylaxlz9lyf4cl9zppikn24x5ghi8kq524dpw7vdcqifr366dl
+NarSize: 2784
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 45nklbf34w773fq0paxdjggiphrakzr1-xcb-util-cursor-0.1.6.tar.xz.drv 5079zx28lciny73n7cjfgxzyqkrprgja-xorgproto-2025.1.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv al9npgprp0bxihaw9lpjgjihlinlynhh-libxcb-render-util-0.3.10.drv ib05kzzpwqd9mgfvfy85psvs2k20f26z-gnum4-1.4.21.drv ic7yqq4xlvmcy1kn3vp76hav0rn9c7iz-libxcb-1.17.0.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv xqp7xfvyap68bc4ciswshag5nwa599dv-libxcb-image-0.4.1.drv
+Sig: rime-cache-1:eZLZsfWXo80zuo84hw49IE0gcoWqPW+zlfWHvRSvfu6Y85KeNyo+hcC+kj8zcsTZQQI407FRioPC13iE5P+xCA==
+CA: text:sha256:1l69kh7jh05xvry75vw4p5s3s65cddni9ykrn8b8hfz61g8h2z32

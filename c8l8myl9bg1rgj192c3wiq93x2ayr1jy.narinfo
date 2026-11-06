@@ -1,0 +1,10 @@
+StorePath: /nix/store/c8l8myl9bg1rgj192c3wiq93x2ayr1jy-X-Restart-Triggers-nix-daemon
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0qhbbgqr7x4vkxr2rw6sy2cic6qwln4i5qjv128jn76hiqp91181.nar.zst
+Compression: zstd
+FileHash: sha256:0qhbbgqr7x4vkxr2rw6sy2cic6qwln4i5qjv128jn76hiqp91181
+FileSize: 127
+NarHash: sha256:15f1x28rxfg2waxw018a69x6045acg1gi0n759bx1hgw41qwhygr
+NarSize: 168
+References: hdsvax8mv2yn072aw9i4iz1wafkqdzjp-nix.conf
+Deriver: n16mdxanppfsd2fl6w2bligvfn5qx99c-X-Restart-Triggers-nix-daemon.drv
+Sig: rime-cache-1:EaWu6XMk0txcUzGZGm8xHtDrgQJQ6fJl5vQV+K47qBW9KoJaNB3CkqSL20im63NzPnlzLkqF4wZr8X5YXcbICg==

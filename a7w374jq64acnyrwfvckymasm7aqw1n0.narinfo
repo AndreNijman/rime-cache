@@ -1,0 +1,10 @@
+StorePath: /nix/store/a7w374jq64acnyrwfvckymasm7aqw1n0-bubblewrap-0.12.0.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/01zbxypd2dbjkqm7s1srvp4vk95pwcwd9nml6vznw0g8skvl9q1h.nar.zst
+Compression: zstd
+FileHash: sha256:01zbxypd2dbjkqm7s1srvp4vk95pwcwd9nml6vznw0g8skvl9q1h
+FileSize: 1326
+NarHash: sha256:0ph89w5x6v02grdvczdn1zl9n3rgs2cfyqsqgq704mqq1wwc9g2s
+NarSize: 3056
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 3ksqsj34399vrf2gw3d8x1jmfmk47kih-source.drv 5nf7ivha2hrf8lcv6y5wjylmvj9wpf5x-meson-1.12.1.drv 7c374vvyhw64qz9ykjj10akg1b6b6qcp-ninja-1.13.2.drv 9jvbzysv4jwcjg99z3rdxl213bsz11ba-pkg-config-wrapper-0.29.2.drv bak59igmbly0kvhl0h6zivgn9xhc031w-docbook-xsl-nons-1.79.2.drv grhvc89afiwfa2rzqzigyzr8kgkdk9n9-libcap-2.78.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh r7kprripy15xzxz5hpc61gl89zaflkn3-libxslt-1.1.45.drv shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh sp8iyz418hnz8agv077y38549scj3w1k-libselinux-3.11.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv yc5ryif0j7m0bhcw14raqiqj4w5rz5lz-bash-completion-2.18.0.drv
+Sig: rime-cache-1:G7ekqg02TQ7m9UMhUljT4bRQEcVmxu0ZYcUH4QBxIwAq+JjWRP1Rlz5aZ4T+L6uBtjObDdBsXyQISOT5rOkVCA==
+CA: text:sha256:1ls50kmn5m80d5x27p9zc4qmn85bjb85plj5zbk3fny3x517k4zx

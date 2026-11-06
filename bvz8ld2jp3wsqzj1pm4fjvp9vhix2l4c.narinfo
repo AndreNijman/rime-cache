@@ -1,0 +1,10 @@
+StorePath: /nix/store/bvz8ld2jp3wsqzj1pm4fjvp9vhix2l4c-unit-libvirtd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1bmlgc2lrwwlaadpw4d3ldix8bsjwzs0bgljnxmk2pqldnqqr40s.nar.zst
+Compression: zstd
+FileHash: sha256:1bmlgc2lrwwlaadpw4d3ldix8bsjwzs0bgljnxmk2pqldnqqr40s
+FileSize: 823
+NarHash: sha256:1njc9ipc8jbbg86nl3sgpfnc2z2v9na0j06glksz5zgijg6la6az
+NarSize: 1904
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e ka5n2xfg9rijrc5xndvggjccycwax31j-qemu-host-cpu-only-11.1.2 mqlr3n6ip4vsz7dnjkbdgphzwgaq82sp-libressl-4.3.2-nc mymj42lqxzqq9dfw1ws6ysg362a1cms4-swtpm-0.10.1-unstable-2026-05-21 qysmf0lg0j9iff36v6yrcbxq1rwhq0b8-libvirtd.conf
+Deriver: 0rdi7nhf81wqdxaxlj5ji9blhq1rm0kd-unit-libvirtd.service.drv
+Sig: rime-cache-1:KaKZl4TAHIMe/lo+JeEK0pF0ihoQljMexEass8BWTw4UufxXAk/+QFlzvPWJ+YyB1JfJc58WbASEjujyeZ8nBQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/87xxjpkm0r1n90qdsfqiz1l8lf07jpzj-hotdoc-0.17.4.tar.gz.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/1281n6nc9l67vkr5gqcqm7h7rignx1xaxhavcrrw9n5y6c1ix9r2.nar.zst
+Compression: zstd
+FileHash: sha256:1281n6nc9l67vkr5gqcqm7h7rignx1xaxhavcrrw9n5y6c1ix9r2
+FileSize: 1391
+NarHash: sha256:0sfccmbmki9803bsrfdzc5471irqjxj533n6vg5wi9whrd82w0y9
+NarSize: 3616
+References: 1fsaxrzl5qrycwbcgvs38sz86f07ymwd-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 4aindnhiwrbms5xnslk5gaagp047xpy0-curl-8.22.0.drv 808pz59rm1qby6rnhg8jkgiwqjc1bl7a-mirrors-list jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh
+Sig: rime-cache-1:JL3vjhrQpavNI66WjXT9c/9aC1n1pFAJhSuRlcU0eYUU3yJpwlwUQYU2lIhQsOGIWHUaoPAOTleqw8nZQFrGDg==
+CA: text:sha256:1jr0y113jib2qll00y7fprjbhpqjwb7skwxpj14mnwil7bg6nz9s

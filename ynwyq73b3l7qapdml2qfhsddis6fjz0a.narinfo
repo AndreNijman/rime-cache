@@ -1,0 +1,10 @@
+StorePath: /nix/store/ynwyq73b3l7qapdml2qfhsddis6fjz0a-clean-immodules-cache.sh.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/19rcfwmpzw82m214iisjw6gn7p0s066fcsa4pj3r20vvq8w6c53r.nar.zst
+Compression: zstd
+FileHash: sha256:19rcfwmpzw82m214iisjw6gn7p0s066fcsa4pj3r20vvq8w6c53r
+FileSize: 1060
+NarHash: sha256:055a66j93ia4nkx4xfmbcms9ab3qw83fk81wzlwv4yb77vkr9hl0
+NarSize: 2536
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv gyppxd2hyc3nkq3b2s19n71qd23cvzn0-clean-immodules-cache.sh jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:hC3Y4kRvsI4ykdMvPz3k6WmF/Nz2p66zGsoBLCVuSlO7UiAjOBMsY9+E4woLHWmKlzAYbSw5V5tkiWi6KkHBBw==
+CA: text:sha256:1jwqhhxl61ls6yni6yfwqz3ha843qkgck5yf1sna1x2d79539zc5

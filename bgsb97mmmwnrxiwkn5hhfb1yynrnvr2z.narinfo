@@ -1,0 +1,10 @@
+StorePath: /nix/store/bgsb97mmmwnrxiwkn5hhfb1yynrnvr2z-libmpg123-1.33.7.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14sfhra62mgs7vz95h0rfs5wchabg7b5b6dh690mprln8h9grcpr.nar.zst
+Compression: zstd
+FileHash: sha256:14sfhra62mgs7vz95h0rfs5wchabg7b5b6dh690mprln8h9grcpr
+FileSize: 808
+NarHash: sha256:01g49vjxhsyd1fwishl0q4a4dhp0nz43z5zvznxj73r8xirzjgn2
+NarSize: 2136
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 8n5gvdcmxh8c26mc6w29jb6884gpvyr6-mpg123-1.33.7.tar.bz2.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:DDch1AmYtthwsm/ex4VZFCgbAZHHbt+YR4Bo9MNGPWPH9Y/WjvMd51p9HQSm183ydxZoj6swYROGo7c9YoOrCg==
+CA: text:sha256:1kgbxw5l5rxnl3c21d34xi1r2amcwjsprzmvrlmir6qdn1w8c0fq

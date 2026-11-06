@@ -1,0 +1,10 @@
+StorePath: /nix/store/lcxapvl8kvgq29dx8wwwzs3d34p8x0gb-find-msvc-tools-0.1.5.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/01q76q8999sp8j2nawq5c5i9q34ifk6fxcd2fiigyw94ipllnbk7.nar.zst
+Compression: zstd
+FileHash: sha256:01q76q8999sp8j2nawq5c5i9q34ifk6fxcd2fiigyw94ipllnbk7
+FileSize: 905
+NarHash: sha256:1ir6zyc6cv5fnd55jvnmd37x7m60viy1d8a57y2m7sk7zy1klm5v
+NarSize: 2056
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh smacl0zjhxr71yadpq0vfx9jfg0laa2z-crate-find-msvc-tools-0.1.5.tar.gz.drv
+Sig: rime-cache-1:ABr1BoptOhjI95qhbww0+w/NkW4Z7hMz9P+A7aL6TNNEfCsyO6sluoahNoHPu+RrLqAn5O1jsk6nEQtLeubsCQ==
+CA: text:sha256:0g49xdixzszgqs8gkbl16gk3z2rrmc4bqhkar4l6m6rfz8d7j86z

@@ -1,0 +1,10 @@
+StorePath: /nix/store/8spf57f5i3jh5c55q5nx1w9lbfyc17wg-unit-script-suid-sgid-wrappers-start
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1gkjc64a26r073x53kp13349rl2xzmhpnxybvz7p63a1abd8p726.nar.zst
+Compression: zstd
+FileHash: sha256:1gkjc64a26r073x53kp13349rl2xzmhpnxybvz7p63a1abd8p726
+FileSize: 1548
+NarHash: sha256:1m37b6jkfn32kbhs91j26w0z80mydn9v1mz4xbh2haykzmmxqp0p
+NarSize: 7024
+References: 3jlk3mdwl9k0l4si59gvl8jc2dahfqd4-security-wrapper-sudoedit-x86_64-unknown-linux-musl 52jfcpp45rk4vr24xblzdwys0f09vymv-security-wrapper-newuidmap-x86_64-unknown-linux-musl 61qsbs7wy5mrdmv0lk7jkdni213fjbn4-security-wrapper-su-x86_64-unknown-linux-musl 8fv22pd0qvdbfvhy1x8pxy4kdg82mq0z-security-wrapper-sg-x86_64-unknown-linux-musl 9kzwiqla56ajlzzmnf2lpqvq7q6643f5-security-wrapper-newgidmap-x86_64-unknown-linux-musl cn236319gdhxps81wy11fl4kgfqivlzs-security-wrapper-chsh-x86_64-unknown-linux-musl iykf7y3v2918cdxkrknb4cm98d372pyn-security-wrapper-unix_chkpwd-x86_64-unknown-linux-musl kvac72dkhs1w37fhd23swzzvqbynw57g-security-wrapper-sudo-x86_64-unknown-linux-musl lbn1rpbbj0l6c9z33ip4lmgsc14f6xy4-security-wrapper-gamemoded-x86_64-unknown-linux-musl my6xk8mlfd33yyamppw9v7v156xf6aqm-security-wrapper-fusermount3-x86_64-unknown-linux-musl nilzv85fs2wz8zs88pn4ysxxnb1pb7a7-security-wrapper-passwd-x86_64-unknown-linux-musl nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 rq92bqvpkh1gzcnvflfxp6yhc8wibzbh-security-wrapper-mount-x86_64-unknown-linux-musl rsknqnbj35hj30m4qj11n8vsfh6bh660-security-wrapper-newgrp-x86_64-unknown-linux-musl w0v5p37l7yhfgwb747s9kcfwfvmkf4pb-security-wrapper-pkexec-x86_64-unknown-linux-musl y1hqjmj23ld6phvarsj6jkn5gz6miy6k-libcap-2.78 ymhvq4i42a5ipvqqp96gpp7i9flirgdp-security-wrapper-gnome-keyring-daemon-x86_64-unknown-linux-musl zzqan3h7qr6pkf2b4jmm1whfr8fxhdk9-security-wrapper-umount-x86_64-unknown-linux-musl
+Deriver: swj4siwwi1l7iv3zh4s2lyvnlaysij7j-unit-script-suid-sgid-wrappers-start.drv
+Sig: rime-cache-1:RIwFoqtrrRZ3FD/SSpB0xi/jvrRnuVfKsw1ckotGMq3qaMP23THFqKcFskcq5y7LX1ekZUxeg6wuVM/39aAfAQ==

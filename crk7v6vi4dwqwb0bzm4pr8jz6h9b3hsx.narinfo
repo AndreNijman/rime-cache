@@ -1,0 +1,10 @@
+StorePath: /nix/store/crk7v6vi4dwqwb0bzm4pr8jz6h9b3hsx-rpm-sequoia-1.10.3-vendor.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3-part2/1x5chh5x1b4fyd3frl90yavrcws1zfilbz3q4l5jgx8pa6hxa4w6.nar.zst
+Compression: zstd
+FileHash: sha256:1x5chh5x1b4fyd3frl90yavrcws1zfilbz3q4l5jgx8pa6hxa4w6
+FileSize: 1010
+NarHash: sha256:0q82j4z9h2czf6wyxkxv9rkc73ifasin7fk46fza0rlimy3kp3lr
+NarSize: 2432
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 45ial5wyx19y9hbfz1asqbzyx1vq4gdz-cargo-1.99.0.drv 66678n25ykgk1aylfrk4q6647pavd0qp-fetch-cargo-vendor-util.drv 8ln249abid08z4b59prz43az086mlp1y-rpm-sequoia-1.10.3-vendor-staging.drv fc1byqrrzpcslw0m7ncfrl5acqw1pc6f-replace-workspace-values.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh
+Sig: rime-cache-1:KmE+juFNBeMRtzltAZae9jQCdI1uHwI7TrS9Md2H+4ZsQBYPiZoTecCjQeVmNKMTlLK8phhAra4/GplovJpJDQ==
+CA: text:sha256:1317dw21zf7nrgz0rc87837qrgzkdzaxlnw7bspqj8plq4z7qri8

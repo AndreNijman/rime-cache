@@ -1,0 +1,10 @@
+StorePath: /nix/store/vls9hcwb8xwmf3z02drb79n39xydzjgi-icu4c-77.1.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0lxmznj6cj933lpsk6d32qasj7i4zly7qjjsgc718x4f2fydygn8.nar.zst
+Compression: zstd
+FileHash: sha256:0lxmznj6cj933lpsk6d32qasj7i4zly7qjjsgc718x4f2fydygn8
+FileSize: 1356
+NarHash: sha256:0z6g8mahvdv6923gpimyj0qndhwb3sx7v4v6hvrrjqjkqf41kc62
+NarSize: 3328
+References: 115s3aa76a4j1k2kfqb21vwyri4s0fdr-update-autotools-gnu-config-scripts-hook.drv 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv f7n2j2vq08sfvrxgx9bvg97sxhwkx0w1-icu4c-77_1-src.tgz.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv
+Sig: rime-cache-1:MxViO5HTmpQ1X2NYIldUKFT1tY9GnEFj902HUlEPekBYJwp5gwL9Ge8B6bcQEJ/CE9jaR/ctW1Jm//1VyIsmCA==
+CA: text:sha256:17h126yzd2bqnkd960vk0nwhm2w88krdkh510q3ffpsi4dyhl22a

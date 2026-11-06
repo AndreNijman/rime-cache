@@ -1,0 +1,10 @@
+StorePath: /nix/store/3dbzr8fs467wg665kc3fxdmy7v4ira3v-unit-rime-firewall.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/00sg0vq0836s4sk4dvkkz2zlh9dhrp0jx3a9fg4r779jhy1l6id0.nar.zst
+Compression: zstd
+FileHash: sha256:00sg0vq0836s4sk4dvkkz2zlh9dhrp0jx3a9fg4r779jhy1l6id0
+FileSize: 862
+NarHash: sha256:0l8nj9dc2239w6byh9vamwfracflp69b0prxriri38xw03dga3pz
+NarSize: 2192
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e k8cvwj53vrjkrrsp5mpxxykn70p75yc5-rime-firewall-0-unstable nwhaqj3i1lwvangwrfa3c7xswr3b79n1-nftables-1.1.7
+Deriver: nmcvdaxsrr2jlngy8v0rxi8b0kp8r97c-unit-rime-firewall.service.drv
+Sig: rime-cache-1:riJLP/OeseRwG1DPCgPDXwZngp43qMJG3k0nkpbaCF76P0LUtwfb4ISVgvQAJfw15J//5lvLpsoH4WQDTta4DQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/2yig85v4q6p30javd0x1z0qgqcw4nfx6-perl5.42.3-File-DesktopEntry-0.22.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/14x07p4a2kln3bjmbjpj54zyacfnv2x45jqrhv7s94gly6b8w1cf.nar.zst
+Compression: zstd
+FileHash: sha256:14x07p4a2kln3bjmbjpj54zyacfnv2x45jqrhv7s94gly6b8w1cf
+FileSize: 1057
+NarHash: sha256:1mx8dz8j4vcxhgclnz3l7m7jrn4m23w8i3vz4x45qi50xvnkkwkz
+NarSize: 2664
+References: 119w10l5ic8izi6igxqpq0wdmccs9mbc-builder.sh 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv 5f5xlxb3nvm38cafg3kamjfvmwpr6in3-perl5.42.3-URI-5.36.drv 9hn4pmi2043h2bk5jj35bvj62pjnccbs-perl5.42.3-File-BaseDir-0.09.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh qmg4mgk2yq9crqy2897h2y3bvgga3ip9-File-DesktopEntry-0.22.tar.gz.drv xdrsvc2g7gy2b6bf1qryl1nkdwz5zqgm-stdenv-linux.drv zb8xqbkiccrldiqg6xaiicvfb4y1jj5h-perl-5.42.3.drv
+Sig: rime-cache-1:zVAe+TFT4WJBru9SEJJDeE4GWdTnF5vnVg9+tYuDYNgw+2UPZEGPEOzc35BBv8oVflWyXaTeeDLqWSxRPW2VAw==
+CA: text:sha256:0kwl0ipg900g3mw3xy6yhbhbjh48pp13k6jh1w5f1ldqbqcy7bzv

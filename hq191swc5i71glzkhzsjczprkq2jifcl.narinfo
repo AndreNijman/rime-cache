@@ -1,0 +1,10 @@
+StorePath: /nix/store/hq191swc5i71glzkhzsjczprkq2jifcl-libz-sys-1.1.23.drv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.06.3/0maqc4hkhfx1vlckf24gcr0n7xzpnpj5dfj9nlrhxwb0mhs6vixp.nar.zst
+Compression: zstd
+FileHash: sha256:0maqc4hkhfx1vlckf24gcr0n7xzpnpj5dfj9nlrhxwb0mhs6vixp
+FileSize: 896
+NarHash: sha256:19dc145xy8givjqk2ij1rvmbgnvx2ln7j6vhw3sw1lc35kcbkk53
+NarSize: 2024
+References: 30hr2syjmfvflwi68acggp3w870ikw5c-bash-5.3p20.drv jrjq3n2gpgq6sn07iiymh8ivf19ahncm-stdenv-linux-no-cc.drv l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh ssk0vbz8z4c66b343s28bcqml7ahv7bf-crate-libz-sys-1.1.23.tar.gz.drv
+Sig: rime-cache-1:TnuFqfoHqK6CMXURVfar07YEqvgaYlZGjEgBLQyzLiJNLSmcv/503UqE5mGnklJ3KTqHZDct1aZauJt+MGa7DQ==
+CA: text:sha256:1yhrdga1qw5xncnkkj22w8nj9s107xp0h47j8jl9rxf6rlmwc0n8
