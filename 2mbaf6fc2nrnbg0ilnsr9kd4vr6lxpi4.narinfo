@@ -1,0 +1,10 @@
+StorePath: /nix/store/2mbaf6fc2nrnbg0ilnsr9kd4vr6lxpi4-unit-rime-storage-notice.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.11/0ja0a3vis2hnyx09p9r43w687hlf7q99gk5jxc4mvsm1nx3a59mr.nar.zst
+Compression: zstd
+FileHash: sha256:0ja0a3vis2hnyx09p9r43w687hlf7q99gk5jxc4mvsm1nx3a59mr
+FileSize: 666
+NarHash: sha256:01m13wj9zac920ldphx45m65fsg5ry3fyyglspyr3m7v9gbbd3ss
+NarSize: 1416
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e rha8qx5spq8vk8bvyylhiw7jhg0n8qaf-rime-libexec-0.1.0
+Deriver: kk22kvjdcxb168r02nbpz7a8zry3mk4i-unit-rime-storage-notice.service.drv
+Sig: rime-cache-1:jh15rmVZUxHX7ghWirCrtbjWnJcy8gYqE+WQ1Kpu+PkHBLWHpXII/uCLBoZdVCF8A1H/VmRpOMFdhuVDoI6mBA==

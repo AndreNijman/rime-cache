@@ -1,0 +1,10 @@
+StorePath: /nix/store/hxkyz1mqwwjhbnk312i3yywwjibq88wx-nixos-tmpfiles.d
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.11/11586xgqr8qhljlmw9ggw6ghqbwp1ariqwrci3wvv0c95swmf34z.nar.zst
+Compression: zstd
+FileHash: sha256:11586xgqr8qhljlmw9ggw6ghqbwp1ariqwrci3wvv0c95swmf34z
+FileSize: 1249
+NarHash: sha256:02n40carp7c80bvmnx2xcsh0zs4sri1sxhkrm2m18idl4qy7nd4g
+NarSize: 4208
+References: 0b0k5k5xwbjyxpcizjh5mvvdq6x2kaz5-qemu-ovmf-metadata 9nfm78vr4cq515r84k5ymyhp6aqnwm61-locale.conf g48pk3g39jqkmwgn427whayss88bqv8s-vhost-user gkkcnl1k4q8n54xhx3a2xy3x5cjc464h-vconsole.conf mkx34clkqm7mqfv3yr7cg9zc5v1b2n4a-appimage-run-0 mpfwpv3azvq5gh2drrl4shcgla866k30-fwupd-efi-1.9 qw8qma7058vny0qfff7dlnh23ks9xn6z-nix-ld-2.0.7 rha8qx5spq8vk8bvyylhiw7jhg0n8qaf-rime-libexec-0.1.0
+Deriver: xypyn2zazkr81vfpx6v3326mdd8bynkm-nixos-tmpfiles.d.drv
+Sig: rime-cache-1:P+QKpIhosOYdcw3kPgyZCnCp2PlunMAX8N4sgLpr0EApof0t7akZGRsMWoDEeefzKRX4o1J/aoh1Y4c3SHWHAg==
