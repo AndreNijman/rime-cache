@@ -1,0 +1,10 @@
+StorePath: /nix/store/g4vxbr0n087ywapy3lx4kjjads3gc17n-rime-mok.der
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.11/0y2ispvf7i2azf5sbsnicfladyaw0ici5gldid7k4vjkg7wy4sk0.nar.zst
+Compression: zstd
+FileHash: sha256:0y2ispvf7i2azf5sbsnicfladyaw0ici5gldid7k4vjkg7wy4sk0
+FileSize: 821
+NarHash: sha256:0y2zaygvfqr9k53sjwphz7bp5dn0hw0x5f63k98k4vbg13j6bawx
+NarSize: 944
+References: 
+Deriver: j42r4cpg43bb0vkaph50x4550wrbg22s-rime-mok.der.drv
+Sig: rime-cache-1:YSoLlR2AKtRABQEVo3UwGJdFba/xlAsVnPVB/DDVEa4qZjOGH94XEaHfudVl30oe7XnziJZAwLfJaGAuRSxbBQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/j5v092yfgdr18zw57lfv157lmc9dq3vk-unit-rime-luks-tpm-reenrol-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.11/10nzrllvawzw6ixlkqyp3yv9wzy2xcd4pm5f0wlg33zcpnihbj56.nar.zst
+Compression: zstd
+FileHash: sha256:10nzrllvawzw6ixlkqyp3yv9wzy2xcd4pm5f0wlg33zcpnihbj56
+FileSize: 787
+NarHash: sha256:11nyb2ly96rz8jkcfxmps7zhsmra86yqqkgvhmss0l9r4khr048f
+NarSize: 1656
+References: 2xnrqq7nnahppv3b8p0ccqsb0rk88k7k-rime-libexec-0.1.0 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 ayx365l3vi3n7dq8n339qdfgdxf02bci-rime-luks-tpm-status bm6d7z9nzdj1r9bmq3lgqg0piynm6l9r-rime-luks-tpm-reenrol c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 9d2l0w7d4240ky7vdcwd2a5i2zzil5q5-unit-rime-luks-tpm-reenrol-.service.drv
+Sig: rime-cache-1:31a8vK4q2wZap1Kry8nGFp8qWNjUJv/RWK9Zg+djAWweSs2XwEmRxgeW3EEkHtsQ4G2MWKN/+TBHYcBz3/UMAw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/zjl40g7xzgcmbs3fhmyvbymnj75xm4ga-tmpfiles.d
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.11/1fg1a41psx588hb14amcg8nghlf3ajblrlv0ma77zfxm1dhb5lg8.nar.zst
+Compression: zstd
+FileHash: sha256:1fg1a41psx588hb14amcg8nghlf3ajblrlv0ma77zfxm1dhb5lg8
+FileSize: 801
+NarHash: sha256:0x7lc9p5hb065qkm37lgf5d6zica1d3r415ps2rfbwg4kshihxry
+NarSize: 5896
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 dac672h0j57janpl4aflrp125pn3ky4q-nixos-tmpfiles.d f2ifdvrrk5qpfq18jjhl8kdbffp9f702-lvm2-2.03.41 i5wkbba32h27mzpzr7pl092xgdnw6dw0-networkmanager.conf iq6vp4hks9awb382yvi149znrbkckx1r-graphics-driver.conf jnzd79phi9hwp4fvm5na4hl8hczw53pa-util-linux-2.42.4-lastlog rzdzcgwmajd9nq6cm1ghclyvm2zsw4qs-ssh-root-provision.conf x2sqs6a5mmy8pgrpf204n7xpm706d4n1-flatpak-1.18.4 za1xbc473dx1931i13cdphmr8nkjcl4w-nix-2.34.9
+Deriver: 1xjzkyk4l6rjmxp6vgp272qpchscn41s-tmpfiles.d.drv
+Sig: rime-cache-1:o87pjJ7slybP8Uqml19x7TWz9O5+0RYjpzRJRjEBxFI8OVn6Ks1veoECGDko14qRArEculfzy+/z3MaKcY1gCw==
