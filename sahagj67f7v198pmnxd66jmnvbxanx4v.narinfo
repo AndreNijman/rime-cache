@@ -1,0 +1,10 @@
+StorePath: /nix/store/sahagj67f7v198pmnxd66jmnvbxanx4v-rime-migrate-finish
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12/0nk035lxi00zwprgsf77v9whsxhm6p5pdi6468lxl6r3188yqw6s.nar.zst
+Compression: zstd
+FileHash: sha256:0nk035lxi00zwprgsf77v9whsxhm6p5pdi6468lxl6r3188yqw6s
+FileSize: 195
+NarHash: sha256:1q2w6xkaa5gw7pqrcf4g47lr02dgv9d122lzp4am2rvz3j2zw2in
+NarSize: 552
+References: m1y1fzx0hx7hgmam5dvp25jcv2m3s9m7-rime-bridge-0.1.0
+Deriver: 9pdlvbdlppmwii6c0w6k8b1w5h2p4002-rime-migrate-finish.drv
+Sig: rime-cache-1:S1JvS3VdC8R74jnZ2ePdonWu6kSp6F9zYT9NseDxMbqSlQSHfXyMOJKeeX6T434ON7t9tsVmbdeZwpoaLbb5CA==

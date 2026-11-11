@@ -1,0 +1,10 @@
+StorePath: /nix/store/wfpr209kjdmzs2mzzq6brmshfaqkalg2-etc-systemd-system.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12/1izhhpr3i1agspd6nygnmlh3cah5flklbxhj69fdy01bfh39avnd.nar.zst
+Compression: zstd
+FileHash: sha256:1izhhpr3i1agspd6nygnmlh3cah5flklbxhj69fdy01bfh39avnd
+FileSize: 550
+NarHash: sha256:1sj01br2dfm77xr8q19ssbbncdczl8zs3kdyw1i4flrby2iajk1k
+NarSize: 944
+References: 23iwhvfr5pmnzf6c5j9w2d2s1dhrf4fk-cifs-utils-7.5-bin 3yr53grpp9cfny1ybqsbwd9qgsl9yvlc-util-linux-minimal-2.42.4-bin 9l2mjms2iidc51mh6sfyjmhzshxa3v8k-e2fsprogs-1.47.4-bin cfrd7kqj31b4bqpl5nmrb64dpg56sb2c-xfsprogs-7.1.1-bin gksybc3b64irpkf84k30qphb44yjwqiw-openssh-10.6p1 nir241y4rfc6vwzdn9fk8nnf0hascnir-mtools-4.0.49 wgm5fv4jg18f7r85hpx1w1a5jxpncb6n-btrfs-progs-7.1 y1gravakn32yll26y7y6y8zfn19pd16d-dosfstools-4.2 zljkv0qrknm5z8w2dxl0jas2bcby6bhd-nfs-utils-3.1.1
+Deriver: nsj2xa84069cwva62jnf855mrkwsx3v2-etc-systemd-system.conf.drv
+Sig: rime-cache-1:je2ojCIxLqXKwDQXJLjhJ1e3AYp8dn5fVuPFq7NtXT8qBhejGJS9PFfClI604sycIqojDnpskQogz7jZ3QjpDg==

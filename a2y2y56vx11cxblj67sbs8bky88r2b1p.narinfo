@@ -1,0 +1,10 @@
+StorePath: /nix/store/a2y2y56vx11cxblj67sbs8bky88r2b1p-system-generators
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12/09kchwyjspdrswmddwad6z6vfkag5gw0d3aaxag0j68v8w095xvi.nar.zst
+Compression: zstd
+FileHash: sha256:09kchwyjspdrswmddwad6z6vfkag5gw0d3aaxag0j68v8w095xvi
+FileSize: 377
+NarHash: sha256:0ybsx3gpf69lnrp3906dy8xn6k3ysvspwmcf2imng3949b69y4pl
+NarSize: 1296
+References: 55w48cr7iihfw70692fs95pf43jkc080-networkmanager-1.58.1 fvj3i3vwp3cqh5h0v15438z0bd0ab63d-zram-generator-1.2.1 igagf756hj9ss3kzrsvs7ql01cjzyi8a-rime-hostlayer-0.1.0 ld4bmgdikpnwfmai2z0z411654k1pvxc-rime-rootfs-boot
+Deriver: v5ms92l3rrf4rzjsyz003grg9bkgpnbn-system-generators.drv
+Sig: rime-cache-1:N/vOTmz954rvHWmXFscrD2Ayo/NxuG2PWAV1PFPh11R47t8MWVeG9CATknvEeMURo87q2ob5AD0HD8kchA+nDg==

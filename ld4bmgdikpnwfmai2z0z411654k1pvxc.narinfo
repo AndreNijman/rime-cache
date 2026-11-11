@@ -1,0 +1,10 @@
+StorePath: /nix/store/ld4bmgdikpnwfmai2z0z411654k1pvxc-rime-rootfs-boot
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12/1vccqzkisxz4bciadf26qa19cbyk2fp0v4kyzjrhqlxqzbwz5pff.nar.zst
+Compression: zstd
+FileHash: sha256:1vccqzkisxz4bciadf26qa19cbyk2fp0v4kyzjrhqlxqzbwz5pff
+FileSize: 2752
+NarHash: sha256:09y16si04v9vn63mpp7hl9rwhp4s1x9z4j7bshsgd4iaq3v0i6p8
+NarSize: 7096
+References: xahxrjs30p3mw0a42bqg9ikgkikskw8m-python3-3.14.8
+Deriver: 34r8fxpixwzqkw41wk5d9bfpwymalg3i-rime-rootfs-boot.drv
+Sig: rime-cache-1:LQNG5faD82Ymo7SGbR4/SyupsfTIJUn4Tg4raqo5liRUCcE0uYzrIFPrsuCiKtQqEy+Ka9DlwqqZJgZqzVqiAA==

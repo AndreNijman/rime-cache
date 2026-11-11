@@ -1,0 +1,10 @@
+StorePath: /nix/store/a78m9maprcziw07zi49b0zwzfqxwymvy-unit-rime-guest-wipe-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12/08xwdsvypi92pff8fp1vr0aq2l1hfdgzmi2js76740zixd2ncdhk.nar.zst
+Compression: zstd
+FileHash: sha256:08xwdsvypi92pff8fp1vr0aq2l1hfdgzmi2js76740zixd2ncdhk
+FileSize: 803
+NarHash: sha256:0zdd4rpzrvr35qdxmlafalgi0401x7b5n4fca6p0lc0v09zy8s75
+NarSize: 1728
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 ajgwm7kn1ljzzcsm587kn0xcp4k1cfrq-rime-libexec-0.1.0 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: w414gvjblx23k8bwj9vv29h65lzqx7kl-unit-rime-guest-wipe-.service.drv
+Sig: rime-cache-1:Khbwel5+vSEgd94d0Hbve7Y4k1lRo5rlLftz+GWTB45idevVRlCGK9ldO8228CruWf32uF/cPYvekPMeSjaBCg==

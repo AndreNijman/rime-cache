@@ -1,0 +1,10 @@
+StorePath: /nix/store/xnhzvgdn4s60p1xx7kyigk4mv5h297i0-etc-zshrc
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12/08f4ckrmxs1nqzlmzf7xlciwpp1n5mjniffy7lcrwda94c0g8hgb.nar.zst
+Compression: zstd
+FileHash: sha256:08f4ckrmxs1nqzlmzf7xlciwpp1n5mjniffy7lcrwda94c0g8hgb
+FileSize: 1386
+NarHash: sha256:0008bi7vllwh0f4slxgclg1n16q1smpa1859gbwpbaxwn75p14hz
+NarSize: 2624
+References: ajgwm7kn1ljzzcsm587kn0xcp4k1cfrq-rime-libexec-0.1.0 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 kzmcwfwcm23vcip0rmg505jhr9h1faiw-hostname-hostname-debian-3.25
+Deriver: xkbrpbqgn3pn3dmryhj5i8zvzrnflcqx-etc-zshrc.drv
+Sig: rime-cache-1:CxwNOUOmUsfgI4NIDQOGv5XFYF23TrPcJ4HwSYfG+gmPsffgIoHREArzi7Az2cMpoeiScIv2abQ05zVhhC/NCg==

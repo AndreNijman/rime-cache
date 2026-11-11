@@ -1,0 +1,10 @@
+StorePath: /nix/store/29a70b0g79j1lhjq47va1qirig8as97k-systemd-generator-environment.json
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12/1nf7gqn46nfbvc96b41gpkifhl5hji755c05kygw55rwny50b8n8.nar.zst
+Compression: zstd
+FileHash: sha256:1nf7gqn46nfbvc96b41gpkifhl5hji755c05kygw55rwny50b8n8
+FileSize: 459
+NarHash: sha256:1k80mn5lcg9x8mc1s9zjpkgjv1bspkrvziz1j8415dpfiw1xk6ik
+NarSize: 792
+References: 23iwhvfr5pmnzf6c5j9w2d2s1dhrf4fk-cifs-utils-7.5-bin 3yr53grpp9cfny1ybqsbwd9qgsl9yvlc-util-linux-minimal-2.42.4-bin 9l2mjms2iidc51mh6sfyjmhzshxa3v8k-e2fsprogs-1.47.4-bin cfrd7kqj31b4bqpl5nmrb64dpg56sb2c-xfsprogs-7.1.1-bin gksybc3b64irpkf84k30qphb44yjwqiw-openssh-10.6p1 nir241y4rfc6vwzdn9fk8nnf0hascnir-mtools-4.0.49 wgm5fv4jg18f7r85hpx1w1a5jxpncb6n-btrfs-progs-7.1 y1gravakn32yll26y7y6y8zfn19pd16d-dosfstools-4.2 zljkv0qrknm5z8w2dxl0jas2bcby6bhd-nfs-utils-3.1.1
+Deriver: 3x9ykps7rkm6217d05av00nawlp4lvw9-systemd-generator-environment.json.drv
+Sig: rime-cache-1:VHnckjw8/p5rEukb5mp51ZhilR3ZX0iw9hfLU0SpkBtUOianGhwvzmERDMW/im/JX9lts1cGvLCLdbWdCtOBCg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5p0zgq06plpzih1a6wqdqy1nvffr9n1r-unit-systemd-fsck-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12/16wgrjrqkiw6bxs83rafs46wrsfrbbr9k6f0j0j1p0cp1mmjafzv.nar.zst
+Compression: zstd
+FileHash: sha256:16wgrjrqkiw6bxs83rafs46wrsfrbbr9k6f0j0j1p0cp1mmjafzv
+FileSize: 829
+NarHash: sha256:0pilc5w5mq188yh9cidaiizq9ghfwj27biamx5qc9kblx92jsa7c
+NarSize: 2384
+References: 23iwhvfr5pmnzf6c5j9w2d2s1dhrf4fk-cifs-utils-7.5-bin 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9l2mjms2iidc51mh6sfyjmhzshxa3v8k-e2fsprogs-1.47.4-bin 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cfrd7kqj31b4bqpl5nmrb64dpg56sb2c-xfsprogs-7.1.1-bin fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e nir241y4rfc6vwzdn9fk8nnf0hascnir-mtools-4.0.49 wgm5fv4jg18f7r85hpx1w1a5jxpncb6n-btrfs-progs-7.1 y1gravakn32yll26y7y6y8zfn19pd16d-dosfstools-4.2 zljkv0qrknm5z8w2dxl0jas2bcby6bhd-nfs-utils-3.1.1
+Deriver: rglq45ijzs0bagizpcmwhadf5kpl70a9-unit-systemd-fsck-.service.drv
+Sig: rime-cache-1:kcFC3LFw0jWQiqmbEPyOFLi8H9YvPW4eoXhrkqs9qR1rpp4i8JEXXxjTUyJzgfvQiZcKFZWVqAlneTssYn0sCQ==
