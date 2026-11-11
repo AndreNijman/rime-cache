@@ -1,0 +1,10 @@
+StorePath: /nix/store/9jfgdd8mwy45rdmqqb5hn6hpf84fp3wl-etc-ssh-ssh_known_hosts
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.11.2/1p625a8vz2qjbrnkql0gvmpq4wywjlpx5pm74h5sqhfdw97r5gga.nar.zst
+Compression: zstd
+FileHash: sha256:1p625a8vz2qjbrnkql0gvmpq4wywjlpx5pm74h5sqhfdw97r5gga
+FileSize: 76
+NarHash: sha256:0p3l2z3riilylr2rxb1aq2blxdfxg55wbgp4gxkns93srbr4bwyq
+NarSize: 120
+References: 
+Deriver: jgfbhv2sciir0pwjd8njspq0pf3wijc5-etc-ssh-ssh_known_hosts.drv
+Sig: rime-cache-1:DBpYjKr7zPwE/WFWqAfsvK7sHff8PR/Tz3EvYAuDtUWUFkU2yZVAYGYYr59imWcUOcXF4vi7DkwRF8D8OG/zCA==

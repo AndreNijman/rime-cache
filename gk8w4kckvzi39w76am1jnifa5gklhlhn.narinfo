@@ -1,0 +1,10 @@
+StorePath: /nix/store/gk8w4kckvzi39w76am1jnifa5gklhlhn-unit-rime-gpu-notice.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.11.2/0ai6grpgra1b340xsnpwnbfrxsqbay2di40zb4rsbgy4wb6r4fv6.nar.zst
+Compression: zstd
+FileHash: sha256:0ai6grpgra1b340xsnpwnbfrxsqbay2di40zb4rsbgy4wb6r4fv6
+FileSize: 670
+NarHash: sha256:0g513gzy4s5q9mlwmaw3wkqk6l2s8ddj7qsgkn0ii1djsx7c8c7i
+NarSize: 1416
+References: 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 ajaswzmmi5a6wv23p1vlmsxh463gfc5x-rime-libexec-0.1.0 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: wdv0m4qxhlhi8yzj9wdyh97j8pxq0vlf-unit-rime-gpu-notice.service.drv
+Sig: rime-cache-1:vgyKrwZqyD/hOI0meCfT7H7HeU4CouWMrb5a+1Goxe/uI2KW9wwjaJexQWm2UtQjcTgCH4Iyp2b3z9zfcjBJBg==
