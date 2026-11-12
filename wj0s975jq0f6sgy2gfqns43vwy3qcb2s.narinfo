@@ -1,0 +1,10 @@
+StorePath: /nix/store/wj0s975jq0f6sgy2gfqns43vwy3qcb2s-rime-keyring-login
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12.2/0xhaas7q9rdh3xri8f7r4l67rsfsl62invbfy6700pb2qrx2bpcj.nar.zst
+Compression: zstd
+FileHash: sha256:0xhaas7q9rdh3xri8f7r4l67rsfsl62invbfy6700pb2qrx2bpcj
+FileSize: 5421
+NarHash: sha256:197gzqcb49c25yk4apmjjl6syqhh1422qmng3xxsrcqi4jz528sy
+NarSize: 16104
+References: 9vs5zgw14lij8dr7ysvj3xd6abqhj8m6-gnome-keyring-50.0 bqw226mgm3pjzxlkb5w4k4gga0h2g9i4-rime-desktop-data lazac5vw20j0pyahzbaxz8z8hyf7m9zf-openssl-3.5.9 xahxrjs30p3mw0a42bqg9ikgkikskw8m-python3-3.14.8
+Deriver: 73l3h6y40sjm0k3nwa5z5rn7vr83c9l8-rime-keyring-login.drv
+Sig: rime-cache-1:PxRR8TDbcbmp+FQxw5u3WxNfpQgQw/FD1+5Tz4vrJ8B9XDjvH5+ABm2+lC6Byqdo4rsioyELtARkinatMetKAg==

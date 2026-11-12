@@ -1,0 +1,10 @@
+StorePath: /nix/store/90z0lhm0lqcpkwra73vnjixgkys9kami-X-Restart-Triggers-systemd-tmpfiles-resetup
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12.2/1i5fqgwhjih9aq3kpb1ixnl5w84x3ady9px1s2kns89729kp8h37.nar.zst
+Compression: zstd
+FileHash: sha256:1i5fqgwhjih9aq3kpb1ixnl5w84x3ady9px1s2kns89729kp8h37
+FileSize: 121
+NarHash: sha256:09ap3lzsyawa7k3smkjmw89b3bi8fws0xhw9rvyysinrkd7na7xv
+NarSize: 168
+References: 3r41m6mspcml6zml4qip4sdp7chhm51y-tmpfiles.d
+Deriver: 2790s3aibkiyli706ycgmky84c6ndv7s-X-Restart-Triggers-systemd-tmpfiles-resetup.drv
+Sig: rime-cache-1:bOtLKOaxOYTJ8d0aX1dinuwOjmOZdZrJq3cflAsHfSJfuJ1j92z/PXdicdQWIFt5RX5THCYKdQ9FDeF8EEahCQ==

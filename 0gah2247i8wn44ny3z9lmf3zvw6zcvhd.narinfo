@@ -1,0 +1,10 @@
+StorePath: /nix/store/0gah2247i8wn44ny3z9lmf3zvw6zcvhd-rime-sessions
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12.2/0fwxdj55rscy66wgzzbg42lxw3jdmhwjg3hxqvq4l03c6kbl8jyk.nar.zst
+Compression: zstd
+FileHash: sha256:0fwxdj55rscy66wgzzbg42lxw3jdmhwjg3hxqvq4l03c6kbl8jyk
+FileSize: 1997
+NarHash: sha256:0q6rgbaap58hnmh5w8p1zp2rqis0w6v5fa9mmy5vc3inl6llh3m2
+NarSize: 5192
+References: 8rw3y0sxb0na1h1c98ygq54fpzv0qfzx-rime-session-safe-graphics bsjr2qlb5yg4ixmb438nbgjfab4zcy6n-rime-session-hyprland iwqx35pawvxwi6d6hs2vax6as20xqvxf-rime-session-labwc j64hck25f3yq7rnxymhwalyilyc15sj5-rime-session-niri
+Deriver: v515j95bpd3izc0yzl62kjlkrb38w11n-rime-sessions.drv
+Sig: rime-cache-1:HtO0K9OjNInSFii4IX9ROdG1xnmI8MMYUeYlXsqMs9sbO3iZv2Vf/KNvxYbvln7+2DFwQiCkkcTwe4PAwONlBQ==

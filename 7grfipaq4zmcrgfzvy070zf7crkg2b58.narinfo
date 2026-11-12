@@ -1,0 +1,10 @@
+StorePath: /nix/store/7grfipaq4zmcrgfzvy070zf7crkg2b58-rime-luks-tpm-reenrol
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12.2/0ri438nwxx5ddc71pnzk3yybf8bzd6nc269d82y3izva8kidvp6v.nar.zst
+Compression: zstd
+FileHash: sha256:0ri438nwxx5ddc71pnzk3yybf8bzd6nc269d82y3izva8kidvp6v
+FileSize: 542
+NarHash: sha256:145c75657k87lbi10zjkjgp2vaqadd4zhivy5q3iji3gwbsddhaa
+NarSize: 808
+References: avshcbcrykiffn4vlhmz848ab69wbp9n-systemd-262 g2dxnf4b1wygnr7llw8prqh9mwsa3hbs-rime-libexec-0.1.0 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: 5ggfbr7vcxbbad4vmmj4k9zgr3lsik3s-rime-luks-tpm-reenrol.drv
+Sig: rime-cache-1:Ck1KEAsZ+HXgq5mZxNk5BADu4aW+rAra0Gm04kSIrO5XqJCLtUMAOtPrB9L+oxud8EC6AxtA2PAhV9+TF7ImAw==

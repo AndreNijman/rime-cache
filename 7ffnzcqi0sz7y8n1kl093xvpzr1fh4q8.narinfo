@@ -1,0 +1,10 @@
+StorePath: /nix/store/7ffnzcqi0sz7y8n1kl093xvpzr1fh4q8-unit-dbus-broker.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.12.2/1j7f79np69ar9mwkm4nw004f5w34cg7az7y1xv7xr7scn74r5577.nar.zst
+Compression: zstd
+FileHash: sha256:1j7f79np69ar9mwkm4nw004f5w34cg7az7y1xv7xr7scn74r5577
+FileSize: 656
+NarHash: sha256:0n5kcl8lyirwwjq9jqydk9j125sxi2dxzail3h9lc3xz1gfihd5y
+NarSize: 1464
+References: 62q92p0xn1sbj2ww33x2qr7xla4j0cq1-X-Restart-Triggers-dbus-broker 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e v7bmkdih6dp2v092s1is66v88c7xqp78-nss-mdns-0.15.1
+Deriver: zq4338wic6v02paj0ys8v9p8bm9zgkwz-unit-dbus-broker.service.drv
+Sig: rime-cache-1:tgXTk+I2aYQLP84LpF2OG9OVe5NDShOfHGbvx+MLym2bb5JsoQBrnr/z8TriXzeK726H9qa1OXdHJdKrpEXDBA==
