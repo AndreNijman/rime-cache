@@ -1,0 +1,10 @@
+StorePath: /nix/store/4j06dbkibvxvvx8ayy833gar0q4mhgiq-unit-systemd-tmpfiles-setup.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/16qca7kknas4cyw8dr34g1is3s5q2vw639d5jl8hrpmr4rjpgk3s.nar.zst
+Compression: zstd
+FileHash: sha256:16qca7kknas4cyw8dr34g1is3s5q2vw639d5jl8hrpmr4rjpgk3s
+FileSize: 547
+NarHash: sha256:0i3cv7yip0yhqv73myr6pznylx26jllyv8cqr1jrvh9jr6lmag4j
+NarSize: 1216
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: yxlnrc0nbbi69cqzxhf1684cyf2526mj-unit-systemd-tmpfiles-setup.service.drv
+Sig: rime-cache-1:u9hy2yNuiabqVqZWno8Z8TuEAXJhmAe6q3TuDiW2XY9ZDSnbc4aV/KrxH4iEjyrl7uWNvuuoGbXiuEO9mTVFAg==

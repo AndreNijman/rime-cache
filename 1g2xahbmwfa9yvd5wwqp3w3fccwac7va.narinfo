@@ -1,0 +1,10 @@
+StorePath: /nix/store/1g2xahbmwfa9yvd5wwqp3w3fccwac7va-unit-prepare-kexec.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1qyqpngjbxl9hmklmyji0wgsphdzmnz7m7791vsi5rh3h36j5aaw.nar.zst
+Compression: zstd
+FileHash: sha256:1qyqpngjbxl9hmklmyji0wgsphdzmnz7m7791vsi5rh3h36j5aaw
+FileSize: 696
+NarHash: sha256:05z16d21kxicgr3kbvsir7fvc8zyzl0afghpl33ncxjszim5fcnc
+NarSize: 1552
+References: 29kicl00w0drvl3rajbv8ia6q5mijylg-kexec-tools-2.0.32 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 8iglsjh389sjc6lkg3v6jp0mm5mxk4fg-unit-script-prepare-kexec-start 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: gkkmihv4821vdzjlvn5sfqh4r8fkl48s-unit-prepare-kexec.service.drv
+Sig: rime-cache-1:jhYfM8l0kvA4hZwFP9ycbfy9tya6ncFiLsRWA9WpRAOTJsB7CK/GfBVT0NgJY72kIKI8QgL/BaFWDTjkkeu4BQ==

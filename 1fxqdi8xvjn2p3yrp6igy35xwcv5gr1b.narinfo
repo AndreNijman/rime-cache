@@ -1,0 +1,10 @@
+StorePath: /nix/store/1fxqdi8xvjn2p3yrp6igy35xwcv5gr1b-rime-bridge-0.1.0
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1772m2l9brrfgv96a9iqwaxk50lc62s7dzj17gahbgvlq2g0n6li.nar.zst
+Compression: zstd
+FileHash: sha256:1772m2l9brrfgv96a9iqwaxk50lc62s7dzj17gahbgvlq2g0n6li
+FileSize: 51880
+NarHash: sha256:056zn4b3mq4s5msmpywdhczpr6c1hp00qb8qhy9p54zxhqzk6lgv
+NarSize: 336648
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin b1r6yxf198cjfk0sfxh6m6075j0fyhk7-cryptsetup-2.8.8-bin cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 wgm5fv4jg18f7r85hpx1w1a5jxpncb6n-btrfs-progs-7.1 xahxrjs30p3mw0a42bqg9ikgkikskw8m-python3-3.14.8
+Deriver: 8j84n71sp4sgwl9gvfyrc8513pv40x60-rime-bridge-0.1.0.drv
+Sig: rime-cache-1:6+qQYU41XZgnZMNgybPM4/ADt2HiIn/eSf8eKidvq5GYFDS6vv0LbVy6HNol9b+mj0wlgRWjvdnir5dBUO2RAQ==

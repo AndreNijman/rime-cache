@@ -1,0 +1,10 @@
+StorePath: /nix/store/4nzj8aqgikzpqyxd9pyinq26xgh72sgj-unit-nvidia-powerd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0gsfj648ryylx6cf13dc68shdyi44nxx0ac5l3l9f3qdl8kawwnl.nar.zst
+Compression: zstd
+FileHash: sha256:0gsfj648ryylx6cf13dc68shdyi44nxx0ac5l3l9f3qdl8kawwnl
+FileSize: 709
+NarHash: sha256:1dp10k2z2vm8krfnj123vkj3zxv061h1q9x4c8k3iw5d8sskk306
+NarSize: 1560
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e z07bq7br59qjr3ld6ckih94q5il57fbl-nvidia-x11-615.78.08-bin
+Deriver: iymcvc5xja4r8j7zslmn0xg8p8xqd0vh-unit-nvidia-powerd.service.drv
+Sig: rime-cache-1:fVUq0P/j29oxWaJ4HOh1tuhM+wI4zfb/sUsduO3WqFU4wXIGF0bw9EhIlpF79hZnbFpSGEara4EjnuDY6BqrDw==

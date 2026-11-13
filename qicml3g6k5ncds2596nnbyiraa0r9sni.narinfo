@@ -1,0 +1,10 @@
+StorePath: /nix/store/qicml3g6k5ncds2596nnbyiraa0r9sni-unit-systemd-makefs-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0nnx731q246vsxs6kybhdm6fnb8k4wzc4wbfzx0m650rdgdm9zdf.nar.zst
+Compression: zstd
+FileHash: sha256:0nnx731q246vsxs6kybhdm6fnb8k4wzc4wbfzx0m650rdgdm9zdf
+FileSize: 835
+NarHash: sha256:19l5fx5wsay5cwqaad4jcrsyny927ywsdll0rlpiz9ivlg05fcw2
+NarSize: 2384
+References: 23iwhvfr5pmnzf6c5j9w2d2s1dhrf4fk-cifs-utils-7.5-bin 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9l2mjms2iidc51mh6sfyjmhzshxa3v8k-e2fsprogs-1.47.4-bin 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cfrd7kqj31b4bqpl5nmrb64dpg56sb2c-xfsprogs-7.1.1-bin d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e nir241y4rfc6vwzdn9fk8nnf0hascnir-mtools-4.0.49 wgm5fv4jg18f7r85hpx1w1a5jxpncb6n-btrfs-progs-7.1 y1gravakn32yll26y7y6y8zfn19pd16d-dosfstools-4.2 zljkv0qrknm5z8w2dxl0jas2bcby6bhd-nfs-utils-3.1.1
+Deriver: w6m8rz4f6wkqybwmlnd7csqglqfdkd3k-unit-systemd-makefs-.service.drv
+Sig: rime-cache-1:CsGMqGzAvhuZKH2ac/CaZcinKDfWnQsY9cR3dFst0d/ZaNRVFQliezpQXZzA7GxZMHdaeo6kxQ8WIMlYpdwrDg==

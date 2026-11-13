@@ -1,0 +1,10 @@
+StorePath: /nix/store/an91x6i3ixqy1ch84frygsxxmbgfq9hi-unit-geoclue.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1k8h0rmd5gh344pn7nwn8cs8g8fkgl943srz16l1pnh2nksaxlwp.nar.zst
+Compression: zstd
+FileHash: sha256:1k8h0rmd5gh344pn7nwn8cs8g8fkgl943srz16l1pnh2nksaxlwp
+FileSize: 593
+NarHash: sha256:05p09ihqcvnqmj9cms8phvw3550fmh8nygppxhk540n204hwv308
+NarSize: 1336
+References: 57dx0c7qdy7s9xhafaw02qqnzv73kmyz-X-Restart-Triggers-geoclue 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: bb9k67bhvymc8pgfng0mwafpwd8d0alj-unit-geoclue.service.drv
+Sig: rime-cache-1:GK61VqJwFcfCOlCOddSv2PXj4aRkWP15JlMWK2UtYCYVp/KK6mOc42rw6DwD3AnEi523BVyd0iAegPjPdHNmBA==

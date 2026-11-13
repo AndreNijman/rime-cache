@@ -1,0 +1,10 @@
+StorePath: /nix/store/0z2h4zakk2l2xwrx6h8c3lr9fnf8v7ja-initrd-linux-rime-7.2.11
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/164rhqigzbjb6mjn4rhhprrbgv70vzab34d5gqqcphfvv4g18iwk.nar.zst
+Compression: zstd
+FileHash: sha256:164rhqigzbjb6mjn4rhhprrbgv70vzab34d5gqqcphfvv4g18iwk
+FileSize: 36727130
+NarHash: sha256:0s69ls6p54ybbpdc9yz91nbp68320y2njy8b97x9hx3c1vl5jcgp
+NarSize: 36808808
+References: 
+Deriver: j7xkrmpykb8wn5jv707c42wcwqw816z9-initrd-linux-rime-7.2.11.drv
+Sig: rime-cache-1:Z8/8w2ys/eQAbUc8s2wdf6nqDUR+8ip3LuSUpQcGzzpq6tpZK/0taA+ElNoGUcW79J50N0+hlSHfhRrUpBJWDQ==

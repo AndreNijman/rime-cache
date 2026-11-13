@@ -1,0 +1,10 @@
+StorePath: /nix/store/d8z68smhnm0dyjbx4lmc353wgh7p9ika-unit-kmod-static-nodes.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1rhkaw56myxca1p4nki90rwdrqahpaqq0yxs5rwv4rvjg5xfgp9x.nar.zst
+Compression: zstd
+FileHash: sha256:1rhkaw56myxca1p4nki90rwdrqahpaqq0yxs5rwv4rvjg5xfgp9x
+FileSize: 585
+NarHash: sha256:07z8a1hl9kc1ygdd0m036gswhzxw803yd9n10c59zb75f18s1hqf
+NarSize: 1288
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: i222548znm7mk78xzs46kvl7p8qpamdq-unit-kmod-static-nodes.service.drv
+Sig: rime-cache-1:4OJ+BM2meDcqWc7MdOWcwK5vgmuvoz4vuyPHcrO95kTD0qu7jTNMZ2TPsuRBH7hO/sluYgtx2QsF40IEs6DGAA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/84cva5qcfvqx5bsd3b96bn7qbyz9ap45-unit-systemd-zram-setup-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/19ykr5vscdxfj8dk7yzry1kz1sflq9v14carkm9r5r1zb8h8qjsr.nar.zst
+Compression: zstd
+FileHash: sha256:19ykr5vscdxfj8dk7yzry1kz1sflq9v14carkm9r5r1zb8h8qjsr
+FileSize: 575
+NarHash: sha256:0m4b1v842lh2gfddn05qklbpdc800vhjbdfgskpvyffyfm31dj98
+NarSize: 1344
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: fndgz0b2nq0a4083hrlzcv0xy23q72hj-unit-systemd-zram-setup-.service.drv
+Sig: rime-cache-1:Y8n/pUikfKtI4U15O+AK0C1Fo15TOHKmlvI5XEnN1HcsRjWG4pylMcVOIw+yPDZKVrET5EvjN4Rgx4+wYnJEAw==

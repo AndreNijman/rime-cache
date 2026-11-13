@@ -1,0 +1,10 @@
+StorePath: /nix/store/4rjnkndra0dgjx20rm5mx8nndy0lydpv-unit-systemd-udevd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1136zkyib4fidc6s90gpz6jwlx6nsm5w545asq58s34wi453qs25.nar.zst
+Compression: zstd
+FileHash: sha256:1136zkyib4fidc6s90gpz6jwlx6nsm5w545asq58s34wi453qs25
+FileSize: 607
+NarHash: sha256:1r12x5m0i24q90l3zzyikgcwr5s17ms5p7iv23wyxp2icsjmxkrc
+NarSize: 1320
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e s60gbp00lr38gjcy6l2h1iq573dgqnz0-X-Restart-Triggers-systemd-udevd
+Deriver: 8i6v2aj4hn1zk1vb289cdamb2f5qmdd2-unit-systemd-udevd.service.drv
+Sig: rime-cache-1:JZTNMhQWxg4g+wGyYc93tzf3gqbFrHtPvmffOChpjJjYAI6OjiWhC10tLx+hVH4e8hAbM/vT09pjvY5/cNh6DQ==

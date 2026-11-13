@@ -1,0 +1,10 @@
+StorePath: /nix/store/329lzf1z7z5rkpgy2ndv2h8sv5ygf2jp-unit-dbus.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/120n574i3912h8s5qspmjz0rn3zv36nv7cvjmpmxikjv9lzaab0f.nar.zst
+Compression: zstd
+FileHash: sha256:120n574i3912h8s5qspmjz0rn3zv36nv7cvjmpmxikjv9lzaab0f
+FileSize: 525
+NarHash: sha256:0wv65piygz5py4gl6sbk11yab8igryakxb7xars70hk1dgncmf43
+NarSize: 1184
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 1vbikc1xxw7q7rvf395657gl8qjhkqn8-unit-dbus.service.drv
+Sig: rime-cache-1:uB0D8LcJDgZIQbMeQXo/YkaM5p3UExVrujTyF1vnT8KHIm5DCg5opLl6gmYI+zFZuwW4VpcABenRgXL9AENgBw==

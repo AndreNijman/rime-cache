@@ -1,0 +1,10 @@
+StorePath: /nix/store/l43scxngw88a1lrfgivn9mn045d1d8jq-unit-xdg-desktop-portal-wlr.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1zhhz6aicy87yyp2m7dcm8v7h6whd0818152hs57wb9bdigf279f.nar.zst
+Compression: zstd
+FileHash: sha256:1zhhz6aicy87yyp2m7dcm8v7h6whd0818152hs57wb9bdigf279f
+FileSize: 604
+NarHash: sha256:0npawmcmwks29dk9w532ijzwf2rr0q50mzv0fgyw91bmqpgp22gw
+NarSize: 1384
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 ffcb01n4xsbyb0k5ikg877zzxf2xa46c-xdg-desktop-portal-wlr-0.8.4 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e ifpmm3k7n1qq0lf0rhyc1i84m5km562z-xdg-desktop-portal-wlr.ini
+Deriver: cc9fmqvcqnvchzd750vhi5f8qbyzx4wy-unit-xdg-desktop-portal-wlr.service.drv
+Sig: rime-cache-1:2Vkc0A1Q0ESqPNqPOklvgwyOhX4vaaGJPlMNsvJnAmQZHJwFMwx3ICMtJ7i4D4pzfDHJ3C6ploZLHdHva0+FCA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5kg10izdb4lcjcmy5kyhffy0prw2zydb-unit-nscd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0lfr6dfpsdhh8r4iwwdzadgshpf25v2aas9ajdbqy2by3067kmhb.nar.zst
+Compression: zstd
+FileHash: sha256:0lfr6dfpsdhh8r4iwwdzadgshpf25v2aas9ajdbqy2by3067kmhb
+FileSize: 873
+NarHash: sha256:1ymrs7cva0ab63q9502bdr5yyannzzf4vjxpwz4r0r8jw193mva8
+NarSize: 1824
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e v7bmkdih6dp2v092s1is66v88c7xqp78-nss-mdns-0.15.1 yw0bbhjxlcz5yzmwfi3pa2m8q96s5yav-nsncd-1.5.3
+Deriver: rdhfyiysg4gvsji6c2ls626y5vrnzvid-unit-nscd.service.drv
+Sig: rime-cache-1:5sOGsdL0nXr67Ko7288sWPrb8imThiA6jx0+EsKXeiZars0p/0+8vlkYg4cCbkof9uDVsCpDhgB5g6y50+GXAQ==

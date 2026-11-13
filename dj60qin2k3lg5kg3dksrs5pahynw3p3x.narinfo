@@ -1,0 +1,10 @@
+StorePath: /nix/store/dj60qin2k3lg5kg3dksrs5pahynw3p3x-unit-plymouth-halt.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/13i35g3ibj8znvlxyvmi8x43kivi1v9wwzi5hpl2i0af97zb3v0n.nar.zst
+Compression: zstd
+FileHash: sha256:13i35g3ibj8znvlxyvmi8x43kivi1v9wwzi5hpl2i0af97zb3v0n
+FileSize: 541
+NarHash: sha256:1jh2j4n5qjpi4y2582557z97xjng91a40dhkz509jrs7fxkg9hw1
+NarSize: 1208
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: c7wyx511nbyzwmara9r36k1nl98h63ah-unit-plymouth-halt.service.drv
+Sig: rime-cache-1:xw+RS5XEMu2nwCdLyjOuju5xw6IBMxCBWzgNL6pGO//LOITSky8SedHwnMqHmikWCTKfgB15nCNXddJcujkSBg==

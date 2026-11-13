@@ -1,0 +1,10 @@
+StorePath: /nix/store/ndpcd7pqc20w88qp1hr51sf48qizcxwr-unit-plymouth-quit.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0j7jpcsjz4ph773xmrpj0vq3a4b1qrafxpffx36nh955vdzwlnmm.nar.zst
+Compression: zstd
+FileHash: sha256:0j7jpcsjz4ph773xmrpj0vq3a4b1qrafxpffx36nh955vdzwlnmm
+FileSize: 620
+NarHash: sha256:0jx4vr05bx45maa7zyi6vfpfyqjb0yzmf7182x5lalkklk9cljlx
+NarSize: 1312
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e kwxsds2ryq2kgk8n4aw8rfsqn5gl4mq6-rime-plymouth-unstick
+Deriver: c3a99n840gk9k052r8j2c9a1vpxy8lqq-unit-plymouth-quit.service.drv
+Sig: rime-cache-1:33iWqEMGbrUAlNNfoyNdds+CAHMnPTyu+8lyVVNnjhirk2N7/3yq4PjTNtsAjSRetx1xWcRMq5hsy9MhlmV8Bw==

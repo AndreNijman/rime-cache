@@ -1,0 +1,10 @@
+StorePath: /nix/store/pslis1i99al997rh94zh8xixbyi7jl3r-unit-xfs_scrub_all.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1c4xglsjqrgwsdbvb7k4h0frw9wa9gka60fl79s3k2hxnqkdkfln.nar.zst
+Compression: zstd
+FileHash: sha256:1c4xglsjqrgwsdbvb7k4h0frw9wa9gka60fl79s3k2hxnqkdkfln
+FileSize: 570
+NarHash: sha256:041k6zw4nqi36s9hffwq7shzn6pfgmy3gmrs023mx203bck8z7r0
+NarSize: 1312
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: fs6fgqm6bqc814iz95x80scp9awvv8xw-unit-xfs_scrub_all.service.drv
+Sig: rime-cache-1:skwH0FQMxcfYsmYO0ICfykpBGvIaRlFYqO9ozzBco+2/0YJVl+p8LDOBrynY/BK6RPp2Qt5oxXca2olvS9QfDA==

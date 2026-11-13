@@ -1,0 +1,10 @@
+StorePath: /nix/store/03i48xqcpn30ppaxxmcjji6fm1p7jviw-unit-systemd-mkswap-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1g2lnj3qa7i6iscc6qlw3v27h608qzwvb81206hfc48mvdq07ypj.nar.zst
+Compression: zstd
+FileHash: sha256:1g2lnj3qa7i6iscc6qlw3v27h608qzwvb81206hfc48mvdq07ypj
+FileSize: 572
+NarHash: sha256:0ayyrjilh8sra31f5p55sa35l6xv3cv7ap804zmdpzkw0fkzbkvm
+NarSize: 1336
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: qd8qqgq617749c7p2xwpvwy6lbnyyf4n-unit-systemd-mkswap-.service.drv
+Sig: rime-cache-1:ofchY2zfRMbBi5eo7WFyzzJa2EYEOQMjjwujK9qYXIN7JGyeppBjiXgk9Cjgwt1rMiW1+8t6Q9pY2OOZEL6VBg==

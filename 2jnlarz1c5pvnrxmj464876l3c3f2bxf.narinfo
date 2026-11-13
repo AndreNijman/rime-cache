@@ -1,0 +1,10 @@
+StorePath: /nix/store/2jnlarz1c5pvnrxmj464876l3c3f2bxf-unit-systemd-journald-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0rpb2saddia0npddziy5ilsvyk001068l5y7yzpdy5vv2ls9yvgs.nar.zst
+Compression: zstd
+FileHash: sha256:0rpb2saddia0npddziy5ilsvyk001068l5y7yzpdy5vv2ls9yvgs
+FileSize: 590
+NarHash: sha256:1540nd0hc7kmzn3k8rgkq76rasr7vwlg83kif0x38ha6b956b49s
+NarSize: 1304
+References: 4inzadrby10v1dkbjwb778mbr8qqw04d-X-Restart-Triggers-systemd-journald- 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: a8nvy64929s7wywfg19953q0zq7fx7sz-unit-systemd-journald-.service.drv
+Sig: rime-cache-1:/pjYNE6SyQegUzHMXRtYgl4L/OSCTJ293/ZIpJyEae5pXrV8QEZxEz6LRljE34bUe4A5NcY89jVfCaocO8D+Ag==

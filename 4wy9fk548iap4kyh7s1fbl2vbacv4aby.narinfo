@@ -1,0 +1,10 @@
+StorePath: /nix/store/4wy9fk548iap4kyh7s1fbl2vbacv4aby-rime-pam-env-empty.conf
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1gi3l3rhkk48v5v3pnvzw22y1fjl2l2100s2kysp296pmlzxfshg.nar.zst
+Compression: zstd
+FileHash: sha256:1gi3l3rhkk48v5v3pnvzw22y1fjl2l2100s2kysp296pmlzxfshg
+FileSize: 73
+NarHash: sha256:0ip26j2h11n1kgkz36rl4akv694yz65hr72q4kv4b3lxcbi65b3p
+NarSize: 112
+References: 
+Deriver: jla7ka670p638ddvdb5frz8hdja6hjaa-rime-pam-env-empty.conf.drv
+Sig: rime-cache-1:l0fXV0u2uCRq/J67jo13o/ojbwfQqK3PgwqCJ3lMvRe6fNt0q7sc1WLrgi8lzuQ4fd9iz+bSNckifh1Sz4f9Aw==

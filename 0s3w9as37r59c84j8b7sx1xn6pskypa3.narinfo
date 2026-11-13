@@ -1,0 +1,10 @@
+StorePath: /nix/store/0s3w9as37r59c84j8b7sx1xn6pskypa3-unit-lastlog2-import.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0d1xab84rhj7yysf951khvyjfmg78r4vzf54sphnx0qxskznjj13.nar.zst
+Compression: zstd
+FileHash: sha256:0d1xab84rhj7yysf951khvyjfmg78r4vzf54sphnx0qxskznjj13
+FileSize: 609
+NarHash: sha256:1p401igsf20sh7cdapngy9mfidivwnvq59yyy6w0zl86p6x63a2x
+NarSize: 1400
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: vswz71bh52i917x6kjyj3zg3k6g1h6r5-unit-lastlog2-import.service.drv
+Sig: rime-cache-1:312rKP35UCOT4Flgf7/4e2COxGUCx2af63jJtAgn5VMRb4ekzKUKhPArvlYnZxPm6r9mlP8wZZo5wRHzeuTHDQ==

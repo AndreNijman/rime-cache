@@ -1,0 +1,10 @@
+StorePath: /nix/store/rb3bdsmkww34mbz2h71yq38ca2217fax-unit-plymouth-poweroff.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/08ddwy3k2rcbvw33z821r9wh5p8qvccis8hy6fm0v5qw3nlfixj0.nar.zst
+Compression: zstd
+FileHash: sha256:08ddwy3k2rcbvw33z821r9wh5p8qvccis8hy6fm0v5qw3nlfixj0
+FileSize: 543
+NarHash: sha256:1naxbia8z2swncsl0j7092w257smy6swqnrs5qa7r2g90qff8wn1
+NarSize: 1216
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: bbi4j8f9jza4ahklbldkphy58xpr9yfk-unit-plymouth-poweroff.service.drv
+Sig: rime-cache-1:o6zgcXTdDmd7JOTbG/5inWwAdsxyi4sRiO4xrOetcxQEgBDvcJ+O2wSROJfc5iQur6fc7CirgCcNweDQfouhBA==

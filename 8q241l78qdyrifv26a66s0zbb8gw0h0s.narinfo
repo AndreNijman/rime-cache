@@ -1,0 +1,10 @@
+StorePath: /nix/store/8q241l78qdyrifv26a66s0zbb8gw0h0s-unit-NetworkManager-dispatcher.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0x1il4wkg51c2ij9x9fkakzfrbarwbzzpg881k23pak3m94xhbin.nar.zst
+Compression: zstd
+FileHash: sha256:0x1il4wkg51c2ij9x9fkakzfrbarwbzzpg881k23pak3m94xhbin
+FileSize: 680
+NarHash: sha256:0n7pdrpgr7nn1b3xn14hxapk1dwxamrjmgwf3xifvrj98la4dwvd
+NarSize: 1728
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 4zrf00a0qzpy6fwmkpg3wv9vfwi5fk07-X-Restart-Triggers-NetworkManager-dispatcher 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e x1pwsbz5cm23hk58b7fcpn3hhg9j7gwh-iproute2-7.2.0
+Deriver: 2n32r9rfnb2gdp8ax9rf1b9ghs5v6qqx-unit-NetworkManager-dispatcher.service.drv
+Sig: rime-cache-1:B18r0XZTEdKphVpEHsUSocnV3CIKdLiUB6aOHU2nFuslR3yMaq0XARz7WtoSzpx/y1cSCh2EJRo/dXxz739NDA==

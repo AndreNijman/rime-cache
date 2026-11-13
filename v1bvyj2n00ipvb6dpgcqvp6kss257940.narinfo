@@ -1,0 +1,10 @@
+StorePath: /nix/store/v1bvyj2n00ipvb6dpgcqvp6kss257940-unit-libvirtd-config.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0khc0lzd0dvq164hd009n9wwmr9p036m6lxi75bpz52a6bz8z69x.nar.zst
+Compression: zstd
+FileHash: sha256:0khc0lzd0dvq164hd009n9wwmr9p036m6lxi75bpz52a6bz8z69x
+FileSize: 705
+NarHash: sha256:1skysrfkdh2ngflqpg4lzy5b686nakm20sjidjkmdyrf0k0c77wj
+NarSize: 1672
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e sy5bv62j2n1hknagf2cqymxw7lf7d2cd-unit-script-libvirtd-config-start
+Deriver: mxpkw625d8y9nd7r3n3cql234znshc5b-unit-libvirtd-config.service.drv
+Sig: rime-cache-1:GoFmuupd0dbNGqcxcC7dUDhF1Tx/SaqgZQrvZ2YuDLQUY5wZQuIyKemP7K06isoe5L3vtxaM68g2NRs21VHMAA==

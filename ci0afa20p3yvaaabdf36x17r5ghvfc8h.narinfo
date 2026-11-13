@@ -1,0 +1,10 @@
+StorePath: /nix/store/ci0afa20p3yvaaabdf36x17r5ghvfc8h-unit-systemd-ask-password-plymouth.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1wrlhp5h6ddn541sbifg9g89axvdcl828bbg9120f84779310h64.nar.zst
+Compression: zstd
+FileHash: sha256:1wrlhp5h6ddn541sbifg9g89axvdcl828bbg9120f84779310h64
+FileSize: 552
+NarHash: sha256:1riahmfgxxzrdygyngwiydrzrgc0l2ylnma8rbafry988fv8z1r8
+NarSize: 1224
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: jxfpnvdlz7ngig9cly3m27x7q2h1sz36-unit-systemd-ask-password-plymouth.service.drv
+Sig: rime-cache-1:l/z5BAXgQaKfYMSb+jEn7vBgRYzs/205RCGw4iJzsLEDcZGC7/rWH3puguf0+tHdwA1WWX3U/vLKGKN+PCLCCg==

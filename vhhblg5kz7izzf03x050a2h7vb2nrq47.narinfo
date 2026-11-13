@@ -1,0 +1,10 @@
+StorePath: /nix/store/vhhblg5kz7izzf03x050a2h7vb2nrq47-unit-rime-remoted.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1zxi0lnmvsdshg6nqzzymg068i7p42fv89b0g18dpwvb3m57swkx.nar.zst
+Compression: zstd
+FileHash: sha256:1zxi0lnmvsdshg6nqzzymg068i7p42fv89b0g18dpwvb3m57swkx
+FileSize: 567
+NarHash: sha256:04qmii0id0n6f9lvif5954gr2p1kq97j6gknxfn1l7c1ps0h85ga
+NarSize: 1264
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: d726gw9mzjglycmqgzqdiqx0z0g7qssw-unit-rime-remoted.service.drv
+Sig: rime-cache-1:DUjV5KW7LL12KmciOLEzzV2PlzrRRc5mbqzDWBq1fB19gzDgMyXEy3CLW+6MzaEVpGrirTX+nh67aT9j3qwuCw==

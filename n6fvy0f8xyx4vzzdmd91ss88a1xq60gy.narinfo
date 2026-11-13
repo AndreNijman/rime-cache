@@ -1,0 +1,10 @@
+StorePath: /nix/store/n6fvy0f8xyx4vzzdmd91ss88a1xq60gy-unit-linger-users.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0rdi772a5b6jbwk877ahckn81c067i4xbrjqbg5m37nrzl9qzf77.nar.zst
+Compression: zstd
+FileHash: sha256:0rdi772a5b6jbwk877ahckn81c067i4xbrjqbg5m37nrzl9qzf77
+FileSize: 657
+NarHash: sha256:1yq7zr0zwnl85gk4fch2ilpi12qm1lw11s0f406pmi96cpmi1k6a
+NarSize: 1464
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cq1yb30wgafqicpczmckyy1hmkdx009i-unit-script-linger-users-start d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 65c8wmay70a8r48g8k19ff4zh4y8w7rh-unit-linger-users.service.drv
+Sig: rime-cache-1:LlotOOY3KqlSfaSmdQjqa+3AhV+3/hz0ylzMJs865FHXQiuyGI/g2bILJE7XrvlkoO0FY/mVjx5Z4D9X0BdoDQ==

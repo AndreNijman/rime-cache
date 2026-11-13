@@ -1,0 +1,10 @@
+StorePath: /nix/store/867pgabi4dq7b098v3bq3vpa0b06zj1v-unit-pipewire.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1gysyd0lj77n0f3yyxpw0j9bszdg0dql70w3v6py5a01g6098ibn.nar.zst
+Compression: zstd
+FileHash: sha256:1gysyd0lj77n0f3yyxpw0j9bszdg0dql70w3v6py5a01g6098ibn
+FileSize: 611
+NarHash: sha256:18pgld7p6ws7ypqs1c4xqhmnsnwj5grfr0hna1v9bhsiya34pg4c
+NarSize: 1384
+References: 0jvfcpm5s7akl0rji27ra7hb41n0a571-pipewire-lv2-plugins 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e ybcn3s9bw8bmh16zvhkqh65wzrzf4vsq-pipewire-ladspa-plugins
+Deriver: 6c9z6s3g7j6qfj247pgcykvy07cppw6z-unit-pipewire.service.drv
+Sig: rime-cache-1:cCdf8cLtiH8FCDFDd2NoqYILrvZuWhgBps4z26ig6K12+8Fx0kTWs5Nae9rh2v8WTapwRHkM6CRyPv0NzWuuCg==

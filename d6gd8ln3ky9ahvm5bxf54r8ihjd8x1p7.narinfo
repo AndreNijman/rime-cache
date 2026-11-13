@@ -1,0 +1,10 @@
+StorePath: /nix/store/d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0alis7ancr0vqrg4vczpy8n56ifdi4x1zwq5azr06g3plk2g125g.nar.zst
+Compression: zstd
+FileHash: sha256:0alis7ancr0vqrg4vczpy8n56ifdi4x1zwq5azr06g3plk2g125g
+FileSize: 425025
+NarHash: sha256:1566vvnjdx5mzx4r6jfhn0mn4i6ghaz8jzbm1m9374kc8bvypd3c
+NarSize: 5739664
+References: d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57
+Deriver: w8b9ylxw23c45x32kx5pjxi5210277lj-glibc-locales-2.44-57.drv
+Sig: rime-cache-1:KS6sEn2lYSoY5KqnH931pvl7j+XbvvzPcrW2LNDlm5+8qBcMkT8XGUESVaNkK1tCLJzpCGfsH6uTCvYpkJZvCQ==

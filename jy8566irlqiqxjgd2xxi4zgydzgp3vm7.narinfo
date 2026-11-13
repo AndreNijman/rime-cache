@@ -1,0 +1,10 @@
+StorePath: /nix/store/jy8566irlqiqxjgd2xxi4zgydzgp3vm7-unit-systemd-backlight-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1nddil0cbyvazd6n413q6zkgna5ni29kp20gh6g7pl75p9n5478f.nar.zst
+Compression: zstd
+FileHash: sha256:1nddil0cbyvazd6n413q6zkgna5ni29kp20gh6g7pl75p9n5478f
+FileSize: 537
+NarHash: sha256:06bfjjv8fapchbw08jkqkc2l9790jfr97sz7nmajf6sn4jpgzm80
+NarSize: 1208
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: f3qmbac1bh1ib9kc1qy06nf5748zr73z-unit-systemd-backlight-.service.drv
+Sig: rime-cache-1:0w0dXJsQNZxmPN59S21nf6O9E8V75C1hWYAlRoYl6AItea7WCYcmWxgrLvPFhJkKqRdx283VBXswsvSuloEdAw==

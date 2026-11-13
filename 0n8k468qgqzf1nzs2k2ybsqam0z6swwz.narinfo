@@ -1,0 +1,10 @@
+StorePath: /nix/store/0n8k468qgqzf1nzs2k2ybsqam0z6swwz-unit-network-local-commands.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1gypscmjjqczypvd00y8nm4zx0hcpgv097dghpwab6havs3flgbj.nar.zst
+Compression: zstd
+FileHash: sha256:1gypscmjjqczypvd00y8nm4zx0hcpgv097dghpwab6havs3flgbj
+FileSize: 729
+NarHash: sha256:0x3k9ny9nk7yky9vpbz2d5d9bg2fc4a0011yi00d8q1i4arq23lw
+NarSize: 1656
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e vr1d3cnw07qpdvn843hbml5gb6icmnhv-unit-script-network-local-commands-start x1pwsbz5cm23hk58b7fcpn3hhg9j7gwh-iproute2-7.2.0
+Deriver: zrg9xalavbdb8c2jqmmlinfxjb0k7l5a-unit-network-local-commands.service.drv
+Sig: rime-cache-1:jcHycTD7+FRf6uJ8AaeUDThLbO+XQAW8IRK4MkHXWi92oktFDJ05V8SlzKygdwShRdqe2pY7h14RC/w8DzHKDw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/0hixcjlml40lgs4ll96bpnjc31h1qnf9-unit-auth-rpcgss-module.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0y4xz3zgvymlzh7a31xa07j3ql2ag5yh95ynj4rimxk82mhvpgn4.nar.zst
+Compression: zstd
+FileHash: sha256:0y4xz3zgvymlzh7a31xa07j3ql2ag5yh95ynj4rimxk82mhvpgn4
+FileSize: 556
+NarHash: sha256:137h27spg26d05gss16kah202l7i325airpyrghxxgpdf0b7y0wc
+NarSize: 1240
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: a793726pp2r81bn6f16bajgs119gs3xy-unit-auth-rpcgss-module.service.drv
+Sig: rime-cache-1:BLYoL7c4/59iAST5qjS02lOFGuCaygfG8Ghy3A7uqlDljAHj+Ys2UtcefSvcjB7SSuREZ4thOEwd+vm0foY0Dw==

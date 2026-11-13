@@ -1,0 +1,10 @@
+StorePath: /nix/store/r1shvsx5kysaiwr1c85ia5bnvpmrgszy-unit-rime-secretd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1wb86rcxksibws0ymq7x294ljfjly7hh4nqyaf454pp9hyv5gv5x.nar.zst
+Compression: zstd
+FileHash: sha256:1wb86rcxksibws0ymq7x294ljfjly7hh4nqyaf454pp9hyv5gv5x
+FileSize: 568
+NarHash: sha256:12as6p4caiwqqpdr0kz4n9xqyxw2jhz1d2p9pjs7qrwb09lhlv05
+NarSize: 1264
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: g4zbamfj929mmrng441a1ybkwhhql0in-unit-rime-secretd.service.drv
+Sig: rime-cache-1:LaqHnJaX78TMyK4M+SEcQIuf+aXsa3OyuxtsnCQuLjUCkkeqGd0xZKJ17LevGiC5qJSTpz+qotSUIBKc9w5RBg==

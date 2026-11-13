@@ -1,0 +1,10 @@
+StorePath: /nix/store/5hzrc8qrqq04vv4344fzvw4q7vzwvfsj-unit-systemd-modules-load.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0qjqx3zn9c62ak094v3pd8fqrdv78qvaq44zh5vl6z2psna352pg.nar.zst
+Compression: zstd
+FileHash: sha256:0qjqx3zn9c62ak094v3pd8fqrdv78qvaq44zh5vl6z2psna352pg
+FileSize: 604
+NarHash: sha256:03f8jfy5ygd576qcrzyda2xwhahn020m59gaykylr8lwqalfk6dl
+NarSize: 1344
+References: 0brbh7z0arlqy4ap312d0g8nf4in6x4h-X-Restart-Triggers-systemd-modules-load 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: mwxsrqmy1wl38w19jjr1q0rdmrzi4aw3-unit-systemd-modules-load.service.drv
+Sig: rime-cache-1:qQYxGYvbjqazVPI0EYaL1mJE3+kezSHp4U0p47ERUmvE6uRG0qXwYhi95ONBXH9YpHg0jKGtpVh9WMUfOEoLAQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/v3aym3cl30kxiwwmgmkvna34k84irqii-etc-rime-catalogue.json
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0j27flg8ganrp4wrxrxwr7qmvdj35325jaa57cl6qdh1rv5gf9nn.nar.zst
+Compression: zstd
+FileHash: sha256:0j27flg8ganrp4wrxrxwr7qmvdj35325jaa57cl6qdh1rv5gf9nn
+FileSize: 2735
+NarHash: sha256:0zmzgl40cjnkqqg4qpvslh1bv4vvsm52glnsg0zl4vp3k5bahgnk
+NarSize: 8776
+References: j1j9b0w3mhpccdli73ycj5w7nf6fkzqz-nodejs-24.21.0
+Deriver: vxgrj5qbblgn1bd7ikscjlv739lpj3ig-etc-rime-catalogue.json.drv
+Sig: rime-cache-1:j/OCQn0RU8G1D430Uuv9oBFF/DR//teJZnojCsNpRhcp88dter0I9Nhk1adVfh1MceJiSCWb6Iyap38pyb9SBg==

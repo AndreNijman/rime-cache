@@ -1,0 +1,10 @@
+StorePath: /nix/store/08i0d98v338xb3kn26300y88k6yy32lm-unit-rpc-statd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1azz421g5j7ljd9q9axmbf7jgj9irr5n02cbh19pq6fb22cm5i73.nar.zst
+Compression: zstd
+FileHash: sha256:1azz421g5j7ljd9q9axmbf7jgj9irr5n02cbh19pq6fb22cm5i73
+FileSize: 612
+NarHash: sha256:1s7wsz25cpg4kpm36735rvz10yjvk8yiaszvqv4zpd1djdz7sw8p
+NarSize: 1376
+References: 0yb82d41y0dg6j6nfzll8clvmnaw2m8q-unit-script-rpc-statd-pre-start 2kl5i61gc1lyp3gagnlfg1w1yqxnl1p0-X-Restart-Triggers-rpc-statd 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 4nzqxinjbq2sjmn25m0d73jv7ags7ryk-unit-rpc-statd.service.drv
+Sig: rime-cache-1:HgVp+KQ9VHhGXem6actRl5Bjk9fK2tCnoBwcTGTB2MsPAQ/z+f29pkHiGFJioPBBcKxbdo4eFOTWfJD3UKYxAg==

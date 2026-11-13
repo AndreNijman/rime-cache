@@ -1,0 +1,10 @@
+StorePath: /nix/store/0j00qk48jxjz31bkh1f374swjvw013f5-unit-systemd-oomd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0dl91z28zkr4rkidz4c8jy9rxs0mkb43r8cvf988prhzq7d58bkq.nar.zst
+Compression: zstd
+FileHash: sha256:0dl91z28zkr4rkidz4c8jy9rxs0mkb43r8cvf988prhzq7d58bkq
+FileSize: 540
+NarHash: sha256:0nbr575813z0m7q3q45s7wbd03hgkfgs4md5b0g0f1c0yx7wmxfy
+NarSize: 1208
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: ibjr1csdjvh9lrbmyy7rjjkj36a5q6hh-unit-systemd-oomd.service.drv
+Sig: rime-cache-1:fuCbAqKCxCOodCf3yZ7ME7JrH9Nw86I3d3Dg5iolrL3k0XWTY1if5FoLpsrfkpXyTEBLa3if63AFS3EgEqa3Bg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/a4b50bqn3wwc785zyii70ki70g2hnsim-unit-gcr-ssh-agent.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0gxamqaf146znav35p99a9ii8fdns10yzf7a9m5b9x7g0a0a9qi3.nar.zst
+Compression: zstd
+FileHash: sha256:0gxamqaf146znav35p99a9ii8fdns10yzf7a9m5b9x7g0a0a9qi3
+FileSize: 543
+NarHash: sha256:1hv4pal51aaljf76d8wdx1v61r2k4mq4jkr0n2n33r9yx7qh1p2d
+NarSize: 1208
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: d6jkkbpnn7hhsrmqc48ipzm6i1c5p0s4-unit-gcr-ssh-agent.service.drv
+Sig: rime-cache-1:jTImPFALXwFOqs81W2NvCJYCAHtDndNhG5nAmI3E/A0g/NTq/NUuDZoIenQ7Vq8gUzo4wl20Qo0igYnQTKIECw==

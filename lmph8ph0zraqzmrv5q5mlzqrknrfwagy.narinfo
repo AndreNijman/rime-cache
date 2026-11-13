@@ -1,0 +1,10 @@
+StorePath: /nix/store/lmph8ph0zraqzmrv5q5mlzqrknrfwagy-unit-kmsconvt-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0vzbqbpcxpd1w8i0fhi34phglf93vxyccdjrnkji3njlx2y9h11v.nar.zst
+Compression: zstd
+FileHash: sha256:0vzbqbpcxpd1w8i0fhi34phglf93vxyccdjrnkji3njlx2y9h11v
+FileSize: 758
+NarHash: sha256:0j7z6capdhslz9glv4djnqr0if4xjmhiff1lqrz8ix4i3m1zsq8q
+NarSize: 1568
+References: 4b2kg0ahwjbs5a02ydnx16igqbvxw129-kmscon-config 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e ghnpw9rvjiz7iski1gl7ifmkrvf8pkrx-xkeyboard-config-2.48 kj9a4l828iwmr7xnxajgy0apah3k8l5l-kmscon-10.1.0 s7ccb0ianvw1gl7libc63hayfvkyw4js-kmscon-login
+Deriver: 5sgh59bri8y0aglirfn5yf9x2f9p045j-unit-kmsconvt-.service.drv
+Sig: rime-cache-1:h2QYScTGfbBzF9JNCH00G1ln+oYXZKPfGtB7NaVpD5km+2MB8hR5Hb+mmYNk+0ALPp1JikJmQ0soBvlLC+t8DQ==

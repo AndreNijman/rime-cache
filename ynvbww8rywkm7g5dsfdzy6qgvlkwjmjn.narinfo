@@ -1,0 +1,10 @@
+StorePath: /nix/store/ynvbww8rywkm7g5dsfdzy6qgvlkwjmjn-unit-wpa_supplicant.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0sc0h6lq0plhp32azy31rj4lk95x96mmwrg11hd9xrxrhzgkam2w.nar.zst
+Compression: zstd
+FileHash: sha256:0sc0h6lq0plhp32azy31rj4lk95x96mmwrg11hd9xrxrhzgkam2w
+FileSize: 1250
+NarHash: sha256:1cbip7z79g8h4hxcb5vd3j0r222dabk3ljciw4zj1yzhpkk8xa61
+NarSize: 3400
+References: 5ifx7chyagkznw0dj2fwkymsw9yb969b-unit-script-wpa_supplicant-start 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 b9xxa40qcz3n8zblcy2nh6s0mp4gc51x-wpa_supplicant-2.12 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e ysxw8waiydfwrbxk7z4rlrvwsmyhfy93-X-Restart-Triggers-wpa_supplicant
+Deriver: szx1hy2zra6kw7s83m6s8i5v9zqcpl3v-unit-wpa_supplicant.service.drv
+Sig: rime-cache-1:7WgVU5BHqrHynZhCXer6BEHNSIDLhFcQwRDxGe+KEd2EbZ7gl0oZOjaOTCMnebIT4BakLP5fmgHhNmTn+i3bBA==

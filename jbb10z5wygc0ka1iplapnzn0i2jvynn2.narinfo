@@ -1,0 +1,10 @@
+StorePath: /nix/store/jbb10z5wygc0ka1iplapnzn0i2jvynn2-unit-emergency.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0dx0qk1nb0v73zvvqnraxy4vi88yvxg5js7nnw5sc5vrhjdnw7pj.nar.zst
+Compression: zstd
+FileHash: sha256:0dx0qk1nb0v73zvvqnraxy4vi88yvxg5js7nnw5sc5vrhjdnw7pj
+FileSize: 584
+NarHash: sha256:1rl8ai0k9wqhxh8qv2k66lj4vlrsjgrpmynsbmpm8ldj4wzspli4
+NarSize: 1288
+References: 4j8niv5mipjy0xqrqryrw2bgjfaqpvz1-plymouth-26.134.222 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 59vgvqv38ghlyvz9dsyjga0dv1j8jjdz-unit-emergency.service.drv
+Sig: rime-cache-1:t4jNTiv9hQ17XRMxC5hTKDTuxj1e9LFDaLCzWb0P2SlaP8hdPFJvFM3DKvQ7j4zyUkYyZQlcz6knFStxYgSuDQ==

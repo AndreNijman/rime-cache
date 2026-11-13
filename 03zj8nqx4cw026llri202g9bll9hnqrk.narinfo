@@ -1,0 +1,10 @@
+StorePath: /nix/store/03zj8nqx4cw026llri202g9bll9hnqrk-unit-wayland-wm-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/11b796v5fkm55rxdgkicajqs3zkjqgs1j53x6xnm20b18c0jj7nl.nar.zst
+Compression: zstd
+FileHash: sha256:11b796v5fkm55rxdgkicajqs3zkjqgs1j53x6xnm20b18c0jj7nl
+FileSize: 323
+NarHash: sha256:09bgzlv742znqsk7pgsvf9yc21lfyaniskh1vsdldvyf2dxpsmlk
+NarSize: 552
+References: d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 55w2yc7jlwz18c58zg4djlzi886pkhfs-unit-wayland-wm-.service.drv
+Sig: rime-cache-1:jgZT/Ju62nc3zRQerbfzcoMRoJL9Rm/HiguK+/tYkgbImCjfD/DyCZypVlU/YUWrN8qrXTTFjVJ2FqlLdKOSAQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/zv4y9rijgnjl94s4my11hlvb1aajkqpx-unit-systemd-pstore.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/05pvgi4c24vgr0xii20713fnbnd5idn17nbac4s7yx4hdagj0zyi.nar.zst
+Compression: zstd
+FileHash: sha256:05pvgi4c24vgr0xii20713fnbnd5idn17nbac4s7yx4hdagj0zyi
+FileSize: 541
+NarHash: sha256:12qvqg6acb8hsdrz7p7blz2wji6xys06miq7rc6spdpzxwc8alh7
+NarSize: 1208
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: bwnj6v42169sr0ar18bz739dn1yg4wpb-unit-systemd-pstore.service.drv
+Sig: rime-cache-1:jNvNuFEyJ6aC0m706q9mk60fIWFQJ0I1YY4pcdJiUXq4YKomEEytZ2RAghUjsqE3mdZX2o+KBK7tDIiEzRUVAQ==

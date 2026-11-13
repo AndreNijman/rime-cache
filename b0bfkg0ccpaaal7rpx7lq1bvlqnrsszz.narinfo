@@ -1,0 +1,10 @@
+StorePath: /nix/store/b0bfkg0ccpaaal7rpx7lq1bvlqnrsszz-unit-logrotate-checkconf.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0wbxbnbr1pw8lcgd076l6xj0njm25sy230jdhwk2p6dbnsc2n1ig.nar.zst
+Compression: zstd
+FileHash: sha256:0wbxbnbr1pw8lcgd076l6xj0njm25sy230jdhwk2p6dbnsc2n1ig
+FileSize: 655
+NarHash: sha256:1c6d9pzsx52cxnian75mk8aq2yqm764qqar2a86ld2sc1k21lx64
+NarSize: 1408
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e zbpb9a4q54ry7xpls4drz5bnlmvfmsa6-logrotate-3.22.0
+Deriver: ha0yjadhahavajvysn7alrqjdxwqr3q4-unit-logrotate-checkconf.service.drv
+Sig: rime-cache-1:JXiPwA1z9jW4K50xalIdz58bhItxQ3ZaJT7E30Tx1h7axCY0Xn1jIo93xTFMl8SfkgpiKjLb8wsftuLkWzsbAg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/x208rkwa0mzjg6j8dp1h37vnaw1iv1y8-unit-plymouth-reboot.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/17c7vn2xwcr6zjx6n1sff1qdcq764b16pv3p6rz0b8n7y2qilalh.nar.zst
+Compression: zstd
+FileHash: sha256:17c7vn2xwcr6zjx6n1sff1qdcq764b16pv3p6rz0b8n7y2qilalh
+FileSize: 542
+NarHash: sha256:1279i6nj25lan77iyxrkmv40h0rf88p5207z9fnjj6wrqkzczp4z
+NarSize: 1208
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: z64bf6qs0xa0amy8nzam4kvlhdxh2ahy-unit-plymouth-reboot.service.drv
+Sig: rime-cache-1:Hshlk1CIx38HxkBFfThCJl1mMniqiGue/17NdaY5uPDU96N7YjeSf5oPDFh7r43I+BFbRndGLlpTsJmq/CfTDQ==

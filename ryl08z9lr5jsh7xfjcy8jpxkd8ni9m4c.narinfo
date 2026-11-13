@@ -1,0 +1,10 @@
+StorePath: /nix/store/ryl08z9lr5jsh7xfjcy8jpxkd8ni9m4c-unit-rime-switch-greeter-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1qv6xs4f5gyj1qc2vyz83nn2nhyixxjid7g5hb5p6f3simsfgypw.nar.zst
+Compression: zstd
+FileHash: sha256:1qv6xs4f5gyj1qc2vyz83nn2nhyixxjid7g5hb5p6f3simsfgypw
+FileSize: 803
+NarHash: sha256:0z6fq3v4an533wil6ivzriqpq6h7x5hzg5pvdivbr7iy8xr5lfab
+NarSize: 1912
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e prv05awvgbchbgpgj8l0aiz5fqcv7cjz-greetd-0.10.3
+Deriver: ypwyyyswx5kazc76h68a9fvqqbxp54cv-unit-rime-switch-greeter-.service.drv
+Sig: rime-cache-1:ll/FEl7nlyFejMiHQmba4PbC/5uKNjNxFW0HGtlhf8n3BQtHojkdl5DV32NB7cc20liNOLIiqhTHFHl5uZzVBQ==

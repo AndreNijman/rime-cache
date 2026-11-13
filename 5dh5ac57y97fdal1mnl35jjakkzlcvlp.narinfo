@@ -1,0 +1,10 @@
+StorePath: /nix/store/5dh5ac57y97fdal1mnl35jjakkzlcvlp-unit-ipp-usb.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0f6ls0xbrbifmiwhs6jc0lhmjwajw6p0lmf04q4pv0bvshzk8xnx.nar.zst
+Compression: zstd
+FileHash: sha256:0f6ls0xbrbifmiwhs6jc0lhmjwajw6p0lmf04q4pv0bvshzk8xnx
+FileSize: 918
+NarHash: sha256:1xld0vnnkjk02rzrvmmgbyvkcm70dyhiwjhgws44lkgl4vxr06c8
+NarSize: 2032
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e lr24533kirp96l1q4mj9ir81npfqd5gc-ipp-usb-0.9.34
+Deriver: 658hks8w94ifks0fbxc2zd8qyzhxzxgv-unit-ipp-usb.service.drv
+Sig: rime-cache-1:oEo05ndDrple7ntWuc6q1I6hyrO/OfTAx0Ic8bO7jQ6a+r9os4NOPznEHPm1vKGPDKY/BUlJmXnLsa6nmJDEBg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/0ldn4mbm0xpih6jhgmj0sxplk1ax2zix-unit-rime-lid.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/0737lhxqgrlw6f5skaz5hllivh6170b878knzd3ij4rcnywph0ld.nar.zst
+Compression: zstd
+FileHash: sha256:0737lhxqgrlw6f5skaz5hllivh6170b878knzd3ij4rcnywph0ld
+FileSize: 668
+NarHash: sha256:178wbx9bqnm4ddmz0y24bpyn67skk2pg1alp9f3m9rn5ricb612y
+NarSize: 1632
+References: 08d44k7zjsj2paasrks3ryqiv23xzcfm-iw-6.17 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 9wprygbkr1fvxd7h9x2iakfch98c87zw-rimed-0.1.0 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: y8r0r61vq1k2fvbc1b53fadq0j9gs72p-unit-rime-lid.service.drv
+Sig: rime-cache-1:Du3rA14gf4Jfcar8XqJljzzQZxow4L5cgbELyJPZUCrxgz2OLUWYsLsdIuoIrOCaLslbA7rqYwQdpe2XSLXjDA==

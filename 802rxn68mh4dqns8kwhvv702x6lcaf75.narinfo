@@ -1,0 +1,10 @@
+StorePath: /nix/store/802rxn68mh4dqns8kwhvv702x6lcaf75-unit-avahi-daemon.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/06dwl9pv1c1vk8msvz6alr7lgypixb3r7vjly9vqm3xzj06nqncp.nar.zst
+Compression: zstd
+FileHash: sha256:06dwl9pv1c1vk8msvz6alr7lgypixb3r7vjly9vqm3xzj06nqncp
+FileSize: 1273
+NarHash: sha256:1sj7166l6zdlsjcbjjh1mqk0cgrv4ps6ijy5axy1nbcpmzdih12s
+NarSize: 3240
+References: 0chl8n78rrgf6sbzqgii27magxai4w6l-avahi-daemon-ready 3knm0f0060knf7cmzag5p8mhjgfwhs1j-avahi-daemon.conf 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 8rxkbw9n3j1p52d1mzmd50jxyrv1xrf6-avahi-0.8 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e v7bmkdih6dp2v092s1is66v88c7xqp78-nss-mdns-0.15.1
+Deriver: sgjxw037hj1gbd217vslajkrnsvg5lnb-unit-avahi-daemon.service.drv
+Sig: rime-cache-1:Mkw5NMVocZInWdvzDI1iwOX3ziAsv2tEvCWh3Y6p1wHVlU16Fhn64yY473RhOlL+7l6gxSz5xZyZyTs+H4K7Bg==

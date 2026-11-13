@@ -1,0 +1,10 @@
+StorePath: /nix/store/c5hbal185byw3j4japxs1yadyqd342za-unit-systemd-nspawn-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1nls9m20qypgh1p1fzwy70bs4r367dm03rkp7avlri44mnv8ksz9.nar.zst
+Compression: zstd
+FileHash: sha256:1nls9m20qypgh1p1fzwy70bs4r367dm03rkp7avlri44mnv8ksz9
+FileSize: 557
+NarHash: sha256:18aqf8ha3jprywflbrsgki3dv2jrfc7prx7yl4axg0c0cs1x9nx9
+NarSize: 1224
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: hkgv276k3z7ygxrz46jvysjayddcwhm2-unit-systemd-nspawn-.service.drv
+Sig: rime-cache-1:VeQi5ZPcf8DihkQBXiecRaFmw9aHVwAmNPnbMIe23fC93Xst5KXhYOyBbknd2Vz6d8TYvfobWff7sai9+yH0Dg==

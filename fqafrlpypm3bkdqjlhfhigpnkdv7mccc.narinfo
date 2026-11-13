@@ -1,0 +1,10 @@
+StorePath: /nix/store/fqafrlpypm3bkdqjlhfhigpnkdv7mccc-unit-resolvconf.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1hnm0r3yqhiyvnx4g16h0svxfh6x0khlkgaips6l9iwz2gbzraw5.nar.zst
+Compression: zstd
+FileHash: sha256:1hnm0r3yqhiyvnx4g16h0svxfh6x0khlkgaips6l9iwz2gbzraw5
+FileSize: 709
+NarHash: sha256:1vw5dp5if8x6nzckqadmxmvc5k2vdcwjqr2w1lpxk5ajlg82ndpi
+NarSize: 1520
+References: 2kk63s434pvdn36b5sln66q9jyqjkqx1-X-Restart-Triggers-resolvconf 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e vky60xbzpy3ksgissf847q77g32xgv9r-unit-script-resolvconf-start
+Deriver: m1zlwqhzf80nfi31ksn4ddzy74idq2x1-unit-resolvconf.service.drv
+Sig: rime-cache-1:ewWIeAdevAs50YUxp69vaYQ4y+De90zEpNmuKH7Ow1xialhYJBXIB9SEDs+wrujGrJ+Se8a/MIq86j56JUbmAg==

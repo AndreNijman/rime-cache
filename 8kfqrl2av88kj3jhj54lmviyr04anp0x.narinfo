@@ -1,0 +1,10 @@
+StorePath: /nix/store/8kfqrl2av88kj3jhj54lmviyr04anp0x-unit-systemd-timesyncd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/04qjf7xpwkr577lgzc1dg19iv1f4wm4aq93ylqs4bjg4pi17ai4g.nar.zst
+Compression: zstd
+FileHash: sha256:04qjf7xpwkr577lgzc1dg19iv1f4wm4aq93ylqs4bjg4pi17ai4g
+FileSize: 650
+NarHash: sha256:10dpjp7x1i3qnxwz5qh3v962yjpl8nl0nfn545csq1c6r0y9jswq
+NarSize: 1472
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cd884caaxagk9xrsbz6d6w98r10jlc7d-X-Restart-Triggers-systemd-timesyncd d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e v7bmkdih6dp2v092s1is66v88c7xqp78-nss-mdns-0.15.1
+Deriver: jyfg6biq5gmhxi66bnbjhb8j78bdhca2-unit-systemd-timesyncd.service.drv
+Sig: rime-cache-1:pOsG/SU4Ysg3A2XvSCj6/zYZCeu9Yxz7K+OnL23QLIK4bQbIrOeZ64GStww5eOVs5INAEyOrtzCdMHfvUSFOAQ==

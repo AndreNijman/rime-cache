@@ -1,0 +1,10 @@
+StorePath: /nix/store/qbnr33m615hqzrnxad2c6kshgzps62bz-unit-nixos-activation.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/1xqj8abxz0ldwa08hnqbyw8sdjaf5sfl7ixjl0ap0ap1vz2inca8.nar.zst
+Compression: zstd
+FileHash: sha256:1xqj8abxz0ldwa08hnqbyw8sdjaf5sfl7ixjl0ap0ap1vz2inca8
+FileSize: 683
+NarHash: sha256:1g2aqscqz8dhhbaz1ziq5gsc7sg6vablsm95ykp9673bx2v1rwz5
+NarSize: 1456
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e pv1iydm5qg7h7b1nb2f7n90i1mnnamsh-unit-script-nixos-activation-start
+Deriver: qflbf5sdf4fh0lfgj0z5h5arhmq4jzdw-unit-nixos-activation.service.drv
+Sig: rime-cache-1:KnAlrJTrx3BHZ4e/6ElkVb7PLfNW6HWMYLf6//ui+8gswKaqWePW1DC2E2okz1661+U/+m8B3PZVKjkSifSnBQ==

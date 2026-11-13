@@ -1,0 +1,10 @@
+StorePath: /nix/store/qiy4vss2wxdv886m8gax3mdxqvfi7355-unit-serial-getty-.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13.2/18g4ilp75sk7wryksc07gcl2wpfqgkmm7lk6f6wfs0l029i1vqfm.nar.zst
+Compression: zstd
+FileHash: sha256:18g4ilp75sk7wryksc07gcl2wpfqgkmm7lk6f6wfs0l029i1vqfm
+FileSize: 691
+NarHash: sha256:1d564jfldgjrrq2ivasgvbb16hv5bfg9fdbrk6aa62zs4bjii950
+NarSize: 1464
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 82qxn7mh0g7wdfg7a82ndpnsai03bk5y-shadow-4.20.3 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: zbfbxaxsn86zz1j8825z7a89q7g3kpdq-unit-serial-getty-.service.drv
+Sig: rime-cache-1:BL7KqLMnxxx/iCL4tBTwsV76juzt5kPMTks1w4LO+rOf34cP0iL4mhetZ/gQ+xOCqu7W3LVOD7hRajOv4wQZDg==
