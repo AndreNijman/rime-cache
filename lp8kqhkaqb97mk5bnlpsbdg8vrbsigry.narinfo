@@ -1,0 +1,10 @@
+StorePath: /nix/store/lp8kqhkaqb97mk5bnlpsbdg8vrbsigry-unit-rime-migrate-good-boot.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.13/14gvi9ryj8c7y7r5z2jziswv3slaf4narqpwk8wc69r5s6nqhcb4.nar.zst
+Compression: zstd
+FileHash: sha256:14gvi9ryj8c7y7r5z2jziswv3slaf4narqpwk8wc69r5s6nqhcb4
+FileSize: 748
+NarHash: sha256:10znz4yias6i2pvrq3dqbc49wf8h1sr3pq4b5sybb7qhcpi916a2
+NarSize: 1560
+References: 1yvjm9298wxf3ixl19kdiww1rjg228b0-rime-bridge-0.1.0 6awpfcv4lkmk67qf6ca73m076zcfbczp-glibc-locales-2.44-57 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: m61zmswirn4kski9phami4rx9xn79v68-unit-rime-migrate-good-boot.service.drv
+Sig: rime-cache-1:66t4LkkXt4hT6H5RUknCaMmnPob7ddfADUP0PytfhxsTy+uuXfcDewHNcYToeZCngVsk4UgnqfZ6UO8wRWNDDw==
