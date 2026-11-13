@@ -1,0 +1,10 @@
+StorePath: /nix/store/bhcxn4apngz3iv2kcamal6bv935155qh-unit-greetd.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14/1y1m8rgqd6clbp7n4gn1rcamhjflnrdyryiadj1vgglcmkkjcw0s.nar.zst
+Compression: zstd
+FileHash: sha256:1y1m8rgqd6clbp7n4gn1rcamhjflnrdyryiadj1vgglcmkkjcw0s
+FileSize: 845
+NarHash: sha256:0b3hwlwp23bsdw8kn9f9fnp6ykv9xi2kjz7va5xk52lyxgw5072k
+NarSize: 1760
+References: 1lfi28nm7gfax1l78ry2flvzvxrq3dbb-rime-libexec-0.1.0 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e prv05awvgbchbgpgj8l0aiz5fqcv7cjz-greetd-0.10.3
+Deriver: wvmpzr3bad8qhcq1sr9sixznrlrifjay-unit-greetd.service.drv
+Sig: rime-cache-1:D7YWlVXU2kAIBWzqMcC7v/Oh1ZsYyqWRKuenDixlbfF3cGPkhG5sOS9FzsabdOsfNfdsrmoz8nf5R3i/PYgkAw==

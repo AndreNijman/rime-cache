@@ -1,0 +1,10 @@
+StorePath: /nix/store/iwjfh60dm4rn0hyfbqa4j36jsbwzykcx-unit-sleep-actions.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14/1573pzl5rqqmgck6r2ml3a1l02f49cpnz6ddxnrw80ryb1qch0kp.nar.zst
+Compression: zstd
+FileHash: sha256:1573pzl5rqqmgck6r2ml3a1l02f49cpnz6ddxnrw80ryb1qch0kp
+FileSize: 702
+NarHash: sha256:1jdramk8dwywn6721r9ygfjfgdd5x5kxaqmp5rwc73x04b8cj9hj
+NarSize: 1536
+References: 4vhy3052qyrjrdq72y40cafjggrr2v42-unit-script-sleep-actions-pre-stop 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e xwj72kibmdaixv75fzr6h1x41yk2nvz2-unit-script-sleep-actions-start
+Deriver: 2a43dngh4zh52mnjrh07339dzy0bgah9-unit-sleep-actions.service.drv
+Sig: rime-cache-1:rD8G5MBeXtaxTpXUpd5IqYfxMsrZbEv7Ku7qTn3EIGtO8qrTYQ7e8OxPEtMI2i3PGNpkAGxNAQaBPWO+FH1eBw==
