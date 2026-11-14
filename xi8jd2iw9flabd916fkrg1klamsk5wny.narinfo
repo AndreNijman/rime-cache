@@ -1,0 +1,10 @@
+StorePath: /nix/store/xi8jd2iw9flabd916fkrg1klamsk5wny-sudoers
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14.2/1pbr3k8db0lfbw70wfimakysxkvrplcsncq17yw6wywx8yjv04kj.nar.zst
+Compression: zstd
+FileHash: sha256:1pbr3k8db0lfbw70wfimakysxkvrplcsncq17yw6wywx8yjv04kj
+FileSize: 540
+NarHash: sha256:15zrdx0f2n2zppgx19pk9nr7qdm2lrc2a34dpdga5hflm4mcfn32
+NarSize: 1424
+References: l3rmj0rlfqsxnpk7cm9swx3rxjals6nx-rime-libexec-0.1.0 sr3y196d63jjkfq37775cp6p8vwzzpj7-rime-gaming-switch
+Deriver: nqjaacf8m7fllrdiamsf75sqsvvx0ls8-sudoers.drv
+Sig: rime-cache-1:W+I3D/aESwmqL0c/RWM46BUj1UKSeYdQyXTC4iy8FoHYJo6h22nuJBlyo7tQ8EAXGN2K//tKp22qJA4k0ZN3Dw==

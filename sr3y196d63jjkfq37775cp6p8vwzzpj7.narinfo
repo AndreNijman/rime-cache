@@ -1,0 +1,10 @@
+StorePath: /nix/store/sr3y196d63jjkfq37775cp6p8vwzzpj7-rime-gaming-switch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14.2/1lzcr4hknkkyaz980fh3r9dnz9kwhbv0wbn4lsysk74kfj7a4zv5.nar.zst
+Compression: zstd
+FileHash: sha256:1lzcr4hknkkyaz980fh3r9dnz9kwhbv0wbn4lsysk74kfj7a4zv5
+FileSize: 4995
+NarHash: sha256:1c2ipkdnzyxdn84n2y1rkpwim2b8rjpscravbr4sd10y8hccsrhd
+NarSize: 13800
+References: 0vr3l0sxz3arj2jlk44wsp0f0m4b4yli-getent-glibc-2.44-57 2ikg717jf6zi3nnpvgr9bjg9h57irknd-rime-gaming-0.1.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 avshcbcrykiffn4vlhmz848ab69wbp9n-systemd-262 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cjr4g6g75a6iqynkdmgwmlgjhgxc3a57-sudo h96s16mjssibkvk62pvmfm3lwfc3wnwp-gawk-5.4.1 kwyi4bq5s2qgwbhz6cs4gjy57c2zdxws-bash-interactive-5.3p20 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 sr3y196d63jjkfq37775cp6p8vwzzpj7-rime-gaming-switch y0f98wh6vfmvxki5b0slyrgp9f2jsnbi-greetd.toml
+Deriver: f2glqjpnfqfzfsvy77bi7sdv29h4dfm9-rime-gaming-switch.drv
+Sig: rime-cache-1:kXMtOgPGgDtrmSpWl51hx2f4zDDrtLcjj/SZpl6E6QyPoekRi2XasmHxoLVuB1l1sJEsCBmXs7emRbber0BWBw==

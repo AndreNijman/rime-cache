@@ -1,0 +1,10 @@
+StorePath: /nix/store/qm25z7w8k1zyglxss6irh1fcl8bxjx2g-plymouth-logos
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14.2/0gafskmajcgdjl51qb8mii8ykv0h4psvvrbr8vyyirm7m1wwb6a9.nar.zst
+Compression: zstd
+FileHash: sha256:0gafskmajcgdjl51qb8mii8ykv0h4psvvrbr8vyyirm7m1wwb6a9
+FileSize: 348
+NarHash: sha256:13ph38c848p78dp73inzwcnbrsc1y1cahpj2skargawvfvln8vkh
+NarSize: 4176
+References: cz030nlwzpl7ljlvxsb52rj84fh2hfrg-rime-branding-1
+Deriver: 3rkh36nwxg4jcq58v7vqwygff5n96mss-plymouth-logos.drv
+Sig: rime-cache-1:nSxmFCSqXwRvKHsw9Z+X5/9kQ6VnGB5vrI4E8N40tLh2eFHnBVYw8PgPG7C5lKJYqQ69+FaQshUDyYlMw/WnDg==

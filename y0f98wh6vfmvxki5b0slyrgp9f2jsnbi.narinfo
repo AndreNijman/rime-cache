@@ -1,0 +1,10 @@
+StorePath: /nix/store/y0f98wh6vfmvxki5b0slyrgp9f2jsnbi-greetd.toml
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14.2/0yz5id3w4478v01vvy37iqgxpmzlhph9rlck5iz3zmcq1bhb638b.nar.zst
+Compression: zstd
+FileHash: sha256:0yz5id3w4478v01vvy37iqgxpmzlhph9rlck5iz3zmcq1bhb638b
+FileSize: 436
+NarHash: sha256:0zfrccc7n1m8xdhdr8rnip04a53rlhvabi6jw1bsbx6ncqapdnal
+NarSize: 624
+References: 2haggl2b4hwgpns0x9fpzflfx8rcq6dy-rime-greeter-keymap cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 clga66v58ifaqkk84s0qhngm30kglany-rime-greet yl8mwqqr3xj01i6daa82r0kwlasvk2hk-sway-1.12
+Deriver: jnnqmk8ww2rfpa8bpczxiwnklj0z06m8-greetd.toml.drv
+Sig: rime-cache-1:XdF7UdMhuqn/q/6/FlXD6YTxmdfFxGt+DfUElqlRGXu+rUaJHs0j3kmvBeMjnseq2o7RCoWdv+rF5rLEyLRyCw==

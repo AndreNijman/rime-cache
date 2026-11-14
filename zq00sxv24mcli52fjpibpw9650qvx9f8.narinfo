@@ -1,0 +1,10 @@
+StorePath: /nix/store/zq00sxv24mcli52fjpibpw9650qvx9f8-steam-run-1.0.0.87-bwrap
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14.2/0yjagi73l3hghzy51p7yrbdkvsfcjxdiii4268z25s6djahkh8bz.nar.zst
+Compression: zstd
+FileHash: sha256:0yjagi73l3hghzy51p7yrbdkvsfcjxdiii4268z25s6djahkh8bz
+FileSize: 2397
+NarHash: sha256:1vp8y3c0jgpkn5d0znkw3l623gwmdnv7sn20p2qyi04bnlxdr2k8
+NarSize: 6216
+References: 6zn7sk1207lvwd2929dcxlskhqh1jzmf-steam-run-1.0.0.87-fhsenv-rootfs cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 gyifmfagqiwv2vv9xw2skjl63xc2chvg-container-init hmfvlnm2c45kxyzn81yifaf9c8ig4np7-steam-run-1.0.0.87-init i7iyqjv5kx2s1lx6fwa5ksfydv7xmvcs-glibc-2.44-57 mvj6y8k3xs35cj7kq937xi44q4hl3r93-bubblewrap-0.12.0 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 pqyiidz5mi73wv5f91d48s9plcqyj5bz-glibc-2.44-57
+Deriver: 52pxr7pwyvl13cs751y7w2l5wzac4wyd-steam-run-1.0.0.87-bwrap.drv
+Sig: rime-cache-1:AXYWQDkP2RgiPmzu4f9nBN/vafNqngpuSLAtEW5xGgOy3nL3wv0HMkvJoPyHW+DgJ66BRp0k5p0GxOZRy7mtAQ==

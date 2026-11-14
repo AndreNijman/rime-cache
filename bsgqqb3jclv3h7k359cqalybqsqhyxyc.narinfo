@@ -1,0 +1,10 @@
+StorePath: /nix/store/bsgqqb3jclv3h7k359cqalybqsqhyxyc-rime-pixmaps
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14.2/1hms86lcfcl4691zs0bb98m9x21s77j4ws6cknwywfwi1zjkc5n6.nar.zst
+Compression: zstd
+FileHash: sha256:1hms86lcfcl4691zs0bb98m9x21s77j4ws6cknwywfwi1zjkc5n6
+FileSize: 26423
+NarHash: sha256:1jli0al99yr6ip7m6a8v82ilvfpy31zyvgpglh7rsvm4kv2ml6nf
+NarSize: 27648
+References: 
+Deriver: pj5y1ym112vq5js29f7l01nsd92s9bsh-rime-pixmaps.drv
+Sig: rime-cache-1:TK+VnoTFm+dEktRGK8BLef09Ig25TIKVXXIX3mIJUjfFJtcJ4/Km+ZEMYntFDB+zX1KUYh5C1Q4AbXfahLlhBw==

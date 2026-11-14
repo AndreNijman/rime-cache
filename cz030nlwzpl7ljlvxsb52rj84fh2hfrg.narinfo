@@ -1,0 +1,10 @@
+StorePath: /nix/store/cz030nlwzpl7ljlvxsb52rj84fh2hfrg-rime-branding-1
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.14.2/1nrg508g87jpw0vpdhaajy7ld90b2qlb0p35mjgb8k68hp3qdx0p.nar.zst
+Compression: zstd
+FileHash: sha256:1nrg508g87jpw0vpdhaajy7ld90b2qlb0p35mjgb8k68hp3qdx0p
+FileSize: 2192650
+NarHash: sha256:05g14ks7cdhxqbagb1k7vvmbf3yjw6mlrdpmm99hdp0sm2bdhp52
+NarSize: 2779872
+References: 
+Deriver: k8g1bd4ljw8xrnvgdcjc1v9aclr81cl2-rime-branding-1.drv
+Sig: rime-cache-1:K7nbxmLoxc0dwFNJK4KbQ8jv8uu76N1vgy6QfDcyoUKVXZhTqxw84dKCVIilLU5vGi5AjGSXci2IkKGeR3m8Dw==
