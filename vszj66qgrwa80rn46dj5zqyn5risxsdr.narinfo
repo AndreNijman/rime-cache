@@ -1,0 +1,10 @@
+StorePath: /nix/store/vszj66qgrwa80rn46dj5zqyn5risxsdr-etc-polkit-1-rules.d-10-nixos.rules
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.16/08gjfnmlh36qhdkric0pyyaj9whxcqjszkm1shhpbf0gnb6sriza.nar.zst
+Compression: zstd
+FileHash: sha256:08gjfnmlh36qhdkric0pyyaj9whxcqjszkm1shhpbf0gnb6sriza
+FileSize: 678
+NarHash: sha256:0yzi7w9zn1jndzhg476hv13c8gwdkwrzvr7c5m9bmpzn51hlgzlq
+NarSize: 1952
+References: 
+Deriver: 477y419z1mc17bq53fr1r85mpp1jm2fv-etc-polkit-1-rules.d-10-nixos.rules.drv
+Sig: rime-cache-1:2KklrFjVw9FRlXVdUMIg3fdgutBFkqGCTMPiA2ky57HAk817EMnCyF8B4tHvpiKoUANNPyJmPVRp9QFiawgaDQ==
