@@ -1,0 +1,10 @@
+StorePath: /nix/store/560cd0b7n2mx9g6frmdlwki8jxibckaa-90-rime-no-x11-bell
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.16.2/1j46h0j65bivs1jy77a3jm7jf4w8s82pv99jw2ybhxbf0ylcp5cp.nar.zst
+Compression: zstd
+FileHash: sha256:1j46h0j65bivs1jy77a3jm7jf4w8s82pv99jw2ybhxbf0ylcp5cp
+FileSize: 131
+NarHash: sha256:1p31jfh2jam6dhqg6kls2nbxhnkzavqhq30r8hfagwrd6v72isk0
+NarSize: 176
+References: 
+Deriver: ryrnw69vk2r9cdzz3zxl920ilya4wzhd-90-rime-no-x11-bell.drv
+Sig: rime-cache-1:mkFeVdrMPucHtztrlbeYQlFj1PRQmGQ2Lv7mOX6AaAjWxXEEsYDLjbIMcNpjiRESU+lpQjrwO/r9RopOvUh8Cg==

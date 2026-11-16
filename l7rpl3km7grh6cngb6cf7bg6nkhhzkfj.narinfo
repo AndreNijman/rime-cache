@@ -1,0 +1,10 @@
+StorePath: /nix/store/l7rpl3km7grh6cngb6cf7bg6nkhhzkfj-rime-boot-install-hook
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.16.2/1193d0myjsrv2ij6836pv6q03i4jgcm0j8hdmn8qbm9635358yfi.nar.zst
+Compression: zstd
+FileHash: sha256:1193d0myjsrv2ij6836pv6q03i4jgcm0j8hdmn8qbm9635358yfi
+FileSize: 254
+NarHash: sha256:0if8n1xpbrdy43qyxvvxzcraflc208kb9ihn8xq7cgvgpmqcxwpa
+NarSize: 368
+References: 4lfyr6iv7nlyv1ybfa0zp8hyyhgi25vp-rime-boot.json 7pwcks6f7lgl4dgl3gpvv2s1v9qmakik-rime-boot-1 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20
+Deriver: f3xq2pfhwzsvgapcfsyyxr1akgkv743p-rime-boot-install-hook.drv
+Sig: rime-cache-1:uRabwjIzqwzGBuLNaCZMy65Q+M4s9/dSlW6mm2Lca0vXMaWyez+Nrfc9VfXt7Puu81jjVaJWd9HODRS4vi8YDw==

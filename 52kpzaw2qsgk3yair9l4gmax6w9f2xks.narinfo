@@ -1,0 +1,10 @@
+StorePath: /nix/store/52kpzaw2qsgk3yair9l4gmax6w9f2xks-unit-rime-terminal-migrate.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.16.2/0z5j1529kx56gd77mqvi9p9nijyv5j9kcn5wlqd63yxkk1sscksq.nar.zst
+Compression: zstd
+FileHash: sha256:0z5j1529kx56gd77mqvi9p9nijyv5j9kcn5wlqd63yxkk1sscksq
+FileSize: 729
+NarHash: sha256:1fyk89jq4gxiv76qkgs9hjppmlj257f8rpw514bdzqwnxzp6ril3
+NarSize: 1568
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e r1kf7jaihzb2slch2485hhjkvyiik3kh-rime-terminal-0.1.0
+Deriver: aa5yq0v9n2sm9083jyykhlvpzjrjzxlz-unit-rime-terminal-migrate.service.drv
+Sig: rime-cache-1:HngnpyHh7K401/lRWZhSFhWrsMD3dmtdUQnf/3+LJHm9VP9RXro2d+hmz9wLLllnD12aaimxxOGUVupXcMI4Aw==

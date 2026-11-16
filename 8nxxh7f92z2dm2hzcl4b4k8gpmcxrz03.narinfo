@@ -1,0 +1,10 @@
+StorePath: /nix/store/8nxxh7f92z2dm2hzcl4b4k8gpmcxrz03-pipewire-configs
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.16.2/0jm67xd0knlqh3ywma0yjcpdfsizx5500905a8xnbymlnkqgsdjf.nar.zst
+Compression: zstd
+FileHash: sha256:0jm67xd0knlqh3ywma0yjcpdfsizx5500905a8xnbymlnkqgsdjf
+FileSize: 204
+NarHash: sha256:1r8cvmlkxraxwxn2iphlz2vvk10cc21zjjm2lwpyzay8kqywkj9p
+NarSize: 720
+References: 853ifvv19cxq6g1sc0rclpsc26f9p7qq-pipewire-extra-config
+Deriver: xxjlkwx5ymwpw0ahm4550i1ymgwsf2d2-pipewire-configs.drv
+Sig: rime-cache-1:AbFYFTQxwP+KdzaxQ8orHuGz4As8Y3po0e/lIzcXit5G82LgI7M0gTOB7hTFg1K5ZaCxjSv91PlUxOdqZ+HbDQ==
