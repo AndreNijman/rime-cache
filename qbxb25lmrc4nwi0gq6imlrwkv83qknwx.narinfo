@@ -1,0 +1,10 @@
+StorePath: /nix/store/qbxb25lmrc4nwi0gq6imlrwkv83qknwx-X-Restart-Triggers-dbus-broker
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.16/1ipad73j6b842hgqvj04ajvg118ydyikn65d4ycm5sqcwwar7xw4.nar.zst
+Compression: zstd
+FileHash: sha256:1ipad73j6b842hgqvj04ajvg118ydyikn65d4ycm5sqcwwar7xw4
+FileSize: 126
+NarHash: sha256:1hm65s1ap36p2h5m3cqh9994q0qzy07cpkm8rph7kkkphhw7fmh3
+NarSize: 168
+References: 3dq17y3nkwbngdg6fp24ixi5j2jy3k5l-dbus-1
+Deriver: pfpiw895yhnc975vxixhr6j50lg5fgrp-X-Restart-Triggers-dbus-broker.drv
+Sig: rime-cache-1:siemX9zxUCRoT0O5viNwVgOlwVV7Y4S3SgSOWe1swwOjEhSsCSzxmFgGhE7+DqEO1EVxyeT7s/ZuijWxR1jJDw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/42vlc2ndb9lr8dxgy4qlz2r0k1spqj1q-user-generators
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.16/0l6knb69zdd19mvn6dfnipz1l2vkajyzi52ajyddzpln53ijj2v2.nar.zst
+Compression: zstd
+FileHash: sha256:0l6knb69zdd19mvn6dfnipz1l2vkajyzi52ajyddzpln53ijj2v2
+FileSize: 65
+NarHash: sha256:0sjjj9z1dhilhpc8pq4154czrb79z9cm044jvn75kxcjv6v5l2m5
+NarSize: 96
+References: 
+Deriver: s61kff4xjhdvyrkg9mxqi5i1sbp8w7d7-user-generators.drv
+Sig: rime-cache-1:4mEOZVYYnoql9TwNDsghnOrttYoAysm7Bj8hC1Ru1yyalopmxGfNo2fgdE5u5FnEPxHx50jGpCRRk7JM5GOIAQ==
