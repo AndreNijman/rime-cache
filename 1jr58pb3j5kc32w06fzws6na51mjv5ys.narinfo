@@ -1,0 +1,10 @@
+StorePath: /nix/store/1jr58pb3j5kc32w06fzws6na51mjv5ys-system-shutdown
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.17.2/0rab03hzjch1kc2rri2b4vrdldlm5yd6cfqpivyfzqqxqiqjahsm.nar.zst
+Compression: zstd
+FileHash: sha256:0rab03hzjch1kc2rri2b4vrdldlm5yd6cfqpivyfzqqxqiqjahsm
+FileSize: 192
+NarHash: sha256:1c8v3wasl847f3amn6xlripfsfsrn29jgddxl5a4fns8xxmhvbvb
+NarSize: 392
+References: c35xlsc36zq3d62qvy9nwl53m1z0krff-fwupd-2.1.9
+Deriver: jlhsglfl4gfhp583p8x68dar5n907sdj-system-shutdown.drv
+Sig: rime-cache-1:ENJ1Y3iL2PKuobw0wsIYnO2zwvYm5x53iW4sVqqSb+rQ9LsyH4Qsoc7q+k4/Mj8x59j6hVbCgfd5gaMMqQVeDA==
