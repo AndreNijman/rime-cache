@@ -1,0 +1,10 @@
+StorePath: /nix/store/hhr9f9fv9rbq57lwrsfna69k453dcsb6-unit-gamemoded.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.17.4/0i03jx8f93rx4d1cyml2jr7jfr7lbvmp5hgjgdkjwh467w25bgf7.nar.zst
+Compression: zstd
+FileHash: sha256:0i03jx8f93rx4d1cyml2jr7jfr7lbvmp5hgjgdkjwh467w25bgf7
+FileSize: 427
+NarHash: sha256:1iznp2pl49fwnqamhvm9y3cqjjwc44rmswlfg4fxicw6jhyyclj8
+NarSize: 744
+References: d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e pldqj3ykvygq4sm7kqkspnqss1qhiv3c-X-Restart-Triggers-gamemoded yv8hq970mhfg6wyp92vgxi5v4k811bmy-pkexec
+Deriver: y43kf2br6vaxpsivyq6g1hf2pkibqg9r-unit-gamemoded.service.drv
+Sig: rime-cache-1:nKUUMZMtqWbWO2ZAI8BEl8svq0l0F7vbJmdSOW3KjR/AqADMbqrx8ftJG+w6dF3oD63cqz4p2nsQQ19KxgPyDw==
