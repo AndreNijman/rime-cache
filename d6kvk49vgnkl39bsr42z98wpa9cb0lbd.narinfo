@@ -1,0 +1,10 @@
+StorePath: /nix/store/d6kvk49vgnkl39bsr42z98wpa9cb0lbd-X-Restart-Triggers-polkit
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.18.5/1105kni384v6488m7iz75lc9a3wr2nzxjjw962vi92i2jpr2bzfw.nar.zst
+Compression: zstd
+FileHash: sha256:1105kni384v6488m7iz75lc9a3wr2nzxjjw962vi92i2jpr2bzfw
+FileSize: 122
+NarHash: sha256:15fly12mgdywa8ifcxwsnmr85f445a4snjkvk7ifrvaf4kxq4dr1
+NarSize: 168
+References: jc4ki953kjqc39r0zbw2zrrzfr9mih6j-system-path
+Deriver: ljk3gg5fndsmf2yl1p1cq5gkm7myry7d-X-Restart-Triggers-polkit.drv
+Sig: rime-cache-1:fHQz7pbfD2EzYcTMBGX2ETt+j/i6CAmN5fRRrV4mfDNdEotU0n52yl0Q577WVC3WDFvwsY0hHv5/nfqUmw2bAA==
