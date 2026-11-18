@@ -1,0 +1,10 @@
+StorePath: /nix/store/71j209zxmp1dqwpl3k79aq0356l8m0hs-rime-gaming-wrapped
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.18.2/14jcinpj2gwcfcmpdgpymc4ya5f8r3jpvp3ivhp7lq813qsjpmm5.nar.zst
+Compression: zstd
+FileHash: sha256:14jcinpj2gwcfcmpdgpymc4ya5f8r3jpvp3ivhp7lq813qsjpmm5
+FileSize: 1340
+NarHash: sha256:16x6g4nzha6ks9zanr2jidnnlrbi9bvzzqspr6ndsq4c2lkjxs3b
+NarSize: 8104
+References: 0vr3l0sxz3arj2jlk44wsp0f0m4b4yli-getent-glibc-2.44-57 2ikg717jf6zi3nnpvgr9bjg9h57irknd-rime-gaming-0.1.0 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 5n02v7ikfg3dvx4fwq5c442xm64iky47-steam-1.0.0.87 70sxhxm9bs3yahpr39sffrlj34swpqyh-rimed-0.1.0 71j209zxmp1dqwpl3k79aq0356l8m0hs-rime-gaming-wrapped 7sniyzvnn5jh9a6q0syziyf5ya2yyjp5-rime-libexec-0.1.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 aambn0gkn2dmk9vfkq6dzzcwnd7wf4yn-xprop-1.2.8 avshcbcrykiffn4vlhmz848ab69wbp9n-systemd-262 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cvk71dd42sv26w8ahqspla2l3jhfkrn0-gamescope-3.17.0 h96s16mjssibkvk62pvmfm3lwfc3wnwp-gawk-5.4.1 nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 sr3y196d63jjkfq37775cp6p8vwzzpj7-rime-gaming-switch y1hqjmj23ld6phvarsj6jkn5gz6miy6k-libcap-2.78
+Deriver: b2gxjn34lz6lnvcm8i0l60a34j7c4l2h-rime-gaming-wrapped.drv
+Sig: rime-cache-1:VPrInSkuFLgDQvSMhjykSMyiam1LRFcmWf1agM7ZiRpGJ0QQrNOjbPYW+Ip3qK6ZxthXXn2U5n+LMxEtz8nACg==
