@@ -1,0 +1,10 @@
+StorePath: /nix/store/r07cwwrpj8z85zaxgbayryl7525za7mp-unit-script-sleep-actions-pre-stop
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.20.2/1jk9pr9psqaxcj80nd63iqggj7zm3vj3ymjbipc1sdcw6rwym0d2.nar.zst
+Compression: zstd
+FileHash: sha256:1jk9pr9psqaxcj80nd63iqggj7zm3vj3ymjbipc1sdcw6rwym0d2
+FileSize: 337
+NarHash: sha256:1lgsqjkz6py3rjlffc42k6xlrpc7a6n5igd262a46nfscvh5mqp7
+NarSize: 776
+References: nnm9gdr70ihc6zc9298mzz8jpcgaciql-bash-5.3p20 qzd28nhmy08v5xf2n5q26l1l5rxxnha3-rime-libexec-0.1.0
+Deriver: mfqghnphdh3gwvfr9s73szzzjpa3f1xm-unit-script-sleep-actions-pre-stop.drv
+Sig: rime-cache-1:I45mEfLoLCcTfMa+YFwkV3mgHQUyL73UCUPD7Z5jgl+dRZVCaQbfccPk8MHiBTQsmyX3Xha/ba1OqTzM+ecgCw==

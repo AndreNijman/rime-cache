@@ -1,0 +1,10 @@
+StorePath: /nix/store/xcg5w90vmdr5r5ks7119v6yxf3i6jll9-unit-systemd-tmpfiles-resetup.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.20.2/03zjpzizshj7kq69k71swnqrhr5p5zfnjmk4lrj32zi66mk2w8ms.nar.zst
+Compression: zstd
+FileHash: sha256:03zjpzizshj7kq69k71swnqrhr5p5zfnjmk4lrj32zi66mk2w8ms
+FileSize: 858
+NarHash: sha256:0bxxhrggg4azmn1r9s4p7408xrvyl81sk04sdpy8xrgyvnhdla82
+NarSize: 1848
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e ziq257hqjdx9q3q153fgskyngf53n6yq-X-Restart-Triggers-systemd-tmpfiles-resetup
+Deriver: 3bjl3bjjgv71crhw48iinhgnh8kjw5zj-unit-systemd-tmpfiles-resetup.service.drv
+Sig: rime-cache-1:GGv5fmXJtFnc+UtkZ1Zg+14bgPU1IB+JF1gF84QDEXIm+rCOLq4wv6IfBNGIeUInndRCRO5NNzmZZVl6LzmWDQ==

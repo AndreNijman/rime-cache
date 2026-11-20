@@ -1,0 +1,10 @@
+StorePath: /nix/store/6rll7v347zbdmgd8372f3zn4wdi70zmw-unit-rime-crash-notice.timer
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.20.2/00sfl5xd1fgqbwpqk6b30wjlgi55whmi30gd2ninxbrbvvcv57rn.nar.zst
+Compression: zstd
+FileHash: sha256:00sfl5xd1fgqbwpqk6b30wjlgi55whmi30gd2ninxbrbvvcv57rn
+FileSize: 252
+NarHash: sha256:1qrd6p959fv00djybkvlrz8fk6mw3kxx7c9q67a932qvyb8c75vc
+NarSize: 480
+References: 
+Deriver: zr0ri7f4xd96arzdr9cpjx8zf6h73140-unit-rime-crash-notice.timer.drv
+Sig: rime-cache-1:IxyS0GN3/RhO3CNLTbDmKXZeiUm9ZehvZP6tweahrMEF0GrUnr8/8jemUzHmen7AWrVzvL4NINYpPJ2NUGA6AQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5igjh3m60hm9mlvn8whkghifv9y25anw-etc-zshenv
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.20.2/146ng3w4k2nj2q535aksd5f4k9bv9fj83qa0nkgnj7wpjk6pcpxn.nar.zst
+Compression: zstd
+FileHash: sha256:146ng3w4k2nj2q535aksd5f4k9bv9fj83qa0nkgnj7wpjk6pcpxn
+FileSize: 566
+NarHash: sha256:1282w9an3pqj5ypckjy8xfw6k09qg68zqbcz0bpby3m9avr5j6wv
+NarSize: 888
+References: d0a35flb05pwl8rkmvh6kcgvs7wpgh6b-zsh-5.9.2 k76z00b54p35aayf3vsncpvfa2vcjybb-set-environment
+Deriver: vmq2dzg9a5ph98izgirsy9mq58kbcimg-etc-zshenv.drv
+Sig: rime-cache-1:Dro7B//wfNd+OOnNvYH1V4Ya2SxFa9gsNhSCLj7b+D+J/TezdRIyuu/bBx0nu9galbCu9umf3Xhi1R8Z8ShDBg==
