@@ -1,0 +1,10 @@
+StorePath: /nix/store/zddb2cv6x64irlbdky2mfy9nkb7ly7ks-gamemode.ini
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.20/09zrxqah4rmp10jvr83m4ypqcc6h7h17abpjn4xv308c9g8ysmqg.nar.zst
+Compression: zstd
+FileHash: sha256:09zrxqah4rmp10jvr83m4ypqcc6h7h17abpjn4xv308c9g8ysmqg
+FileSize: 208
+NarHash: sha256:06zvd4l61lswms9p2v5d0bzfkza7ayn9z5z3vipk439zqbbc56zv
+NarSize: 368
+References: h1waf3rg21i8cn3v1wc348x8ssiyl1v5-rimed-0.1.0
+Deriver: bcdw73zhvgyi0dpjvvqpg2zi6rfzw478-gamemode.ini.drv
+Sig: rime-cache-1:t587T6qACN+XbsjUohJpu/KMmNAm9NADSlfFcZsPS2ftihO40vwQx54nfu1l4/2/hdhzm30YWR3LF/U82z7wBg==

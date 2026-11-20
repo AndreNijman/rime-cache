@@ -1,0 +1,11 @@
+StorePath: /nix/store/mz1hvwkd5i24d93ihpdczqhn65mik69d-dejavu-fonts-2.37
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.20/1xr3wh4pzfbgc25adq3r71fc22c1jdrcgvrbw75rwb3ddr2rxibk.nar.zst
+Compression: zstd
+FileHash: sha256:1xr3wh4pzfbgc25adq3r71fc22c1jdrcgvrbw75rwb3ddr2rxibk
+FileSize: 2591486
+NarHash: sha256:121j3g6i6s1cdqnh2c89a5iyw0p3khajhrf907ng06y7g9kvy7zi
+NarSize: 9485360
+References: cis3qxbpsfh0ppj31iyrzpyixfjgw9my-dejavu-fonts-minimal-2.37
+Deriver: ksbicxf3jm6a7zgmhdzw8b09hlprg7iy-dejavu-fonts-2.37.drv
+Sig: cache.nixos.org-1:9T8Jch7gaaOrPEFlIyciBMNjpOtWjEapC3NGf+q8TcbhsgXu5D1r2rcdhznC/nXEjvl2UJknxmFvSP4EBUSQCg==
+Sig: rime-cache-1:kwUCqj41w1wKS/y1+b/qCPtuGg6oHQXreJpwC0M1YolfXY2g2/ZcNc2MGVb4mZXREiTm4PGbFuZJFN+i806PAQ==

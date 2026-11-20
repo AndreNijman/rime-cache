@@ -1,0 +1,10 @@
+StorePath: /nix/store/2ryvqnw8g2lcrvij4hqlm1ihflw2x3hd-ipa-priv-key.pem
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.20/05k9p12sqq2l1ymcjflgpjdx0fgy0f30zcp96pjxp8i35nxdgzjm.nar.zst
+Compression: zstd
+FileHash: sha256:05k9p12sqq2l1ymcjflgpjdx0fgy0f30zcp96pjxp8i35nxdgzjm
+FileSize: 1408
+NarHash: sha256:1lwx9pcz59kmy8v4w13s6ph4w1ad0ixabln7097qh2mj4iphdad3
+NarSize: 1816
+References: 
+Sig: rime-cache-1:+m2SBDw8e0g50sr9bKGQX5OMVaqTUIBy0oPq0bhagsyYGmYus21pmgwxXx/zBpQqMmdeQ6JAXYkK++UW6as0Cw==
+CA: fixed:r:sha256:1lwx9pcz59kmy8v4w13s6ph4w1ad0ixabln7097qh2mj4iphdad3

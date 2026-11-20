@@ -1,0 +1,10 @@
+StorePath: /nix/store/7nrp2mwbx7vwk3caky085dp1c6v03nj0-nixos-generate-config
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.20/11izyxjdkvb5gpxd2nhg0np154lvshi535gdwqd03sbwrykkqxjq.nar.zst
+Compression: zstd
+FileHash: sha256:11izyxjdkvb5gpxd2nhg0np154lvshi535gdwqd03sbwrykkqxjq
+FileSize: 10716
+NarHash: sha256:1v6q0s9gdvmfyjjrr73l175z2mzgfsq2rja7zhcz0ldwyd5a4sn1
+NarSize: 30496
+References: 471wr3x82awnc7nvfxdvdbr3llcss76i-perl-5.42.3-env 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 rsirylbsngzaviz78ybq77ayviyhls01-bcachefs-tools-1.39.7 wgm5fv4jg18f7r85hpx1w1a5jxpncb6n-btrfs-progs-7.1
+Deriver: 1i3g6q39qzxmigza83p5j7lz3prhvbb4-nixos-generate-config.drv
+Sig: rime-cache-1:ORNynb2W5TaSuJkS1eY8iLQJ/47iX0UFXkHPGdm+HCWG2NahIKoYM8hawO+hnYGGHR1OZ9VqRM2TfctuWhGUDA==
