@@ -1,0 +1,10 @@
+StorePath: /nix/store/9frss2vyfhv6nfrvggggyg4wamgafs4z-desktops
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.19.4/0nak5kvxqwks4iwwv0v6gjd5b7rlw1zix0b5dmkd35lj7hsiv35a.nar.zst
+Compression: zstd
+FileHash: sha256:0nak5kvxqwks4iwwv0v6gjd5b7rlw1zix0b5dmkd35lj7hsiv35a
+FileSize: 346
+NarHash: sha256:0b7wswvk4c3n6n923lrs48l217f4gb0i1svrf4f6i7d7h7jgcrh9
+NarSize: 2136
+References: 0nw2m1z23bp3x6n0sbsvii22q97skwqa-rime-sessions zskmgx4s2cqiyyb8xc3gzf1nk8wwwyl5-rime-gaming-session-entry
+Deriver: b2yv9pdcnv6af9caycyckcw7kjv5qfk2-desktops.drv
+Sig: rime-cache-1:nRIwMEUlnUYW/jSthJeeWr/q72osutLNaYmqBa5xGbGEsasuv7ChRFXPX2/Z9EOzbKBRaDtfqVBQiAQIvXGvAQ==

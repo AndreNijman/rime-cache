@@ -1,0 +1,10 @@
+StorePath: /nix/store/zskmgx4s2cqiyyb8xc3gzf1nk8wwwyl5-rime-gaming-session-entry
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.19.4/05rb5jknr2lz1msbajvhkn9815fr3dpyyaamwf14mljd459vpzfr.nar.zst
+Compression: zstd
+FileHash: sha256:05rb5jknr2lz1msbajvhkn9815fr3dpyyaamwf14mljd459vpzfr
+FileSize: 656
+NarHash: sha256:0x5axg9dn3kvxp39vms9n7k8bk6z11h03s5fcxkkl377wvrqakf2
+NarSize: 1472
+References: cvk71dd42sv26w8ahqspla2l3jhfkrn0-gamescope-3.17.0 qjyk3x0h34srwyc849qh9mkpqm53v6f8-rime-gaming-wrapped
+Deriver: bg7yq0dfv117ac8pvh7ki6jc7aj0ail7-rime-gaming-session-entry.drv
+Sig: rime-cache-1:nnHfN+gZ12U+8fpLWRKqC4GqRNPl7GVRBxhdhj5U3lVJHxS30DSB1PyG/g66ao/TxW2NC7e4QqzZEIv+0UT4Bw==
