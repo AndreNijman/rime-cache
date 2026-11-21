@@ -1,0 +1,10 @@
+StorePath: /nix/store/y44j7hg1frq8dpdbc63j26zqycfdcydq-unit-polkit.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.21/02xzs7v1b42vjjwn2lqyjwhilbyn99a383gbbk7wrw2a051yw1nn.nar.zst
+Compression: zstd
+FileHash: sha256:02xzs7v1b42vjjwn2lqyjwhilbyn99a383gbbk7wrw2a051yw1nn
+FileSize: 661
+NarHash: sha256:14rl2wbk44fcabd4p12gidmdzmfxba0afx3rz5mr8ksznlrgcvqg
+NarSize: 1464
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 cy3b99d16jpnz87ph0r1vlqiry5rwh17-X-Restart-Triggers-polkit d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e grzwvihb641bhhbkw21jm92iq35jxm83-polkit-127 i1nij55sadnnhpkvp29bfhywfsj75ngn-X-Reload-Triggers-polkit
+Deriver: d0vxr19j1jqmgfbn75fsiyi4lrfkpd3a-unit-polkit.service.drv
+Sig: rime-cache-1:oMihoq5TfJtITaFnkz4h/7BG9ppR3jYBONxoDvGkzOzvoGmajBIa3U2n3zKqM2hxmLwgzwc0BOFsISA+AtTQDA==

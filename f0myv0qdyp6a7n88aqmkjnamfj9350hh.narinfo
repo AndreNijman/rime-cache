@@ -1,0 +1,10 @@
+StorePath: /nix/store/f0myv0qdyp6a7n88aqmkjnamfj9350hh-unit-dbus-broker.service
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.21/1kccklccpk00gfx07ckrw0wqh9ln79w9cnrhridivvfbp110w970.nar.zst
+Compression: zstd
+FileHash: sha256:1kccklccpk00gfx07ckrw0wqh9ln79w9cnrhridivvfbp110w970
+FileSize: 583
+NarHash: sha256:1vl76zpvyhm4nqr792c5wlrgns2ri8icqsfvnhimsjb8622k9ih1
+NarSize: 1288
+References: 6qqq5prql4952z0wfm5ymjfr7cx4ab7z-systemd-262 95n30q04gp38gl5x347iizphdv84z2v2-X-Restart-Triggers-dbus-broker 99v13ig4382mngi6ggf0csqi7rfa04j5-findutils-4.11.0 9wc73n5izv0m7ppjbibi4hbr68rba1lj-gnused-4.10 c3f45pxlb81gzz4w1nym7lpznfypva7s-gnugrep-3.12 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 d6gd8ln3ky9ahvm5bxf54r8ihjd8x1p7-glibc-locales-2.44-57 fsrw69w5mx838p7xydbdvywhwl6wnbjw-tzdata-2026e
+Deriver: 0dsz49x361434v74nsvcyyky0rhj5i09-unit-dbus-broker.service.drv
+Sig: rime-cache-1:Dn7vaXLnmq0Qxe0WvM98/iYIX803EeTLkW+9F8cA3lqBRrlX5tiSQGKYP568CR6grcKwkuPsVlofsxZAzK//AQ==
