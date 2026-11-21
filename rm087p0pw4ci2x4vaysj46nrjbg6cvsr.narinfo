@@ -1,0 +1,10 @@
+StorePath: /nix/store/rm087p0pw4ci2x4vaysj46nrjbg6cvsr-etc-profile
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.21.4/023v8xgvwvg9vvyz1wd3r5rrxnh6i5jw0sy7vpb9h39himaak6ap.nar.zst
+Compression: zstd
+FileHash: sha256:023v8xgvwvg9vvyz1wd3r5rrxnh6i5jw0sy7vpb9h39himaak6ap
+FileSize: 620
+NarHash: sha256:0igf9figjqxrn0jpdbl22dyipln218pxqhmbrxs2fjc7vkxaw9nv
+NarSize: 1064
+References: 2ikg717jf6zi3nnpvgr9bjg9h57irknd-rime-gaming-0.1.0 dr8gcg99aff7ckh7jph4gmg0x3wb1p86-set-environment qzd28nhmy08v5xf2n5q26l1l5rxxnha3-rime-libexec-0.1.0
+Deriver: fc522z8hai7ydv8in6crar1s3y1jp627-etc-profile.drv
+Sig: rime-cache-1:NOvqPIm16fpSn8AGLe4NYX7LbTr99KA7YSaBpOlz81Kwc5p+7E627rYLtNMmMIQ8kB8w+D7NiEp5t433WGUTBQ==

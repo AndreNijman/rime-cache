@@ -1,0 +1,10 @@
+StorePath: /nix/store/l5m8vcf4v180n0405828gc4iicavz930-rimed-0.1.0
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.21.4/1v36v8y4r9pc3s8lb30rk0pxngm3d2ns4a8q09rhalmq5vf570as.nar.zst
+Compression: zstd
+FileHash: sha256:1v36v8y4r9pc3s8lb30rk0pxngm3d2ns4a8q09rhalmq5vf570as
+FileSize: 12984152
+NarHash: sha256:19zlpi0alaiv5il74d1n0j4vpyf2w10xl9mg1nqzirjw6r3f9csn
+NarSize: 52398992
+References: 2lgg8jqyzjp60svh7kmp39kqwnig31p2-util-linux-2.42.4-bin 4pymry73phykljdfalvwfqhk872c6s0l-smartmontools-7.5 5lpg7j8y8lf8c4zv318yi4rmgyn5yhip-curl-8.22.0-bin 7a2cjhcgzyym5zaz6m4fksw47qvm150w-gcc-16.2.0-lib avshcbcrykiffn4vlhmz848ab69wbp9n-systemd-262 cb987zkxvsv0490753ilrvn5yk7ylgxi-coreutils-9.12 gksybc3b64irpkf84k30qphb44yjwqiw-openssh-10.6p1 gvglnxscmvx4mh9my0cy0xgi0l1z6l9s-openssl-3.5.9-bin l5m8vcf4v180n0405828gc4iicavz930-rimed-0.1.0 mvj6y8k3xs35cj7kq937xi44q4hl3r93-bubblewrap-0.12.0 pqyiidz5mi73wv5f91d48s9plcqyj5bz-glibc-2.44-57 xgw813vgzl2q0696sq45adpj0xd690jq-git-2.56.0
+Deriver: kgkjq7z71hcvbcn2g35z5dm6b786qg6n-rimed-0.1.0.drv
+Sig: rime-cache-1:of2ZAwvIGtfdwjEro0Mifc+j+1X3Vvcfvycph8Lr3UVK4w/cd7Cp85dXwb+MBryMBV40VujQfgJMvZNz5HQgDg==
