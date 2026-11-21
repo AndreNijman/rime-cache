@@ -1,0 +1,10 @@
+StorePath: /nix/store/yildzzfjgbl140wvvjzylclp1269lpf2-X-Restart-Triggers-dbus-broker
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.22/0pvd1nbfqz744pwwkd8ywi2zbi4v1cp0vlzffdivhbim4kag2ykp.nar.zst
+Compression: zstd
+FileHash: sha256:0pvd1nbfqz744pwwkd8ywi2zbi4v1cp0vlzffdivhbim4kag2ykp
+FileSize: 123
+NarHash: sha256:07zn3xr7cwj73ymsf9cacp06y3ji5fs5jjwk9qj651hknwm3x17v
+NarSize: 168
+References: 3i7xxsbdxpvqy9bl3520285233vwh2i2-dbus-1
+Deriver: 6yrwj13fphxhci2qr6xks7mj2n9ad4sn-X-Restart-Triggers-dbus-broker.drv
+Sig: rime-cache-1:SF0QQcng5hH+RUGR2bg0FlD5i0foX8llbCwknlfticFgR3dqstnf18jfhYV0qae263DDZV2xK01VGib6crU/AA==
