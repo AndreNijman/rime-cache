@@ -1,0 +1,10 @@
+StorePath: /nix/store/c8b50a8jrqjry3y05cw3if4h8w45s4hq-rime-polkit-actions
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.22.2/1b5x60kx91qgjabdx7am4lk5mj7xzqdg8s5adz7nvm6x8px5di1k.nar.zst
+Compression: zstd
+FileHash: sha256:1b5x60kx91qgjabdx7am4lk5mj7xzqdg8s5adz7nvm6x8px5di1k
+FileSize: 4487
+NarHash: sha256:1r8fph69sjihb4l8d30jjy4fwp859wszry616asqmvwmf4l2w9xi
+NarSize: 14728
+References: 
+Deriver: 3cxfmlf9w275d44fvk8671865x87wn0r-rime-polkit-actions.drv
+Sig: rime-cache-1:uuxkuDcroVsg4OOdF3fvH7lpFTOX8YXLE6uho7HFuYlP6q/E1gLLdAlU8JRVv+XsWOB+v3S2WR/++r5cBDnCBA==
