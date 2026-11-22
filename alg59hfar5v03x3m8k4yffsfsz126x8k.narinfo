@@ -1,0 +1,10 @@
+StorePath: /nix/store/alg59hfar5v03x3m8k4yffsfsz126x8k-set-environment
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.22.3/14wnhng29j1hs05safvk4yjwf8011wvby85w94mbpx6kcxkc0yp8.nar.zst
+Compression: zstd
+FileHash: sha256:14wnhng29j1hs05safvk4yjwf8011wvby85w94mbpx6kcxkc0yp8
+FileSize: 1799
+NarHash: sha256:1s8bi65yd1ykjxki3z4psmr4dwpj7m1rrlqc01h9jshvs4bjalbs
+NarSize: 7632
+References: 5q342zn8yz8qcjgd0j4b5mqdp1gjybb5-cups-progs 747ylyn8a9xd06ylfvrvyfsdzw91cgrv-lessconfig 9737jj8iscpi2n2fg9gvfgb43333knp0-desktops gxjy23p5pzsj3qny3gs8icahh2cr6lfj-rime-gaming-wrapped h7pjc6hixicwvkic4d37w2scw4r8mhy6-gvfs-1.60.3 hpj1833w18rih4aaaykq4s0r27jq7zlz-dconf-0.49.0-lib sr3y196d63jjkfq37775cp6p8vwzzpj7-rime-gaming-switch vw9svxskm66mjzngq1m57ah55fydgh7q-fcitx5-with-addons-5.1.23
+Deriver: vnf81a192cfynhzswpwlzzwccrwf509g-set-environment.drv
+Sig: rime-cache-1:LIdzyXs4BgrRD2BDrZXLETkUovhlk/B0nBD/GlkqA72/HNWWaX9Z8FnC2MartT5wCZvWTnnzPqxZERg+uNWhDQ==
