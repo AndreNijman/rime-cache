@@ -1,0 +1,10 @@
+StorePath: /nix/store/ymdnrvjhna3iglbb0nfgmlzslb44h82z-allow-translations-outside-prefix.patch
+URL: https://github.com/AndreNijman/rime-cache/releases/download/2026.11.26/03971f7hq60a023zvv6lm513p16pc54dazsv3br4rc5icf2d25b3.nar.zst
+Compression: zstd
+FileHash: sha256:03971f7hq60a023zvv6lm513p16pc54dazsv3br4rc5icf2d25b3
+FileSize: 403
+NarHash: sha256:05jpd1rslnd91lc9wvwwc6wmn70s2bc4nz2kqkv7bx9ml026m6p3
+NarSize: 696
+References: 
+Sig: rime-cache-1:kbwH/K3dwpf9peRxbmD8QVFietq7WoNhzhqQ/Be0MYtEmd5fiK3Z9VVpj1gY5FE4bZjYtuERWNlNBUgvSSBhDA==
+CA: fixed:r:sha256:05jpd1rslnd91lc9wvwwc6wmn70s2bc4nz2kqkv7bx9ml026m6p3
